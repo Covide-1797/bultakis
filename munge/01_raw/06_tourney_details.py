@@ -33,7 +33,7 @@ for t_step in range(0, len(tourney_list)):
         
         # All tournament days
         for i in range(1,len(href_split)-1):
-            print("Day " + str(i+1) + " of " + str(len(href_split)))
+            print("Day " + str(i) + " of " + str(len(href_split)))
             get_id = str(href_split[i])
             # Url page of day i-th of tourney
             url_day = re.search('href="(.*)">', get_id).group(1)
@@ -41,8 +41,10 @@ for t_step in range(0, len(tourney_list)):
             game_table = day_soup.findAll('ul', attrs={'class':'list-sort-time'})  
             game_table_split = game_table[0].find_all('li')
             
+            game_count=1
             for get_game_details in range(1, len(game_table_split), 2):
-                print("Game " + str(get_game_details+1) + " of " + str(len(game_table_split)))
+                print("Game " + str(game_count) + " of " + str(len(game_table_split)/2))
+                game_count+=1
                 get_id = str(game_table_split[get_game_details])
                 url_match = re.search('href="(.*)" id', get_id).group(1)
                 url_match = url_match.replace("&amp;", "&")        
