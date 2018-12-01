@@ -97,14 +97,13 @@ def game_score_array_double(game_score, match_soup):
                 'game': c,
                 'p1_score': p1_score,
                 'p2_score': p2_score}
-#        print(scores)
         game_score.append(scores)   
     return game_score
 
 # Load tourney list
 tourney_list = pd.read_csv('../../data/01_raw/tournament_year.csv', sep="|")
 
-for t_step in range(7, len(tourney_list)):
+for t_step in range(9, len(tourney_list)):
     game_score = []
     print("Tourney " + str(t_step+1) + " of " + str(len(tourney_list)))
     url_hit = tourney_list['t_web_link'][t_step]
@@ -127,29 +126,30 @@ for t_step in range(7, len(tourney_list)):
             url_day = re.search('href="(.*)">', get_id).group(1)
             day_soup = get_soup(url_day)
             game_table = day_soup.findAll('ul', attrs={'class':'list-sort-time'})  
-            game_table_split = game_table[0].find_all('li')
-            
-            game_count=1
-            for get_game_details in range(1, len(game_table_split), 2):
-                print("Game " + str(game_count) + " of " + str(len(game_table_split)/2))
-                game_count+=1
-                get_id = str(game_table_split[get_game_details])
-                if re.search('href="(.*)">', get_id) is not None:   
-                    url_match = re.search('href="(.*)" id', get_id).group(1)
-                    url_match = url_match.replace("&amp;", "&")        
-                    match_soup = get_soup(url_match)
-                    
-                    get_date = url_match.split('/')
-                    tourney_date = get_date[6]
-                    
-                    check_match_type = match_soup.findAll('div', {'class':'player1-name'})
-                    
-                    if len(check_match_type) == 2:
-                        match_type='doubles'
-                        game_score = game_score_array_double(game_score, match_soup)
-                    else:
-                        match_type='singles'
-                        game_score = game_score_array_single(game_score, match_soup)                    
+            if len(game_table) != 0:
+                game_table_split = game_table[0].find_all('li')
+                
+                game_count=1
+                for get_game_details in range(1, len(game_table_split), 2):
+                    print("Game " + str(game_count) + " of " + str(len(game_table_split)/2))
+                    game_count+=1
+                    get_id = str(game_table_split[get_game_details])
+                    if re.search('href="(.*)">', get_id) is not None:   
+                        url_match = re.search('href="(.*)" id', get_id).group(1)
+                        url_match = url_match.replace("&amp;", "&")        
+                        match_soup = get_soup(url_match)
+                        
+                        get_date = url_match.split('/')
+                        tourney_date = get_date[6]
+                        
+                        check_match_type = match_soup.findAll('div', {'class':'player1-name'})
+                        
+                        if len(check_match_type) == 2:
+                            match_type='doubles'
+                            game_score = game_score_array_double(game_score, match_soup)
+                        else:
+                            match_type='singles'
+                            game_score = game_score_array_single(game_score, match_soup)                    
 
         tourney_scores_df = pd.DataFrame(game_score)  
         filename = "../../data/01_raw/tourney_details_{}.csv".format(tourney_id)
