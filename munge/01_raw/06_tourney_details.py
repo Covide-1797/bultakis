@@ -11,12 +11,13 @@ def get_soup(url_link):
     time.sleep(15) #sleep for 3 seconds
     return soup_html
 
-game_score = []
+#game_score = []
 # Load tourney list
 tourney_list = pd.read_csv('../../data/01_raw/tournament_year.csv', sep="|")
 
 for t_step in range(0, len(tourney_list)):
-    print(str(t_step) + " of " + str(len(tourney_list)))
+    game_score = []
+    print("Tourney " + str(t_step) + " of " + str(len(tourney_list)))
 #for t_step in range(0, 2):
     url_hit = tourney_list['t_web_link'][t_step]
     print(url_hit)
@@ -32,7 +33,7 @@ for t_step in range(0, len(tourney_list)):
         
         # All tournament days
         for i in range(1,len(href_split)-1):
-
+            print("Day " + str(i+1) + " of " + str(len(href_split)))
             get_id = str(href_split[i])
             # Url page of day i-th of tourney
             url_day = re.search('href="(.*)">', get_id).group(1)
@@ -41,6 +42,7 @@ for t_step in range(0, len(tourney_list)):
             game_table_split = game_table[0].find_all('li')
             
             for get_game_details in range(1, len(game_table_split), 2):
+                print("Game " + str(get_game_details+1) + " of " + str(len(game_table_split)))
                 get_id = str(game_table_split[get_game_details])
                 url_match = re.search('href="(.*)" id', get_id).group(1)
                 url_match = url_match.replace("&amp;", "&")        
@@ -77,8 +79,8 @@ for t_step in range(0, len(tourney_list)):
                             'game': c,
                             'p1_score': p1_score,
                             'p2_score': p2_score}
-                    print(scores)
+#                    print(scores)
                     game_score.append(scores)   
-    tourney_scores_df = pd.DataFrame(game_score)  
-    filename = "../../data/01_raw/tourney_details.csv"
-    tourney_scores_df.to_csv(filename, index=False, sep='|', header=True)
+        tourney_scores_df = pd.DataFrame(game_score)  
+        filename = "../../data/01_raw/tourney_details_{}.csv".format(tourney_id)
+        tourney_scores_df.to_csv(filename, index=False, sep='|', header=True)
