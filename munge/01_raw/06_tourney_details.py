@@ -2,28 +2,32 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 import re
-#import time
 
 def get_soup(url_link):
     req = Request(url_link, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read()
     soup_html = BeautifulSoup(webpage, 'html.parser')    
-#    time.sleep(15) #sleep for 3 seconds
     return soup_html
 
 def game_score_array_single(game_score, match_soup):
     # Player 1 id
     p1_chunk = match_soup.findAll('div', {'class':'player1-name'})
-    url_p1 = re.search('href="(.*)">', str(p1_chunk)).group(1)
-    p1_split = url_p1.split('/')
-    p1_pid = p1_split[4]
+    if len(p1_chunk)==1:
+        url_p1 = re.search('href="(.*)">', str(p1_chunk)).group(1)
+        p1_split = url_p1.split('/')
+        p1_pid = p1_split[4]
+    else:
+        p1_pid=''
 
     # Player 2 id
     p2_chunk = match_soup.findAll('div', {'class':'player2-name'})
-    url_p2 = re.search('href="(.*)">', str(p2_chunk)).group(1)
-    p2_split = url_p2.split('/')
-    p2_pid = p2_split[4]
-    
+    if len(p2_chunk)==1:
+        url_p2 = re.search('href="(.*)">', str(p2_chunk)).group(1)
+        p2_split = url_p2.split('/')
+        p2_pid = p2_split[4]
+    else:
+        p2_pid=''
+        
     game_det = match_soup.findAll('div', {'class':'game-completed-wrap'})        
     games_played = len(game_det)
     for c, games in enumerate(game_det, 1):
@@ -43,29 +47,36 @@ def game_score_array_single(game_score, match_soup):
                 'game': c,
                 'p1_score': p1_score,
                 'p2_score': p2_score}
-#                    print(scores)
         game_score.append(scores)   
     return game_score
 
 def game_score_array_double(game_score, match_soup):
-    # Player 1 id                
-    p1_chunk = match_soup.findAll('div', {'class':'player1-name'})                
-    url_p1a = re.findall('href="(.*)">', str(p1_chunk))[0]
-    url_p1b = re.findall('href="(.*)">', str(p1_chunk))[1]                
-    p1_split = url_p1a.split('/')
-    p1a_pid = p1_split[4]                
-    p1_split = url_p1b.split('/')
-    p1b_pid = p1_split[4]
-    
     
     # Player 1 id                
-    p2_chunk = match_soup.findAll('div', {'class':'player2-name'})                
-    url_p2a = re.findall('href="(.*)">', str(p2_chunk))[0]
-    url_p2b = re.findall('href="(.*)">', str(p2_chunk))[1]                
-    p2_split = url_p2a.split('/')
-    p2a_pid = p2_split[4]                
-    p2_split = url_p2b.split('/')
-    p2b_pid = p2_split[4]
+    p1_chunk = match_soup.findAll('div', {'class':'player1-name'})     
+    if len(p1_chunk)==2:           
+        url_p1a = re.findall('href="(.*)">', str(p1_chunk))[0]
+        url_p1b = re.findall('href="(.*)">', str(p1_chunk))[1]                
+        p1_split = url_p1a.split('/')
+        p1a_pid = p1_split[4]                
+        p1_split = url_p1b.split('/')
+        p1b_pid = p1_split[4]
+    else:
+        p1a_pid=''
+        p1b_pid=''
+
+    # Player 1 id                
+    p2_chunk = match_soup.findAll('div', {'class':'player2-name'})       
+    if len(p2_chunk)==2:     
+        url_p2a = re.findall('href="(.*)">', str(p2_chunk))[0]
+        url_p2b = re.findall('href="(.*)">', str(p2_chunk))[1]                
+        p2_split = url_p2a.split('/')
+        p2a_pid = p2_split[4]                
+        p2_split = url_p2b.split('/')
+        p2b_pid = p2_split[4]
+    else:
+        p2a_pid=''
+        p2b_pid=''
                   
     game_det = match_soup.findAll('div', {'class':'game-completed-wrap'})        
     games_played = len(game_det)
@@ -86,18 +97,16 @@ def game_score_array_double(game_score, match_soup):
                 'game': c,
                 'p1_score': p1_score,
                 'p2_score': p2_score}
-        print(scores)
+#        print(scores)
         game_score.append(scores)   
     return game_score
 
-#game_score = []
 # Load tourney list
 tourney_list = pd.read_csv('../../data/01_raw/tournament_year.csv', sep="|")
 
-for t_step in range(0, len(tourney_list)):
+for t_step in range(7, len(tourney_list)):
     game_score = []
     print("Tourney " + str(t_step+1) + " of " + str(len(tourney_list)))
-#for t_step in range(0, 2):
     url_hit = tourney_list['t_web_link'][t_step]
     print(url_hit)
     if url_hit != 'none':    
