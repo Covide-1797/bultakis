@@ -103,7 +103,7 @@ def game_score_array_double(game_score, match_soup):
 # Load tourney list
 tourney_list = pd.read_csv('../../data/01_raw/tournament_year.csv', sep="|")
 
-for t_step in range(9, len(tourney_list)):
+for t_step in range(43, len(tourney_list)):
     game_score = []
     print("Tourney " + str(t_step+1) + " of " + str(len(tourney_list)))
     url_hit = tourney_list['t_web_link'][t_step]
