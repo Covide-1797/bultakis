@@ -103,7 +103,12 @@ def game_score_array_double(game_score, match_soup):
 # Load tourney list
 tourney_list = pd.read_csv('../../data/01_raw/tournament_year.csv', sep="|")
 
-for t_step in range(43, len(tourney_list)):
+t_step = 1947
+url_hit = 'https://bwfbadminton.com/results/1947/china-masters-gpg-2014/2014-04-17'
+i = 2
+
+#for t_step in range(47, len(tourney_list)):
+for t_step in (range(734,47,-1)):
     game_score = []
     print("Tourney " + str(t_step+1) + " of " + str(len(tourney_list)))
     url_hit = tourney_list['t_web_link'][t_step]
