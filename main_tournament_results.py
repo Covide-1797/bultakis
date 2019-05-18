@@ -90,9 +90,9 @@ def get_game_results(soup_tournament_day, game_scores):
 
 tournament_list = pd.read_csv('data/00_source/tournament_list.csv', sep="|")
 
-skip_list = [14]
+skip_list = [14, 21]
 
-for step in range(13, len(tournament_list)):
+for step in range(22, len(tournament_list)):
 #step = 13
     if step not in skip_list:
 #        print(step)
