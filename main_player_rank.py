@@ -10,7 +10,7 @@ url_step = url_step_raw['week_url']
 week_date = url_step_raw['week']
 
 match_type = 472
-for i in range(44, 46):
+for i in range(46, len(url_step)):
     step = url_step[i]
 #for step in url_step:
     player_ranks = []
