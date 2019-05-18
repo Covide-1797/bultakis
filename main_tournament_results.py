@@ -95,7 +95,7 @@ tournament_list = pd.read_csv('data/00_source/tournament_list.csv', sep="|")
 
 skip_list = [14, 21, 32, 52, 54, 57, 61, 63, 67, 69, 88, 93, 94, 95, 96, 116]
 
-for step in range(32, len(tournament_list)):
+for step in range(max(skip_list), len(tournament_list)):
 #step = 32
     if step not in skip_list:
     #        print(step)
