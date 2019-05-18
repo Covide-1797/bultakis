@@ -43,7 +43,10 @@ def get_game_results(soup_tournament_day, game_scores):
                 p2b = match_step[3].text.split('] ')[1].replace('\n', '')
                 match_duration = match_det.find_all('td')[17].text
     #            a = match_det.find_all('td')[14].text.split(' ')
-            a = match_det.find('span', attrs={'class':'score'}).text
+            if match_det.find('span', attrs={'class':'score'}) is None:
+                a = 'Walkover'
+            else:
+                a = match_det.find('span', attrs={'class':'score'}).text
             if ((a == 'Walkover') | (a == 'No match')):
                 if 'strong' in str(match_step[0]):
                     scores = ['Walkover Win', 'Walkover Loss']
@@ -92,10 +95,10 @@ tournament_list = pd.read_csv('data/00_source/tournament_list.csv', sep="|")
 
 skip_list = [14, 21]
 
-for step in range(22, len(tournament_list)):
-#step = 13
+for step in range(24, len(tournament_list)):
+#step = 24
     if step not in skip_list:
-#        print(step)
+    #        print(step)
         tournament_id = tournament_list['tournament_id'][step]
         print('{}: {}'.format(step, tournament_id))
         game_scores = []
