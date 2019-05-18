@@ -10,7 +10,9 @@ url_step = url_step_raw['week_url']
 week_date = url_step_raw['week']
 
 match_type = 472
-for step in url_step:
+for i in range(44, 46):
+    step = url_step[i]
+#for step in url_step:
     player_ranks = []
     hit_link = 'https://bwf.tournamentsoftware.com/ranking/category.aspx?id={}&category={}&C{}FOC=&p=1&ps=25'.format(step, match_type, match_type)
     soup_html = get_soup(hit_link)
@@ -19,7 +21,7 @@ for step in url_step:
     print(rank_date)
     
     # Step through all player rank pages for that week
-    for pages in range(45, int(total_pages)+1):
+    for pages in range(0, int(total_pages)+1):
         hit_link = 'https://bwf.tournamentsoftware.com/ranking/category.aspx?id={}&category={}&C{}FOC=&p={}&ps=25'.format(step, match_type, match_type, pages)
         soup_html = get_soup(hit_link)
         page_table = soup_html.find('table', attrs={'class':'ruler'})
