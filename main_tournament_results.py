@@ -90,19 +90,23 @@ def get_game_results(soup_tournament_day, game_scores):
 
 tournament_list = pd.read_csv('data/00_source/tournament_list.csv', sep="|")
 
-for step in range(0, len(tournament_list)):
-#step = 1
-    tournament_id = tournament_list['tournament_id'][step]
-    print('{}: {}'.format(step, tournament_id))
-    game_scores = []
-    url_hit_tourney_days = get_tournament_days(tournament_id)
-    
-    for tourney_day in range(0, len(url_hit_tourney_days)):
-        hit_tourney = url_hit_tourney_days[tourney_day]
-        tournament_date = hit_tourney.split(';d=')[1]
-        soup_tournament_day = get_soup(hit_tourney)
-        game_scores = get_game_results(soup_tournament_day, game_scores)
+skip_list = [13]
 
-game_scores_df = pd.DataFrame(game_scores)  
-filename = "data/00_source/match_results_{}.csv".format(tournament_id)
-game_scores_df.to_csv(filename, index=False, sep='|', header=True)
+for step in range(0, len(tournament_list)):
+#step = 13
+    if step not in skip_list:
+#        print(step)
+        tournament_id = tournament_list['tournament_id'][step]
+        print('{}: {}'.format(step, tournament_id))
+        game_scores = []
+        url_hit_tourney_days = get_tournament_days(tournament_id)
+        
+        for tourney_day in range(0, len(url_hit_tourney_days)):
+            hit_tourney = url_hit_tourney_days[tourney_day]
+            tournament_date = hit_tourney.split(';d=')[1]
+            soup_tournament_day = get_soup(hit_tourney)
+            game_scores = get_game_results(soup_tournament_day, game_scores)
+        
+        game_scores_df = pd.DataFrame(game_scores)  
+        filename = "data/00_source/match_results_{}.csv".format(tournament_id)
+        game_scores_df.to_csv(filename, index=False, sep='|', header=True)
