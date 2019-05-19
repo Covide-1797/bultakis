@@ -1,0 +1,769 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150331|0:25|21|Yui Hashimoto |none|4|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:25|21|Yui Hashimoto |none|13|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|14|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|18|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|11|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:48|18|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|21|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|16|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:34|21|Isabel Herttrich|Birgit Michels|14|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:34|21|Isabel Herttrich|Birgit Michels|18|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:36|20|Trawut Potieng|Jongkonphan Kittiharakul|22|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|15|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|9|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:42|18|Peter Gabriel Magnaye|Paul Jefferson Vivas|21|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|17|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|14|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:23|21|Liao Min Chun|Tseng Min Hao|16|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:23|21|Liao Min Chun|Tseng Min Hao|17|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:29|21|Andrei Adistia|Vita Marissa|17|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:29|21|Andrei Adistia|Vita Marissa|15|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|1:09|17|Aik Quan Tan |Pei Jing Lai|21|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|1:09|21|Aik Quan Tan |Pei Jing Lai|14|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|1:09|21|Aik Quan Tan |Pei Jing Lai|19|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:21|21|Yin Fun Lim|none|5|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:21|21|Yin Fun Lim|none|9|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:46|21|Jing Yi Tee |none|15|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:46|21|Jing Yi Tee |none|19|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:19|21|Chiang Kai Hsin |Wu Fang Chien|4|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:19|21|Chiang Kai Hsin |Wu Fang Chien|10|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:39|21|Hung Shih Han|none|8|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:39|21|Hung Shih Han|none|23|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:39|21|Hung Shih Han|none|14|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:26|21|Yao Xue|none|8|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:26|21|Yao Xue|none|17|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:26|21|Wong Fai Yin |Mei Kuan Chow|11|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:26|21|Wong Fai Yin |Mei Kuan Chow|15|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:27|21|Lyddia Yi Yu Cheah|none|14|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:27|21|Lyddia Yi Yu Cheah|none|19|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:45|17|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:45|21|Trawut Potieng |Nipitphon Puangpuapech|18|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:45|23|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|18|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:53|18|Cheung Ngan Yi|none|21|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:53|21|Cheung Ngan Yi|none|11|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:53|21|Cheung Ngan Yi|none|12|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:50|21|Fikri Ihsandi Hadmadi|none|16|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:50|21|Fikri Ihsandi Hadmadi|none|14|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:37|21|Zulfadli Zulkiffli|none|12|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:37|21|Zulfadli Zulkiffli|none|8|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:41|23|Emil Holst|none|21|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:41|21|Emil Holst|none|9|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:13|21|Xue Song|none|14|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:13|19|Xue Song|none|21|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:13|22|Xue Song|none|20|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:19|21|Liao Min Chun|Chen Hsiao Huan|14|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:19|21|Liao Min Chun|Chen Hsiao Huan|16|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:19|21|Tseng Min Hao|Lai Chia Wen|17|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:19|21|Tseng Min Hao|Lai Chia Wen|11|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:58|21|Boonsak Ponsana|none|10|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:58|14|Boonsak Ponsana|none|21|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:58|21|Boonsak Ponsana|none|17|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:28|21|Ng Ka Long Angus |none|16|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:28|21|Ng Ka Long Angus |none|17|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:30|21|Mohamad Arif Abdul Latif|none|17|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:30|21|Mohamad Arif Abdul Latif|none|11|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:14|21|Dionysius Hayom Rumbaka |none|19|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:14|18|Dionysius Hayom Rumbaka |none|21|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:14|21|Dionysius Hayom Rumbaka |none|16|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|16|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|19|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:56|17|Raphael Beck |Andreas Heinz|21|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:56|21|Raphael Beck |Andreas Heinz|17|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:56|21|Raphael Beck |Andreas Heinz|11|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:16|21|Chen Hung Ling |Chi-Lin Wang|11|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:16|21|Chen Hung Ling |Chi-Lin Wang|9|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:25|21|Philip Joper Escueta|Ronel Estanislao|6|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:25|21|Philip Joper Escueta|Ronel Estanislao|18|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:50|18|Di Hua Ng|Man Chun Woon|21|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:50|21|Di Hua Ng|Man Chun Woon|19|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:50|21|Di Hua Ng|Man Chun Woon|18|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:35|21|Kim Hyo Min|none|7|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:35|21|Kim Hyo Min|none|13|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|14|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|13|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|1:03|19|Cheung Ngan Yi|none|21|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:03|21|Cheung Ngan Yi|none|16|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:03|21|Cheung Ngan Yi|none|13|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:02|22|Isabel Herttrich|Birgit Michels|20|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|1:02|14|Isabel Herttrich|Birgit Michels|21|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|1:02|21|Isabel Herttrich|Birgit Michels|18|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:34|21|Hsu Ya Ching |Pai Yu Po|18|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:34|21|Hsu Ya Ching |Pai Yu Po|17|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|16|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:48|21|Liao Min Chun|Tseng Min Hao|15|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:48|19|Liao Min Chun|Tseng Min Hao|21|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:48|21|Liao Min Chun|Tseng Min Hao|19|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:42|16|Trawut Potieng |Nipitphon Puangpuapech|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|13|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|15|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:57|23|Zulfadli Zulkiffli|none|21|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:57|21|Zulfadli Zulkiffli|none|14|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:53|17|Hung Shih Han|none|21|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:53|21|Hung Shih Han|none|14|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:53|21|Hung Shih Han|none|17|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:41|21|Yao Xue|none|17|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:41|7|Yao Xue|none|21|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:41|21|Yao Xue|none|10|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:46|21|Xue Song|none|19|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:46|21|Xue Song|none|18|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:07|22|Boonsak Ponsana|none|20|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:07|10|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|1:07|23|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:36|21|Dionysius Hayom Rumbaka |none|18|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:36|21|Dionysius Hayom Rumbaka |none|15|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150331|0:27|21|Chen Hung Ling |Chi-Lin Wang|10|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:27|21|Chen Hung Ling |Chi-Lin Wang|15|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:19|21|Wong Fai Yin |Mei Kuan Chow|7|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:19|21|Wong Fai Yin |Mei Kuan Chow|11|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:38|21|Tseng Min Hao|Lai Chia Wen|18|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:38|21|Tseng Min Hao|Lai Chia Wen|19|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:49|19|Keigo Sonoda |Naoko Fukuman|21|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:49|21|Keigo Sonoda |Naoko Fukuman|15|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150331|0:49|21|Keigo Sonoda |Naoko Fukuman|17|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:25|21|Yui Hashimoto |none|4|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:25|21|Yui Hashimoto |none|13|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|14|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|18|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|11|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:48|18|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|21|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|16|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:34|21|Isabel Herttrich|Birgit Michels|14|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:34|21|Isabel Herttrich|Birgit Michels|18|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:36|20|Trawut Potieng|Jongkonphan Kittiharakul|22|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|15|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|9|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:42|18|Peter Gabriel Magnaye|Paul Jefferson Vivas|21|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|17|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|14|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:23|21|Liao Min Chun|Tseng Min Hao|16|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:23|21|Liao Min Chun|Tseng Min Hao|17|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:29|21|Andrei Adistia|Vita Marissa|17|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:29|21|Andrei Adistia|Vita Marissa|15|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|1:09|17|Aik Quan Tan |Pei Jing Lai|21|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|1:09|21|Aik Quan Tan |Pei Jing Lai|14|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|1:09|21|Aik Quan Tan |Pei Jing Lai|19|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:21|21|Yin Fun Lim|none|5|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:21|21|Yin Fun Lim|none|9|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:46|21|Jing Yi Tee |none|15|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:46|21|Jing Yi Tee |none|19|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:19|21|Chiang Kai Hsin |Wu Fang Chien|4|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:19|21|Chiang Kai Hsin |Wu Fang Chien|10|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:39|21|Hung Shih Han|none|8|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:39|21|Hung Shih Han|none|23|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:39|21|Hung Shih Han|none|14|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:26|21|Yao Xue|none|8|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:26|21|Yao Xue|none|17|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:26|21|Wong Fai Yin |Mei Kuan Chow|11|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:26|21|Wong Fai Yin |Mei Kuan Chow|15|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:27|21|Lyddia Yi Yu Cheah|none|14|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:27|21|Lyddia Yi Yu Cheah|none|19|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:45|17|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:45|21|Trawut Potieng |Nipitphon Puangpuapech|18|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:45|23|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|18|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:53|18|Cheung Ngan Yi|none|21|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:53|21|Cheung Ngan Yi|none|11|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:53|21|Cheung Ngan Yi|none|12|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:50|21|Fikri Ihsandi Hadmadi|none|16|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:50|21|Fikri Ihsandi Hadmadi|none|14|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:37|21|Zulfadli Zulkiffli|none|12|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:37|21|Zulfadli Zulkiffli|none|8|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:41|23|Emil Holst|none|21|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:41|21|Emil Holst|none|9|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:13|21|Xue Song|none|14|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:13|19|Xue Song|none|21|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:13|22|Xue Song|none|20|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:19|21|Liao Min Chun|Chen Hsiao Huan|14|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:19|21|Liao Min Chun|Chen Hsiao Huan|16|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:19|21|Tseng Min Hao|Lai Chia Wen|17|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:19|21|Tseng Min Hao|Lai Chia Wen|11|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:58|21|Boonsak Ponsana|none|10|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:58|14|Boonsak Ponsana|none|21|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:58|21|Boonsak Ponsana|none|17|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:28|21|Ng Ka Long Angus |none|16|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:28|21|Ng Ka Long Angus |none|17|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:30|21|Mohamad Arif Abdul Latif|none|17|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:30|21|Mohamad Arif Abdul Latif|none|11|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:14|21|Dionysius Hayom Rumbaka |none|19|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:14|18|Dionysius Hayom Rumbaka |none|21|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:14|21|Dionysius Hayom Rumbaka |none|16|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|16|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|19|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:56|17|Raphael Beck |Andreas Heinz|21|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:56|21|Raphael Beck |Andreas Heinz|17|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:56|21|Raphael Beck |Andreas Heinz|11|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:16|21|Chen Hung Ling |Chi-Lin Wang|11|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:16|21|Chen Hung Ling |Chi-Lin Wang|9|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:25|21|Philip Joper Escueta|Ronel Estanislao|6|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:25|21|Philip Joper Escueta|Ronel Estanislao|18|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:50|18|Di Hua Ng|Man Chun Woon|21|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:50|21|Di Hua Ng|Man Chun Woon|19|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:50|21|Di Hua Ng|Man Chun Woon|18|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:35|21|Kim Hyo Min|none|7|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:35|21|Kim Hyo Min|none|13|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|14|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|13|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|1:03|19|Cheung Ngan Yi|none|21|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:03|21|Cheung Ngan Yi|none|16|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:03|21|Cheung Ngan Yi|none|13|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:02|22|Isabel Herttrich|Birgit Michels|20|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|1:02|14|Isabel Herttrich|Birgit Michels|21|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|1:02|21|Isabel Herttrich|Birgit Michels|18|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:34|21|Hsu Ya Ching |Pai Yu Po|18|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:34|21|Hsu Ya Ching |Pai Yu Po|17|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|16|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:48|21|Liao Min Chun|Tseng Min Hao|15|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:48|19|Liao Min Chun|Tseng Min Hao|21|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:48|21|Liao Min Chun|Tseng Min Hao|19|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:42|16|Trawut Potieng |Nipitphon Puangpuapech|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|13|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|15|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:57|23|Zulfadli Zulkiffli|none|21|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:57|21|Zulfadli Zulkiffli|none|14|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:53|17|Hung Shih Han|none|21|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:53|21|Hung Shih Han|none|14|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:53|21|Hung Shih Han|none|17|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:41|21|Yao Xue|none|17|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:41|7|Yao Xue|none|21|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:41|21|Yao Xue|none|10|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:46|21|Xue Song|none|19|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:46|21|Xue Song|none|18|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:07|22|Boonsak Ponsana|none|20|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:07|10|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|1:07|23|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:36|21|Dionysius Hayom Rumbaka |none|18|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:36|21|Dionysius Hayom Rumbaka |none|15|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150401|0:27|21|Chen Hung Ling |Chi-Lin Wang|10|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:27|21|Chen Hung Ling |Chi-Lin Wang|15|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:19|21|Wong Fai Yin |Mei Kuan Chow|7|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:19|21|Wong Fai Yin |Mei Kuan Chow|11|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:38|21|Tseng Min Hao|Lai Chia Wen|18|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:38|21|Tseng Min Hao|Lai Chia Wen|19|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:49|19|Keigo Sonoda |Naoko Fukuman|21|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:49|21|Keigo Sonoda |Naoko Fukuman|15|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150401|0:49|21|Keigo Sonoda |Naoko Fukuman|17|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:25|21|Yui Hashimoto |none|4|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:25|21|Yui Hashimoto |none|13|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|14|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|18|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|11|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:48|18|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|21|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|16|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:34|21|Isabel Herttrich|Birgit Michels|14|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:34|21|Isabel Herttrich|Birgit Michels|18|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:36|20|Trawut Potieng|Jongkonphan Kittiharakul|22|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|15|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|9|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:42|18|Peter Gabriel Magnaye|Paul Jefferson Vivas|21|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|17|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|14|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:23|21|Liao Min Chun|Tseng Min Hao|16|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:23|21|Liao Min Chun|Tseng Min Hao|17|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:29|21|Andrei Adistia|Vita Marissa|17|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:29|21|Andrei Adistia|Vita Marissa|15|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|1:09|17|Aik Quan Tan |Pei Jing Lai|21|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|1:09|21|Aik Quan Tan |Pei Jing Lai|14|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|1:09|21|Aik Quan Tan |Pei Jing Lai|19|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:21|21|Yin Fun Lim|none|5|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:21|21|Yin Fun Lim|none|9|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:46|21|Jing Yi Tee |none|15|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:46|21|Jing Yi Tee |none|19|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:19|21|Chiang Kai Hsin |Wu Fang Chien|4|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:19|21|Chiang Kai Hsin |Wu Fang Chien|10|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:39|21|Hung Shih Han|none|8|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:39|21|Hung Shih Han|none|23|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:39|21|Hung Shih Han|none|14|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:26|21|Yao Xue|none|8|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:26|21|Yao Xue|none|17|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:26|21|Wong Fai Yin |Mei Kuan Chow|11|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:26|21|Wong Fai Yin |Mei Kuan Chow|15|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:27|21|Lyddia Yi Yu Cheah|none|14|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:27|21|Lyddia Yi Yu Cheah|none|19|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:45|17|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:45|21|Trawut Potieng |Nipitphon Puangpuapech|18|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:45|23|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|18|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:53|18|Cheung Ngan Yi|none|21|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:53|21|Cheung Ngan Yi|none|11|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:53|21|Cheung Ngan Yi|none|12|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:50|21|Fikri Ihsandi Hadmadi|none|16|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:50|21|Fikri Ihsandi Hadmadi|none|14|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:37|21|Zulfadli Zulkiffli|none|12|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:37|21|Zulfadli Zulkiffli|none|8|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:41|23|Emil Holst|none|21|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:41|21|Emil Holst|none|9|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:13|21|Xue Song|none|14|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:13|19|Xue Song|none|21|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:13|22|Xue Song|none|20|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:19|21|Liao Min Chun|Chen Hsiao Huan|14|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:19|21|Liao Min Chun|Chen Hsiao Huan|16|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:19|21|Tseng Min Hao|Lai Chia Wen|17|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:19|21|Tseng Min Hao|Lai Chia Wen|11|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:58|21|Boonsak Ponsana|none|10|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:58|14|Boonsak Ponsana|none|21|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:58|21|Boonsak Ponsana|none|17|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:28|21|Ng Ka Long Angus |none|16|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:28|21|Ng Ka Long Angus |none|17|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:30|21|Mohamad Arif Abdul Latif|none|17|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:30|21|Mohamad Arif Abdul Latif|none|11|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:14|21|Dionysius Hayom Rumbaka |none|19|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:14|18|Dionysius Hayom Rumbaka |none|21|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:14|21|Dionysius Hayom Rumbaka |none|16|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|16|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|19|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:56|17|Raphael Beck |Andreas Heinz|21|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:56|21|Raphael Beck |Andreas Heinz|17|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:56|21|Raphael Beck |Andreas Heinz|11|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:16|21|Chen Hung Ling |Chi-Lin Wang|11|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:16|21|Chen Hung Ling |Chi-Lin Wang|9|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:25|21|Philip Joper Escueta|Ronel Estanislao|6|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:25|21|Philip Joper Escueta|Ronel Estanislao|18|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:50|18|Di Hua Ng|Man Chun Woon|21|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:50|21|Di Hua Ng|Man Chun Woon|19|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:50|21|Di Hua Ng|Man Chun Woon|18|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:35|21|Kim Hyo Min|none|7|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:35|21|Kim Hyo Min|none|13|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|14|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|13|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|1:03|19|Cheung Ngan Yi|none|21|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:03|21|Cheung Ngan Yi|none|16|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:03|21|Cheung Ngan Yi|none|13|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:02|22|Isabel Herttrich|Birgit Michels|20|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|1:02|14|Isabel Herttrich|Birgit Michels|21|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|1:02|21|Isabel Herttrich|Birgit Michels|18|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:34|21|Hsu Ya Ching |Pai Yu Po|18|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:34|21|Hsu Ya Ching |Pai Yu Po|17|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|16|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:48|21|Liao Min Chun|Tseng Min Hao|15|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:48|19|Liao Min Chun|Tseng Min Hao|21|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:48|21|Liao Min Chun|Tseng Min Hao|19|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:42|16|Trawut Potieng |Nipitphon Puangpuapech|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|13|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|15|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:57|23|Zulfadli Zulkiffli|none|21|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:57|21|Zulfadli Zulkiffli|none|14|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:53|17|Hung Shih Han|none|21|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:53|21|Hung Shih Han|none|14|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:53|21|Hung Shih Han|none|17|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:41|21|Yao Xue|none|17|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:41|7|Yao Xue|none|21|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:41|21|Yao Xue|none|10|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:46|21|Xue Song|none|19|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:46|21|Xue Song|none|18|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:07|22|Boonsak Ponsana|none|20|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:07|10|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|1:07|23|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:36|21|Dionysius Hayom Rumbaka |none|18|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:36|21|Dionysius Hayom Rumbaka |none|15|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150402|0:27|21|Chen Hung Ling |Chi-Lin Wang|10|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:27|21|Chen Hung Ling |Chi-Lin Wang|15|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:19|21|Wong Fai Yin |Mei Kuan Chow|7|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:19|21|Wong Fai Yin |Mei Kuan Chow|11|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:38|21|Tseng Min Hao|Lai Chia Wen|18|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:38|21|Tseng Min Hao|Lai Chia Wen|19|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:49|19|Keigo Sonoda |Naoko Fukuman|21|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:49|21|Keigo Sonoda |Naoko Fukuman|15|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150402|0:49|21|Keigo Sonoda |Naoko Fukuman|17|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:25|21|Yui Hashimoto |none|4|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:25|21|Yui Hashimoto |none|13|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|14|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|18|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|11|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:48|18|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|21|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|16|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:34|21|Isabel Herttrich|Birgit Michels|14|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:34|21|Isabel Herttrich|Birgit Michels|18|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:36|20|Trawut Potieng|Jongkonphan Kittiharakul|22|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|15|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|9|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:42|18|Peter Gabriel Magnaye|Paul Jefferson Vivas|21|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|17|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|14|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:23|21|Liao Min Chun|Tseng Min Hao|16|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:23|21|Liao Min Chun|Tseng Min Hao|17|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:29|21|Andrei Adistia|Vita Marissa|17|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:29|21|Andrei Adistia|Vita Marissa|15|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|1:09|17|Aik Quan Tan |Pei Jing Lai|21|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|1:09|21|Aik Quan Tan |Pei Jing Lai|14|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|1:09|21|Aik Quan Tan |Pei Jing Lai|19|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:21|21|Yin Fun Lim|none|5|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:21|21|Yin Fun Lim|none|9|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:46|21|Jing Yi Tee |none|15|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:46|21|Jing Yi Tee |none|19|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:19|21|Chiang Kai Hsin |Wu Fang Chien|4|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:19|21|Chiang Kai Hsin |Wu Fang Chien|10|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:39|21|Hung Shih Han|none|8|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:39|21|Hung Shih Han|none|23|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:39|21|Hung Shih Han|none|14|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:26|21|Yao Xue|none|8|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:26|21|Yao Xue|none|17|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:26|21|Wong Fai Yin |Mei Kuan Chow|11|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:26|21|Wong Fai Yin |Mei Kuan Chow|15|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:27|21|Lyddia Yi Yu Cheah|none|14|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:27|21|Lyddia Yi Yu Cheah|none|19|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:45|17|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:45|21|Trawut Potieng |Nipitphon Puangpuapech|18|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:45|23|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|18|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:53|18|Cheung Ngan Yi|none|21|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:53|21|Cheung Ngan Yi|none|11|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:53|21|Cheung Ngan Yi|none|12|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:50|21|Fikri Ihsandi Hadmadi|none|16|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:50|21|Fikri Ihsandi Hadmadi|none|14|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:37|21|Zulfadli Zulkiffli|none|12|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:37|21|Zulfadli Zulkiffli|none|8|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:41|23|Emil Holst|none|21|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:41|21|Emil Holst|none|9|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:13|21|Xue Song|none|14|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:13|19|Xue Song|none|21|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:13|22|Xue Song|none|20|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:19|21|Liao Min Chun|Chen Hsiao Huan|14|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:19|21|Liao Min Chun|Chen Hsiao Huan|16|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:19|21|Tseng Min Hao|Lai Chia Wen|17|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:19|21|Tseng Min Hao|Lai Chia Wen|11|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:58|21|Boonsak Ponsana|none|10|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:58|14|Boonsak Ponsana|none|21|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:58|21|Boonsak Ponsana|none|17|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:28|21|Ng Ka Long Angus |none|16|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:28|21|Ng Ka Long Angus |none|17|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:30|21|Mohamad Arif Abdul Latif|none|17|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:30|21|Mohamad Arif Abdul Latif|none|11|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:14|21|Dionysius Hayom Rumbaka |none|19|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:14|18|Dionysius Hayom Rumbaka |none|21|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:14|21|Dionysius Hayom Rumbaka |none|16|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|16|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|19|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:56|17|Raphael Beck |Andreas Heinz|21|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:56|21|Raphael Beck |Andreas Heinz|17|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:56|21|Raphael Beck |Andreas Heinz|11|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:16|21|Chen Hung Ling |Chi-Lin Wang|11|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:16|21|Chen Hung Ling |Chi-Lin Wang|9|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:25|21|Philip Joper Escueta|Ronel Estanislao|6|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:25|21|Philip Joper Escueta|Ronel Estanislao|18|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:50|18|Di Hua Ng|Man Chun Woon|21|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:50|21|Di Hua Ng|Man Chun Woon|19|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:50|21|Di Hua Ng|Man Chun Woon|18|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:35|21|Kim Hyo Min|none|7|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:35|21|Kim Hyo Min|none|13|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|14|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|13|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|1:03|19|Cheung Ngan Yi|none|21|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:03|21|Cheung Ngan Yi|none|16|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:03|21|Cheung Ngan Yi|none|13|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:02|22|Isabel Herttrich|Birgit Michels|20|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|1:02|14|Isabel Herttrich|Birgit Michels|21|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|1:02|21|Isabel Herttrich|Birgit Michels|18|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:34|21|Hsu Ya Ching |Pai Yu Po|18|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:34|21|Hsu Ya Ching |Pai Yu Po|17|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|16|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:48|21|Liao Min Chun|Tseng Min Hao|15|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:48|19|Liao Min Chun|Tseng Min Hao|21|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:48|21|Liao Min Chun|Tseng Min Hao|19|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:42|16|Trawut Potieng |Nipitphon Puangpuapech|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|13|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|15|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:57|23|Zulfadli Zulkiffli|none|21|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:57|21|Zulfadli Zulkiffli|none|14|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:53|17|Hung Shih Han|none|21|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:53|21|Hung Shih Han|none|14|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:53|21|Hung Shih Han|none|17|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:41|21|Yao Xue|none|17|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:41|7|Yao Xue|none|21|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:41|21|Yao Xue|none|10|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:46|21|Xue Song|none|19|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:46|21|Xue Song|none|18|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:07|22|Boonsak Ponsana|none|20|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:07|10|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|1:07|23|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:36|21|Dionysius Hayom Rumbaka |none|18|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:36|21|Dionysius Hayom Rumbaka |none|15|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150403|0:27|21|Chen Hung Ling |Chi-Lin Wang|10|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:27|21|Chen Hung Ling |Chi-Lin Wang|15|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:19|21|Wong Fai Yin |Mei Kuan Chow|7|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:19|21|Wong Fai Yin |Mei Kuan Chow|11|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:38|21|Tseng Min Hao|Lai Chia Wen|18|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:38|21|Tseng Min Hao|Lai Chia Wen|19|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:49|19|Keigo Sonoda |Naoko Fukuman|21|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:49|21|Keigo Sonoda |Naoko Fukuman|15|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150403|0:49|21|Keigo Sonoda |Naoko Fukuman|17|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:25|21|Yui Hashimoto |none|4|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:25|21|Yui Hashimoto |none|13|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|14|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|18|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|11|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:48|18|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|21|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|16|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:34|21|Isabel Herttrich|Birgit Michels|14|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:34|21|Isabel Herttrich|Birgit Michels|18|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:36|20|Trawut Potieng|Jongkonphan Kittiharakul|22|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|15|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|9|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:42|18|Peter Gabriel Magnaye|Paul Jefferson Vivas|21|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|17|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|14|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:23|21|Liao Min Chun|Tseng Min Hao|16|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:23|21|Liao Min Chun|Tseng Min Hao|17|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:29|21|Andrei Adistia|Vita Marissa|17|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:29|21|Andrei Adistia|Vita Marissa|15|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|1:09|17|Aik Quan Tan |Pei Jing Lai|21|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|1:09|21|Aik Quan Tan |Pei Jing Lai|14|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|1:09|21|Aik Quan Tan |Pei Jing Lai|19|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:21|21|Yin Fun Lim|none|5|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:21|21|Yin Fun Lim|none|9|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:46|21|Jing Yi Tee |none|15|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:46|21|Jing Yi Tee |none|19|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:19|21|Chiang Kai Hsin |Wu Fang Chien|4|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:19|21|Chiang Kai Hsin |Wu Fang Chien|10|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:39|21|Hung Shih Han|none|8|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:39|21|Hung Shih Han|none|23|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:39|21|Hung Shih Han|none|14|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:26|21|Yao Xue|none|8|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:26|21|Yao Xue|none|17|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:26|21|Wong Fai Yin |Mei Kuan Chow|11|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:26|21|Wong Fai Yin |Mei Kuan Chow|15|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:27|21|Lyddia Yi Yu Cheah|none|14|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:27|21|Lyddia Yi Yu Cheah|none|19|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:45|17|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:45|21|Trawut Potieng |Nipitphon Puangpuapech|18|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:45|23|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|18|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:53|18|Cheung Ngan Yi|none|21|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:53|21|Cheung Ngan Yi|none|11|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:53|21|Cheung Ngan Yi|none|12|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:50|21|Fikri Ihsandi Hadmadi|none|16|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:50|21|Fikri Ihsandi Hadmadi|none|14|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:37|21|Zulfadli Zulkiffli|none|12|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:37|21|Zulfadli Zulkiffli|none|8|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:41|23|Emil Holst|none|21|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:41|21|Emil Holst|none|9|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:13|21|Xue Song|none|14|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:13|19|Xue Song|none|21|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:13|22|Xue Song|none|20|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:19|21|Liao Min Chun|Chen Hsiao Huan|14|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:19|21|Liao Min Chun|Chen Hsiao Huan|16|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:19|21|Tseng Min Hao|Lai Chia Wen|17|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:19|21|Tseng Min Hao|Lai Chia Wen|11|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:58|21|Boonsak Ponsana|none|10|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:58|14|Boonsak Ponsana|none|21|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:58|21|Boonsak Ponsana|none|17|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:28|21|Ng Ka Long Angus |none|16|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:28|21|Ng Ka Long Angus |none|17|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:30|21|Mohamad Arif Abdul Latif|none|17|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:30|21|Mohamad Arif Abdul Latif|none|11|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:14|21|Dionysius Hayom Rumbaka |none|19|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:14|18|Dionysius Hayom Rumbaka |none|21|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:14|21|Dionysius Hayom Rumbaka |none|16|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|16|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|19|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:56|17|Raphael Beck |Andreas Heinz|21|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:56|21|Raphael Beck |Andreas Heinz|17|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:56|21|Raphael Beck |Andreas Heinz|11|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:16|21|Chen Hung Ling |Chi-Lin Wang|11|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:16|21|Chen Hung Ling |Chi-Lin Wang|9|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:25|21|Philip Joper Escueta|Ronel Estanislao|6|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:25|21|Philip Joper Escueta|Ronel Estanislao|18|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:50|18|Di Hua Ng|Man Chun Woon|21|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:50|21|Di Hua Ng|Man Chun Woon|19|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:50|21|Di Hua Ng|Man Chun Woon|18|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:35|21|Kim Hyo Min|none|7|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:35|21|Kim Hyo Min|none|13|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|14|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|13|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|1:03|19|Cheung Ngan Yi|none|21|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:03|21|Cheung Ngan Yi|none|16|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:03|21|Cheung Ngan Yi|none|13|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:02|22|Isabel Herttrich|Birgit Michels|20|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|1:02|14|Isabel Herttrich|Birgit Michels|21|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|1:02|21|Isabel Herttrich|Birgit Michels|18|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:34|21|Hsu Ya Ching |Pai Yu Po|18|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:34|21|Hsu Ya Ching |Pai Yu Po|17|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|16|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:48|21|Liao Min Chun|Tseng Min Hao|15|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:48|19|Liao Min Chun|Tseng Min Hao|21|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:48|21|Liao Min Chun|Tseng Min Hao|19|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:42|16|Trawut Potieng |Nipitphon Puangpuapech|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|13|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|15|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:57|23|Zulfadli Zulkiffli|none|21|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:57|21|Zulfadli Zulkiffli|none|14|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:53|17|Hung Shih Han|none|21|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:53|21|Hung Shih Han|none|14|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:53|21|Hung Shih Han|none|17|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:41|21|Yao Xue|none|17|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:41|7|Yao Xue|none|21|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:41|21|Yao Xue|none|10|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:46|21|Xue Song|none|19|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:46|21|Xue Song|none|18|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:07|22|Boonsak Ponsana|none|20|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:07|10|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|1:07|23|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:36|21|Dionysius Hayom Rumbaka |none|18|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:36|21|Dionysius Hayom Rumbaka |none|15|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150404|0:27|21|Chen Hung Ling |Chi-Lin Wang|10|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:27|21|Chen Hung Ling |Chi-Lin Wang|15|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:19|21|Wong Fai Yin |Mei Kuan Chow|7|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:19|21|Wong Fai Yin |Mei Kuan Chow|11|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:38|21|Tseng Min Hao|Lai Chia Wen|18|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:38|21|Tseng Min Hao|Lai Chia Wen|19|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:49|19|Keigo Sonoda |Naoko Fukuman|21|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:49|21|Keigo Sonoda |Naoko Fukuman|15|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150404|0:49|21|Keigo Sonoda |Naoko Fukuman|17|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:25|21|Yui Hashimoto |none|4|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:25|21|Yui Hashimoto |none|13|Peiy Yee, Payee Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|14|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:35|21|Apriani Apriani|Jauza Fadhila Sugiarto|18|Erica Pei Shan Khoo|See To Chia Vern|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|11|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:48|18|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|21|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:48|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|16|Chen Hsiao Huan|Lai Chia Wen|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:34|21|Isabel Herttrich|Birgit Michels|14|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:34|21|Isabel Herttrich|Birgit Michels|18|Kah Mun Chin|Mei Kuan Chow|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:36|20|Trawut Potieng|Jongkonphan Kittiharakul|22|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|15|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:36|21|Trawut Potieng|Jongkonphan Kittiharakul|9|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:42|18|Peter Gabriel Magnaye|Paul Jefferson Vivas|21|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|17|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:42|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|14|Jian Yi Lee|Zhen Ting Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:23|21|Liao Min Chun|Tseng Min Hao|16|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:23|21|Liao Min Chun|Tseng Min Hao|17|Yohanes Rendy Sugiarto [3]|Afiat Yuris Wirawan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:29|21|Andrei Adistia|Vita Marissa|17|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:29|21|Andrei Adistia|Vita Marissa|15|Mohd Lutfi Zaim Abdul Khalid|Fie Cho Soong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|1:09|17|Aik Quan Tan |Pei Jing Lai|21|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|1:09|21|Aik Quan Tan |Pei Jing Lai|14|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|1:09|21|Aik Quan Tan |Pei Jing Lai|19|Jonathan Nordh|Emelie Fabbeke|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:21|21|Yin Fun Lim|none|5|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:21|21|Yin Fun Lim|none|9|Peiy Zhean Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:34|21|Kim Hyo Min|none|10|Rusydina Antardayu Riodingin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:46|21|Jing Yi Tee |none|15|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:46|21|Jing Yi Tee |none|19|Susanto Yulia Yosephin|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:19|21|Chiang Kai Hsin |Wu Fang Chien|4|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:19|21|Chiang Kai Hsin |Wu Fang Chien|10|Peiy Yee, Payee Lim|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:39|21|Hung Shih Han|none|8|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:39|21|Hung Shih Han|none|23|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:39|21|Hung Shih Han|none|14|Simone Prutsch|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:26|21|Yao Xue|none|8|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:26|21|Yao Xue|none|17|Li Lian Yang [2]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:26|21|Wong Fai Yin |Mei Kuan Chow|11|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:26|21|Wong Fai Yin |Mei Kuan Chow|15|Akbar Panji|Apriani Apriani|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:27|21|Lyddia Yi Yu Cheah|none|14|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:27|21|Lyddia Yi Yu Cheah|none|19|Jauza Fadhila Sugiarto|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:45|17|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:45|21|Trawut Potieng |Nipitphon Puangpuapech|18|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:45|23|Trawut Potieng |Nipitphon Puangpuapech|21|Chan Alan Yun Lung|Lee Chun Hei Reginald|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|18|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:28|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Watchara Buranakuea|Pakkawat Vilailak|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:53|18|Cheung Ngan Yi|none|21|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:53|21|Cheung Ngan Yi|none|11|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:53|21|Cheung Ngan Yi|none|12|Chiew Sien Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:50|21|Fikri Ihsandi Hadmadi|none|16|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:50|21|Fikri Ihsandi Hadmadi|none|14|Goh Soon Huat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:37|21|Zulfadli Zulkiffli|none|12|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:37|21|Zulfadli Zulkiffli|none|8|Sattawat Pongnairat|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:41|23|Emil Holst|none|21|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:41|21|Emil Holst|none|9|Wei Feng Chong [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:13|21|Xue Song|none|14|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:13|19|Xue Song|none|21|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:13|22|Xue Song|none|20|Rasmus Fladberg|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:19|21|Liao Min Chun|Chen Hsiao Huan|14|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:19|21|Liao Min Chun|Chen Hsiao Huan|16|Zhen Ting Lim|Peiy Yee, Payee Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:19|21|Tseng Min Hao|Lai Chia Wen|17|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:19|21|Tseng Min Hao|Lai Chia Wen|11|Jian Yi Lee|Peiy Zhean Lim|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:58|21|Boonsak Ponsana|none|10|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:58|14|Boonsak Ponsana|none|21|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:58|21|Boonsak Ponsana|none|17|Tzu Wei Wang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:28|21|Ng Ka Long Angus |none|16|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:28|21|Ng Ka Long Angus |none|17|Joachim Persson|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:30|21|Mohamad Arif Abdul Latif|none|17|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:30|21|Mohamad Arif Abdul Latif|none|11|Jiann Shiarng Chiang|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:14|21|Dionysius Hayom Rumbaka |none|19|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:14|18|Dionysius Hayom Rumbaka |none|21|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:14|21|Dionysius Hayom Rumbaka |none|16|Daren Liew|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|16|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:45|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|19|Chaladchalam Chayanit|Phataimas Muenwong|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:56|17|Raphael Beck |Andreas Heinz|21|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:56|21|Raphael Beck |Andreas Heinz|17|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:56|21|Raphael Beck |Andreas Heinz|11|Khek Wei Chua|Nelson Wei Keat Heg|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:16|21|Chen Hung Ling |Chi-Lin Wang|11|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:16|21|Chen Hung Ling |Chi-Lin Wang|9|Zulfaiz Bin Zulkiffli|Zulhelmi Zulkiffli|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:25|21|Philip Joper Escueta|Ronel Estanislao|6|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:25|21|Philip Joper Escueta|Ronel Estanislao|18|Jagdish Singh|Wee Long Roni Tan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:50|18|Di Hua Ng|Man Chun Woon|21|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:50|21|Di Hua Ng|Man Chun Woon|19|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:50|21|Di Hua Ng|Man Chun Woon|18|Yan Sheng Lee|Woon Fui Lin|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:35|21|Kim Hyo Min|none|7|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:35|21|Kim Hyo Min|none|13|Yin Fun Lim|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|14|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:29|21|Gebby Ristiyani Imawan|Tiara Rosalia Nuraidah|13|Dhanya Nair [2]|Mohita Sahdev|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|1:03|19|Cheung Ngan Yi|none|21|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:03|21|Cheung Ngan Yi|none|16|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:03|21|Cheung Ngan Yi|none|13|Yui Hashimoto [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:02|22|Isabel Herttrich|Birgit Michels|20|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|1:02|14|Isabel Herttrich|Birgit Michels|21|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|1:02|21|Isabel Herttrich|Birgit Michels|18|Jongkonphan Kittiharakul [1]|Rawinda Prajongjai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:34|21|Hsu Ya Ching |Pai Yu Po|18|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:34|21|Hsu Ya Ching |Pai Yu Po|17|Apriani Apriani|Jauza Fadhila Sugiarto|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|8|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:27|21|Markis Kido|Agripinna Prima Rahmanto Putra|16|Raphael Beck [1]|Andreas Heinz|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:48|21|Liao Min Chun|Tseng Min Hao|15|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:48|19|Liao Min Chun|Tseng Min Hao|21|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:48|21|Liao Min Chun|Tseng Min Hao|19|Di Hua Ng|Man Chun Woon|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:42|16|Trawut Potieng |Nipitphon Puangpuapech|21|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:42|21|Trawut Potieng |Nipitphon Puangpuapech|15|Peter Gabriel Magnaye|Paul Jefferson Vivas|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|13|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:26|21|Anggia Shitta Awanda|Mahadewi Istirani Ni Ketut|15|Chiang Kai Hsin [4]|Wu Fang Chien|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:57|23|Zulfadli Zulkiffli|none|21|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:57|21|Zulfadli Zulkiffli|none|14|Fikri Ihsandi Hadmadi|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:53|17|Hung Shih Han|none|21|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:53|21|Hung Shih Han|none|14|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:53|21|Hung Shih Han|none|17|Jing Yi Tee [3]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:41|21|Yao Xue|none|17|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:41|7|Yao Xue|none|21|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:41|21|Yao Xue|none|10|Lyddia Yi Yu Cheah|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:46|21|Xue Song|none|19|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:46|21|Xue Song|none|18|Emil Holst|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:07|22|Boonsak Ponsana|none|20|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:07|10|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|1:07|23|Boonsak Ponsana|none|21|Ng Ka Long Angus [4]|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:36|21|Dionysius Hayom Rumbaka |none|18|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:36|21|Dionysius Hayom Rumbaka |none|15|Mohamad Arif Abdul Latif|none|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|singles
+20150405|0:27|21|Chen Hung Ling |Chi-Lin Wang|10|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:27|21|Chen Hung Ling |Chi-Lin Wang|15|Philip Joper Escueta|Ronel Estanislao|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:19|21|Wong Fai Yin |Mei Kuan Chow|7|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:19|21|Wong Fai Yin |Mei Kuan Chow|11|Trawut Potieng|Jongkonphan Kittiharakul|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:38|21|Tseng Min Hao|Lai Chia Wen|18|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:38|21|Tseng Min Hao|Lai Chia Wen|19|Aik Quan Tan [4]|Pei Jing Lai|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:49|19|Keigo Sonoda |Naoko Fukuman|21|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:49|21|Keigo Sonoda |Naoko Fukuman|15|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles
+20150405|0:49|21|Keigo Sonoda |Naoko Fukuman|17|Liao Min Chun|Chen Hsiao Huan|C79DF254-6C04-4D4F-BAD9-38D0E93FD0FB|doubles

@@ -1,0 +1,439 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20190219|0:29|21|Christo Popov|none|9|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:29|21|Christo Popov|none|19|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:27|21|Kai Schaefer|none|11|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:27|21|Kai Schaefer|none|15|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:18|21|Chen Su Yu|none|8|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:18|21|Chen Su Yu|none|1|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:17|21|Joshua Magee|none|8|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:17|21|Joshua Magee|none|10|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:35|21|Ren Pengbo|none|8|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:35|21|Ren Pengbo|none|12|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:29|21|Sun Feixiang|none|12|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:29|21|Sun Feixiang|none|14|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:45|21|Mohamed Abderrahime Belarbi|none|11|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:45|20|Mohamed Abderrahime Belarbi|none|22|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:45|21|Mohamed Abderrahime Belarbi|none|18|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:55|19|Iikka Heino|none|21|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:55|21|Iikka Heino|none|13|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:55|21|Iikka Heino|none|11|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:25|21|Yang Po-Hsuan|Hu Ling Fang|9|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:25|21|Yang Po-Hsuan|Hu Ling Fang|16|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|1:07|20|Hee Chun Mak|Chau Hoi Wah|22|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|1:07|21|Hee Chun Mak|Chau Hoi Wah|15|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|1:07|30|Hee Chun Mak|Chau Hoi Wah|28|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:27|21|Yang Ming-Tse|Wu Ti Jung|13|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:27|21|Yang Ming-Tse|Wu Ti Jung|11|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:40|21|Kim Bruun|none|18|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:40|21|Kim Bruun|none|13|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:18|21|Kate Foo Kune|none|7|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:18|21|Kate Foo Kune|none|5|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:24|21|Natalie Chi|none|12|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:24|21|Natalie Chi|none|7|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:35|21|Viktoriia Vorobeva|none|17|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:35|15|Viktoriia Vorobeva|none|21|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:35|21|Viktoriia Vorobeva|none|13|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:19|21|Jan Colin Völker|Eva Janssens|10|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:19|21|Jan Colin Völker|Eva Janssens|9|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:53|21|Christo Popov|none|11|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:53|16|Christo Popov|none|21|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:53|21|Christo Popov|none|16|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:31|21|Iikka Heino|none|17|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:31|21|Iikka Heino|none|10|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:35|21|Ren Pengbo|none|8|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|0:35|21|Ren Pengbo|none|10|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|1:00|8|Kai Schaefer|none|21|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|1:00|24|Kai Schaefer|none|22|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|1:00|21|Kai Schaefer|none|15|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190219|1:01|21|Choi Solgyu|Kim So Yeong|16|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|1:01|13|Choi Solgyu|Kim So Yeong|21|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|1:01|21|Choi Solgyu|Kim So Yeong|19|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:48|19|Ben Lane|Jessica Pugh|21|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:48|21|Ben Lane|Jessica Pugh|15|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:48|21|Ben Lane|Jessica Pugh|13|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:38|21|Seo Seung Jae |Chae Yujung|16|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:38|23|Seo Seung Jae |Chae Yujung|21|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|19|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|18|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:35|21|Wang Chi-Lin|Cheng Chi Ya|18|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:35|21|Wang Chi-Lin|Cheng Chi Ya|12|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|9|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|12|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:33|21|Nyl Yakura|Kristen Tsai|15|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:33|21|Nyl Yakura|Kristen Tsai|19|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:52|17|Rodion Alimov|Alina Davletova|21|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:52|21|Rodion Alimov|Alina Davletova|11|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:52|21|Rodion Alimov|Alina Davletova|18|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:37|21|Sam Magee|Chloe Magee|15|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:37|21|Sam Magee|Chloe Magee|18|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:36|21|Marcus Ellis |Lauren Smith|15|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190219|0:36|21|Marcus Ellis |Lauren Smith|14|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:29|21|Christo Popov|none|9|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:29|21|Christo Popov|none|19|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:27|21|Kai Schaefer|none|11|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:27|21|Kai Schaefer|none|15|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:18|21|Chen Su Yu|none|8|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:18|21|Chen Su Yu|none|1|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:17|21|Joshua Magee|none|8|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:17|21|Joshua Magee|none|10|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:35|21|Ren Pengbo|none|8|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:35|21|Ren Pengbo|none|12|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:29|21|Sun Feixiang|none|12|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:29|21|Sun Feixiang|none|14|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:45|21|Mohamed Abderrahime Belarbi|none|11|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:45|20|Mohamed Abderrahime Belarbi|none|22|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:45|21|Mohamed Abderrahime Belarbi|none|18|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:55|19|Iikka Heino|none|21|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:55|21|Iikka Heino|none|13|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:55|21|Iikka Heino|none|11|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:25|21|Yang Po-Hsuan|Hu Ling Fang|9|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:25|21|Yang Po-Hsuan|Hu Ling Fang|16|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|1:07|20|Hee Chun Mak|Chau Hoi Wah|22|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|1:07|21|Hee Chun Mak|Chau Hoi Wah|15|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|1:07|30|Hee Chun Mak|Chau Hoi Wah|28|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:27|21|Yang Ming-Tse|Wu Ti Jung|13|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:27|21|Yang Ming-Tse|Wu Ti Jung|11|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:40|21|Kim Bruun|none|18|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:40|21|Kim Bruun|none|13|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:18|21|Kate Foo Kune|none|7|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:18|21|Kate Foo Kune|none|5|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:24|21|Natalie Chi|none|12|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:24|21|Natalie Chi|none|7|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:35|21|Viktoriia Vorobeva|none|17|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:35|15|Viktoriia Vorobeva|none|21|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:35|21|Viktoriia Vorobeva|none|13|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:19|21|Jan Colin Völker|Eva Janssens|10|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:19|21|Jan Colin Völker|Eva Janssens|9|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:53|21|Christo Popov|none|11|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:53|16|Christo Popov|none|21|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:53|21|Christo Popov|none|16|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:31|21|Iikka Heino|none|17|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:31|21|Iikka Heino|none|10|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:35|21|Ren Pengbo|none|8|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|0:35|21|Ren Pengbo|none|10|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|1:00|8|Kai Schaefer|none|21|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|1:00|24|Kai Schaefer|none|22|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|1:00|21|Kai Schaefer|none|15|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190220|1:01|21|Choi Solgyu|Kim So Yeong|16|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|1:01|13|Choi Solgyu|Kim So Yeong|21|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|1:01|21|Choi Solgyu|Kim So Yeong|19|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:48|19|Ben Lane|Jessica Pugh|21|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:48|21|Ben Lane|Jessica Pugh|15|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:48|21|Ben Lane|Jessica Pugh|13|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:38|21|Seo Seung Jae |Chae Yujung|16|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:38|23|Seo Seung Jae |Chae Yujung|21|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|19|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|18|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:35|21|Wang Chi-Lin|Cheng Chi Ya|18|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:35|21|Wang Chi-Lin|Cheng Chi Ya|12|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|9|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|12|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:33|21|Nyl Yakura|Kristen Tsai|15|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:33|21|Nyl Yakura|Kristen Tsai|19|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:52|17|Rodion Alimov|Alina Davletova|21|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:52|21|Rodion Alimov|Alina Davletova|11|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:52|21|Rodion Alimov|Alina Davletova|18|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:37|21|Sam Magee|Chloe Magee|15|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:37|21|Sam Magee|Chloe Magee|18|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:36|21|Marcus Ellis |Lauren Smith|15|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190220|0:36|21|Marcus Ellis |Lauren Smith|14|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:29|21|Christo Popov|none|9|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:29|21|Christo Popov|none|19|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:27|21|Kai Schaefer|none|11|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:27|21|Kai Schaefer|none|15|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:18|21|Chen Su Yu|none|8|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:18|21|Chen Su Yu|none|1|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:17|21|Joshua Magee|none|8|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:17|21|Joshua Magee|none|10|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:35|21|Ren Pengbo|none|8|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:35|21|Ren Pengbo|none|12|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:29|21|Sun Feixiang|none|12|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:29|21|Sun Feixiang|none|14|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:45|21|Mohamed Abderrahime Belarbi|none|11|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:45|20|Mohamed Abderrahime Belarbi|none|22|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:45|21|Mohamed Abderrahime Belarbi|none|18|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:55|19|Iikka Heino|none|21|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:55|21|Iikka Heino|none|13|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:55|21|Iikka Heino|none|11|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:25|21|Yang Po-Hsuan|Hu Ling Fang|9|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:25|21|Yang Po-Hsuan|Hu Ling Fang|16|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|1:07|20|Hee Chun Mak|Chau Hoi Wah|22|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|1:07|21|Hee Chun Mak|Chau Hoi Wah|15|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|1:07|30|Hee Chun Mak|Chau Hoi Wah|28|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:27|21|Yang Ming-Tse|Wu Ti Jung|13|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:27|21|Yang Ming-Tse|Wu Ti Jung|11|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:40|21|Kim Bruun|none|18|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:40|21|Kim Bruun|none|13|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:18|21|Kate Foo Kune|none|7|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:18|21|Kate Foo Kune|none|5|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:24|21|Natalie Chi|none|12|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:24|21|Natalie Chi|none|7|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:35|21|Viktoriia Vorobeva|none|17|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:35|15|Viktoriia Vorobeva|none|21|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:35|21|Viktoriia Vorobeva|none|13|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:19|21|Jan Colin Völker|Eva Janssens|10|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:19|21|Jan Colin Völker|Eva Janssens|9|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:53|21|Christo Popov|none|11|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:53|16|Christo Popov|none|21|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:53|21|Christo Popov|none|16|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:31|21|Iikka Heino|none|17|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:31|21|Iikka Heino|none|10|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:35|21|Ren Pengbo|none|8|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|0:35|21|Ren Pengbo|none|10|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|1:00|8|Kai Schaefer|none|21|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|1:00|24|Kai Schaefer|none|22|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|1:00|21|Kai Schaefer|none|15|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190221|1:01|21|Choi Solgyu|Kim So Yeong|16|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|1:01|13|Choi Solgyu|Kim So Yeong|21|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|1:01|21|Choi Solgyu|Kim So Yeong|19|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:48|19|Ben Lane|Jessica Pugh|21|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:48|21|Ben Lane|Jessica Pugh|15|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:48|21|Ben Lane|Jessica Pugh|13|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:38|21|Seo Seung Jae |Chae Yujung|16|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:38|23|Seo Seung Jae |Chae Yujung|21|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|19|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|18|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:35|21|Wang Chi-Lin|Cheng Chi Ya|18|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:35|21|Wang Chi-Lin|Cheng Chi Ya|12|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|9|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|12|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:33|21|Nyl Yakura|Kristen Tsai|15|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:33|21|Nyl Yakura|Kristen Tsai|19|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:52|17|Rodion Alimov|Alina Davletova|21|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:52|21|Rodion Alimov|Alina Davletova|11|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:52|21|Rodion Alimov|Alina Davletova|18|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:37|21|Sam Magee|Chloe Magee|15|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:37|21|Sam Magee|Chloe Magee|18|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:36|21|Marcus Ellis |Lauren Smith|15|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190221|0:36|21|Marcus Ellis |Lauren Smith|14|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:29|21|Christo Popov|none|9|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:29|21|Christo Popov|none|19|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:27|21|Kai Schaefer|none|11|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:27|21|Kai Schaefer|none|15|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:18|21|Chen Su Yu|none|8|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:18|21|Chen Su Yu|none|1|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:17|21|Joshua Magee|none|8|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:17|21|Joshua Magee|none|10|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:35|21|Ren Pengbo|none|8|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:35|21|Ren Pengbo|none|12|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:29|21|Sun Feixiang|none|12|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:29|21|Sun Feixiang|none|14|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:45|21|Mohamed Abderrahime Belarbi|none|11|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:45|20|Mohamed Abderrahime Belarbi|none|22|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:45|21|Mohamed Abderrahime Belarbi|none|18|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:55|19|Iikka Heino|none|21|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:55|21|Iikka Heino|none|13|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:55|21|Iikka Heino|none|11|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:25|21|Yang Po-Hsuan|Hu Ling Fang|9|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:25|21|Yang Po-Hsuan|Hu Ling Fang|16|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|1:07|20|Hee Chun Mak|Chau Hoi Wah|22|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|1:07|21|Hee Chun Mak|Chau Hoi Wah|15|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|1:07|30|Hee Chun Mak|Chau Hoi Wah|28|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:27|21|Yang Ming-Tse|Wu Ti Jung|13|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:27|21|Yang Ming-Tse|Wu Ti Jung|11|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:40|21|Kim Bruun|none|18|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:40|21|Kim Bruun|none|13|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:18|21|Kate Foo Kune|none|7|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:18|21|Kate Foo Kune|none|5|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:24|21|Natalie Chi|none|12|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:24|21|Natalie Chi|none|7|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:35|21|Viktoriia Vorobeva|none|17|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:35|15|Viktoriia Vorobeva|none|21|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:35|21|Viktoriia Vorobeva|none|13|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:19|21|Jan Colin Völker|Eva Janssens|10|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:19|21|Jan Colin Völker|Eva Janssens|9|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:53|21|Christo Popov|none|11|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:53|16|Christo Popov|none|21|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:53|21|Christo Popov|none|16|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:31|21|Iikka Heino|none|17|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:31|21|Iikka Heino|none|10|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:35|21|Ren Pengbo|none|8|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|0:35|21|Ren Pengbo|none|10|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|1:00|8|Kai Schaefer|none|21|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|1:00|24|Kai Schaefer|none|22|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|1:00|21|Kai Schaefer|none|15|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190222|1:01|21|Choi Solgyu|Kim So Yeong|16|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|1:01|13|Choi Solgyu|Kim So Yeong|21|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|1:01|21|Choi Solgyu|Kim So Yeong|19|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:48|19|Ben Lane|Jessica Pugh|21|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:48|21|Ben Lane|Jessica Pugh|15|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:48|21|Ben Lane|Jessica Pugh|13|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:38|21|Seo Seung Jae |Chae Yujung|16|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:38|23|Seo Seung Jae |Chae Yujung|21|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|19|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|18|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:35|21|Wang Chi-Lin|Cheng Chi Ya|18|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:35|21|Wang Chi-Lin|Cheng Chi Ya|12|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|9|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|12|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:33|21|Nyl Yakura|Kristen Tsai|15|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:33|21|Nyl Yakura|Kristen Tsai|19|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:52|17|Rodion Alimov|Alina Davletova|21|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:52|21|Rodion Alimov|Alina Davletova|11|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:52|21|Rodion Alimov|Alina Davletova|18|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:37|21|Sam Magee|Chloe Magee|15|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:37|21|Sam Magee|Chloe Magee|18|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:36|21|Marcus Ellis |Lauren Smith|15|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190222|0:36|21|Marcus Ellis |Lauren Smith|14|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:29|21|Christo Popov|none|9|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:29|21|Christo Popov|none|19|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:27|21|Kai Schaefer|none|11|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:27|21|Kai Schaefer|none|15|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:18|21|Chen Su Yu|none|8|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:18|21|Chen Su Yu|none|1|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:17|21|Joshua Magee|none|8|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:17|21|Joshua Magee|none|10|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:35|21|Ren Pengbo|none|8|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:35|21|Ren Pengbo|none|12|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:29|21|Sun Feixiang|none|12|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:29|21|Sun Feixiang|none|14|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:45|21|Mohamed Abderrahime Belarbi|none|11|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:45|20|Mohamed Abderrahime Belarbi|none|22|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:45|21|Mohamed Abderrahime Belarbi|none|18|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:55|19|Iikka Heino|none|21|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:55|21|Iikka Heino|none|13|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:55|21|Iikka Heino|none|11|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:25|21|Yang Po-Hsuan|Hu Ling Fang|9|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:25|21|Yang Po-Hsuan|Hu Ling Fang|16|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|1:07|20|Hee Chun Mak|Chau Hoi Wah|22|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|1:07|21|Hee Chun Mak|Chau Hoi Wah|15|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|1:07|30|Hee Chun Mak|Chau Hoi Wah|28|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:27|21|Yang Ming-Tse|Wu Ti Jung|13|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:27|21|Yang Ming-Tse|Wu Ti Jung|11|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:40|21|Kim Bruun|none|18|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:40|21|Kim Bruun|none|13|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:18|21|Kate Foo Kune|none|7|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:18|21|Kate Foo Kune|none|5|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:24|21|Natalie Chi|none|12|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:24|21|Natalie Chi|none|7|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:35|21|Viktoriia Vorobeva|none|17|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:35|15|Viktoriia Vorobeva|none|21|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:35|21|Viktoriia Vorobeva|none|13|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:19|21|Jan Colin Völker|Eva Janssens|10|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:19|21|Jan Colin Völker|Eva Janssens|9|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:53|21|Christo Popov|none|11|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:53|16|Christo Popov|none|21|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:53|21|Christo Popov|none|16|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:31|21|Iikka Heino|none|17|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:31|21|Iikka Heino|none|10|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:35|21|Ren Pengbo|none|8|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|0:35|21|Ren Pengbo|none|10|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|1:00|8|Kai Schaefer|none|21|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|1:00|24|Kai Schaefer|none|22|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|1:00|21|Kai Schaefer|none|15|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190223|1:01|21|Choi Solgyu|Kim So Yeong|16|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|1:01|13|Choi Solgyu|Kim So Yeong|21|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|1:01|21|Choi Solgyu|Kim So Yeong|19|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:48|19|Ben Lane|Jessica Pugh|21|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:48|21|Ben Lane|Jessica Pugh|15|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:48|21|Ben Lane|Jessica Pugh|13|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:38|21|Seo Seung Jae |Chae Yujung|16|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:38|23|Seo Seung Jae |Chae Yujung|21|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|19|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|18|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:35|21|Wang Chi-Lin|Cheng Chi Ya|18|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:35|21|Wang Chi-Lin|Cheng Chi Ya|12|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|9|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|12|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:33|21|Nyl Yakura|Kristen Tsai|15|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:33|21|Nyl Yakura|Kristen Tsai|19|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:52|17|Rodion Alimov|Alina Davletova|21|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:52|21|Rodion Alimov|Alina Davletova|11|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:52|21|Rodion Alimov|Alina Davletova|18|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:37|21|Sam Magee|Chloe Magee|15|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:37|21|Sam Magee|Chloe Magee|18|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:36|21|Marcus Ellis |Lauren Smith|15|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190223|0:36|21|Marcus Ellis |Lauren Smith|14|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:29|21|Christo Popov|none|9|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:29|21|Christo Popov|none|19|Wang Yuehang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:27|21|Kai Schaefer|none|11|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:27|21|Kai Schaefer|none|15|Bernat Amaya|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:18|21|Chen Su Yu|none|8|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:18|21|Chen Su Yu|none|1|Lara Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:17|21|Joshua Magee|none|8|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:17|21|Joshua Magee|none|10|Pavel Kotsarenko|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:35|21|Ren Pengbo|none|8|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:35|21|Ren Pengbo|none|12|Lakshya Sen|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:29|21|Sun Feixiang|none|12|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:29|21|Sun Feixiang|none|14|Adel Hamek|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:45|21|Mohamed Abderrahime Belarbi|none|11|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:45|20|Mohamed Abderrahime Belarbi|none|22|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:45|21|Mohamed Abderrahime Belarbi|none|18|Armand Rodriguez|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:55|19|Iikka Heino|none|21|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:55|21|Iikka Heino|none|13|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:55|21|Iikka Heino|none|11|Milan Ludik|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:25|21|Yang Po-Hsuan|Hu Ling Fang|9|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:25|21|Yang Po-Hsuan|Hu Ling Fang|16|Alberto Zapico|Lorena Usle|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|1:07|20|Hee Chun Mak|Chau Hoi Wah|22|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|1:07|21|Hee Chun Mak|Chau Hoi Wah|15|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|1:07|30|Hee Chun Mak|Chau Hoi Wah|28|Lin Chia Yu|Hsu Ya Ching|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:27|21|Yang Ming-Tse|Wu Ti Jung|13|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:27|21|Yang Ming-Tse|Wu Ti Jung|11|Hauke Graalmann|Annabella Jäger|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:40|21|Kim Bruun|none|18|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:40|21|Kim Bruun|none|13|Eetu Heino|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:18|21|Kate Foo Kune|none|7|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:18|21|Kate Foo Kune|none|5|Liana Lencevica|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:24|21|Natalie Chi|none|12|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:24|21|Natalie Chi|none|7|Jekaterina Romanova|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:35|21|Viktoriia Vorobeva|none|17|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:35|15|Viktoriia Vorobeva|none|21|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:35|21|Viktoriia Vorobeva|none|13|Blanca Lucas|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:19|21|Jan Colin Völker|Eva Janssens|10|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:19|21|Jan Colin Völker|Eva Janssens|9|Bernat Amaya|Lara Lucas|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:53|21|Christo Popov|none|11|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:53|16|Christo Popov|none|21|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:53|21|Christo Popov|none|16|Joshua Magee|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:31|21|Iikka Heino|none|17|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:31|21|Iikka Heino|none|10|Mohamed Abderrahime Belarbi|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:35|21|Ren Pengbo|none|8|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|0:35|21|Ren Pengbo|none|10|Sun Feixiang|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|1:00|8|Kai Schaefer|none|21|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|1:00|24|Kai Schaefer|none|22|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|1:00|21|Kai Schaefer|none|15|Kim Bruun|none|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|singles
+20190224|1:01|21|Choi Solgyu|Kim So Yeong|16|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|1:01|13|Choi Solgyu|Kim So Yeong|21|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|1:01|21|Choi Solgyu|Kim So Yeong|19|Mark Lamsfuss [4]|Isabel Herttrich|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:29|21|Wang Zekang|Cao Tong Wei|17|Evgenij Dremin|Evgenia Dimova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:48|19|Ben Lane|Jessica Pugh|21|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:48|21|Ben Lane|Jessica Pugh|15|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:48|21|Ben Lane|Jessica Pugh|13|Denis Grachev|Ekaterina Bolotova|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:38|21|Seo Seung Jae |Chae Yujung|16|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:38|23|Seo Seung Jae |Chae Yujung|21|Alfian Eko Prasetya|Marsheilla Gischa Islami|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|19|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:32|21|Tontowi Ahmad |Winny Oktavina Kandow|18|Jones Ralfy Jansen|Kilasu Ostermeyer|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:35|21|Wang Chi-Lin|Cheng Chi Ya|18|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:35|21|Wang Chi-Lin|Cheng Chi Ya|12|Marvin Seidel [8]|Linda Efler|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|9|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:21|21|Rinov Rivaldy|Pitha Haningtyas Mentari|12|Misha Zilberman|Svetlana Zilberman|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:33|21|Nyl Yakura|Kristen Tsai|15|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:33|21|Nyl Yakura|Kristen Tsai|19|Valeriy Atrashchenkov|Yelyzaveta Zharka|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:36|21|Thom Gicquel|Delphine Delrue|14|Mathias Christiansen [1]|Christinna Pedersen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:52|17|Rodion Alimov|Alina Davletova|21|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:52|21|Rodion Alimov|Alina Davletova|11|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:52|21|Rodion Alimov|Alina Davletova|18|Chang Ko-Chi|Lee Chih Chen|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:37|21|Sam Magee|Chloe Magee|15|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:37|21|Sam Magee|Chloe Magee|18|Mathias Bay-Smidt|Rikke Søby|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:36|21|Marcus Ellis |Lauren Smith|15|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles
+20190224|0:36|21|Marcus Ellis |Lauren Smith|14|Lee Yang|Yang Ching Tun|277815DE-0F9F-4BB4-842F-AE0AF0496ACF|doubles

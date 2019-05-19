@@ -1,0 +1,913 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20181122|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|James Binnie|Celine Aurelie Vinot|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|James Binnie|Celine Aurelie Vinot|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Guillaume Gailly|Veronique Braud|14|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Guillaume Gailly|Veronique Braud|5|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Toshiaki Suenaga |Akiko Sugino|10|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Toshiaki Suenaga |Akiko Sugino|12|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|12|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:57|25|Francisco Motero|Cynthia Mathez|23|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:57|20|Francisco Motero|Cynthia Mathez|22|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:57|21|Francisco Motero|Cynthia Mathez|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:30|21|Hiroshi Murayama |Rie Ogura|13|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:30|21|Hiroshi Murayama |Rie Ogura|19|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:16|21|Antony Forster|Mary Margaret Wilson|3|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:16|21|Antony Forster|Mary Margaret Wilson|1|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:15|21|Luke Missen|none|1|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Luke Missen|none|3|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Chun Yim Wong |none|4|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Chun Yim Wong |none|6|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Jonathan Pratt|none|5|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Jonathan Pratt|none|6|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:29|21|Man Kai Chu |none|10|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:29|21|Man Kai Chu |none|12|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:43|18|Atsuya Watanabe|Ikumi Fuke|21|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:43|21|Atsuya Watanabe|Ikumi Fuke|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:43|21|Atsuya Watanabe|Ikumi Fuke|15|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:30|22|David Toupe|Emmanuelle Ott|20|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:30|21|David Toupe|Emmanuelle Ott|18|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Thomas Wandschneider |none|4|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Thomas Wandschneider |none|5|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Tetsuo Ura|Noriko Ito|3|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:15|21|Tetsuo Ura|Noriko Ito|2|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|6|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|14|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:18|21|Fredy Setiawan |none|3|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Fredy Setiawan |none|0|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:28|21|Jung Man Choi|Dae Young Kim|13|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:28|21|Jung Man Choi|Dae Young Kim|12|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Tsutomu Shimada|Sarina Satomi|7|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Tsutomu Shimada|Sarina Satomi|10|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:18|21|Hiroshi Murayama |Rie Ogura|2|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:18|21|Hiroshi Murayama |Rie Ogura|8|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Taiyo Imai|Asami Yamada|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Taiyo Imai|Asami Yamada|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Guillaume Gailly|Veronique Braud|15|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Guillaume Gailly|Veronique Braud|13|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:21|21|Pramod Bhagat |none|8|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:21|21|Pramod Bhagat |none|11|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:32|21|Ukun Rukaendi |none|12|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:32|21|Ukun Rukaendi |none|14|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Daisuke Fujihara |none|6|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Daisuke Fujihara |none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Jungjun Kim |Seung Suk Kim|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Jungjun Kim |Seung Suk Kim|6|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:31|21|Atsuya Watanabe|Ikumi Fuke|14|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:31|21|Atsuya Watanabe|Ikumi Fuke|13|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Chih-Tsung Fang|none|3|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Chih-Tsung Fang|none|7|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Toshiaki Suenaga |Akiko Sugino|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:18|21|Toshiaki Suenaga |Akiko Sugino|2|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:50|21|Marcel Adam|none|13|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:50|11|Marcel Adam|none|21|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:50|21|Marcel Adam|none|10|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:14|21|Kumar Nitesh|none|3|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:14|21|Kumar Nitesh|none|4|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:28|21|Kouhei Kobayashi|none|19|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:28|21|Kouhei Kobayashi|none|17|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Francisco Motero|none|5|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Francisco Motero|none|6|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:30|21|Osamu Nagashima |none|19|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:30|21|Osamu Nagashima |none|16|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Guillaume Gailly|Veronique Braud|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:20|21|Guillaume Gailly|Veronique Braud|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:22|21|Taiyo Imai|Asami Yamada|7|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:22|21|Taiyo Imai|Asami Yamada|18|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Cheng­Che Lin|none|7|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Cheng­Che Lin|none|11|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:36|21|Johann Breno|none|19|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:36|16|Johann Breno|none|21|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:36|21|Johann Breno|none|14|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:30|21|David Toupe |none|11|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:30|21|David Toupe |none|7|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:35|21|Mamoru Oe|none|17|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:35|21|Mamoru Oe|none|16|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:16|21|Jung Man Choi |none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:16|21|Jung Man Choi |none|4|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|0|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|4|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:37|13|Sukant Kadam |none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:37|21|Sukant Kadam |none|14|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:37|21|Sukant Kadam |none|15|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:32|21|Phonexay Kinnavong|none|18|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:32|24|Phonexay Kinnavong|none|22|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|Hiroshi Murayama |Rie Ogura|6|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:22|21|Hiroshi Murayama |Rie Ogura|5|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:21|21|Jungjun Kim |Seung Suk Kim|15|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:21|21|Jungjun Kim |Seung Suk Kim|17|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Tetsuo Ura|none|6|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Tetsuo Ura|none|8|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:14|21|Bartłomiej Mroz |none|4|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:14|21|Bartłomiej Mroz |none|3|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:26|21|Tim Haller |none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:26|21|Tim Haller |none|15|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Wei Ming Tay|none|15|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Wei Ming Tay|none|5|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:27|21|Taiyo Imai |none|7|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:27|21|Taiyo Imai |none|15|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:28|21|Tsutomu Shimada|Sarina Satomi|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:28|21|Tsutomu Shimada|Sarina Satomi|11|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Osamu Nagashima |Yuma Yamazaki|7|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:25|21|Osamu Nagashima |Yuma Yamazaki|13|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181122|0:40|14|Noriko Ito|none|21|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|21|Noriko Ito|none|14|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|21|Noriko Ito|none|12|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Akiko Sugino|none|1|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Akiko Sugino|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:24|21|Asami Yamada |none|8|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:24|21|Asami Yamada |none|9|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:13|21|Ayako Suzuki|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:13|21|Ayako Suzuki|none|1|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Ukun Rukaendi |none|8|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Ukun Rukaendi |none|6|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Jungjun Kim |none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Jungjun Kim |none|5|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:45|19|Thomas Wandschneider |none|21|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:45|21|Thomas Wandschneider |none|7|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:45|21|Thomas Wandschneider |none|10|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Amir Levi |none|10|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Amir Levi |none|11|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Leani Ratri Oktila|none|6|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:19|21|Leani Ratri Oktila|none|7|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:44|19|En-Chuan Yeh|none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:44|21|En-Chuan Yeh|none|16|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:44|21|En-Chuan Yeh|none|12|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Tsz Huen Lam|none|11|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Tsz Huen Lam|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:32|22|Anand Kumar Boregowda |none|20|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:32|21|Anand Kumar Boregowda |none|19|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Taku Hiroi|none|2|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Taku Hiroi|none|10|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:26|21|Ikumi Fuke |none|16|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:26|21|Ikumi Fuke |none|13|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Yuma Yamazaki|none|11|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Yuma Yamazaki|none|14|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Sarina Satomi |none|4|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Sarina Satomi |none|3|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Marcel Adam|none|17|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Marcel Adam|none|7|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Cheng­Che Lin|none|7|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Cheng­Che Lin|none|18|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:27|21|Bartłomiej Mroz |none|11|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:27|21|Bartłomiej Mroz |none|15|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|21|Takahito Takeyama|none|14|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|15|Takahito Takeyama|none|21|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|21|Takahito Takeyama|none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Hironobu Kawabata|none|6|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Hironobu Kawabata|none|13|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|21|Dae Young Kim|none|8|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|17|Dae Young Kim|none|21|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:40|22|Dae Young Kim|none|20|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Osamu Nagashima |none|10|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Osamu Nagashima |none|9|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|James Binnie|none|12|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|James Binnie|none|6|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Taiyo Imai |none|9|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Taiyo Imai |none|10|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|Noriko Ito|none|10|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|Noriko Ito|none|13|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:46|22|Wei Ming Tay|none|20|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:46|21|Wei Ming Tay|none|12|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Catherine Naudin|none|16|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Catherine Naudin|none|18|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Hiroshi Murayama|none|12|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Hiroshi Murayama|none|10|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:21|21|David Toupe |none|5|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:21|21|David Toupe |none|3|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Seiji Yamami|none|2|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Seiji Yamami|none|1|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Khalimatus Sadiyah Sukohandoko|none|4|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Khalimatus Sadiyah Sukohandoko|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Mary Margaret Wilson|none|2|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Mary Margaret Wilson|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Tsz Huen Lam|none|13|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Tsz Huen Lam|none|3|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Leani Ratri Oktila|none|12|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:25|21|Leani Ratri Oktila|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:29|21|Jung Man Choi |none|6|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:29|21|Jung Man Choi |none|11|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Yu-Yu Ong|none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:20|21|Yu-Yu Ong|none|6|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Atsuya Watanabe|none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Atsuya Watanabe|none|2|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Kumar Nitesh|none|9|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:15|21|Kumar Nitesh|none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|Fredy Setiawan |none|10|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|Fredy Setiawan |none|13|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Suei-De Liao|none|4|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:17|21|Suei-De Liao|none|1|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:21|21|Daiki Kajiwara|none|11|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:21|21|Daiki Kajiwara|none|4|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|Girishkumar Jayanthilal Sharma|none|5|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181122|0:22|21|Girishkumar Jayanthilal Sharma|none|6|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|James Binnie|Celine Aurelie Vinot|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|James Binnie|Celine Aurelie Vinot|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Guillaume Gailly|Veronique Braud|14|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Guillaume Gailly|Veronique Braud|5|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Toshiaki Suenaga |Akiko Sugino|10|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Toshiaki Suenaga |Akiko Sugino|12|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|12|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:57|25|Francisco Motero|Cynthia Mathez|23|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:57|20|Francisco Motero|Cynthia Mathez|22|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:57|21|Francisco Motero|Cynthia Mathez|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:30|21|Hiroshi Murayama |Rie Ogura|13|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:30|21|Hiroshi Murayama |Rie Ogura|19|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:16|21|Antony Forster|Mary Margaret Wilson|3|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:16|21|Antony Forster|Mary Margaret Wilson|1|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:15|21|Luke Missen|none|1|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Luke Missen|none|3|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Chun Yim Wong |none|4|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Chun Yim Wong |none|6|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Jonathan Pratt|none|5|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Jonathan Pratt|none|6|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:29|21|Man Kai Chu |none|10|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:29|21|Man Kai Chu |none|12|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:43|18|Atsuya Watanabe|Ikumi Fuke|21|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:43|21|Atsuya Watanabe|Ikumi Fuke|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:43|21|Atsuya Watanabe|Ikumi Fuke|15|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:30|22|David Toupe|Emmanuelle Ott|20|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:30|21|David Toupe|Emmanuelle Ott|18|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Thomas Wandschneider |none|4|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Thomas Wandschneider |none|5|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Tetsuo Ura|Noriko Ito|3|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:15|21|Tetsuo Ura|Noriko Ito|2|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|6|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|14|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:18|21|Fredy Setiawan |none|3|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Fredy Setiawan |none|0|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:28|21|Jung Man Choi|Dae Young Kim|13|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:28|21|Jung Man Choi|Dae Young Kim|12|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Tsutomu Shimada|Sarina Satomi|7|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Tsutomu Shimada|Sarina Satomi|10|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:18|21|Hiroshi Murayama |Rie Ogura|2|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:18|21|Hiroshi Murayama |Rie Ogura|8|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Taiyo Imai|Asami Yamada|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Taiyo Imai|Asami Yamada|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Guillaume Gailly|Veronique Braud|15|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Guillaume Gailly|Veronique Braud|13|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:21|21|Pramod Bhagat |none|8|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:21|21|Pramod Bhagat |none|11|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:32|21|Ukun Rukaendi |none|12|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:32|21|Ukun Rukaendi |none|14|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Daisuke Fujihara |none|6|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Daisuke Fujihara |none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Jungjun Kim |Seung Suk Kim|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Jungjun Kim |Seung Suk Kim|6|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:31|21|Atsuya Watanabe|Ikumi Fuke|14|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:31|21|Atsuya Watanabe|Ikumi Fuke|13|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Chih-Tsung Fang|none|3|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Chih-Tsung Fang|none|7|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Toshiaki Suenaga |Akiko Sugino|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:18|21|Toshiaki Suenaga |Akiko Sugino|2|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:50|21|Marcel Adam|none|13|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:50|11|Marcel Adam|none|21|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:50|21|Marcel Adam|none|10|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:14|21|Kumar Nitesh|none|3|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:14|21|Kumar Nitesh|none|4|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:28|21|Kouhei Kobayashi|none|19|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:28|21|Kouhei Kobayashi|none|17|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Francisco Motero|none|5|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Francisco Motero|none|6|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:30|21|Osamu Nagashima |none|19|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:30|21|Osamu Nagashima |none|16|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Guillaume Gailly|Veronique Braud|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:20|21|Guillaume Gailly|Veronique Braud|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:22|21|Taiyo Imai|Asami Yamada|7|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:22|21|Taiyo Imai|Asami Yamada|18|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Cheng­Che Lin|none|7|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Cheng­Che Lin|none|11|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:36|21|Johann Breno|none|19|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:36|16|Johann Breno|none|21|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:36|21|Johann Breno|none|14|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:30|21|David Toupe |none|11|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:30|21|David Toupe |none|7|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:35|21|Mamoru Oe|none|17|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:35|21|Mamoru Oe|none|16|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:16|21|Jung Man Choi |none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:16|21|Jung Man Choi |none|4|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|0|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|4|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:37|13|Sukant Kadam |none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:37|21|Sukant Kadam |none|14|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:37|21|Sukant Kadam |none|15|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:32|21|Phonexay Kinnavong|none|18|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:32|24|Phonexay Kinnavong|none|22|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|Hiroshi Murayama |Rie Ogura|6|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:22|21|Hiroshi Murayama |Rie Ogura|5|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:21|21|Jungjun Kim |Seung Suk Kim|15|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:21|21|Jungjun Kim |Seung Suk Kim|17|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Tetsuo Ura|none|6|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Tetsuo Ura|none|8|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:14|21|Bartłomiej Mroz |none|4|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:14|21|Bartłomiej Mroz |none|3|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:26|21|Tim Haller |none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:26|21|Tim Haller |none|15|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Wei Ming Tay|none|15|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Wei Ming Tay|none|5|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:27|21|Taiyo Imai |none|7|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:27|21|Taiyo Imai |none|15|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:28|21|Tsutomu Shimada|Sarina Satomi|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:28|21|Tsutomu Shimada|Sarina Satomi|11|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Osamu Nagashima |Yuma Yamazaki|7|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:25|21|Osamu Nagashima |Yuma Yamazaki|13|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181123|0:40|14|Noriko Ito|none|21|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|21|Noriko Ito|none|14|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|21|Noriko Ito|none|12|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Akiko Sugino|none|1|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Akiko Sugino|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:24|21|Asami Yamada |none|8|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:24|21|Asami Yamada |none|9|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:13|21|Ayako Suzuki|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:13|21|Ayako Suzuki|none|1|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Ukun Rukaendi |none|8|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Ukun Rukaendi |none|6|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Jungjun Kim |none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Jungjun Kim |none|5|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:45|19|Thomas Wandschneider |none|21|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:45|21|Thomas Wandschneider |none|7|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:45|21|Thomas Wandschneider |none|10|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Amir Levi |none|10|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Amir Levi |none|11|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Leani Ratri Oktila|none|6|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:19|21|Leani Ratri Oktila|none|7|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:44|19|En-Chuan Yeh|none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:44|21|En-Chuan Yeh|none|16|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:44|21|En-Chuan Yeh|none|12|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Tsz Huen Lam|none|11|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Tsz Huen Lam|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:32|22|Anand Kumar Boregowda |none|20|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:32|21|Anand Kumar Boregowda |none|19|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Taku Hiroi|none|2|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Taku Hiroi|none|10|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:26|21|Ikumi Fuke |none|16|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:26|21|Ikumi Fuke |none|13|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Yuma Yamazaki|none|11|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Yuma Yamazaki|none|14|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Sarina Satomi |none|4|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Sarina Satomi |none|3|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Marcel Adam|none|17|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Marcel Adam|none|7|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Cheng­Che Lin|none|7|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Cheng­Che Lin|none|18|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:27|21|Bartłomiej Mroz |none|11|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:27|21|Bartłomiej Mroz |none|15|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|21|Takahito Takeyama|none|14|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|15|Takahito Takeyama|none|21|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|21|Takahito Takeyama|none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Hironobu Kawabata|none|6|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Hironobu Kawabata|none|13|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|21|Dae Young Kim|none|8|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|17|Dae Young Kim|none|21|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:40|22|Dae Young Kim|none|20|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Osamu Nagashima |none|10|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Osamu Nagashima |none|9|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|James Binnie|none|12|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|James Binnie|none|6|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Taiyo Imai |none|9|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Taiyo Imai |none|10|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|Noriko Ito|none|10|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|Noriko Ito|none|13|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:46|22|Wei Ming Tay|none|20|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:46|21|Wei Ming Tay|none|12|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Catherine Naudin|none|16|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Catherine Naudin|none|18|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Hiroshi Murayama|none|12|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Hiroshi Murayama|none|10|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:21|21|David Toupe |none|5|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:21|21|David Toupe |none|3|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Seiji Yamami|none|2|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Seiji Yamami|none|1|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Khalimatus Sadiyah Sukohandoko|none|4|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Khalimatus Sadiyah Sukohandoko|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Mary Margaret Wilson|none|2|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Mary Margaret Wilson|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Tsz Huen Lam|none|13|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Tsz Huen Lam|none|3|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Leani Ratri Oktila|none|12|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:25|21|Leani Ratri Oktila|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:29|21|Jung Man Choi |none|6|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:29|21|Jung Man Choi |none|11|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Yu-Yu Ong|none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:20|21|Yu-Yu Ong|none|6|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Atsuya Watanabe|none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Atsuya Watanabe|none|2|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Kumar Nitesh|none|9|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:15|21|Kumar Nitesh|none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|Fredy Setiawan |none|10|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|Fredy Setiawan |none|13|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Suei-De Liao|none|4|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:17|21|Suei-De Liao|none|1|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:21|21|Daiki Kajiwara|none|11|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:21|21|Daiki Kajiwara|none|4|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|Girishkumar Jayanthilal Sharma|none|5|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181123|0:22|21|Girishkumar Jayanthilal Sharma|none|6|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|James Binnie|Celine Aurelie Vinot|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|James Binnie|Celine Aurelie Vinot|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Guillaume Gailly|Veronique Braud|14|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Guillaume Gailly|Veronique Braud|5|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Toshiaki Suenaga |Akiko Sugino|10|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Toshiaki Suenaga |Akiko Sugino|12|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|12|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:57|25|Francisco Motero|Cynthia Mathez|23|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:57|20|Francisco Motero|Cynthia Mathez|22|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:57|21|Francisco Motero|Cynthia Mathez|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:30|21|Hiroshi Murayama |Rie Ogura|13|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:30|21|Hiroshi Murayama |Rie Ogura|19|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:16|21|Antony Forster|Mary Margaret Wilson|3|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:16|21|Antony Forster|Mary Margaret Wilson|1|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:15|21|Luke Missen|none|1|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Luke Missen|none|3|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Chun Yim Wong |none|4|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Chun Yim Wong |none|6|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Jonathan Pratt|none|5|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Jonathan Pratt|none|6|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:29|21|Man Kai Chu |none|10|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:29|21|Man Kai Chu |none|12|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:43|18|Atsuya Watanabe|Ikumi Fuke|21|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:43|21|Atsuya Watanabe|Ikumi Fuke|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:43|21|Atsuya Watanabe|Ikumi Fuke|15|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:30|22|David Toupe|Emmanuelle Ott|20|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:30|21|David Toupe|Emmanuelle Ott|18|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Thomas Wandschneider |none|4|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Thomas Wandschneider |none|5|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Tetsuo Ura|Noriko Ito|3|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:15|21|Tetsuo Ura|Noriko Ito|2|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|6|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|14|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:18|21|Fredy Setiawan |none|3|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Fredy Setiawan |none|0|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:28|21|Jung Man Choi|Dae Young Kim|13|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:28|21|Jung Man Choi|Dae Young Kim|12|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Tsutomu Shimada|Sarina Satomi|7|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Tsutomu Shimada|Sarina Satomi|10|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:18|21|Hiroshi Murayama |Rie Ogura|2|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:18|21|Hiroshi Murayama |Rie Ogura|8|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Taiyo Imai|Asami Yamada|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Taiyo Imai|Asami Yamada|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Guillaume Gailly|Veronique Braud|15|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Guillaume Gailly|Veronique Braud|13|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:21|21|Pramod Bhagat |none|8|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:21|21|Pramod Bhagat |none|11|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:32|21|Ukun Rukaendi |none|12|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:32|21|Ukun Rukaendi |none|14|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Daisuke Fujihara |none|6|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Daisuke Fujihara |none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Jungjun Kim |Seung Suk Kim|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Jungjun Kim |Seung Suk Kim|6|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:31|21|Atsuya Watanabe|Ikumi Fuke|14|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:31|21|Atsuya Watanabe|Ikumi Fuke|13|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Chih-Tsung Fang|none|3|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Chih-Tsung Fang|none|7|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Toshiaki Suenaga |Akiko Sugino|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:18|21|Toshiaki Suenaga |Akiko Sugino|2|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:50|21|Marcel Adam|none|13|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:50|11|Marcel Adam|none|21|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:50|21|Marcel Adam|none|10|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:14|21|Kumar Nitesh|none|3|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:14|21|Kumar Nitesh|none|4|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:28|21|Kouhei Kobayashi|none|19|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:28|21|Kouhei Kobayashi|none|17|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Francisco Motero|none|5|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Francisco Motero|none|6|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:30|21|Osamu Nagashima |none|19|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:30|21|Osamu Nagashima |none|16|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Guillaume Gailly|Veronique Braud|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:20|21|Guillaume Gailly|Veronique Braud|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:22|21|Taiyo Imai|Asami Yamada|7|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:22|21|Taiyo Imai|Asami Yamada|18|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Cheng­Che Lin|none|7|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Cheng­Che Lin|none|11|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:36|21|Johann Breno|none|19|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:36|16|Johann Breno|none|21|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:36|21|Johann Breno|none|14|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:30|21|David Toupe |none|11|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:30|21|David Toupe |none|7|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:35|21|Mamoru Oe|none|17|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:35|21|Mamoru Oe|none|16|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:16|21|Jung Man Choi |none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:16|21|Jung Man Choi |none|4|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|0|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|4|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:37|13|Sukant Kadam |none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:37|21|Sukant Kadam |none|14|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:37|21|Sukant Kadam |none|15|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:32|21|Phonexay Kinnavong|none|18|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:32|24|Phonexay Kinnavong|none|22|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|Hiroshi Murayama |Rie Ogura|6|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:22|21|Hiroshi Murayama |Rie Ogura|5|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:21|21|Jungjun Kim |Seung Suk Kim|15|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:21|21|Jungjun Kim |Seung Suk Kim|17|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Tetsuo Ura|none|6|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Tetsuo Ura|none|8|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:14|21|Bartłomiej Mroz |none|4|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:14|21|Bartłomiej Mroz |none|3|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:26|21|Tim Haller |none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:26|21|Tim Haller |none|15|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Wei Ming Tay|none|15|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Wei Ming Tay|none|5|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:27|21|Taiyo Imai |none|7|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:27|21|Taiyo Imai |none|15|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:28|21|Tsutomu Shimada|Sarina Satomi|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:28|21|Tsutomu Shimada|Sarina Satomi|11|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Osamu Nagashima |Yuma Yamazaki|7|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:25|21|Osamu Nagashima |Yuma Yamazaki|13|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181124|0:40|14|Noriko Ito|none|21|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|21|Noriko Ito|none|14|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|21|Noriko Ito|none|12|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Akiko Sugino|none|1|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Akiko Sugino|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:24|21|Asami Yamada |none|8|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:24|21|Asami Yamada |none|9|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:13|21|Ayako Suzuki|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:13|21|Ayako Suzuki|none|1|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Ukun Rukaendi |none|8|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Ukun Rukaendi |none|6|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Jungjun Kim |none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Jungjun Kim |none|5|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:45|19|Thomas Wandschneider |none|21|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:45|21|Thomas Wandschneider |none|7|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:45|21|Thomas Wandschneider |none|10|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Amir Levi |none|10|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Amir Levi |none|11|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Leani Ratri Oktila|none|6|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:19|21|Leani Ratri Oktila|none|7|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:44|19|En-Chuan Yeh|none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:44|21|En-Chuan Yeh|none|16|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:44|21|En-Chuan Yeh|none|12|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Tsz Huen Lam|none|11|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Tsz Huen Lam|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:32|22|Anand Kumar Boregowda |none|20|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:32|21|Anand Kumar Boregowda |none|19|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Taku Hiroi|none|2|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Taku Hiroi|none|10|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:26|21|Ikumi Fuke |none|16|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:26|21|Ikumi Fuke |none|13|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Yuma Yamazaki|none|11|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Yuma Yamazaki|none|14|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Sarina Satomi |none|4|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Sarina Satomi |none|3|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Marcel Adam|none|17|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Marcel Adam|none|7|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Cheng­Che Lin|none|7|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Cheng­Che Lin|none|18|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:27|21|Bartłomiej Mroz |none|11|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:27|21|Bartłomiej Mroz |none|15|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|21|Takahito Takeyama|none|14|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|15|Takahito Takeyama|none|21|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|21|Takahito Takeyama|none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Hironobu Kawabata|none|6|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Hironobu Kawabata|none|13|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|21|Dae Young Kim|none|8|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|17|Dae Young Kim|none|21|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:40|22|Dae Young Kim|none|20|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Osamu Nagashima |none|10|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Osamu Nagashima |none|9|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|James Binnie|none|12|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|James Binnie|none|6|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Taiyo Imai |none|9|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Taiyo Imai |none|10|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|Noriko Ito|none|10|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|Noriko Ito|none|13|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:46|22|Wei Ming Tay|none|20|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:46|21|Wei Ming Tay|none|12|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Catherine Naudin|none|16|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Catherine Naudin|none|18|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Hiroshi Murayama|none|12|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Hiroshi Murayama|none|10|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:21|21|David Toupe |none|5|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:21|21|David Toupe |none|3|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Seiji Yamami|none|2|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Seiji Yamami|none|1|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Khalimatus Sadiyah Sukohandoko|none|4|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Khalimatus Sadiyah Sukohandoko|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Mary Margaret Wilson|none|2|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Mary Margaret Wilson|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Tsz Huen Lam|none|13|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Tsz Huen Lam|none|3|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Leani Ratri Oktila|none|12|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:25|21|Leani Ratri Oktila|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:29|21|Jung Man Choi |none|6|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:29|21|Jung Man Choi |none|11|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Yu-Yu Ong|none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:20|21|Yu-Yu Ong|none|6|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Atsuya Watanabe|none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Atsuya Watanabe|none|2|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Kumar Nitesh|none|9|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:15|21|Kumar Nitesh|none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|Fredy Setiawan |none|10|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|Fredy Setiawan |none|13|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Suei-De Liao|none|4|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:17|21|Suei-De Liao|none|1|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:21|21|Daiki Kajiwara|none|11|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:21|21|Daiki Kajiwara|none|4|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|Girishkumar Jayanthilal Sharma|none|5|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181124|0:22|21|Girishkumar Jayanthilal Sharma|none|6|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:24|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|10|Tetsuo Ura|Noriko Ito|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|James Binnie|Celine Aurelie Vinot|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|James Binnie|Celine Aurelie Vinot|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Guillaume Gailly|Veronique Braud|14|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Guillaume Gailly|Veronique Braud|5|Taiyo Imai|Asami Yamada|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Toshiaki Suenaga |Akiko Sugino|10|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Toshiaki Suenaga |Akiko Sugino|12|Anand Kumar Boregowda|Caitlin Dransfield|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|12|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|Sukant Kadam|Manasi Girishchandra Joshi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Osamu Nagashima |Yuma Yamazaki|7|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:57|25|Francisco Motero|Cynthia Mathez|23|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:57|20|Francisco Motero|Cynthia Mathez|22|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:57|21|Francisco Motero|Cynthia Mathez|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:30|21|Hiroshi Murayama |Rie Ogura|13|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:30|21|Hiroshi Murayama |Rie Ogura|19|Tsutomu Shimada|Sarina Satomi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:16|21|Antony Forster|Mary Margaret Wilson|3|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:16|21|Antony Forster|Mary Margaret Wilson|1|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:15|21|Luke Missen|none|1|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Luke Missen|none|3|Kobie Jane Donovan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Chun Yim Wong |none|4|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Chun Yim Wong |none|6|Miles Krajewski|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Jonathan Pratt|none|5|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Jonathan Pratt|none|6|Anthony Koedyk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:29|21|Man Kai Chu |none|10|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:29|21|Man Kai Chu |none|12|Yohei Hatakeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:43|18|Atsuya Watanabe|Ikumi Fuke|21|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:43|21|Atsuya Watanabe|Ikumi Fuke|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:43|21|Atsuya Watanabe|Ikumi Fuke|15|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:30|22|David Toupe|Emmanuelle Ott|20|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:30|21|David Toupe|Emmanuelle Ott|18|Jungjun Kim [3]|Seung Suk Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Thomas Wandschneider |none|4|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Thomas Wandschneider |none|5|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Tetsuo Ura|Noriko Ito|3|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:15|21|Tetsuo Ura|Noriko Ito|2|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:17|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|10|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|6|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Anand Kumar Boregowda|Caitlin Dransfield|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|14|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Sukant Kadam|Manasi Girishchandra Joshi|12|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:18|21|Fredy Setiawan |none|3|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Fredy Setiawan |none|0|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:28|21|Jung Man Choi|Dae Young Kim|13|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:28|21|Jung Man Choi|Dae Young Kim|12|Girishkumar Jayanthilal Sharma|Chiemi Ogata|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Tsutomu Shimada|Sarina Satomi|7|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Tsutomu Shimada|Sarina Satomi|10|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:18|21|Hiroshi Murayama |Rie Ogura|2|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:18|21|Hiroshi Murayama |Rie Ogura|8|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Taiyo Imai|Asami Yamada|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Taiyo Imai|Asami Yamada|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Guillaume Gailly|Veronique Braud|15|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Guillaume Gailly|Veronique Braud|13|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:21|21|Pramod Bhagat |none|8|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:21|21|Pramod Bhagat |none|11|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:32|21|Ukun Rukaendi |none|12|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:32|21|Ukun Rukaendi |none|14|Taku Hiroi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Daisuke Fujihara |none|6|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Daisuke Fujihara |none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Jungjun Kim |Seung Suk Kim|17|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Jungjun Kim |Seung Suk Kim|6|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:31|21|Atsuya Watanabe|Ikumi Fuke|14|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:31|21|Atsuya Watanabe|Ikumi Fuke|13|David Toupe|Emmanuelle Ott|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Chih-Tsung Fang|none|3|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Chih-Tsung Fang|none|7|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Toshiaki Suenaga |Akiko Sugino|10|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:18|21|Toshiaki Suenaga |Akiko Sugino|2|Batri Narayanan Ramasamy|Catherine Naudin|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Sukant Kadam|Manasi Girishchandra Joshi|16|James Binnie|Celine Aurelie Vinot|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|8|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Dwiyoko Dwiyoko |Leani Ratri Oktila|5|Phonexay Kinnavong|Zashka Gunson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:50|21|Marcel Adam|none|13|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:50|11|Marcel Adam|none|21|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:50|21|Marcel Adam|none|10|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:14|21|Kumar Nitesh|none|3|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:14|21|Kumar Nitesh|none|4|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:28|21|Kouhei Kobayashi|none|19|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:28|21|Kouhei Kobayashi|none|17|Tsutomu Shimada|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Francisco Motero|none|5|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Francisco Motero|none|6|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:30|21|Osamu Nagashima |none|19|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:30|21|Osamu Nagashima |none|16|Hiroshi Murayama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Guillaume Gailly|Veronique Braud|4|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:20|21|Guillaume Gailly|Veronique Braud|5|Adam Torey-Toth|Amonrat Jamporn|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:22|21|Taiyo Imai|Asami Yamada|7|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:22|21|Taiyo Imai|Asami Yamada|18|Antony Forster|Mary Margaret Wilson|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Anand Kumar Boregowda |none|12|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Cheng­Che Lin|none|7|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Cheng­Che Lin|none|11|Takahito Takeyama|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:36|21|Johann Breno|none|19|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:36|16|Johann Breno|none|21|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:36|21|Johann Breno|none|14|Suei-De Liao|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:30|21|David Toupe |none|11|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:30|21|David Toupe |none|7|Seiji Yamami|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:35|21|Mamoru Oe|none|17|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:35|21|Mamoru Oe|none|16|Yu-Yu Ong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:16|21|Jung Man Choi |none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:16|21|Jung Man Choi |none|4|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|0|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:15|21|Fredy Setiawan |Khalimatus Sadiyah Sukohandoko|4|Sadat Sadman Saad|Anu Francis|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:37|13|Sukant Kadam |none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:37|21|Sukant Kadam |none|14|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:37|21|Sukant Kadam |none|15|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:30|21|Suryo Nugroho |none|9|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:32|21|Phonexay Kinnavong|none|18|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:32|24|Phonexay Kinnavong|none|22|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Dwiyoko Dwiyoko|none|10|Leonardo Zuffo|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|Hiroshi Murayama |Rie Ogura|6|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:22|21|Hiroshi Murayama |Rie Ogura|5|Francisco Motero|Cynthia Mathez|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:21|21|Jungjun Kim |Seung Suk Kim|15|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:21|21|Jungjun Kim |Seung Suk Kim|17|Atsuya Watanabe|Ikumi Fuke|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:21|21|Ho Yuen Chan |none|5|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Tetsuo Ura|none|6|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Tetsuo Ura|none|8|James Binnie|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:14|21|Bartłomiej Mroz |none|4|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:14|21|Bartłomiej Mroz |none|3|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:26|21|Tim Haller |none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:26|21|Tim Haller |none|15|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Wei Ming Tay|none|15|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Wei Ming Tay|none|5|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:27|21|Taiyo Imai |none|7|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:27|21|Taiyo Imai |none|15|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:28|21|Tsutomu Shimada|Sarina Satomi|14|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:28|21|Tsutomu Shimada|Sarina Satomi|11|Yu-Yu Ong|Sonja Haesler|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Osamu Nagashima |Yuma Yamazaki|7|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:25|21|Osamu Nagashima |Yuma Yamazaki|13|Jung Man Choi|Dae Young Kim|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:31|21|David Toupe|Emmanuelle Ott|14|Daiki Kajiwara|Etsuko Kobayashi|59463FFA-1FBD-428F-B25D-0E64F8C3A258|doubles
+20181125|0:40|14|Noriko Ito|none|21|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|21|Noriko Ito|none|14|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|21|Noriko Ito|none|12|Manasi Girishchandra Joshi [1]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Akiko Sugino|none|1|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Akiko Sugino|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:24|21|Asami Yamada |none|8|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:24|21|Asami Yamada |none|9|Catherine Naudin|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:13|21|Ayako Suzuki|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:13|21|Ayako Suzuki|none|1|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Ukun Rukaendi |none|8|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Ukun Rukaendi |none|6|Nallasivan Arumugam|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Jungjun Kim |none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Jungjun Kim |none|5|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:45|19|Thomas Wandschneider |none|21|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:45|21|Thomas Wandschneider |none|7|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:45|21|Thomas Wandschneider |none|10|Kouhei Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Amir Levi |none|10|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Amir Levi |none|11|Girishkumar Jayanthilal Sharma|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Leani Ratri Oktila|none|6|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:19|21|Leani Ratri Oktila|none|7|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:44|19|En-Chuan Yeh|none|21|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:44|21|En-Chuan Yeh|none|16|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:44|21|En-Chuan Yeh|none|12|Corrie Keith Robinson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Tsz Huen Lam|none|11|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Tsz Huen Lam|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:32|22|Anand Kumar Boregowda |none|20|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:32|21|Anand Kumar Boregowda |none|19|Katsuhiro Yamamoto|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Taku Hiroi|none|2|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Taku Hiroi|none|10|Phonexay Kinnavong|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:26|21|Ikumi Fuke |none|16|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:26|21|Ikumi Fuke |none|13|Etsuko Kobayashi|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Yuma Yamazaki|none|11|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Yuma Yamazaki|none|14|Rie Ogura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Sarina Satomi |none|4|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Sarina Satomi |none|3|Chiemi Ogata|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Marcel Adam|none|17|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Marcel Adam|none|7|Denis Grzesiuk|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Cheng­Che Lin|none|7|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Cheng­Che Lin|none|18|Tim Haller [3/4]|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:27|21|Bartłomiej Mroz |none|11|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:27|21|Bartłomiej Mroz |none|15|Tetsuo Ura|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|21|Takahito Takeyama|none|14|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|15|Takahito Takeyama|none|21|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|21|Takahito Takeyama|none|11|Antony Forster|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Hironobu Kawabata|none|6|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Hironobu Kawabata|none|13|Sugil Abbas|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|21|Dae Young Kim|none|8|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|17|Dae Young Kim|none|21|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:40|22|Dae Young Kim|none|20|Emmanuelle Ott|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:16|21|Tsutomu Shimada|none|2|Duke Trench-Thiedeman|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Osamu Nagashima |none|10|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Osamu Nagashima |none|9|William Kian Meng Tan|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|James Binnie|none|12|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|James Binnie|none|6|Batri Narayanan Ramasamy|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Taiyo Imai |none|9|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Taiyo Imai |none|10|Gui Yu Pu|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|Noriko Ito|none|10|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|Noriko Ito|none|13|Celine Aurelie Vinot|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:46|22|Wei Ming Tay|none|20|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:46|21|Wei Ming Tay|none|12|Gen Shogaki|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Catherine Naudin|none|16|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Catherine Naudin|none|18|Amonrat Jamporn|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Hiroshi Murayama|none|12|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Hiroshi Murayama|none|10|Chih-Tsung Fang|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:21|21|David Toupe |none|5|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:21|21|David Toupe |none|3|Francisco Motero|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Seiji Yamami|none|2|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Seiji Yamami|none|1|Pradeep Hewavitharana|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Khalimatus Sadiyah Sukohandoko|none|4|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Khalimatus Sadiyah Sukohandoko|none|2|Anu Francis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Mary Margaret Wilson|none|2|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Mary Margaret Wilson|none|3|Zashka Gunson|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Tsz Huen Lam|none|13|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Tsz Huen Lam|none|3|Veronique Braud|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Leani Ratri Oktila|none|12|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:25|21|Leani Ratri Oktila|none|4|Caitlin Dransfield|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:18|21|Daisuke Fujihara |none|1|Sadat Sadman Saad|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:29|21|Jung Man Choi |none|6|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:29|21|Jung Man Choi |none|11|Mamoru Oe|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Yu-Yu Ong|none|5|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:20|21|Yu-Yu Ong|none|6|Richard John Davis|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Atsuya Watanabe|none|4|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Atsuya Watanabe|none|2|Richard Joseph Engles|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Kumar Nitesh|none|9|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:15|21|Kumar Nitesh|none|7|Xavier Debavelaere|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|Fredy Setiawan |none|10|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|Fredy Setiawan |none|13|Johann Breno|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Suei-De Liao|none|4|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:17|21|Suei-De Liao|none|1|Hayden Bognar|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:21|21|Daiki Kajiwara|none|11|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:21|21|Daiki Kajiwara|none|4|Grant Manzoney|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|Girishkumar Jayanthilal Sharma|none|5|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles
+20181125|0:22|21|Girishkumar Jayanthilal Sharma|none|6|Douglas Youlten|none|59463FFA-1FBD-428F-B25D-0E64F8C3A258|singles

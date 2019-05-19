@@ -1,0 +1,823 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20140912|0:35|6|Laurynas Sparnauskis|none|11|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|11|Laurynas Sparnauskis|none|10|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|11|Laurynas Sparnauskis|none|6|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|7|Laurynas Sparnauskis|none|11|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|11|Laurynas Sparnauskis|none|9|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Karl Kert|none|4|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Karl Kert|none|6|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Karl Kert|none|4|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|10|Karolis Eimutaitis|none|11|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|8|Karolis Eimutaitis|none|11|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|11|Karolis Eimutaitis|none|4|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|11|Karolis Eimutaitis|none|6|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|11|Karolis Eimutaitis|none|8|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:34|11|Mikk Ounmaa|none|7|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:34|10|Mikk Ounmaa|none|11|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:34|11|Mikk Ounmaa|none|10|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:34|8|Mikk Ounmaa|none|11|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:34|11|Mikk Ounmaa|none|8|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:32|10|Maryia Filipovich|none|11|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:32|11|Maryia Filipovich|none|9|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:32|11|Maryia Filipovich|none|4|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:32|8|Maryia Filipovich|none|11|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:32|11|Maryia Filipovich|none|7|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Karolina Wladzinska|none|8|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Karolina Wladzinska|none|3|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|8|Karolina Wladzinska|none|11|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Karolina Wladzinska|none|5|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Katarina Kliit|none|1|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Katarina Kliit|none|1|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Katarina Kliit|none|9|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Yana Ignatyeva|none|3|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Yana Ignatyeva|none|5|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Yana Ignatyeva|none|4|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912||Walkover Win|Katsiaryna Zablotskaya|none|Walkover Loss|Magdalena Lajdova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Mikk Ounmaa|Grete Pall|7|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:17|11|Mikk Ounmaa|Grete Pall|2|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:17|11|Mikk Ounmaa|Grete Pall|7|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:33|10|Niks Podosinoviks|Jekaterina Romanova|11|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:33|11|Niks Podosinoviks|Jekaterina Romanova|10|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:33|11|Niks Podosinoviks|Jekaterina Romanova|2|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:33|6|Niks Podosinoviks|Jekaterina Romanova|11|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:33|11|Niks Podosinoviks|Jekaterina Romanova|6|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Albert Tamm|Denisa Sikalova|9|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Albert Tamm|Denisa Sikalova|8|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Albert Tamm|Denisa Sikalova|5|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:20|11|Patryk Jas|Magda Konieczna|10|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:20|11|Patryk Jas|Magda Konieczna|1|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:20|11|Patryk Jas|Magda Konieczna|1|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:32|11|Pawel Smilowski|Magdalena Swierczynska|5|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:32|9|Pawel Smilowski|Magdalena Swierczynska|11|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:32|10|Pawel Smilowski|Magdalena Swierczynska|11|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:32|11|Pawel Smilowski|Magdalena Swierczynska|5|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:32|11|Pawel Smilowski|Magdalena Swierczynska|8|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Aleksander Jablonski|Kornelia Marczak|3|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Aleksander Jablonski|Kornelia Marczak|4|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Aleksander Jablonski|Kornelia Marczak|10|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:39|7|Wolfgang Gnedt|Antonia Meinke|11|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:39|11|Wolfgang Gnedt|Antonia Meinke|5|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:39|5|Wolfgang Gnedt|Antonia Meinke|11|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:39|11|Wolfgang Gnedt|Antonia Meinke|7|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:39|11|Wolfgang Gnedt|Antonia Meinke|10|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Robert Joonas|Yana Ignatyeva|2|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Robert Joonas|Yana Ignatyeva|5|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Robert Joonas|Yana Ignatyeva|9|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:13|11|Mantas Satrauskas|none|2|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:13|11|Mantas Satrauskas|none|2|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:13|11|Mantas Satrauskas|none|10|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Kristin Kuuba |none|6|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Kristin Kuuba |none|3|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Kristin Kuuba |none|3|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Mario Saunpere |none|3|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Mario Saunpere |none|4|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Mario Saunpere |none|6|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Laurynas Sparnauskis|none|6|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Laurynas Sparnauskis|none|8|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Laurynas Sparnauskis|none|7|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912||Walkover Win|Sale-Liis Teesalu|none|Walkover Loss|Rebeka Alekseviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Kati-Kreet Marran|none|9|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Kati-Kreet Marran|none|4|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Kati-Kreet Marran|none|9|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Wolfgang Gnedt |none|0|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Wolfgang Gnedt |none|3|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Wolfgang Gnedt |none|4|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|11|Mihkel Laanes |none|7|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|11|Mihkel Laanes |none|4|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|10|Mihkel Laanes |none|11|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|11|Mihkel Laanes |none|4|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Maryia Filipovich|none|2|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Maryia Filipovich|none|6|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Maryia Filipovich|none|4|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:12|11|Magda Konieczna |none|1|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:12|11|Magda Konieczna |none|3|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:12|11|Magda Konieczna |none|4|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Niks Podosinoviks|none|6|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Niks Podosinoviks|none|7|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Niks Podosinoviks|none|7|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912||Walkover Win|Pawel Smilowski |none|Walkover Loss|Lukas Zebrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:13|11|Karolina Wladzinska|none|2|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:13|11|Karolina Wladzinska|none|1|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:13|11|Karolina Wladzinska|none|2|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Ekaterina Kut |none|3|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Ekaterina Kut |none|6|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Ekaterina Kut |none|8|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:20|11|Karl Kert|none|5|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:20|11|Karl Kert|none|6|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:20|11|Karl Kert|none|9|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912||Walkover Win|Karolis Eimutaitis|none|Walkover Loss|Egor Kholkin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|5|Valeria Menkova|none|11|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Valeria Menkova|none|8|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Valeria Menkova|none|5|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Valeria Menkova|none|8|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Yana Ignatyeva|none|9|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Yana Ignatyeva|none|5|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Yana Ignatyeva|none|3|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|4|Aleksander Jablonski |none|11|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|11|Aleksander Jablonski |none|9|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|11|Aleksander Jablonski |none|6|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|11|Aleksander Jablonski |none|8|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:31|11|Giedrius Dima|none|8|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:31|11|Giedrius Dima|none|9|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:31|7|Giedrius Dima|none|11|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:31|11|Giedrius Dima|none|3|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Joanna Stanisz |none|6|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Joanna Stanisz |none|5|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Joanna Stanisz |none|3|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:21|11|Irina Shorokhova|none|5|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:21|11|Irina Shorokhova|none|4|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:21|11|Irina Shorokhova|none|6|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912||Walkover Win|Aleksandr Vasilkin |none|Walkover Loss|Jakub Hurta|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Mikk Ounmaa|none|10|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Mikk Ounmaa|none|9|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|10|Mikk Ounmaa|none|11|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Mikk Ounmaa|none|10|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:43|11|Helina Ruutel |none|4|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:43|10|Helina Ruutel |none|11|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:43|11|Helina Ruutel |none|6|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:43|9|Helina Ruutel |none|11|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:43|11|Helina Ruutel |none|10|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|5|Mari Ann Karjus|none|11|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Mari Ann Karjus|none|4|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|9|Mari Ann Karjus|none|11|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Mari Ann Karjus|none|10|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Mari Ann Karjus|none|5|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Mateusz Biernacki |none|6|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Mateusz Biernacki |none|5|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Mateusz Biernacki |none|2|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912||Walkover Win|Robert Joonas|none|Walkover Loss|Robert Krikk|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Aleksandra Semenova|none|6|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|7|Aleksandra Semenova|none|11|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|7|Aleksandra Semenova|none|11|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Aleksandra Semenova|none|6|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Aleksandra Semenova|none|3|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|10|Gabrielė Paskeviciute|none|11|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|11|Gabrielė Paskeviciute|none|10|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|6|Gabrielė Paskeviciute|none|11|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|11|Gabrielė Paskeviciute|none|9|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:24|11|Gabrielė Paskeviciute|none|4|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:27|11|Heiko Zoober |none|7|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:27|11|Heiko Zoober |none|10|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:27|7|Heiko Zoober |none|11|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:27|11|Heiko Zoober |none|3|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Ksenia Evgenova |none|10|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Ksenia Evgenova |none|5|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:16|11|Ksenia Evgenova |none|8|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|7|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|6|Magdalena Swierczynska|Karolina Wladzinska|11|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|9|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|10|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Wolfgang Gnedt |none|7|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Wolfgang Gnedt |none|3|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Wolfgang Gnedt |none|2|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Laurynas Sparnauskis|none|10|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Laurynas Sparnauskis|none|9|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Laurynas Sparnauskis|none|6|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Kristin Kuuba |none|5|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|7|Kristin Kuuba |none|11|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Kristin Kuuba |none|9|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Kristin Kuuba |none|4|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Ekaterina Kut |none|6|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Ekaterina Kut |none|6|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|9|Ekaterina Kut |none|11|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:29|11|Ekaterina Kut |none|5|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Mihkel Laanes |none|9|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Mihkel Laanes |none|2|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Mihkel Laanes |none|9|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Pawel Smilowski |none|1|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Pawel Smilowski |none|4|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:14|11|Pawel Smilowski |none|10|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Kati-Kreet Marran|none|6|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Kati-Kreet Marran|none|10|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:17|11|Kati-Kreet Marran|none|3|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Magda Konieczna |none|8|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Magda Konieczna |none|4|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:22|11|Magda Konieczna |none|7|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|11|Karolis Eimutaitis|none|4|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|11|Karolis Eimutaitis|none|5|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|10|Karolis Eimutaitis|none|11|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|9|Karolis Eimutaitis|none|11|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:35|11|Karolis Eimutaitis|none|10|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|10|Aleksandr Vasilkin |none|11|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Aleksandr Vasilkin |none|2|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Aleksandr Vasilkin |none|7|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:26|11|Aleksandr Vasilkin |none|6|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:42|11|Joanna Stanisz |none|7|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:42|11|Joanna Stanisz |none|8|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:42|8|Joanna Stanisz |none|11|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:42|8|Joanna Stanisz |none|11|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:42|11|Joanna Stanisz |none|5|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Irina Shorokhova|none|9|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Irina Shorokhova|none|9|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:19|11|Irina Shorokhova|none|6|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:15|11|Mateusz Biernacki |none|2|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:15|11|Mateusz Biernacki |none|7|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:15|11|Mateusz Biernacki |none|5|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Heiko Zoober |none|5|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Heiko Zoober |none|8|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Heiko Zoober |none|10|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Aleksandra Semenova|none|8|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Aleksandra Semenova|none|3|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:18|11|Aleksandra Semenova|none|2|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:08|11|Ksenia Evgenova |none|1|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:08|11|Ksenia Evgenova |none|0|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:08|11|Ksenia Evgenova |none|0|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140912|0:15|11|Mario Saunpere |Mihkel Laanes|7|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Mario Saunpere |Mihkel Laanes|6|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Mario Saunpere |Mihkel Laanes|7|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912||Walkover Win|Marcus Loo|Karl Kert|Walkover Loss|Ailantas Sutkus|Lukas Zebrauskas|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|5|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|1|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|6|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:10|11|Yana Ignatyeva |Kristina Vyrvich|3|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:10|11|Yana Ignatyeva |Kristina Vyrvich|2|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:10|11|Yana Ignatyeva |Kristina Vyrvich|1|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|7|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:26|9|Niks Podosinoviks|Kristaps Janis Gulbis|11|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:26|9|Niks Podosinoviks|Kristaps Janis Gulbis|11|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|5|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|9|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Michal Kikosicki |Pawel Smilowski|6|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Michal Kikosicki |Pawel Smilowski|4|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Michal Kikosicki |Pawel Smilowski|8|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Kornelia Marczak|Joanna Stanisz|6|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Kornelia Marczak|Joanna Stanisz|3|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:15|11|Kornelia Marczak|Joanna Stanisz|2|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:16|11|Aleksandra Semenova|Irina Shorokhova|5|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:16|11|Aleksandra Semenova|Irina Shorokhova|5|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:16|11|Aleksandra Semenova|Irina Shorokhova|4|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|7|Laurynas Sparnauskis|Timon Schwarz|11|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|11|Laurynas Sparnauskis|Timon Schwarz|6|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|11|Laurynas Sparnauskis|Timon Schwarz|7|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|9|Laurynas Sparnauskis|Timon Schwarz|11|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:30|11|Laurynas Sparnauskis|Timon Schwarz|3|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:18|11|Mikk Ounmaa |Heiko Zoober|6|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:18|8|Mikk Ounmaa |Heiko Zoober|11|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:18|11|Mikk Ounmaa |Heiko Zoober|9|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:18|11|Mikk Ounmaa |Heiko Zoober|5|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|4|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|8|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:27|5|Magdalena Swierczynska|Karolina Wladzinska|11|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:27|3|Magdalena Swierczynska|Karolina Wladzinska|11|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|2|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Ekaterina Kut |Ksenia Evgenova|5|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Ekaterina Kut |Ksenia Evgenova|4|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:19|11|Ekaterina Kut |Ksenia Evgenova|4|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|3|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|3|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|4|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912||Walkover Win|Patryk Jas |Aleksander Jablonski|Walkover Loss|Alexander Loginov|Egor Kholkin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|7|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|4|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140912|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|6|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:35|6|Laurynas Sparnauskis|none|11|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|11|Laurynas Sparnauskis|none|10|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|11|Laurynas Sparnauskis|none|6|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|7|Laurynas Sparnauskis|none|11|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|11|Laurynas Sparnauskis|none|9|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Karl Kert|none|4|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Karl Kert|none|6|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Karl Kert|none|4|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|10|Karolis Eimutaitis|none|11|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|8|Karolis Eimutaitis|none|11|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|11|Karolis Eimutaitis|none|4|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|11|Karolis Eimutaitis|none|6|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|11|Karolis Eimutaitis|none|8|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:34|11|Mikk Ounmaa|none|7|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:34|10|Mikk Ounmaa|none|11|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:34|11|Mikk Ounmaa|none|10|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:34|8|Mikk Ounmaa|none|11|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:34|11|Mikk Ounmaa|none|8|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:32|10|Maryia Filipovich|none|11|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:32|11|Maryia Filipovich|none|9|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:32|11|Maryia Filipovich|none|4|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:32|8|Maryia Filipovich|none|11|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:32|11|Maryia Filipovich|none|7|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Karolina Wladzinska|none|8|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Karolina Wladzinska|none|3|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|8|Karolina Wladzinska|none|11|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Karolina Wladzinska|none|5|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Katarina Kliit|none|1|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Katarina Kliit|none|1|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Katarina Kliit|none|9|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Yana Ignatyeva|none|3|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Yana Ignatyeva|none|5|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Yana Ignatyeva|none|4|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913||Walkover Win|Katsiaryna Zablotskaya|none|Walkover Loss|Magdalena Lajdova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Mikk Ounmaa|Grete Pall|7|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:17|11|Mikk Ounmaa|Grete Pall|2|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:17|11|Mikk Ounmaa|Grete Pall|7|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:33|10|Niks Podosinoviks|Jekaterina Romanova|11|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:33|11|Niks Podosinoviks|Jekaterina Romanova|10|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:33|11|Niks Podosinoviks|Jekaterina Romanova|2|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:33|6|Niks Podosinoviks|Jekaterina Romanova|11|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:33|11|Niks Podosinoviks|Jekaterina Romanova|6|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Albert Tamm|Denisa Sikalova|9|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Albert Tamm|Denisa Sikalova|8|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Albert Tamm|Denisa Sikalova|5|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:20|11|Patryk Jas|Magda Konieczna|10|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:20|11|Patryk Jas|Magda Konieczna|1|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:20|11|Patryk Jas|Magda Konieczna|1|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:32|11|Pawel Smilowski|Magdalena Swierczynska|5|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:32|9|Pawel Smilowski|Magdalena Swierczynska|11|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:32|10|Pawel Smilowski|Magdalena Swierczynska|11|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:32|11|Pawel Smilowski|Magdalena Swierczynska|5|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:32|11|Pawel Smilowski|Magdalena Swierczynska|8|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Aleksander Jablonski|Kornelia Marczak|3|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Aleksander Jablonski|Kornelia Marczak|4|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Aleksander Jablonski|Kornelia Marczak|10|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:39|7|Wolfgang Gnedt|Antonia Meinke|11|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:39|11|Wolfgang Gnedt|Antonia Meinke|5|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:39|5|Wolfgang Gnedt|Antonia Meinke|11|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:39|11|Wolfgang Gnedt|Antonia Meinke|7|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:39|11|Wolfgang Gnedt|Antonia Meinke|10|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Robert Joonas|Yana Ignatyeva|2|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Robert Joonas|Yana Ignatyeva|5|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Robert Joonas|Yana Ignatyeva|9|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:13|11|Mantas Satrauskas|none|2|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:13|11|Mantas Satrauskas|none|2|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:13|11|Mantas Satrauskas|none|10|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Kristin Kuuba |none|6|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Kristin Kuuba |none|3|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Kristin Kuuba |none|3|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Mario Saunpere |none|3|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Mario Saunpere |none|4|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Mario Saunpere |none|6|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Laurynas Sparnauskis|none|6|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Laurynas Sparnauskis|none|8|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Laurynas Sparnauskis|none|7|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913||Walkover Win|Sale-Liis Teesalu|none|Walkover Loss|Rebeka Alekseviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Kati-Kreet Marran|none|9|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Kati-Kreet Marran|none|4|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Kati-Kreet Marran|none|9|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Wolfgang Gnedt |none|0|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Wolfgang Gnedt |none|3|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Wolfgang Gnedt |none|4|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|11|Mihkel Laanes |none|7|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|11|Mihkel Laanes |none|4|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|10|Mihkel Laanes |none|11|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|11|Mihkel Laanes |none|4|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Maryia Filipovich|none|2|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Maryia Filipovich|none|6|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Maryia Filipovich|none|4|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:12|11|Magda Konieczna |none|1|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:12|11|Magda Konieczna |none|3|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:12|11|Magda Konieczna |none|4|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Niks Podosinoviks|none|6|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Niks Podosinoviks|none|7|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Niks Podosinoviks|none|7|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913||Walkover Win|Pawel Smilowski |none|Walkover Loss|Lukas Zebrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:13|11|Karolina Wladzinska|none|2|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:13|11|Karolina Wladzinska|none|1|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:13|11|Karolina Wladzinska|none|2|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Ekaterina Kut |none|3|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Ekaterina Kut |none|6|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Ekaterina Kut |none|8|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:20|11|Karl Kert|none|5|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:20|11|Karl Kert|none|6|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:20|11|Karl Kert|none|9|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913||Walkover Win|Karolis Eimutaitis|none|Walkover Loss|Egor Kholkin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|5|Valeria Menkova|none|11|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Valeria Menkova|none|8|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Valeria Menkova|none|5|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Valeria Menkova|none|8|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Yana Ignatyeva|none|9|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Yana Ignatyeva|none|5|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Yana Ignatyeva|none|3|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|4|Aleksander Jablonski |none|11|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|11|Aleksander Jablonski |none|9|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|11|Aleksander Jablonski |none|6|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|11|Aleksander Jablonski |none|8|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:31|11|Giedrius Dima|none|8|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:31|11|Giedrius Dima|none|9|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:31|7|Giedrius Dima|none|11|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:31|11|Giedrius Dima|none|3|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Joanna Stanisz |none|6|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Joanna Stanisz |none|5|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Joanna Stanisz |none|3|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:21|11|Irina Shorokhova|none|5|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:21|11|Irina Shorokhova|none|4|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:21|11|Irina Shorokhova|none|6|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913||Walkover Win|Aleksandr Vasilkin |none|Walkover Loss|Jakub Hurta|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Mikk Ounmaa|none|10|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Mikk Ounmaa|none|9|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|10|Mikk Ounmaa|none|11|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Mikk Ounmaa|none|10|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:43|11|Helina Ruutel |none|4|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:43|10|Helina Ruutel |none|11|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:43|11|Helina Ruutel |none|6|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:43|9|Helina Ruutel |none|11|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:43|11|Helina Ruutel |none|10|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|5|Mari Ann Karjus|none|11|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Mari Ann Karjus|none|4|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|9|Mari Ann Karjus|none|11|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Mari Ann Karjus|none|10|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Mari Ann Karjus|none|5|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Mateusz Biernacki |none|6|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Mateusz Biernacki |none|5|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Mateusz Biernacki |none|2|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913||Walkover Win|Robert Joonas|none|Walkover Loss|Robert Krikk|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Aleksandra Semenova|none|6|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|7|Aleksandra Semenova|none|11|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|7|Aleksandra Semenova|none|11|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Aleksandra Semenova|none|6|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Aleksandra Semenova|none|3|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|10|Gabrielė Paskeviciute|none|11|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|11|Gabrielė Paskeviciute|none|10|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|6|Gabrielė Paskeviciute|none|11|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|11|Gabrielė Paskeviciute|none|9|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:24|11|Gabrielė Paskeviciute|none|4|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:27|11|Heiko Zoober |none|7|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:27|11|Heiko Zoober |none|10|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:27|7|Heiko Zoober |none|11|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:27|11|Heiko Zoober |none|3|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Ksenia Evgenova |none|10|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Ksenia Evgenova |none|5|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:16|11|Ksenia Evgenova |none|8|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|7|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|6|Magdalena Swierczynska|Karolina Wladzinska|11|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|9|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|10|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Wolfgang Gnedt |none|7|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Wolfgang Gnedt |none|3|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Wolfgang Gnedt |none|2|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Laurynas Sparnauskis|none|10|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Laurynas Sparnauskis|none|9|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Laurynas Sparnauskis|none|6|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Kristin Kuuba |none|5|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|7|Kristin Kuuba |none|11|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Kristin Kuuba |none|9|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Kristin Kuuba |none|4|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Ekaterina Kut |none|6|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Ekaterina Kut |none|6|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|9|Ekaterina Kut |none|11|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:29|11|Ekaterina Kut |none|5|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Mihkel Laanes |none|9|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Mihkel Laanes |none|2|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Mihkel Laanes |none|9|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Pawel Smilowski |none|1|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Pawel Smilowski |none|4|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:14|11|Pawel Smilowski |none|10|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Kati-Kreet Marran|none|6|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Kati-Kreet Marran|none|10|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:17|11|Kati-Kreet Marran|none|3|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Magda Konieczna |none|8|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Magda Konieczna |none|4|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:22|11|Magda Konieczna |none|7|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|11|Karolis Eimutaitis|none|4|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|11|Karolis Eimutaitis|none|5|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|10|Karolis Eimutaitis|none|11|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|9|Karolis Eimutaitis|none|11|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:35|11|Karolis Eimutaitis|none|10|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|10|Aleksandr Vasilkin |none|11|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Aleksandr Vasilkin |none|2|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Aleksandr Vasilkin |none|7|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:26|11|Aleksandr Vasilkin |none|6|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:42|11|Joanna Stanisz |none|7|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:42|11|Joanna Stanisz |none|8|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:42|8|Joanna Stanisz |none|11|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:42|8|Joanna Stanisz |none|11|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:42|11|Joanna Stanisz |none|5|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Irina Shorokhova|none|9|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Irina Shorokhova|none|9|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:19|11|Irina Shorokhova|none|6|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:15|11|Mateusz Biernacki |none|2|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:15|11|Mateusz Biernacki |none|7|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:15|11|Mateusz Biernacki |none|5|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Heiko Zoober |none|5|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Heiko Zoober |none|8|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Heiko Zoober |none|10|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Aleksandra Semenova|none|8|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Aleksandra Semenova|none|3|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:18|11|Aleksandra Semenova|none|2|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:08|11|Ksenia Evgenova |none|1|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:08|11|Ksenia Evgenova |none|0|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:08|11|Ksenia Evgenova |none|0|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140913|0:15|11|Mario Saunpere |Mihkel Laanes|7|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Mario Saunpere |Mihkel Laanes|6|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Mario Saunpere |Mihkel Laanes|7|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913||Walkover Win|Marcus Loo|Karl Kert|Walkover Loss|Ailantas Sutkus|Lukas Zebrauskas|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|5|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|1|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|6|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:10|11|Yana Ignatyeva |Kristina Vyrvich|3|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:10|11|Yana Ignatyeva |Kristina Vyrvich|2|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:10|11|Yana Ignatyeva |Kristina Vyrvich|1|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|7|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:26|9|Niks Podosinoviks|Kristaps Janis Gulbis|11|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:26|9|Niks Podosinoviks|Kristaps Janis Gulbis|11|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|5|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|9|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Michal Kikosicki |Pawel Smilowski|6|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Michal Kikosicki |Pawel Smilowski|4|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Michal Kikosicki |Pawel Smilowski|8|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Kornelia Marczak|Joanna Stanisz|6|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Kornelia Marczak|Joanna Stanisz|3|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:15|11|Kornelia Marczak|Joanna Stanisz|2|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:16|11|Aleksandra Semenova|Irina Shorokhova|5|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:16|11|Aleksandra Semenova|Irina Shorokhova|5|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:16|11|Aleksandra Semenova|Irina Shorokhova|4|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|7|Laurynas Sparnauskis|Timon Schwarz|11|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|11|Laurynas Sparnauskis|Timon Schwarz|6|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|11|Laurynas Sparnauskis|Timon Schwarz|7|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|9|Laurynas Sparnauskis|Timon Schwarz|11|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:30|11|Laurynas Sparnauskis|Timon Schwarz|3|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:18|11|Mikk Ounmaa |Heiko Zoober|6|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:18|8|Mikk Ounmaa |Heiko Zoober|11|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:18|11|Mikk Ounmaa |Heiko Zoober|9|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:18|11|Mikk Ounmaa |Heiko Zoober|5|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|4|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|8|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:27|5|Magdalena Swierczynska|Karolina Wladzinska|11|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:27|3|Magdalena Swierczynska|Karolina Wladzinska|11|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|2|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Ekaterina Kut |Ksenia Evgenova|5|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Ekaterina Kut |Ksenia Evgenova|4|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:19|11|Ekaterina Kut |Ksenia Evgenova|4|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|3|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|3|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|4|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913||Walkover Win|Patryk Jas |Aleksander Jablonski|Walkover Loss|Alexander Loginov|Egor Kholkin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|7|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|4|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140913|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|6|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:35|6|Laurynas Sparnauskis|none|11|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|11|Laurynas Sparnauskis|none|10|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|11|Laurynas Sparnauskis|none|6|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|7|Laurynas Sparnauskis|none|11|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|11|Laurynas Sparnauskis|none|9|Cristian Savin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Karl Kert|none|4|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Karl Kert|none|6|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Karl Kert|none|4|Paulius Jascemskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|10|Karolis Eimutaitis|none|11|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|8|Karolis Eimutaitis|none|11|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|11|Karolis Eimutaitis|none|4|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|11|Karolis Eimutaitis|none|6|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|11|Karolis Eimutaitis|none|8|Dmitrii Klimenko|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:34|11|Mikk Ounmaa|none|7|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:34|10|Mikk Ounmaa|none|11|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:34|11|Mikk Ounmaa|none|10|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:34|8|Mikk Ounmaa|none|11|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:34|11|Mikk Ounmaa|none|8|Kristaps Janis Gulbis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:32|10|Maryia Filipovich|none|11|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:32|11|Maryia Filipovich|none|9|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:32|11|Maryia Filipovich|none|4|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:32|8|Maryia Filipovich|none|11|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:32|11|Maryia Filipovich|none|7|Elizabet Berzanskyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Karolina Wladzinska|none|8|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Karolina Wladzinska|none|3|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|8|Karolina Wladzinska|none|11|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Karolina Wladzinska|none|5|Gabriele Janusonyte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Katarina Kliit|none|1|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Katarina Kliit|none|1|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Katarina Kliit|none|9|Sofija Bagdonaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Yana Ignatyeva|none|3|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Yana Ignatyeva|none|5|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Yana Ignatyeva|none|4|Vaiva Zymantaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Antonia Meinke|none|3|Elzbieta Bajorinaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914||Walkover Win|Katsiaryna Zablotskaya|none|Walkover Loss|Magdalena Lajdova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Mikk Ounmaa|Grete Pall|7|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:17|11|Mikk Ounmaa|Grete Pall|2|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:17|11|Mikk Ounmaa|Grete Pall|7|Rokas Minderis|Emilija Jarosaityte|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:33|10|Niks Podosinoviks|Jekaterina Romanova|11|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:33|11|Niks Podosinoviks|Jekaterina Romanova|10|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:33|11|Niks Podosinoviks|Jekaterina Romanova|2|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:33|6|Niks Podosinoviks|Jekaterina Romanova|11|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:33|11|Niks Podosinoviks|Jekaterina Romanova|6|Alexander Loginov|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Albert Tamm|Denisa Sikalova|9|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Albert Tamm|Denisa Sikalova|8|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Albert Tamm|Denisa Sikalova|5|Giedrius Dima|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:20|11|Patryk Jas|Magda Konieczna|10|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:20|11|Patryk Jas|Magda Konieczna|1|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:20|11|Patryk Jas|Magda Konieczna|1|Kristaps Janis Gulbis|Liana Lencevica|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:32|11|Pawel Smilowski|Magdalena Swierczynska|5|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:32|9|Pawel Smilowski|Magdalena Swierczynska|11|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:32|10|Pawel Smilowski|Magdalena Swierczynska|11|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:32|11|Pawel Smilowski|Magdalena Swierczynska|5|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:32|11|Pawel Smilowski|Magdalena Swierczynska|8|Laurynas Sparnauskis|Helina Ruutel|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Aleksander Jablonski|Kornelia Marczak|3|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Aleksander Jablonski|Kornelia Marczak|4|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Aleksander Jablonski|Kornelia Marczak|10|Aringas Trimakas|Veronika Michailova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:39|7|Wolfgang Gnedt|Antonia Meinke|11|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:39|11|Wolfgang Gnedt|Antonia Meinke|5|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:39|5|Wolfgang Gnedt|Antonia Meinke|11|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:39|11|Wolfgang Gnedt|Antonia Meinke|7|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:39|11|Wolfgang Gnedt|Antonia Meinke|10|Artiom Ivanov|Irina Shorokhova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Robert Joonas|Yana Ignatyeva|2|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Robert Joonas|Yana Ignatyeva|5|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Robert Joonas|Yana Ignatyeva|9|Paulius Jascemskas|Elzbieta Bajorinaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:13|11|Mantas Satrauskas|none|2|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:13|11|Mantas Satrauskas|none|2|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:13|11|Mantas Satrauskas|none|10|Ailantas Sutkus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Kristin Kuuba |none|6|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Kristin Kuuba |none|3|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Kristin Kuuba |none|3|Hedda-Maret Eenmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Mario Saunpere |none|3|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Mario Saunpere |none|4|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Mario Saunpere |none|6|Alexander Loginov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Laurynas Sparnauskis|none|6|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Laurynas Sparnauskis|none|8|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Laurynas Sparnauskis|none|7|Albert Tamm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914||Walkover Win|Sale-Liis Teesalu|none|Walkover Loss|Rebeka Alekseviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Kati-Kreet Marran|none|9|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Kati-Kreet Marran|none|4|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Kati-Kreet Marran|none|9|Jekaterina Romanova [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Wolfgang Gnedt |none|0|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Wolfgang Gnedt |none|3|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Wolfgang Gnedt |none|4|Rokas Minderis|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|11|Mihkel Laanes |none|7|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|11|Mihkel Laanes |none|4|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|10|Mihkel Laanes |none|11|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|11|Mihkel Laanes |none|4|Artiom Ivanov|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Maryia Filipovich|none|2|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Maryia Filipovich|none|6|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Maryia Filipovich|none|4|Emilija Jarosaityte|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:12|11|Magda Konieczna |none|1|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:12|11|Magda Konieczna |none|3|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:12|11|Magda Konieczna |none|4|Veronika Michailova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Niks Podosinoviks|none|6|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Niks Podosinoviks|none|7|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Niks Podosinoviks|none|7|Radomir Onuchin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914||Walkover Win|Pawel Smilowski |none|Walkover Loss|Lukas Zebrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:13|11|Karolina Wladzinska|none|2|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:13|11|Karolina Wladzinska|none|1|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:13|11|Karolina Wladzinska|none|2|Monika Viliunaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Ekaterina Kut |none|3|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Ekaterina Kut |none|6|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Ekaterina Kut |none|8|Mai-Liis Palm|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:20|11|Karl Kert|none|5|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:20|11|Karl Kert|none|6|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:20|11|Karl Kert|none|9|Aringas Trimakas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914||Walkover Win|Karolis Eimutaitis|none|Walkover Loss|Egor Kholkin|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|5|Valeria Menkova|none|11|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Valeria Menkova|none|8|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Valeria Menkova|none|5|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Valeria Menkova|none|8|Katarina Kliit|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Yana Ignatyeva|none|9|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Yana Ignatyeva|none|5|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Yana Ignatyeva|none|3|Grete Pall|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|4|Aleksander Jablonski |none|11|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|11|Aleksander Jablonski |none|9|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|11|Aleksander Jablonski |none|6|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|11|Aleksander Jablonski |none|8|Marcus Loo|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:31|11|Giedrius Dima|none|8|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:31|11|Giedrius Dima|none|9|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:31|7|Giedrius Dima|none|11|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:31|11|Giedrius Dima|none|3|Timon Schwarz|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Joanna Stanisz |none|6|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Joanna Stanisz |none|5|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Joanna Stanisz |none|3|Liana Lencevica|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:21|11|Irina Shorokhova|none|5|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:21|11|Irina Shorokhova|none|4|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:21|11|Irina Shorokhova|none|6|Antonia Meinke|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914||Walkover Win|Aleksandr Vasilkin |none|Walkover Loss|Jakub Hurta|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Mikk Ounmaa|none|10|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Mikk Ounmaa|none|9|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|10|Mikk Ounmaa|none|11|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Mikk Ounmaa|none|10|Paulius Bertasius|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:43|11|Helina Ruutel |none|4|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:43|10|Helina Ruutel |none|11|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:43|11|Helina Ruutel |none|6|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:43|9|Helina Ruutel |none|11|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:43|11|Helina Ruutel |none|10|Kristina Vyrvich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|5|Mari Ann Karjus|none|11|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Mari Ann Karjus|none|4|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|9|Mari Ann Karjus|none|11|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Mari Ann Karjus|none|10|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Mari Ann Karjus|none|5|Katsiaryna Zablotskaya|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Mateusz Biernacki |none|6|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Mateusz Biernacki |none|5|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Mateusz Biernacki |none|2|Karolis Reimeris|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914||Walkover Win|Robert Joonas|none|Walkover Loss|Robert Krikk|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Aleksandra Semenova|none|6|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|7|Aleksandra Semenova|none|11|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|7|Aleksandra Semenova|none|11|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Aleksandra Semenova|none|6|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Aleksandra Semenova|none|3|Vytaute Fomkinaite [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|10|Gabrielė Paskeviciute|none|11|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|11|Gabrielė Paskeviciute|none|10|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|6|Gabrielė Paskeviciute|none|11|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|11|Gabrielė Paskeviciute|none|9|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:24|11|Gabrielė Paskeviciute|none|4|Patricija Levinskaite|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:27|11|Heiko Zoober |none|7|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:27|11|Heiko Zoober |none|10|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:27|7|Heiko Zoober |none|11|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:27|11|Heiko Zoober |none|3|Michal Kikosicki|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Ksenia Evgenova |none|10|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Ksenia Evgenova |none|5|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:16|11|Ksenia Evgenova |none|8|Olga Rogova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|7|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|6|Magdalena Swierczynska|Karolina Wladzinska|11|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|9|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|11|Magdalena Swierczynska|Karolina Wladzinska|10|Liana Lencevica|Jekaterina Romanova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Wolfgang Gnedt |none|7|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Wolfgang Gnedt |none|3|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Wolfgang Gnedt |none|2|Mantas Satrauskas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Laurynas Sparnauskis|none|10|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Laurynas Sparnauskis|none|9|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Laurynas Sparnauskis|none|6|Mario Saunpere [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Kristin Kuuba |none|5|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|7|Kristin Kuuba |none|11|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Kristin Kuuba |none|9|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Kristin Kuuba |none|4|Sale-Liis Teesalu|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Ekaterina Kut |none|6|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Ekaterina Kut |none|6|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|9|Ekaterina Kut |none|11|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:29|11|Ekaterina Kut |none|5|Valeria Menkova|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Mihkel Laanes |none|9|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Mihkel Laanes |none|2|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Mihkel Laanes |none|9|Niks Podosinoviks|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Pawel Smilowski |none|1|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Pawel Smilowski |none|4|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:14|11|Pawel Smilowski |none|10|Karl Kert|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Kati-Kreet Marran|none|6|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Kati-Kreet Marran|none|10|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:17|11|Kati-Kreet Marran|none|3|Maryia Filipovich|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Magda Konieczna |none|8|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Magda Konieczna |none|4|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:22|11|Magda Konieczna |none|7|Karolina Wladzinska|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|11|Karolis Eimutaitis|none|4|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|11|Karolis Eimutaitis|none|5|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|10|Karolis Eimutaitis|none|11|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|9|Karolis Eimutaitis|none|11|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:35|11|Karolis Eimutaitis|none|10|Aleksander Jablonski [5/8]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|10|Aleksandr Vasilkin |none|11|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Aleksandr Vasilkin |none|2|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Aleksandr Vasilkin |none|7|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:26|11|Aleksandr Vasilkin |none|6|Giedrius Dima|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:42|11|Joanna Stanisz |none|7|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:42|11|Joanna Stanisz |none|8|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:42|8|Joanna Stanisz |none|11|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:42|8|Joanna Stanisz |none|11|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:42|11|Joanna Stanisz |none|5|Yana Ignatyeva|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Irina Shorokhova|none|9|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Irina Shorokhova|none|9|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:19|11|Irina Shorokhova|none|6|Helina Ruutel [3/4]|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:15|11|Mateusz Biernacki |none|2|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:15|11|Mateusz Biernacki |none|7|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:15|11|Mateusz Biernacki |none|5|Mikk Ounmaa|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Heiko Zoober |none|5|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Heiko Zoober |none|8|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Heiko Zoober |none|10|Robert Joonas|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Aleksandra Semenova|none|8|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Aleksandra Semenova|none|3|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:18|11|Aleksandra Semenova|none|2|Mari Ann Karjus|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:08|11|Ksenia Evgenova |none|1|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:08|11|Ksenia Evgenova |none|0|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:08|11|Ksenia Evgenova |none|0|Gabrielė Paskeviciute|none|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|singles
+20140914|0:15|11|Mario Saunpere |Mihkel Laanes|7|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Mario Saunpere |Mihkel Laanes|6|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Mario Saunpere |Mihkel Laanes|7|Aleksandr Vasilkin|Artiom Ivanov|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914||Walkover Win|Marcus Loo|Karl Kert|Walkover Loss|Ailantas Sutkus|Lukas Zebrauskas|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|5|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|1|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:14|11|Kati-Kreet Marran |Sale-Liis Teesalu|6|Elzbieta Bajorinaite|Vaiva Zymantaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:10|11|Yana Ignatyeva |Kristina Vyrvich|3|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:10|11|Yana Ignatyeva |Kristina Vyrvich|2|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:10|11|Yana Ignatyeva |Kristina Vyrvich|1|Emilija Jarosaityte|Monika Viliunaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|7|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:26|9|Niks Podosinoviks|Kristaps Janis Gulbis|11|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:26|9|Niks Podosinoviks|Kristaps Janis Gulbis|11|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|5|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:26|11|Niks Podosinoviks|Kristaps Janis Gulbis|9|Paulius Bertasius|Karolis Reimeris|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Michal Kikosicki |Pawel Smilowski|6|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Michal Kikosicki |Pawel Smilowski|4|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Michal Kikosicki |Pawel Smilowski|8|Dmitrii Klimenko|Radomir Onuchin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Kornelia Marczak|Joanna Stanisz|6|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Kornelia Marczak|Joanna Stanisz|3|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:15|11|Kornelia Marczak|Joanna Stanisz|2|Katsiaryna Zablotskaya|Maryia Filipovich|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:16|11|Aleksandra Semenova|Irina Shorokhova|5|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:16|11|Aleksandra Semenova|Irina Shorokhova|5|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:16|11|Aleksandra Semenova|Irina Shorokhova|4|Olga Rogova|Valeria Menkova|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|7|Laurynas Sparnauskis|Timon Schwarz|11|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|11|Laurynas Sparnauskis|Timon Schwarz|6|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|11|Laurynas Sparnauskis|Timon Schwarz|7|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|9|Laurynas Sparnauskis|Timon Schwarz|11|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:30|11|Laurynas Sparnauskis|Timon Schwarz|3|Giedrius Dima|Karolis Eimutaitis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:18|11|Mikk Ounmaa |Heiko Zoober|6|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:18|8|Mikk Ounmaa |Heiko Zoober|11|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:18|11|Mikk Ounmaa |Heiko Zoober|9|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:18|11|Mikk Ounmaa |Heiko Zoober|5|Paulius Jascemskas|Rokas Minderis|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|4|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|8|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:27|5|Magdalena Swierczynska|Karolina Wladzinska|11|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:27|3|Magdalena Swierczynska|Karolina Wladzinska|11|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:27|11|Magdalena Swierczynska|Karolina Wladzinska|2|Denisa Sikalova|Gabija Narvilaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Ekaterina Kut |Ksenia Evgenova|5|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Ekaterina Kut |Ksenia Evgenova|4|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:19|11|Ekaterina Kut |Ksenia Evgenova|4|Elizabet Berzanskyte|Gabrielė Paskeviciute|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|3|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|3|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:11|11|Przemyslaw Szydlowski|Mateusz Biernacki|4|Robert Joonas|Albert Tamm|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914||Walkover Win|Patryk Jas |Aleksander Jablonski|Walkover Loss|Alexander Loginov|Egor Kholkin|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|7|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|4|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles
+20140914|0:16|11|Mari Ann Karjus|Hedda-Maret Eenmaa|6|Patricija Levinskaite|Sofija Bagdonaite|FC9789BA-F967-45EC-A4F3-B4F11B9F4851|doubles

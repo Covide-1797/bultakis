@@ -1,0 +1,943 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20170801|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|10|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:40|18|Abhinav Manota|Justine Villegas|21|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:40|21|Abhinav Manota|Justine Villegas|10|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:40|21|Abhinav Manota|Justine Villegas|18|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:17|21|Riky Widianto|Richi Puspita Dili|8|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:17|21|Riky Widianto|Richi Puspita Dili|3|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:23|21|Jason Seto|Rebecca Hayley Fong|16|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:23|21|Jason Seto|Rebecca Hayley Fong|18|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|7|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|14|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:25|21|Maika Phillips|Anona Pak|12|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:25|21|Maika Phillips|Anona Pak|15|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:29|14|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:18|21|Sanyogita Ghorpade|none|14|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:18|21|Sanyogita Ghorpade|none|9|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:28|21|Tony Fang|none|19|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:28|22|Tony Fang|none|20|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:45|21|Emily Beach |none|13|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:45|14|Emily Beach |none|21|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:45|21|Emily Beach |none|17|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:18|21|Abhinav Manota|none|6|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:18|21|Abhinav Manota|none|11|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:39|21|Christopher Steeghs|none|11|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:39|12|Christopher Steeghs|none|21|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:39|21|Christopher Steeghs|none|16|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|23|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|8|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|21|Khaeriah Rosmini|none|7|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:20|21|Yingzi Jiang|none|10|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:20|21|Yingzi Jiang|none|16|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Chan Alan Yun Lung|none|8|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Chan Alan Yun Lung|none|12|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:35|21|Ella Smith|none|17|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:35|18|Ella Smith|none|21|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:35|21|Ella Smith|none|10|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:49|21|Chee Foong Lim|none|13|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:49|14|Chee Foong Lim|none|21|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:49|21|Chee Foong Lim|none|17|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Vincent Harris|none|18|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Vincent Harris|none|17|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|21|Manula Peires|none|19|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|20|Manula Peires|none|22|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|21|Manula Peires|none|17|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|13|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:16|21|Riky Widianto|Richi Puspita Dili|15|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:16|21|Riky Widianto|Richi Puspita Dili|2|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:24|21|Maika Phillips|Anona Pak|13|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:24|21|Maika Phillips|Anona Pak|11|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|18|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:16|21|Joshua Feng|none|9|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:16|21|Joshua Feng|none|7|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:20|21|Emily Beach |none|13|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:20|21|Emily Beach |none|14|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:20|21|Ricky Cheng|Evan Wong|17|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:20|21|Ricky Cheng|Evan Wong|18|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:34|21|Jack Boyle|Jason Seto|8|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:34|16|Jack Boyle|Jason Seto|21|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:34|21|Jack Boyle|Jason Seto|15|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:43|21|Maika Phillips|Christopher Steeghs|14|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:43|15|Maika Phillips|Christopher Steeghs|21|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:43|21|Maika Phillips|Christopher Steeghs|18|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:23|21|Callum Harfield|Valens Sulaiman|16|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:23|22|Callum Harfield|Valens Sulaiman|20|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:23|21|Christine Zhang|none|9|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:23|21|Christine Zhang|none|16|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:46|21|Xie Yongshi|none|11|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:46|22|Xie Yongshi|none|24|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:46|21|Xie Yongshi|none|19|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:15|21|Yingzi Jiang|none|5|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:15|21|Yingzi Jiang|none|13|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:35|15|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:35|21|Ricky Cheng|Evan Wong|13|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:35|23|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:23|21|Abhinav Manota|Dylan Soedjasa|10|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:23|21|Abhinav Manota|Dylan Soedjasa|15|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:24|21|Maika Phillips|Christopher Steeghs|13|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:24|21|Maika Phillips|Christopher Steeghs|14|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|17|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|16|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170801|0:17|21|Neeraj Vashist|none|8|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:17|21|Neeraj Vashist|none|9|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:24|21|Giap Chin Goh|none|12|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:24|21|Giap Chin Goh|none|8|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:32|21|Wang Yuehang|none|12|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:32|21|Wang Yuehang|none|16|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:25|21|Jia Wei Tan|none|15|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:25|21|Jia Wei Tan|none|13|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|23|Lee Cheuk Yiu|none|21|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|21|Lee Cheuk Yiu|none|14|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:25|21|Henrikho Kho Wibowo|none|10|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:25|21|Henrikho Kho Wibowo|none|14|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:39|21|Zhou Zeqi|none|15|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:39|21|Zhou Zeqi|none|16|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Hsu Jen Hao |none|8|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Hsu Jen Hao |none|9|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Anthony Joe|none|15|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Anthony Joe|none|18|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:31|21|Chia Hung Lu|none|19|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:31|21|Chia Hung Lu|none|13|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Siril Verma |none|13|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Siril Verma |none|12|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:30|21|Wei Feng Chong |none|11|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:30|21|Wei Feng Chong |none|10|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|21|Saputra Vicky Angga|none|16|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:37|21|Saputra Vicky Angga|none|12|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:36|21|Prannoy H. S. |none|14|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:36|21|Prannoy H. S. |none|16|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Oscar Guo|none|7|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:27|21|Oscar Guo|none|11|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:52|19|Wei Nan |none|21|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:52|21|Wei Nan |none|14|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:52|21|Wei Nan |none|16|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:39|21|Lin Yu Hsien |none|16|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:39|21|Lin Yu Hsien |none|14|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:30|21|Daren Liew |none|16|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:30|21|Daren Liew |none|18|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Parupalli Kashyap |none|5|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Parupalli Kashyap |none|10|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:18|21|Jonatan Christie |none|7|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:18|21|Jonatan Christie |none|6|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Tzu Wei Wang |none|5|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Tzu Wei Wang |none|12|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:38|9|Dacmen Vong|none|21|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:38|21|Dacmen Vong|none|10|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:38|22|Dacmen Vong|none|20|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:53|21|Wooi Yik Soh|none|23|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:53|21|Wooi Yik Soh|none|17|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:53|24|Wooi Yik Soh|none|22|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:26|21|Firman Abdul Kholik|none|9|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:26|21|Firman Abdul Kholik|none|12|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:19|21|Pratul Joshi|none|10|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:19|21|Pratul Joshi|none|13|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:21|21|Erik Meijs|none|11|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:21|21|Erik Meijs|none|5|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:31|21|Sourabh Verma |none|17|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:31|21|Sourabh Verma |none|15|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:34|17|Tony Fang|none|21|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:34|21|Tony Fang|none|12|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:34|21|Tony Fang|none|18|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:19|21|Jacob Schueler|none|5|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170801|0:19|21|Jacob Schueler|none|6|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|10|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:40|18|Abhinav Manota|Justine Villegas|21|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:40|21|Abhinav Manota|Justine Villegas|10|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:40|21|Abhinav Manota|Justine Villegas|18|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:17|21|Riky Widianto|Richi Puspita Dili|8|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:17|21|Riky Widianto|Richi Puspita Dili|3|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:23|21|Jason Seto|Rebecca Hayley Fong|16|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:23|21|Jason Seto|Rebecca Hayley Fong|18|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|7|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|14|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:25|21|Maika Phillips|Anona Pak|12|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:25|21|Maika Phillips|Anona Pak|15|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:29|14|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:18|21|Sanyogita Ghorpade|none|14|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:18|21|Sanyogita Ghorpade|none|9|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:28|21|Tony Fang|none|19|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:28|22|Tony Fang|none|20|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:45|21|Emily Beach |none|13|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:45|14|Emily Beach |none|21|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:45|21|Emily Beach |none|17|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:18|21|Abhinav Manota|none|6|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:18|21|Abhinav Manota|none|11|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:39|21|Christopher Steeghs|none|11|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:39|12|Christopher Steeghs|none|21|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:39|21|Christopher Steeghs|none|16|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|23|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|8|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|21|Khaeriah Rosmini|none|7|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:20|21|Yingzi Jiang|none|10|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:20|21|Yingzi Jiang|none|16|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Chan Alan Yun Lung|none|8|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Chan Alan Yun Lung|none|12|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:35|21|Ella Smith|none|17|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:35|18|Ella Smith|none|21|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:35|21|Ella Smith|none|10|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:49|21|Chee Foong Lim|none|13|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:49|14|Chee Foong Lim|none|21|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:49|21|Chee Foong Lim|none|17|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Vincent Harris|none|18|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Vincent Harris|none|17|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|21|Manula Peires|none|19|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|20|Manula Peires|none|22|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|21|Manula Peires|none|17|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|13|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:16|21|Riky Widianto|Richi Puspita Dili|15|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:16|21|Riky Widianto|Richi Puspita Dili|2|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:24|21|Maika Phillips|Anona Pak|13|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:24|21|Maika Phillips|Anona Pak|11|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|18|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:16|21|Joshua Feng|none|9|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:16|21|Joshua Feng|none|7|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:20|21|Emily Beach |none|13|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:20|21|Emily Beach |none|14|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:20|21|Ricky Cheng|Evan Wong|17|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:20|21|Ricky Cheng|Evan Wong|18|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:34|21|Jack Boyle|Jason Seto|8|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:34|16|Jack Boyle|Jason Seto|21|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:34|21|Jack Boyle|Jason Seto|15|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:43|21|Maika Phillips|Christopher Steeghs|14|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:43|15|Maika Phillips|Christopher Steeghs|21|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:43|21|Maika Phillips|Christopher Steeghs|18|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:23|21|Callum Harfield|Valens Sulaiman|16|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:23|22|Callum Harfield|Valens Sulaiman|20|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:23|21|Christine Zhang|none|9|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:23|21|Christine Zhang|none|16|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:46|21|Xie Yongshi|none|11|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:46|22|Xie Yongshi|none|24|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:46|21|Xie Yongshi|none|19|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:15|21|Yingzi Jiang|none|5|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:15|21|Yingzi Jiang|none|13|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:35|15|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:35|21|Ricky Cheng|Evan Wong|13|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:35|23|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:23|21|Abhinav Manota|Dylan Soedjasa|10|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:23|21|Abhinav Manota|Dylan Soedjasa|15|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:24|21|Maika Phillips|Christopher Steeghs|13|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:24|21|Maika Phillips|Christopher Steeghs|14|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|17|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|16|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170802|0:17|21|Neeraj Vashist|none|8|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:17|21|Neeraj Vashist|none|9|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:24|21|Giap Chin Goh|none|12|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:24|21|Giap Chin Goh|none|8|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:32|21|Wang Yuehang|none|12|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:32|21|Wang Yuehang|none|16|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:25|21|Jia Wei Tan|none|15|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:25|21|Jia Wei Tan|none|13|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|23|Lee Cheuk Yiu|none|21|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|21|Lee Cheuk Yiu|none|14|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:25|21|Henrikho Kho Wibowo|none|10|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:25|21|Henrikho Kho Wibowo|none|14|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:39|21|Zhou Zeqi|none|15|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:39|21|Zhou Zeqi|none|16|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Hsu Jen Hao |none|8|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Hsu Jen Hao |none|9|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Anthony Joe|none|15|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Anthony Joe|none|18|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:31|21|Chia Hung Lu|none|19|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:31|21|Chia Hung Lu|none|13|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Siril Verma |none|13|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Siril Verma |none|12|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:30|21|Wei Feng Chong |none|11|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:30|21|Wei Feng Chong |none|10|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|21|Saputra Vicky Angga|none|16|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:37|21|Saputra Vicky Angga|none|12|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:36|21|Prannoy H. S. |none|14|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:36|21|Prannoy H. S. |none|16|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Oscar Guo|none|7|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:27|21|Oscar Guo|none|11|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:52|19|Wei Nan |none|21|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:52|21|Wei Nan |none|14|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:52|21|Wei Nan |none|16|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:39|21|Lin Yu Hsien |none|16|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:39|21|Lin Yu Hsien |none|14|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:30|21|Daren Liew |none|16|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:30|21|Daren Liew |none|18|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Parupalli Kashyap |none|5|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Parupalli Kashyap |none|10|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:18|21|Jonatan Christie |none|7|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:18|21|Jonatan Christie |none|6|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Tzu Wei Wang |none|5|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Tzu Wei Wang |none|12|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:38|9|Dacmen Vong|none|21|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:38|21|Dacmen Vong|none|10|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:38|22|Dacmen Vong|none|20|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:53|21|Wooi Yik Soh|none|23|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:53|21|Wooi Yik Soh|none|17|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:53|24|Wooi Yik Soh|none|22|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:26|21|Firman Abdul Kholik|none|9|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:26|21|Firman Abdul Kholik|none|12|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:19|21|Pratul Joshi|none|10|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:19|21|Pratul Joshi|none|13|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:21|21|Erik Meijs|none|11|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:21|21|Erik Meijs|none|5|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:31|21|Sourabh Verma |none|17|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:31|21|Sourabh Verma |none|15|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:34|17|Tony Fang|none|21|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:34|21|Tony Fang|none|12|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:34|21|Tony Fang|none|18|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:19|21|Jacob Schueler|none|5|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170802|0:19|21|Jacob Schueler|none|6|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|10|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:40|18|Abhinav Manota|Justine Villegas|21|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:40|21|Abhinav Manota|Justine Villegas|10|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:40|21|Abhinav Manota|Justine Villegas|18|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:17|21|Riky Widianto|Richi Puspita Dili|8|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:17|21|Riky Widianto|Richi Puspita Dili|3|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:23|21|Jason Seto|Rebecca Hayley Fong|16|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:23|21|Jason Seto|Rebecca Hayley Fong|18|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|7|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|14|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:25|21|Maika Phillips|Anona Pak|12|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:25|21|Maika Phillips|Anona Pak|15|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:29|14|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:18|21|Sanyogita Ghorpade|none|14|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:18|21|Sanyogita Ghorpade|none|9|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:28|21|Tony Fang|none|19|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:28|22|Tony Fang|none|20|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:45|21|Emily Beach |none|13|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:45|14|Emily Beach |none|21|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:45|21|Emily Beach |none|17|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:18|21|Abhinav Manota|none|6|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:18|21|Abhinav Manota|none|11|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:39|21|Christopher Steeghs|none|11|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:39|12|Christopher Steeghs|none|21|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:39|21|Christopher Steeghs|none|16|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|23|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|8|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|21|Khaeriah Rosmini|none|7|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:20|21|Yingzi Jiang|none|10|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:20|21|Yingzi Jiang|none|16|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Chan Alan Yun Lung|none|8|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Chan Alan Yun Lung|none|12|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:35|21|Ella Smith|none|17|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:35|18|Ella Smith|none|21|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:35|21|Ella Smith|none|10|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:49|21|Chee Foong Lim|none|13|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:49|14|Chee Foong Lim|none|21|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:49|21|Chee Foong Lim|none|17|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Vincent Harris|none|18|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Vincent Harris|none|17|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|21|Manula Peires|none|19|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|20|Manula Peires|none|22|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|21|Manula Peires|none|17|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|13|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:16|21|Riky Widianto|Richi Puspita Dili|15|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:16|21|Riky Widianto|Richi Puspita Dili|2|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:24|21|Maika Phillips|Anona Pak|13|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:24|21|Maika Phillips|Anona Pak|11|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|18|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:16|21|Joshua Feng|none|9|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:16|21|Joshua Feng|none|7|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:20|21|Emily Beach |none|13|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:20|21|Emily Beach |none|14|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:20|21|Ricky Cheng|Evan Wong|17|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:20|21|Ricky Cheng|Evan Wong|18|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:34|21|Jack Boyle|Jason Seto|8|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:34|16|Jack Boyle|Jason Seto|21|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:34|21|Jack Boyle|Jason Seto|15|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:43|21|Maika Phillips|Christopher Steeghs|14|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:43|15|Maika Phillips|Christopher Steeghs|21|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:43|21|Maika Phillips|Christopher Steeghs|18|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:23|21|Callum Harfield|Valens Sulaiman|16|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:23|22|Callum Harfield|Valens Sulaiman|20|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:23|21|Christine Zhang|none|9|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:23|21|Christine Zhang|none|16|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:46|21|Xie Yongshi|none|11|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:46|22|Xie Yongshi|none|24|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:46|21|Xie Yongshi|none|19|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:15|21|Yingzi Jiang|none|5|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:15|21|Yingzi Jiang|none|13|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:35|15|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:35|21|Ricky Cheng|Evan Wong|13|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:35|23|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:23|21|Abhinav Manota|Dylan Soedjasa|10|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:23|21|Abhinav Manota|Dylan Soedjasa|15|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:24|21|Maika Phillips|Christopher Steeghs|13|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:24|21|Maika Phillips|Christopher Steeghs|14|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|17|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|16|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170803|0:17|21|Neeraj Vashist|none|8|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:17|21|Neeraj Vashist|none|9|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:24|21|Giap Chin Goh|none|12|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:24|21|Giap Chin Goh|none|8|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:32|21|Wang Yuehang|none|12|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:32|21|Wang Yuehang|none|16|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:25|21|Jia Wei Tan|none|15|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:25|21|Jia Wei Tan|none|13|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|23|Lee Cheuk Yiu|none|21|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|21|Lee Cheuk Yiu|none|14|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:25|21|Henrikho Kho Wibowo|none|10|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:25|21|Henrikho Kho Wibowo|none|14|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:39|21|Zhou Zeqi|none|15|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:39|21|Zhou Zeqi|none|16|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Hsu Jen Hao |none|8|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Hsu Jen Hao |none|9|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Anthony Joe|none|15|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Anthony Joe|none|18|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:31|21|Chia Hung Lu|none|19|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:31|21|Chia Hung Lu|none|13|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Siril Verma |none|13|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Siril Verma |none|12|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:30|21|Wei Feng Chong |none|11|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:30|21|Wei Feng Chong |none|10|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|21|Saputra Vicky Angga|none|16|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:37|21|Saputra Vicky Angga|none|12|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:36|21|Prannoy H. S. |none|14|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:36|21|Prannoy H. S. |none|16|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Oscar Guo|none|7|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:27|21|Oscar Guo|none|11|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:52|19|Wei Nan |none|21|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:52|21|Wei Nan |none|14|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:52|21|Wei Nan |none|16|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:39|21|Lin Yu Hsien |none|16|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:39|21|Lin Yu Hsien |none|14|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:30|21|Daren Liew |none|16|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:30|21|Daren Liew |none|18|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Parupalli Kashyap |none|5|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Parupalli Kashyap |none|10|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:18|21|Jonatan Christie |none|7|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:18|21|Jonatan Christie |none|6|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Tzu Wei Wang |none|5|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Tzu Wei Wang |none|12|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:38|9|Dacmen Vong|none|21|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:38|21|Dacmen Vong|none|10|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:38|22|Dacmen Vong|none|20|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:53|21|Wooi Yik Soh|none|23|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:53|21|Wooi Yik Soh|none|17|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:53|24|Wooi Yik Soh|none|22|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:26|21|Firman Abdul Kholik|none|9|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:26|21|Firman Abdul Kholik|none|12|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:19|21|Pratul Joshi|none|10|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:19|21|Pratul Joshi|none|13|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:21|21|Erik Meijs|none|11|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:21|21|Erik Meijs|none|5|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:31|21|Sourabh Verma |none|17|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:31|21|Sourabh Verma |none|15|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:34|17|Tony Fang|none|21|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:34|21|Tony Fang|none|12|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:34|21|Tony Fang|none|18|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:19|21|Jacob Schueler|none|5|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170803|0:19|21|Jacob Schueler|none|6|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|10|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:40|18|Abhinav Manota|Justine Villegas|21|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:40|21|Abhinav Manota|Justine Villegas|10|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:40|21|Abhinav Manota|Justine Villegas|18|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:17|21|Riky Widianto|Richi Puspita Dili|8|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:17|21|Riky Widianto|Richi Puspita Dili|3|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:23|21|Jason Seto|Rebecca Hayley Fong|16|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:23|21|Jason Seto|Rebecca Hayley Fong|18|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|7|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|14|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:25|21|Maika Phillips|Anona Pak|12|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:25|21|Maika Phillips|Anona Pak|15|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:29|14|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:18|21|Sanyogita Ghorpade|none|14|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:18|21|Sanyogita Ghorpade|none|9|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:28|21|Tony Fang|none|19|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:28|22|Tony Fang|none|20|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:45|21|Emily Beach |none|13|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:45|14|Emily Beach |none|21|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:45|21|Emily Beach |none|17|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:18|21|Abhinav Manota|none|6|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:18|21|Abhinav Manota|none|11|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:39|21|Christopher Steeghs|none|11|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:39|12|Christopher Steeghs|none|21|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:39|21|Christopher Steeghs|none|16|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|23|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|8|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|21|Khaeriah Rosmini|none|7|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:20|21|Yingzi Jiang|none|10|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:20|21|Yingzi Jiang|none|16|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Chan Alan Yun Lung|none|8|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Chan Alan Yun Lung|none|12|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:35|21|Ella Smith|none|17|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:35|18|Ella Smith|none|21|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:35|21|Ella Smith|none|10|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:49|21|Chee Foong Lim|none|13|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:49|14|Chee Foong Lim|none|21|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:49|21|Chee Foong Lim|none|17|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Vincent Harris|none|18|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Vincent Harris|none|17|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|21|Manula Peires|none|19|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|20|Manula Peires|none|22|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|21|Manula Peires|none|17|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|13|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:16|21|Riky Widianto|Richi Puspita Dili|15|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:16|21|Riky Widianto|Richi Puspita Dili|2|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:24|21|Maika Phillips|Anona Pak|13|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:24|21|Maika Phillips|Anona Pak|11|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|18|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:16|21|Joshua Feng|none|9|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:16|21|Joshua Feng|none|7|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:20|21|Emily Beach |none|13|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:20|21|Emily Beach |none|14|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:20|21|Ricky Cheng|Evan Wong|17|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:20|21|Ricky Cheng|Evan Wong|18|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:34|21|Jack Boyle|Jason Seto|8|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:34|16|Jack Boyle|Jason Seto|21|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:34|21|Jack Boyle|Jason Seto|15|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:43|21|Maika Phillips|Christopher Steeghs|14|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:43|15|Maika Phillips|Christopher Steeghs|21|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:43|21|Maika Phillips|Christopher Steeghs|18|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:23|21|Callum Harfield|Valens Sulaiman|16|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:23|22|Callum Harfield|Valens Sulaiman|20|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:23|21|Christine Zhang|none|9|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:23|21|Christine Zhang|none|16|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:46|21|Xie Yongshi|none|11|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:46|22|Xie Yongshi|none|24|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:46|21|Xie Yongshi|none|19|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:15|21|Yingzi Jiang|none|5|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:15|21|Yingzi Jiang|none|13|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:35|15|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:35|21|Ricky Cheng|Evan Wong|13|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:35|23|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:23|21|Abhinav Manota|Dylan Soedjasa|10|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:23|21|Abhinav Manota|Dylan Soedjasa|15|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:24|21|Maika Phillips|Christopher Steeghs|13|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:24|21|Maika Phillips|Christopher Steeghs|14|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|17|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|16|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170804|0:17|21|Neeraj Vashist|none|8|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:17|21|Neeraj Vashist|none|9|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:24|21|Giap Chin Goh|none|12|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:24|21|Giap Chin Goh|none|8|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:32|21|Wang Yuehang|none|12|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:32|21|Wang Yuehang|none|16|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:25|21|Jia Wei Tan|none|15|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:25|21|Jia Wei Tan|none|13|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|23|Lee Cheuk Yiu|none|21|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|21|Lee Cheuk Yiu|none|14|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:25|21|Henrikho Kho Wibowo|none|10|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:25|21|Henrikho Kho Wibowo|none|14|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:39|21|Zhou Zeqi|none|15|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:39|21|Zhou Zeqi|none|16|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Hsu Jen Hao |none|8|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Hsu Jen Hao |none|9|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Anthony Joe|none|15|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Anthony Joe|none|18|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:31|21|Chia Hung Lu|none|19|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:31|21|Chia Hung Lu|none|13|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Siril Verma |none|13|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Siril Verma |none|12|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:30|21|Wei Feng Chong |none|11|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:30|21|Wei Feng Chong |none|10|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|21|Saputra Vicky Angga|none|16|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:37|21|Saputra Vicky Angga|none|12|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:36|21|Prannoy H. S. |none|14|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:36|21|Prannoy H. S. |none|16|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Oscar Guo|none|7|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:27|21|Oscar Guo|none|11|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:52|19|Wei Nan |none|21|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:52|21|Wei Nan |none|14|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:52|21|Wei Nan |none|16|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:39|21|Lin Yu Hsien |none|16|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:39|21|Lin Yu Hsien |none|14|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:30|21|Daren Liew |none|16|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:30|21|Daren Liew |none|18|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Parupalli Kashyap |none|5|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Parupalli Kashyap |none|10|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:18|21|Jonatan Christie |none|7|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:18|21|Jonatan Christie |none|6|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Tzu Wei Wang |none|5|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Tzu Wei Wang |none|12|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:38|9|Dacmen Vong|none|21|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:38|21|Dacmen Vong|none|10|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:38|22|Dacmen Vong|none|20|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:53|21|Wooi Yik Soh|none|23|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:53|21|Wooi Yik Soh|none|17|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:53|24|Wooi Yik Soh|none|22|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:26|21|Firman Abdul Kholik|none|9|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:26|21|Firman Abdul Kholik|none|12|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:19|21|Pratul Joshi|none|10|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:19|21|Pratul Joshi|none|13|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:21|21|Erik Meijs|none|11|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:21|21|Erik Meijs|none|5|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:31|21|Sourabh Verma |none|17|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:31|21|Sourabh Verma |none|15|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:34|17|Tony Fang|none|21|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:34|21|Tony Fang|none|12|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:34|21|Tony Fang|none|18|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:19|21|Jacob Schueler|none|5|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170804|0:19|21|Jacob Schueler|none|6|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|10|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:40|18|Abhinav Manota|Justine Villegas|21|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:40|21|Abhinav Manota|Justine Villegas|10|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:40|21|Abhinav Manota|Justine Villegas|18|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:17|21|Riky Widianto|Richi Puspita Dili|8|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:17|21|Riky Widianto|Richi Puspita Dili|3|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:23|21|Jason Seto|Rebecca Hayley Fong|16|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:23|21|Jason Seto|Rebecca Hayley Fong|18|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|7|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|14|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:25|21|Maika Phillips|Anona Pak|12|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:25|21|Maika Phillips|Anona Pak|15|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:29|14|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:18|21|Sanyogita Ghorpade|none|14|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:18|21|Sanyogita Ghorpade|none|9|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:28|21|Tony Fang|none|19|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:28|22|Tony Fang|none|20|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:45|21|Emily Beach |none|13|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:45|14|Emily Beach |none|21|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:45|21|Emily Beach |none|17|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:18|21|Abhinav Manota|none|6|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:18|21|Abhinav Manota|none|11|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:39|21|Christopher Steeghs|none|11|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:39|12|Christopher Steeghs|none|21|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:39|21|Christopher Steeghs|none|16|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|23|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|8|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|21|Khaeriah Rosmini|none|7|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:20|21|Yingzi Jiang|none|10|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:20|21|Yingzi Jiang|none|16|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Chan Alan Yun Lung|none|8|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Chan Alan Yun Lung|none|12|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:35|21|Ella Smith|none|17|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:35|18|Ella Smith|none|21|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:35|21|Ella Smith|none|10|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:49|21|Chee Foong Lim|none|13|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:49|14|Chee Foong Lim|none|21|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:49|21|Chee Foong Lim|none|17|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Vincent Harris|none|18|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Vincent Harris|none|17|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|21|Manula Peires|none|19|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|20|Manula Peires|none|22|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|21|Manula Peires|none|17|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|13|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:16|21|Riky Widianto|Richi Puspita Dili|15|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:16|21|Riky Widianto|Richi Puspita Dili|2|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:24|21|Maika Phillips|Anona Pak|13|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:24|21|Maika Phillips|Anona Pak|11|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|18|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:16|21|Joshua Feng|none|9|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:16|21|Joshua Feng|none|7|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:20|21|Emily Beach |none|13|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:20|21|Emily Beach |none|14|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:20|21|Ricky Cheng|Evan Wong|17|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:20|21|Ricky Cheng|Evan Wong|18|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:34|21|Jack Boyle|Jason Seto|8|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:34|16|Jack Boyle|Jason Seto|21|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:34|21|Jack Boyle|Jason Seto|15|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:43|21|Maika Phillips|Christopher Steeghs|14|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:43|15|Maika Phillips|Christopher Steeghs|21|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:43|21|Maika Phillips|Christopher Steeghs|18|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:23|21|Callum Harfield|Valens Sulaiman|16|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:23|22|Callum Harfield|Valens Sulaiman|20|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:23|21|Christine Zhang|none|9|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:23|21|Christine Zhang|none|16|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:46|21|Xie Yongshi|none|11|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:46|22|Xie Yongshi|none|24|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:46|21|Xie Yongshi|none|19|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:15|21|Yingzi Jiang|none|5|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:15|21|Yingzi Jiang|none|13|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:35|15|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:35|21|Ricky Cheng|Evan Wong|13|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:35|23|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:23|21|Abhinav Manota|Dylan Soedjasa|10|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:23|21|Abhinav Manota|Dylan Soedjasa|15|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:24|21|Maika Phillips|Christopher Steeghs|13|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:24|21|Maika Phillips|Christopher Steeghs|14|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|17|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|16|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170805|0:17|21|Neeraj Vashist|none|8|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:17|21|Neeraj Vashist|none|9|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:24|21|Giap Chin Goh|none|12|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:24|21|Giap Chin Goh|none|8|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:32|21|Wang Yuehang|none|12|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:32|21|Wang Yuehang|none|16|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:25|21|Jia Wei Tan|none|15|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:25|21|Jia Wei Tan|none|13|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|23|Lee Cheuk Yiu|none|21|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|21|Lee Cheuk Yiu|none|14|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:25|21|Henrikho Kho Wibowo|none|10|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:25|21|Henrikho Kho Wibowo|none|14|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:39|21|Zhou Zeqi|none|15|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:39|21|Zhou Zeqi|none|16|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Hsu Jen Hao |none|8|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Hsu Jen Hao |none|9|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Anthony Joe|none|15|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Anthony Joe|none|18|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:31|21|Chia Hung Lu|none|19|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:31|21|Chia Hung Lu|none|13|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Siril Verma |none|13|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Siril Verma |none|12|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:30|21|Wei Feng Chong |none|11|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:30|21|Wei Feng Chong |none|10|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|21|Saputra Vicky Angga|none|16|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:37|21|Saputra Vicky Angga|none|12|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:36|21|Prannoy H. S. |none|14|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:36|21|Prannoy H. S. |none|16|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Oscar Guo|none|7|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:27|21|Oscar Guo|none|11|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:52|19|Wei Nan |none|21|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:52|21|Wei Nan |none|14|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:52|21|Wei Nan |none|16|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:39|21|Lin Yu Hsien |none|16|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:39|21|Lin Yu Hsien |none|14|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:30|21|Daren Liew |none|16|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:30|21|Daren Liew |none|18|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Parupalli Kashyap |none|5|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Parupalli Kashyap |none|10|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:18|21|Jonatan Christie |none|7|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:18|21|Jonatan Christie |none|6|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Tzu Wei Wang |none|5|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Tzu Wei Wang |none|12|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:38|9|Dacmen Vong|none|21|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:38|21|Dacmen Vong|none|10|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:38|22|Dacmen Vong|none|20|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:53|21|Wooi Yik Soh|none|23|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:53|21|Wooi Yik Soh|none|17|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:53|24|Wooi Yik Soh|none|22|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:26|21|Firman Abdul Kholik|none|9|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:26|21|Firman Abdul Kholik|none|12|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:19|21|Pratul Joshi|none|10|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:19|21|Pratul Joshi|none|13|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:21|21|Erik Meijs|none|11|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:21|21|Erik Meijs|none|5|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:31|21|Sourabh Verma |none|17|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:31|21|Sourabh Verma |none|15|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:34|17|Tony Fang|none|21|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:34|21|Tony Fang|none|12|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:34|21|Tony Fang|none|18|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:19|21|Jacob Schueler|none|5|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170805|0:19|21|Jacob Schueler|none|6|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|10|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:19|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Christopher Steeghs|Ella Smith|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:40|18|Abhinav Manota|Justine Villegas|21|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:40|21|Abhinav Manota|Justine Villegas|10|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:40|21|Abhinav Manota|Justine Villegas|18|Toby Wong [4]|Ruwindi Serasinghe|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:17|21|Riky Widianto|Richi Puspita Dili|8|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:17|21|Riky Widianto|Richi Puspita Dili|3|Evan Wong|Jacqueline Yu|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:23|21|Jason Seto|Rebecca Hayley Fong|16|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:23|21|Jason Seto|Rebecca Hayley Fong|18|Ryan Tong|Janice Jiang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|7|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:21|21|Valens Sulaiman|Fransisca Angelica Rahardja|14|Chee Foong Lim|Kelly Stern|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:25|21|Maika Phillips|Anona Pak|12|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:25|21|Maika Phillips|Anona Pak|15|Thomas Ellis|Xie Yongshi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:29|14|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:29|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Oscar Guo|Tamara Otene|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:18|21|Sanyogita Ghorpade|none|14|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:18|21|Sanyogita Ghorpade|none|9|Jahvaya Wheki|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:28|21|Tony Fang|none|19|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:28|22|Tony Fang|none|20|Jack Boyle|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:45|21|Emily Beach |none|13|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:45|14|Emily Beach |none|21|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:45|21|Emily Beach |none|17|Jenny Zhu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:18|21|Abhinav Manota|none|6|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:18|21|Abhinav Manota|none|11|Matthew Graham|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:39|21|Christopher Steeghs|none|11|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:39|12|Christopher Steeghs|none|21|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:39|21|Christopher Steeghs|none|16|Ryan Tong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|23|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|8|Khaeriah Rosmini|none|21|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|21|Khaeriah Rosmini|none|7|Justine Villegas|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:20|21|Yingzi Jiang|none|10|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:20|21|Yingzi Jiang|none|16|Rebecca Hayley Fong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Chan Alan Yun Lung|none|8|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Chan Alan Yun Lung|none|12|Thomas Ellis|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:35|21|Ella Smith|none|17|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:35|18|Ella Smith|none|21|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:35|21|Ella Smith|none|10|Rachel Li|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:49|21|Chee Foong Lim|none|13|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:49|14|Chee Foong Lim|none|21|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:49|21|Chee Foong Lim|none|17|Callum Harfield|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Vincent Harris|none|18|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Vincent Harris|none|17|Ricky Cheng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|21|Manula Peires|none|19|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|20|Manula Peires|none|22|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|21|Manula Peires|none|17|Srijan Konchada|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|13|Komandani Maytri Sugiarto|Khaeriah Rosmini|21|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:37|21|Komandani Maytri Sugiarto|Khaeriah Rosmini|15|Abhinav Manota|Justine Villegas|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:16|21|Riky Widianto|Richi Puspita Dili|15|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:16|21|Riky Widianto|Richi Puspita Dili|2|Jason Seto|Rebecca Hayley Fong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:24|21|Maika Phillips|Anona Pak|13|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:24|21|Maika Phillips|Anona Pak|11|Jack Boyle|Jahvaya Wheki|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|15|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:26|21|Chan Alan Yun Lung|Soomi Lina Lee|18|Valens Sulaiman|Fransisca Angelica Rahardja|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:16|21|Joshua Feng|none|9|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:16|21|Joshua Feng|none|7|Kai Yi Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:20|21|Emily Beach |none|13|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:20|21|Emily Beach |none|14|Khaeriah Rosmini|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:20|21|Ricky Cheng|Evan Wong|17|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:20|21|Ricky Cheng|Evan Wong|18|Nathaniel Ernestan Sulistyo|Daxxon Vong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|12|Matthew Graham|Vincent Harris|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:34|21|Jack Boyle|Jason Seto|8|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:34|16|Jack Boyle|Jason Seto|21|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:34|21|Jack Boyle|Jason Seto|15|Jason Hu|Sharan Susil|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:16|21|Joshua Curry|Thomas Ellis|8|Manula Peires|Vincent Tong|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:43|21|Maika Phillips|Christopher Steeghs|14|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:43|15|Maika Phillips|Christopher Steeghs|21|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:43|21|Maika Phillips|Christopher Steeghs|18|Maftuki Muhammad|Habibi Zulfauzi|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:23|21|Callum Harfield|Valens Sulaiman|16|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:23|22|Callum Harfield|Valens Sulaiman|20|Srijan Konchada|Tzu Chen Wang|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:23|21|Christine Zhang|none|9|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:23|21|Christine Zhang|none|16|Ella Smith|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:46|21|Xie Yongshi|none|11|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:46|22|Xie Yongshi|none|24|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:46|21|Xie Yongshi|none|19|Sanyogita Ghorpade|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:15|21|Yingzi Jiang|none|5|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:15|21|Yingzi Jiang|none|13|Caragh Alley|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:35|15|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:35|21|Ricky Cheng|Evan Wong|13|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:35|23|Ricky Cheng|Evan Wong|21|Benjamin Feng|Joshua Feng|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:23|21|Abhinav Manota|Dylan Soedjasa|10|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:23|21|Abhinav Manota|Dylan Soedjasa|15|Joshua Curry|Thomas Ellis|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:24|21|Maika Phillips|Christopher Steeghs|13|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:24|21|Maika Phillips|Christopher Steeghs|14|Jack Boyle|Jason Seto|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|17|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:20|21|Rizky Kurniawan|Komandani Maytri Sugiarto|16|Callum Harfield|Valens Sulaiman|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|doubles
+20170806|0:17|21|Neeraj Vashist|none|8|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:17|21|Neeraj Vashist|none|9|Androw Yunanto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:24|21|Giap Chin Goh|none|12|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:24|21|Giap Chin Goh|none|8|Sachin Rawat|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:32|21|Wang Yuehang|none|12|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:32|21|Wang Yuehang|none|16|Edward Lau|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:25|21|Jia Wei Tan|none|15|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:25|21|Jia Wei Tan|none|13|Pit Seng Low|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|23|Lee Cheuk Yiu|none|21|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|21|Lee Cheuk Yiu|none|14|Siddharath Thakur|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:25|21|Henrikho Kho Wibowo|none|10|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:25|21|Henrikho Kho Wibowo|none|14|Peter Yan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:39|21|Zhou Zeqi|none|15|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:39|21|Zhou Zeqi|none|16|Alexander Roovers|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:21|21|Lee Zii Jia|none|7|Cham Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Hsu Jen Hao |none|8|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Hsu Jen Hao |none|9|Nathaniel Ernestan Sulistyo|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Anthony Joe|none|15|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Anthony Joe|none|18|Andrew Rouse|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:31|21|Chia Hung Lu|none|19|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:31|21|Chia Hung Lu|none|13|Ajay Jayaram [2]|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Siril Verma |none|13|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Siril Verma |none|12|Riyanto Subagja|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:30|21|Wei Feng Chong |none|11|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:30|21|Wei Feng Chong |none|10|Yupeng Bai|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|21|Saputra Vicky Angga|none|16|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:37|21|Saputra Vicky Angga|none|12|Arun Kumar Ashok Kumar|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:36|21|Prannoy H. S. |none|14|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:36|21|Prannoy H. S. |none|16|Shesar Hiren Rhustavito|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Oscar Guo|none|7|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:27|21|Oscar Guo|none|11|Ashwant Gobinathan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:52|19|Wei Nan |none|21|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:52|21|Wei Nan |none|14|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:52|21|Wei Nan |none|16|Chun-Wei Chen|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:39|21|Lin Yu Hsien |none|16|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:39|21|Lin Yu Hsien |none|14|Guangzu Lu|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:30|21|Daren Liew |none|16|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:30|21|Daren Liew |none|18|Dylan Soedjasa|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Parupalli Kashyap |none|5|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Parupalli Kashyap |none|10|Dionysius Hayom Rumbaka|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:18|21|Jonatan Christie |none|7|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:18|21|Jonatan Christie |none|6|Vincent Harris|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Tzu Wei Wang |none|5|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Tzu Wei Wang |none|12|Manula Peires|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:38|9|Dacmen Vong|none|21|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:38|21|Dacmen Vong|none|10|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:38|22|Dacmen Vong|none|20|Rizky Kurniawan|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:53|21|Wooi Yik Soh|none|23|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:53|21|Wooi Yik Soh|none|17|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:53|24|Wooi Yik Soh|none|22|Abhinav Manota|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:26|21|Firman Abdul Kholik|none|9|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:26|21|Firman Abdul Kholik|none|12|Christopher Steeghs|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:19|21|Pratul Joshi|none|10|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:19|21|Pratul Joshi|none|13|Daxxon Vong|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:21|21|Erik Meijs|none|11|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:21|21|Erik Meijs|none|5|Raymond Sing|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:22|21|Sahil Sipani|none|10|Joshua Feng|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:31|21|Sourabh Verma |none|17|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:31|21|Sourabh Verma |none|15|Nathan Tang|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:20|21|Misha Zilberman |none|10|Chan Alan Yun Lung|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:34|17|Tony Fang|none|21|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:34|21|Tony Fang|none|12|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:34|21|Tony Fang|none|18|Komandani Maytri Sugiarto|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:19|21|Jacob Schueler|none|5|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles
+20170806|0:19|21|Jacob Schueler|none|6|Chee Foong Lim|none|75BDC00F-C74C-4EB6-8AB5-EAB4C813F708|singles

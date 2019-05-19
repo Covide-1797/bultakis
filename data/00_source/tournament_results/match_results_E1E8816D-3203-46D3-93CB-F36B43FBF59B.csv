@@ -1,0 +1,566 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20140226|0:37|19|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:37|23|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:37|21|Daan Philips|none|14|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:27|21|Satheistharan Ramachandran|none|15|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:27|21|Satheistharan Ramachandran|none|13|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226||Walkover Win|Lander Pint|none|Walkover Loss|Yannic Wenk|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Flor Spanhove|none|8|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Flor Spanhove|none|17|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:42|12|Daniel Nikolov|none|21|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:42|21|Daniel Nikolov|none|14|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:42|21|Daniel Nikolov|none|18|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:28|21|Jed Arksey|none|13|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:28|21|Jed Arksey|none|19|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|21|Muhamad Zulkifli Ramadhani|none|12|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|20|Muhamad Zulkifli Ramadhani|none|22|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|21|Muhamad Zulkifli Ramadhani|none|5|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:43|21|Steef Van Wooning|none|19|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:43|13|Steef Van Wooning|none|21|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:43|21|Steef Van Wooning|none|18|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226||Walkover Win|Cheuk Yiu Lee|none|Walkover Loss|Ruben Jille|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:23|21|Collins-Valentine Filimon|none|9|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:23|21|Collins-Valentine Filimon|none|4|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:56|16|Zeqi Zhou|none|21|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:56|21|Zeqi Zhou|none|13|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:56|21|Zeqi Zhou|none|8|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:39|22|Davy Buffel|none|20|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:39|21|Davy Buffel|none|16|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:35|21|Bennet Kohler|none|12|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:35|21|Bennet Kohler|none|17|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:31|21|Felix Burestedt|none|9|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:31|21|Felix Burestedt|none|10|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:40|21|Dragoslav Petrovic|none|19|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:40|9|Dragoslav Petrovic|none|21|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:40|21|Dragoslav Petrovic|none|18|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Thomas Vallez|none|15|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Thomas Vallez|none|11|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:24|21|Anthony Chaye|none|19|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:24|21|Anthony Chaye|none|15|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:32|21|Feixian Sun|none|15|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:32|21|Feixian Sun|none|13|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226||Walkover Win|Filip Suwhanphinkha|none|Walkover Loss|Rinov Rivaldy|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:22|21|Lucas Fallais|none|18|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:22|21|Lucas Fallais|none|13|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:26|24|Alex Vlaar|none|22|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:26|21|Alex Vlaar|none|12|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:17|21|Guipu Lin|none|10|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:17|21|Guipu Lin|none|4|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:25|21|Remi Rossi|none|10|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:25|23|Remi Rossi|none|21|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:19|21|Daniel Farid S|none|10|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:19|21|Daniel Farid S|none|6|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:17|21|Buwaneka Goonethilleke|none|14|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:17|21|Buwaneka Goonethilleke|none|9|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:06|Walkover Win|Pavel Kotsarenko|none|Walkover Loss|Bilal El Harab|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|16|Andy Tsai|none|21|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|21|Andy Tsai|none|14|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|21|Andy Tsai|none|18|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:27|22|Vanmael Heriau|none|20|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:27|21|Vanmael Heriau|none|16|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:13|Walkover Win|Lawrence de Pauw|none|Walkover Loss|Andrija Kraljic|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:23|21|Loic Mittelheisser|none|14|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:23|21|Loic Mittelheisser|none|13|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:22|21|Daniel Ojaaar|none|9|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:22|21|Daniel Ojaaar|none|11|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:20|21|Ka Yan Fan|none|8|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:20|21|Ka Yan Fan|none|16|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Yaelle Hoyaux|none|7|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Yaelle Hoyaux|none|17|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:20|21|Judith Petrikowski|none|12|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:20|21|Judith Petrikowski|none|4|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:17|21|Yiman Zhang|none|9|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:17|21|Yiman Zhang|none|7|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Yi Ting Wu|none|8|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:21|21|Yi Ting Wu|none|14|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226||Walkover Win|Tamara van der Hoeven|none|Walkover Loss|Shahzad Mahoor|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:33|21|Miguel Rocha|none|14|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:33|13|Miguel Rocha|none|21|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:33|21|Miguel Rocha|none|8|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:03|Walkover Win|Joanna Chaube|none|Walkover Loss|Ozge Ozer|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|16|Devi Yunita Indah Sari|none|21|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|21|Devi Yunita Indah Sari|none|9|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:45|21|Devi Yunita Indah Sari|none|15|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:42|21|Haktan Dogan|none|16|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:42|13|Haktan Dogan|none|21|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:42|21|Haktan Dogan|none|11|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140226|0:23|21|Yonny Chung|Tsz Yau Ng|12|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:23|21|Yonny Chung|Tsz Yau Ng|16|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:30|18|Vladislav Solovyev|Elizaveta Tarasova|21|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|17|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|13|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226||Walkover Win|Ross Green|Jess Hopton|Walkover Loss|Alex Luong|Klara Johansson|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:23|21|Alexandre Hammer|Delphine Delrue|17|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:23|22|Alexandre Hammer|Delphine Delrue|20|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|16|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|17|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:36|27|Joran Kweekel|Imke van der Aar|25|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:36|16|Joran Kweekel|Imke van der Aar|21|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:36|21|Joran Kweekel|Imke van der Aar|18|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226||Walkover Win|David King|Nicola Gresty|Walkover Loss|Lucas Fallais|Sixtine Roy|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:23|21|Oliver Thompson|Devon Minnis|19|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:23|21|Oliver Thompson|Devon Minnis|17|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|13|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|12|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140226|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:37|19|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:37|23|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:37|21|Daan Philips|none|14|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:27|21|Satheistharan Ramachandran|none|15|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:27|21|Satheistharan Ramachandran|none|13|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227||Walkover Win|Lander Pint|none|Walkover Loss|Yannic Wenk|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Flor Spanhove|none|8|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Flor Spanhove|none|17|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:42|12|Daniel Nikolov|none|21|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:42|21|Daniel Nikolov|none|14|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:42|21|Daniel Nikolov|none|18|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:28|21|Jed Arksey|none|13|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:28|21|Jed Arksey|none|19|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|21|Muhamad Zulkifli Ramadhani|none|12|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|20|Muhamad Zulkifli Ramadhani|none|22|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|21|Muhamad Zulkifli Ramadhani|none|5|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:43|21|Steef Van Wooning|none|19|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:43|13|Steef Van Wooning|none|21|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:43|21|Steef Van Wooning|none|18|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227||Walkover Win|Cheuk Yiu Lee|none|Walkover Loss|Ruben Jille|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:23|21|Collins-Valentine Filimon|none|9|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:23|21|Collins-Valentine Filimon|none|4|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:56|16|Zeqi Zhou|none|21|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:56|21|Zeqi Zhou|none|13|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:56|21|Zeqi Zhou|none|8|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:39|22|Davy Buffel|none|20|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:39|21|Davy Buffel|none|16|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:35|21|Bennet Kohler|none|12|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:35|21|Bennet Kohler|none|17|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:31|21|Felix Burestedt|none|9|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:31|21|Felix Burestedt|none|10|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:40|21|Dragoslav Petrovic|none|19|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:40|9|Dragoslav Petrovic|none|21|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:40|21|Dragoslav Petrovic|none|18|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Thomas Vallez|none|15|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Thomas Vallez|none|11|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:24|21|Anthony Chaye|none|19|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:24|21|Anthony Chaye|none|15|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:32|21|Feixian Sun|none|15|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:32|21|Feixian Sun|none|13|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227||Walkover Win|Filip Suwhanphinkha|none|Walkover Loss|Rinov Rivaldy|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:22|21|Lucas Fallais|none|18|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:22|21|Lucas Fallais|none|13|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:26|24|Alex Vlaar|none|22|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:26|21|Alex Vlaar|none|12|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:17|21|Guipu Lin|none|10|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:17|21|Guipu Lin|none|4|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:25|21|Remi Rossi|none|10|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:25|23|Remi Rossi|none|21|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:19|21|Daniel Farid S|none|10|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:19|21|Daniel Farid S|none|6|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:17|21|Buwaneka Goonethilleke|none|14|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:17|21|Buwaneka Goonethilleke|none|9|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:06|Walkover Win|Pavel Kotsarenko|none|Walkover Loss|Bilal El Harab|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|16|Andy Tsai|none|21|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|21|Andy Tsai|none|14|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|21|Andy Tsai|none|18|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:27|22|Vanmael Heriau|none|20|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:27|21|Vanmael Heriau|none|16|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:13|Walkover Win|Lawrence de Pauw|none|Walkover Loss|Andrija Kraljic|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:23|21|Loic Mittelheisser|none|14|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:23|21|Loic Mittelheisser|none|13|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:22|21|Daniel Ojaaar|none|9|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:22|21|Daniel Ojaaar|none|11|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:20|21|Ka Yan Fan|none|8|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:20|21|Ka Yan Fan|none|16|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Yaelle Hoyaux|none|7|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Yaelle Hoyaux|none|17|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:20|21|Judith Petrikowski|none|12|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:20|21|Judith Petrikowski|none|4|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:17|21|Yiman Zhang|none|9|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:17|21|Yiman Zhang|none|7|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Yi Ting Wu|none|8|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:21|21|Yi Ting Wu|none|14|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227||Walkover Win|Tamara van der Hoeven|none|Walkover Loss|Shahzad Mahoor|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:33|21|Miguel Rocha|none|14|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:33|13|Miguel Rocha|none|21|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:33|21|Miguel Rocha|none|8|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:03|Walkover Win|Joanna Chaube|none|Walkover Loss|Ozge Ozer|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|16|Devi Yunita Indah Sari|none|21|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|21|Devi Yunita Indah Sari|none|9|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:45|21|Devi Yunita Indah Sari|none|15|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:42|21|Haktan Dogan|none|16|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:42|13|Haktan Dogan|none|21|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:42|21|Haktan Dogan|none|11|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140227|0:23|21|Yonny Chung|Tsz Yau Ng|12|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:23|21|Yonny Chung|Tsz Yau Ng|16|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:30|18|Vladislav Solovyev|Elizaveta Tarasova|21|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|17|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|13|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227||Walkover Win|Ross Green|Jess Hopton|Walkover Loss|Alex Luong|Klara Johansson|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:23|21|Alexandre Hammer|Delphine Delrue|17|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:23|22|Alexandre Hammer|Delphine Delrue|20|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|16|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|17|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:36|27|Joran Kweekel|Imke van der Aar|25|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:36|16|Joran Kweekel|Imke van der Aar|21|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:36|21|Joran Kweekel|Imke van der Aar|18|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227||Walkover Win|David King|Nicola Gresty|Walkover Loss|Lucas Fallais|Sixtine Roy|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:23|21|Oliver Thompson|Devon Minnis|19|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:23|21|Oliver Thompson|Devon Minnis|17|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|13|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|12|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140227|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:37|19|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:37|23|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:37|21|Daan Philips|none|14|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:27|21|Satheistharan Ramachandran|none|15|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:27|21|Satheistharan Ramachandran|none|13|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228||Walkover Win|Lander Pint|none|Walkover Loss|Yannic Wenk|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Flor Spanhove|none|8|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Flor Spanhove|none|17|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:42|12|Daniel Nikolov|none|21|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:42|21|Daniel Nikolov|none|14|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:42|21|Daniel Nikolov|none|18|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:28|21|Jed Arksey|none|13|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:28|21|Jed Arksey|none|19|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|21|Muhamad Zulkifli Ramadhani|none|12|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|20|Muhamad Zulkifli Ramadhani|none|22|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|21|Muhamad Zulkifli Ramadhani|none|5|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:43|21|Steef Van Wooning|none|19|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:43|13|Steef Van Wooning|none|21|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:43|21|Steef Van Wooning|none|18|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228||Walkover Win|Cheuk Yiu Lee|none|Walkover Loss|Ruben Jille|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:23|21|Collins-Valentine Filimon|none|9|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:23|21|Collins-Valentine Filimon|none|4|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:56|16|Zeqi Zhou|none|21|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:56|21|Zeqi Zhou|none|13|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:56|21|Zeqi Zhou|none|8|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:39|22|Davy Buffel|none|20|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:39|21|Davy Buffel|none|16|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:35|21|Bennet Kohler|none|12|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:35|21|Bennet Kohler|none|17|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:31|21|Felix Burestedt|none|9|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:31|21|Felix Burestedt|none|10|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:40|21|Dragoslav Petrovic|none|19|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:40|9|Dragoslav Petrovic|none|21|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:40|21|Dragoslav Petrovic|none|18|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Thomas Vallez|none|15|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Thomas Vallez|none|11|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:24|21|Anthony Chaye|none|19|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:24|21|Anthony Chaye|none|15|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:32|21|Feixian Sun|none|15|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:32|21|Feixian Sun|none|13|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228||Walkover Win|Filip Suwhanphinkha|none|Walkover Loss|Rinov Rivaldy|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:22|21|Lucas Fallais|none|18|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:22|21|Lucas Fallais|none|13|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:26|24|Alex Vlaar|none|22|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:26|21|Alex Vlaar|none|12|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:17|21|Guipu Lin|none|10|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:17|21|Guipu Lin|none|4|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:25|21|Remi Rossi|none|10|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:25|23|Remi Rossi|none|21|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:19|21|Daniel Farid S|none|10|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:19|21|Daniel Farid S|none|6|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:17|21|Buwaneka Goonethilleke|none|14|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:17|21|Buwaneka Goonethilleke|none|9|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:06|Walkover Win|Pavel Kotsarenko|none|Walkover Loss|Bilal El Harab|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|16|Andy Tsai|none|21|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|21|Andy Tsai|none|14|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|21|Andy Tsai|none|18|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:27|22|Vanmael Heriau|none|20|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:27|21|Vanmael Heriau|none|16|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:13|Walkover Win|Lawrence de Pauw|none|Walkover Loss|Andrija Kraljic|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:23|21|Loic Mittelheisser|none|14|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:23|21|Loic Mittelheisser|none|13|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:22|21|Daniel Ojaaar|none|9|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:22|21|Daniel Ojaaar|none|11|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:20|21|Ka Yan Fan|none|8|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:20|21|Ka Yan Fan|none|16|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Yaelle Hoyaux|none|7|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Yaelle Hoyaux|none|17|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:20|21|Judith Petrikowski|none|12|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:20|21|Judith Petrikowski|none|4|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:17|21|Yiman Zhang|none|9|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:17|21|Yiman Zhang|none|7|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Yi Ting Wu|none|8|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:21|21|Yi Ting Wu|none|14|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228||Walkover Win|Tamara van der Hoeven|none|Walkover Loss|Shahzad Mahoor|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:33|21|Miguel Rocha|none|14|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:33|13|Miguel Rocha|none|21|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:33|21|Miguel Rocha|none|8|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:03|Walkover Win|Joanna Chaube|none|Walkover Loss|Ozge Ozer|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|16|Devi Yunita Indah Sari|none|21|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|21|Devi Yunita Indah Sari|none|9|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:45|21|Devi Yunita Indah Sari|none|15|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:42|21|Haktan Dogan|none|16|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:42|13|Haktan Dogan|none|21|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:42|21|Haktan Dogan|none|11|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140228|0:23|21|Yonny Chung|Tsz Yau Ng|12|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:23|21|Yonny Chung|Tsz Yau Ng|16|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:30|18|Vladislav Solovyev|Elizaveta Tarasova|21|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|17|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|13|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228||Walkover Win|Ross Green|Jess Hopton|Walkover Loss|Alex Luong|Klara Johansson|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:23|21|Alexandre Hammer|Delphine Delrue|17|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:23|22|Alexandre Hammer|Delphine Delrue|20|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|16|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|17|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:36|27|Joran Kweekel|Imke van der Aar|25|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:36|16|Joran Kweekel|Imke van der Aar|21|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:36|21|Joran Kweekel|Imke van der Aar|18|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228||Walkover Win|David King|Nicola Gresty|Walkover Loss|Lucas Fallais|Sixtine Roy|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:23|21|Oliver Thompson|Devon Minnis|19|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:23|21|Oliver Thompson|Devon Minnis|17|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|13|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|12|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140228|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:37|19|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:37|23|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:37|21|Daan Philips|none|14|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:27|21|Satheistharan Ramachandran|none|15|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:27|21|Satheistharan Ramachandran|none|13|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301||Walkover Win|Lander Pint|none|Walkover Loss|Yannic Wenk|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Flor Spanhove|none|8|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Flor Spanhove|none|17|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:42|12|Daniel Nikolov|none|21|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:42|21|Daniel Nikolov|none|14|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:42|21|Daniel Nikolov|none|18|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:28|21|Jed Arksey|none|13|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:28|21|Jed Arksey|none|19|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|21|Muhamad Zulkifli Ramadhani|none|12|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|20|Muhamad Zulkifli Ramadhani|none|22|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|21|Muhamad Zulkifli Ramadhani|none|5|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:43|21|Steef Van Wooning|none|19|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:43|13|Steef Van Wooning|none|21|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:43|21|Steef Van Wooning|none|18|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301||Walkover Win|Cheuk Yiu Lee|none|Walkover Loss|Ruben Jille|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:23|21|Collins-Valentine Filimon|none|9|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:23|21|Collins-Valentine Filimon|none|4|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:56|16|Zeqi Zhou|none|21|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:56|21|Zeqi Zhou|none|13|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:56|21|Zeqi Zhou|none|8|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:39|22|Davy Buffel|none|20|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:39|21|Davy Buffel|none|16|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:35|21|Bennet Kohler|none|12|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:35|21|Bennet Kohler|none|17|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:31|21|Felix Burestedt|none|9|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:31|21|Felix Burestedt|none|10|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:40|21|Dragoslav Petrovic|none|19|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:40|9|Dragoslav Petrovic|none|21|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:40|21|Dragoslav Petrovic|none|18|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Thomas Vallez|none|15|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Thomas Vallez|none|11|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:24|21|Anthony Chaye|none|19|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:24|21|Anthony Chaye|none|15|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:32|21|Feixian Sun|none|15|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:32|21|Feixian Sun|none|13|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301||Walkover Win|Filip Suwhanphinkha|none|Walkover Loss|Rinov Rivaldy|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:22|21|Lucas Fallais|none|18|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:22|21|Lucas Fallais|none|13|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:26|24|Alex Vlaar|none|22|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:26|21|Alex Vlaar|none|12|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:17|21|Guipu Lin|none|10|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:17|21|Guipu Lin|none|4|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:25|21|Remi Rossi|none|10|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:25|23|Remi Rossi|none|21|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:19|21|Daniel Farid S|none|10|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:19|21|Daniel Farid S|none|6|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:17|21|Buwaneka Goonethilleke|none|14|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:17|21|Buwaneka Goonethilleke|none|9|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:06|Walkover Win|Pavel Kotsarenko|none|Walkover Loss|Bilal El Harab|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|16|Andy Tsai|none|21|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|21|Andy Tsai|none|14|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|21|Andy Tsai|none|18|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:27|22|Vanmael Heriau|none|20|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:27|21|Vanmael Heriau|none|16|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:13|Walkover Win|Lawrence de Pauw|none|Walkover Loss|Andrija Kraljic|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:23|21|Loic Mittelheisser|none|14|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:23|21|Loic Mittelheisser|none|13|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:22|21|Daniel Ojaaar|none|9|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:22|21|Daniel Ojaaar|none|11|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:20|21|Ka Yan Fan|none|8|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:20|21|Ka Yan Fan|none|16|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Yaelle Hoyaux|none|7|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Yaelle Hoyaux|none|17|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:20|21|Judith Petrikowski|none|12|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:20|21|Judith Petrikowski|none|4|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:17|21|Yiman Zhang|none|9|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:17|21|Yiman Zhang|none|7|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Yi Ting Wu|none|8|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:21|21|Yi Ting Wu|none|14|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301||Walkover Win|Tamara van der Hoeven|none|Walkover Loss|Shahzad Mahoor|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:33|21|Miguel Rocha|none|14|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:33|13|Miguel Rocha|none|21|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:33|21|Miguel Rocha|none|8|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:03|Walkover Win|Joanna Chaube|none|Walkover Loss|Ozge Ozer|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|16|Devi Yunita Indah Sari|none|21|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|21|Devi Yunita Indah Sari|none|9|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:45|21|Devi Yunita Indah Sari|none|15|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:42|21|Haktan Dogan|none|16|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:42|13|Haktan Dogan|none|21|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:42|21|Haktan Dogan|none|11|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140301|0:23|21|Yonny Chung|Tsz Yau Ng|12|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:23|21|Yonny Chung|Tsz Yau Ng|16|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:30|18|Vladislav Solovyev|Elizaveta Tarasova|21|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|17|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|13|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301||Walkover Win|Ross Green|Jess Hopton|Walkover Loss|Alex Luong|Klara Johansson|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:23|21|Alexandre Hammer|Delphine Delrue|17|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:23|22|Alexandre Hammer|Delphine Delrue|20|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|16|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|17|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:36|27|Joran Kweekel|Imke van der Aar|25|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:36|16|Joran Kweekel|Imke van der Aar|21|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:36|21|Joran Kweekel|Imke van der Aar|18|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301||Walkover Win|David King|Nicola Gresty|Walkover Loss|Lucas Fallais|Sixtine Roy|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:23|21|Oliver Thompson|Devon Minnis|19|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:23|21|Oliver Thompson|Devon Minnis|17|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|13|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|12|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140301|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:37|19|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:37|23|Daan Philips|none|21|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:37|21|Daan Philips|none|14|Daniel Seifert|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:27|21|Satheistharan Ramachandran|none|15|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:27|21|Satheistharan Ramachandran|none|13|Ricardo Silva|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302||Walkover Win|Lander Pint|none|Walkover Loss|Yannic Wenk|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Flor Spanhove|none|8|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Flor Spanhove|none|17|Simon Reinhardt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:42|12|Daniel Nikolov|none|21|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:42|21|Daniel Nikolov|none|14|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:42|21|Daniel Nikolov|none|18|David King|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:28|21|Jed Arksey|none|13|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:28|21|Jed Arksey|none|19|Florian Kaminski|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|21|Muhamad Zulkifli Ramadhani|none|12|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|20|Muhamad Zulkifli Ramadhani|none|22|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|21|Muhamad Zulkifli Ramadhani|none|5|M. Ali Kurt|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:43|21|Steef Van Wooning|none|19|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:43|13|Steef Van Wooning|none|21|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:43|21|Steef Van Wooning|none|18|Joel Konig|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302||Walkover Win|Cheuk Yiu Lee|none|Walkover Loss|Ruben Jille|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:23|21|Collins-Valentine Filimon|none|9|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:23|21|Collins-Valentine Filimon|none|4|Yves Hoffmann|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:56|16|Zeqi Zhou|none|21|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:56|21|Zeqi Zhou|none|13|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:56|21|Zeqi Zhou|none|8|Ronan Gueguin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:39|22|Davy Buffel|none|20|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:39|21|Davy Buffel|none|16|Ben Rausch|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:35|21|Bennet Kohler|none|12|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:35|21|Bennet Kohler|none|17|Chongo Mulenga|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:31|21|Felix Burestedt|none|9|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:31|21|Felix Burestedt|none|10|Yan Iloshvai|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:40|21|Dragoslav Petrovic|none|19|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:40|9|Dragoslav Petrovic|none|21|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:40|21|Dragoslav Petrovic|none|18|Sachin Dias|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Thomas Vallez|none|15|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Thomas Vallez|none|11|Rodion Alimov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:33|21|Sean Vendy|none|14|Nathan Laemmel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:24|21|Anthony Chaye|none|19|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:24|21|Anthony Chaye|none|15|Tom Andersson|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:29|22|Vladislav Solovyev|none|20|Nico Hermans|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:32|21|Feixian Sun|none|15|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:32|21|Feixian Sun|none|13|Samuel Hsiao|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302||Walkover Win|Filip Suwhanphinkha|none|Walkover Loss|Rinov Rivaldy|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:22|21|Lucas Fallais|none|18|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:22|21|Lucas Fallais|none|13|Mattias Sonderskov|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:26|24|Alex Vlaar|none|22|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:26|21|Alex Vlaar|none|12|Ward van Boven|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:17|21|Guipu Lin|none|10|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:17|21|Guipu Lin|none|4|Alex Terpstra|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:25|21|Remi Rossi|none|10|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:25|23|Remi Rossi|none|21|Kamod Rasmitha Halambage|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:19|21|Daniel Farid S|none|10|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:19|21|Daniel Farid S|none|6|Rowan Scheurkogel|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:17|21|Buwaneka Goonethilleke|none|14|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:17|21|Buwaneka Goonethilleke|none|9|Simon Wang|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:06|Walkover Win|Pavel Kotsarenko|none|Walkover Loss|Bilal El Harab|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|16|Andy Tsai|none|21|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|21|Andy Tsai|none|14|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|21|Andy Tsai|none|18|Matthew Clare|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:27|22|Vanmael Heriau|none|20|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:27|21|Vanmael Heriau|none|16|Teun Yntema|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:13|Walkover Win|Lawrence de Pauw|none|Walkover Loss|Andrija Kraljic|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:23|21|Loic Mittelheisser|none|14|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:23|21|Loic Mittelheisser|none|13|Jan-Felix Matulat|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:22|21|Daniel Ojaaar|none|9|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:22|21|Daniel Ojaaar|none|11|Benedikt Schaller|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:20|21|Ka Yan Fan|none|8|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:20|21|Ka Yan Fan|none|16|Emilie Beaujean|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Yaelle Hoyaux|none|7|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Yaelle Hoyaux|none|17|Clara Nistad|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:20|21|Judith Petrikowski|none|12|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:20|21|Judith Petrikowski|none|4|Jacqueline Schar|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:17|21|Yiman Zhang|none|9|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:17|21|Yiman Zhang|none|7|Stefka Hargiono|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Yi Ting Wu|none|8|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:21|21|Yi Ting Wu|none|14|Devon Minnis|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302||Walkover Win|Tamara van der Hoeven|none|Walkover Loss|Shahzad Mahoor|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:33|21|Miguel Rocha|none|14|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:33|13|Miguel Rocha|none|21|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:33|21|Miguel Rocha|none|8|Aleksandr Vasilkin|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:03|Walkover Win|Joanna Chaube|none|Walkover Loss|Ozge Ozer|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|16|Devi Yunita Indah Sari|none|21|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|21|Devi Yunita Indah Sari|none|9|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:45|21|Devi Yunita Indah Sari|none|15|Anastasiya Ronzhina|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:19|21|Johannes Pistorius|Linda Elfer|10|Rowan Scheurkogel|Ann Knaepen|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:42|21|Haktan Dogan|none|16|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:42|13|Haktan Dogan|none|21|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:42|21|Haktan Dogan|none|11|Rover Jay Babatido|none|E1E8816D-3203-46D3-93CB-F36B43FBF59B|singles
+20140302|0:23|21|Yonny Chung|Tsz Yau Ng|12|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:23|21|Yonny Chung|Tsz Yau Ng|16|Loic Mittelheisser|Yaelle Hoyaux|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:30|18|Vladislav Solovyev|Elizaveta Tarasova|21|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|17|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:30|21|Vladislav Solovyev|Elizaveta Tarasova|13|Kamod Rasmitha Halambage|Katarina Beton|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302||Walkover Win|Ross Green|Jess Hopton|Walkover Loss|Alex Luong|Klara Johansson|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:20|21|Daniel Seifert|Judith Petrikowski|16|Alex Terpstra|Anne Vievermans|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:23|21|Alexandre Hammer|Delphine Delrue|17|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:23|22|Alexandre Hammer|Delphine Delrue|20|Emil Welinder|Clara Nistad|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|16|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:23|21|Galang Decky Ramadhan|Rahmadhani Hastiyanti Putri|17|Ruben Wijnands|Tamara van der Hoeven|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:36|27|Joran Kweekel|Imke van der Aar|25|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:36|16|Joran Kweekel|Imke van der Aar|21|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:36|21|Joran Kweekel|Imke van der Aar|18|Matthew Clare|Ira Banerjee|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302||Walkover Win|David King|Nicola Gresty|Walkover Loss|Lucas Fallais|Sixtine Roy|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:23|21|Oliver Thompson|Devon Minnis|19|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:23|21|Oliver Thompson|Devon Minnis|17|Pavel Kotsarenko|Anastasiya Ronzhina|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|13|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:21|21|Alexandr Kozyrev|Yana Ignatyeva|12|Pierrick Deschenaux|Simone von Rotz|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles
+20140302|0:17|21|Thomas Vallez|Emilie Beaujean|12|Aleksandr Vasilkin|Kristina Vyrvich|E1E8816D-3203-46D3-93CB-F36B43FBF59B|doubles

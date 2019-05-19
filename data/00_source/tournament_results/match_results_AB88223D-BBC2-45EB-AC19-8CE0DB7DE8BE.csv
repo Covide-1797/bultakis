@@ -1,0 +1,961 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20171024|0:29|21|Vitalij Durkin|Nina Vislova|19|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:29|22|Vitalij Durkin|Nina Vislova|20|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:55|21|Niclas Nohr|Sara Thygesen|18|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:55|18|Niclas Nohr|Sara Thygesen|21|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:55|21|Niclas Nohr|Sara Thygesen|15|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:49|21|Jones Ralfy Jansen|Eva Janssens|15|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:49|16|Jones Ralfy Jansen|Eva Janssens|21|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:49|22|Jones Ralfy Jansen|Eva Janssens|20|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:37|17|Johannes Pistorius|Lara Kaepplein|21|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:37|21|Johannes Pistorius|Lara Kaepplein|16|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:37|21|Johannes Pistorius|Lara Kaepplein|9|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|16|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|7|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:29|21|Ruben Jille|Emilie Lefel|19|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:29|21|Ruben Jille|Emilie Lefel|16|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|17|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:47|13|Tinn Isriyanet |Pacharapun Chochuwong|21|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|14|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:39|21|Thomas Rouxel|none|12|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:39|23|Thomas Rouxel|none|21|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:53|21|Wei Nan|none|16|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:53|21|Wei Nan|none|23|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:53|24|Wei Nan|none|22|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:53|22|Scott Evans|none|20|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:53|18|Scott Evans|none|21|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:53|21|Scott Evans|none|10|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:41|24|Kenta Nishimoto|none|22|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:41|21|Kenta Nishimoto|none|15|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:35|21|Lucas Corvee|none|12|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:35|21|Lucas Corvee|none|14|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:46|21|Takuma Ueda|none|18|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:46|21|Takuma Ueda|none|17|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:46|21|Niclas Nohr|Sara Thygesen|10|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:46|16|Niclas Nohr|Sara Thygesen|21|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:46|21|Niclas Nohr|Sara Thygesen|16|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|13|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|18|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|12|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:49|19|Tinn Isriyanet |Pacharapun Chochuwong|21|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|19|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:42|21|Chloe Birch|none|17|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:42|17|Chloe Birch|none|21|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:42|21|Chloe Birch|none|9|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:28|21|Sofie Holmboe Dahl|none|18|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:28|21|Sofie Holmboe Dahl|none|5|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:32|21|Michelle Li|none|15|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:32|21|Michelle Li|none|14|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:33|21|Kim Hyo Min|none|10|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:33|21|Kim Hyo Min|none|13|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:48|21|Delphine Lansac|none|15|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:48|19|Delphine Lansac|none|21|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:48|21|Delphine Lansac|none|12|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:36|25|Vitalij Durkin|Nina Vislova|23|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:36|21|Vitalij Durkin|Nina Vislova|17|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|Dinar Dyah Ayustine |none|11|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:34|21|Dinar Dyah Ayustine |none|15|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:22|21|Natalia Perminova|none|6|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:22|21|Natalia Perminova|none|10|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:32|21|Alexander Dunn|Adam Hall|17|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:32|21|Alexander Dunn|Adam Hall|15|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|1:01|23|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|1:01|13|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|1:01|21|Yvonne Li|none|15|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:43|19|Jacco Arends|Ruben Jille|21|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:43|21|Jacco Arends|Ruben Jille|8|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:43|29|Jacco Arends|Ruben Jille|27|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:28|21|Thom Gicquel|Ronan Labar|11|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:28|24|Thom Gicquel|Ronan Labar|22|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:53|18|Milosz Bochat|Adam Cwalina|21|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:48|21|Konstantin Abramov|Alexandr Zinchenko|15|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:48|17|Konstantin Abramov|Alexandr Zinchenko|21|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:48|21|Konstantin Abramov|Alexandr Zinchenko|17|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|Bastian Kersaudy|Julien Maio|13|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|23|Bastian Kersaudy|Julien Maio|21|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:27|21|Chloe Birch|Jessica Pugh|13|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:27|21|Chloe Birch|Jessica Pugh|7|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:30|21|Ben Lane|Sean Vendy|18|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:30|21|Ben Lane|Sean Vendy|10|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:22|21|Nadia Fankhauser|Iris Tabeling|13|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:22|21|Nadia Fankhauser|Iris Tabeling|7|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:22|21|Olga Konon|Chloe Magee|10|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:22|21|Olga Konon|Chloe Magee|9|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:26|21|Debora Jille|Imke Van Der Aar|12|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:26|21|Debora Jille|Imke Van Der Aar|17|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:51|24|Thomas Rouxel|none|22|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:51|21|Thomas Rouxel|none|19|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:39|25|Rasmus Gemke|none|23|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:39|21|Rasmus Gemke|none|10|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|1:04|21|Lucas Corvee|none|13|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|1:04|17|Lucas Corvee|none|21|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|1:04|21|Lucas Corvee|none|17|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:31|21|Huang Yaqiong |Yu Xiaohan|11|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:31|21|Huang Yaqiong |Yu Xiaohan|12|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:37|21|Kenta Nishimoto|none|18|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:37|21|Kenta Nishimoto|none|12|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:58|17|Delphine Lansac|none|21|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:58|21|Delphine Lansac|none|17|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:58|21|Delphine Lansac|none|12|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:50|12|Thom Gicquel|Ronan Labar|21|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:50|21|Thom Gicquel|Ronan Labar|18|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:50|21|Thom Gicquel|Ronan Labar|19|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|1:04|21|Dinar Dyah Ayustine |none|19|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|1:04|9|Dinar Dyah Ayustine |none|21|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|1:04|21|Dinar Dyah Ayustine |none|13|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:32|21|Natalia Perminova|none|18|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:32|21|Natalia Perminova|none|10|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:34|21|Jacco Arends|Ruben Jille|17|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|Jacco Arends|Ruben Jille|19|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:47|12|Sofie Holmboe Dahl|none|21|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171024|0:44|16|Milosz Bochat|Adam Cwalina|21|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:44|21|Milosz Bochat|Adam Cwalina|15|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:44|21|Milosz Bochat|Adam Cwalina|12|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|Bastian Kersaudy|Julien Maio|19|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|22|Bastian Kersaudy|Julien Maio|20|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|9|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:51|17|Savitree Amitrapai |Pacharapun Chochuwong|21|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|12|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:43|21|Huang Yaqiong |Yu Xiaohan|14|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:43|21|Huang Yaqiong |Yu Xiaohan|19|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:28|21|Tontowi Ahmad |Liliyana Natsir|15|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:28|21|Tontowi Ahmad |Liliyana Natsir|12|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|He Jiting|Du Yue|18|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:34|21|He Jiting|Du Yue|16|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:30|21|Zheng Siwei |Chen Qingchen|19|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:30|21|Zheng Siwei |Chen Qingchen|13|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:41|22|Tan Kian Meng |Lai Pei Jing|20|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:41|21|Tan Kian Meng |Lai Pei Jing|13|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:32|21|Seung Jae Seo |Kim Ha Na|16|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:32|21|Seung Jae Seo |Kim Ha Na|14|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:33|21|Zhang Nan |Li Yinhui|19|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:33|21|Zhang Nan |Li Yinhui|17|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:54|17|Tang Chun Man|Tse Ying Suet|21|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:54|21|Tang Chun Man|Tse Ying Suet|16|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:54|21|Tang Chun Man|Tse Ying Suet|12|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:51|19|Lee Yang|Hsu Ya Ching|21|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:51|21|Lee Yang|Hsu Ya Ching|14|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:51|21|Lee Yang|Hsu Ya Ching|16|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:39|23|Dechapol Puavaranukroh|Puttita Supajirakul|21|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:39|21|Dechapol Puavaranukroh|Puttita Supajirakul|15|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:33|21|Ronan Labar|Audrey Fontaine|18|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:33|21|Ronan Labar|Audrey Fontaine|14|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:37|21|Mathias Christiansen|Christinna Pedersen|18|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:37|21|Mathias Christiansen|Christinna Pedersen|10|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:36|21|Lu Kai |Huang Yaqiong|15|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:36|21|Lu Kai |Huang Yaqiong|12|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:50|21|Ben Lane|Jessica Pugh|15|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:50|20|Ben Lane|Jessica Pugh|22|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171024|0:50|21|Ben Lane|Jessica Pugh|12|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:29|21|Vitalij Durkin|Nina Vislova|19|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:29|22|Vitalij Durkin|Nina Vislova|20|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:55|21|Niclas Nohr|Sara Thygesen|18|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:55|18|Niclas Nohr|Sara Thygesen|21|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:55|21|Niclas Nohr|Sara Thygesen|15|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:49|21|Jones Ralfy Jansen|Eva Janssens|15|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:49|16|Jones Ralfy Jansen|Eva Janssens|21|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:49|22|Jones Ralfy Jansen|Eva Janssens|20|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:37|17|Johannes Pistorius|Lara Kaepplein|21|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:37|21|Johannes Pistorius|Lara Kaepplein|16|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:37|21|Johannes Pistorius|Lara Kaepplein|9|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|16|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|7|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:29|21|Ruben Jille|Emilie Lefel|19|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:29|21|Ruben Jille|Emilie Lefel|16|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|17|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:47|13|Tinn Isriyanet |Pacharapun Chochuwong|21|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|14|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:39|21|Thomas Rouxel|none|12|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:39|23|Thomas Rouxel|none|21|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:53|21|Wei Nan|none|16|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:53|21|Wei Nan|none|23|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:53|24|Wei Nan|none|22|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:53|22|Scott Evans|none|20|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:53|18|Scott Evans|none|21|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:53|21|Scott Evans|none|10|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:41|24|Kenta Nishimoto|none|22|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:41|21|Kenta Nishimoto|none|15|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:35|21|Lucas Corvee|none|12|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:35|21|Lucas Corvee|none|14|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:46|21|Takuma Ueda|none|18|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:46|21|Takuma Ueda|none|17|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:46|21|Niclas Nohr|Sara Thygesen|10|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:46|16|Niclas Nohr|Sara Thygesen|21|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:46|21|Niclas Nohr|Sara Thygesen|16|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|13|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|18|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|12|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:49|19|Tinn Isriyanet |Pacharapun Chochuwong|21|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|19|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:42|21|Chloe Birch|none|17|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:42|17|Chloe Birch|none|21|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:42|21|Chloe Birch|none|9|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:28|21|Sofie Holmboe Dahl|none|18|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:28|21|Sofie Holmboe Dahl|none|5|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:32|21|Michelle Li|none|15|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:32|21|Michelle Li|none|14|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:33|21|Kim Hyo Min|none|10|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:33|21|Kim Hyo Min|none|13|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:48|21|Delphine Lansac|none|15|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:48|19|Delphine Lansac|none|21|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:48|21|Delphine Lansac|none|12|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:36|25|Vitalij Durkin|Nina Vislova|23|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:36|21|Vitalij Durkin|Nina Vislova|17|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|Dinar Dyah Ayustine |none|11|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:34|21|Dinar Dyah Ayustine |none|15|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:22|21|Natalia Perminova|none|6|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:22|21|Natalia Perminova|none|10|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:32|21|Alexander Dunn|Adam Hall|17|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:32|21|Alexander Dunn|Adam Hall|15|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|1:01|23|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|1:01|13|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|1:01|21|Yvonne Li|none|15|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:43|19|Jacco Arends|Ruben Jille|21|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:43|21|Jacco Arends|Ruben Jille|8|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:43|29|Jacco Arends|Ruben Jille|27|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:28|21|Thom Gicquel|Ronan Labar|11|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:28|24|Thom Gicquel|Ronan Labar|22|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:53|18|Milosz Bochat|Adam Cwalina|21|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:48|21|Konstantin Abramov|Alexandr Zinchenko|15|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:48|17|Konstantin Abramov|Alexandr Zinchenko|21|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:48|21|Konstantin Abramov|Alexandr Zinchenko|17|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|Bastian Kersaudy|Julien Maio|13|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|23|Bastian Kersaudy|Julien Maio|21|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:27|21|Chloe Birch|Jessica Pugh|13|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:27|21|Chloe Birch|Jessica Pugh|7|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:30|21|Ben Lane|Sean Vendy|18|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:30|21|Ben Lane|Sean Vendy|10|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:22|21|Nadia Fankhauser|Iris Tabeling|13|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:22|21|Nadia Fankhauser|Iris Tabeling|7|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:22|21|Olga Konon|Chloe Magee|10|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:22|21|Olga Konon|Chloe Magee|9|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:26|21|Debora Jille|Imke Van Der Aar|12|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:26|21|Debora Jille|Imke Van Der Aar|17|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:51|24|Thomas Rouxel|none|22|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:51|21|Thomas Rouxel|none|19|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:39|25|Rasmus Gemke|none|23|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:39|21|Rasmus Gemke|none|10|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|1:04|21|Lucas Corvee|none|13|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|1:04|17|Lucas Corvee|none|21|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|1:04|21|Lucas Corvee|none|17|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:31|21|Huang Yaqiong |Yu Xiaohan|11|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:31|21|Huang Yaqiong |Yu Xiaohan|12|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:37|21|Kenta Nishimoto|none|18|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:37|21|Kenta Nishimoto|none|12|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:58|17|Delphine Lansac|none|21|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:58|21|Delphine Lansac|none|17|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:58|21|Delphine Lansac|none|12|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:50|12|Thom Gicquel|Ronan Labar|21|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:50|21|Thom Gicquel|Ronan Labar|18|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:50|21|Thom Gicquel|Ronan Labar|19|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|1:04|21|Dinar Dyah Ayustine |none|19|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|1:04|9|Dinar Dyah Ayustine |none|21|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|1:04|21|Dinar Dyah Ayustine |none|13|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:32|21|Natalia Perminova|none|18|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:32|21|Natalia Perminova|none|10|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:34|21|Jacco Arends|Ruben Jille|17|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|Jacco Arends|Ruben Jille|19|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:47|12|Sofie Holmboe Dahl|none|21|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171025|0:44|16|Milosz Bochat|Adam Cwalina|21|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:44|21|Milosz Bochat|Adam Cwalina|15|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:44|21|Milosz Bochat|Adam Cwalina|12|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|Bastian Kersaudy|Julien Maio|19|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|22|Bastian Kersaudy|Julien Maio|20|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|9|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:51|17|Savitree Amitrapai |Pacharapun Chochuwong|21|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|12|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:43|21|Huang Yaqiong |Yu Xiaohan|14|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:43|21|Huang Yaqiong |Yu Xiaohan|19|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:28|21|Tontowi Ahmad |Liliyana Natsir|15|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:28|21|Tontowi Ahmad |Liliyana Natsir|12|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|He Jiting|Du Yue|18|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:34|21|He Jiting|Du Yue|16|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:30|21|Zheng Siwei |Chen Qingchen|19|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:30|21|Zheng Siwei |Chen Qingchen|13|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:41|22|Tan Kian Meng |Lai Pei Jing|20|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:41|21|Tan Kian Meng |Lai Pei Jing|13|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:32|21|Seung Jae Seo |Kim Ha Na|16|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:32|21|Seung Jae Seo |Kim Ha Na|14|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:33|21|Zhang Nan |Li Yinhui|19|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:33|21|Zhang Nan |Li Yinhui|17|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:54|17|Tang Chun Man|Tse Ying Suet|21|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:54|21|Tang Chun Man|Tse Ying Suet|16|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:54|21|Tang Chun Man|Tse Ying Suet|12|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:51|19|Lee Yang|Hsu Ya Ching|21|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:51|21|Lee Yang|Hsu Ya Ching|14|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:51|21|Lee Yang|Hsu Ya Ching|16|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:39|23|Dechapol Puavaranukroh|Puttita Supajirakul|21|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:39|21|Dechapol Puavaranukroh|Puttita Supajirakul|15|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:33|21|Ronan Labar|Audrey Fontaine|18|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:33|21|Ronan Labar|Audrey Fontaine|14|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:37|21|Mathias Christiansen|Christinna Pedersen|18|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:37|21|Mathias Christiansen|Christinna Pedersen|10|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:36|21|Lu Kai |Huang Yaqiong|15|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:36|21|Lu Kai |Huang Yaqiong|12|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:50|21|Ben Lane|Jessica Pugh|15|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:50|20|Ben Lane|Jessica Pugh|22|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171025|0:50|21|Ben Lane|Jessica Pugh|12|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:29|21|Vitalij Durkin|Nina Vislova|19|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:29|22|Vitalij Durkin|Nina Vislova|20|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:55|21|Niclas Nohr|Sara Thygesen|18|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:55|18|Niclas Nohr|Sara Thygesen|21|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:55|21|Niclas Nohr|Sara Thygesen|15|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:49|21|Jones Ralfy Jansen|Eva Janssens|15|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:49|16|Jones Ralfy Jansen|Eva Janssens|21|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:49|22|Jones Ralfy Jansen|Eva Janssens|20|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:37|17|Johannes Pistorius|Lara Kaepplein|21|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:37|21|Johannes Pistorius|Lara Kaepplein|16|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:37|21|Johannes Pistorius|Lara Kaepplein|9|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|16|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|7|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:29|21|Ruben Jille|Emilie Lefel|19|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:29|21|Ruben Jille|Emilie Lefel|16|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|17|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:47|13|Tinn Isriyanet |Pacharapun Chochuwong|21|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|14|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:39|21|Thomas Rouxel|none|12|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:39|23|Thomas Rouxel|none|21|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:53|21|Wei Nan|none|16|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:53|21|Wei Nan|none|23|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:53|24|Wei Nan|none|22|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:53|22|Scott Evans|none|20|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:53|18|Scott Evans|none|21|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:53|21|Scott Evans|none|10|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:41|24|Kenta Nishimoto|none|22|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:41|21|Kenta Nishimoto|none|15|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:35|21|Lucas Corvee|none|12|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:35|21|Lucas Corvee|none|14|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:46|21|Takuma Ueda|none|18|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:46|21|Takuma Ueda|none|17|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:46|21|Niclas Nohr|Sara Thygesen|10|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:46|16|Niclas Nohr|Sara Thygesen|21|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:46|21|Niclas Nohr|Sara Thygesen|16|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|13|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|18|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|12|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:49|19|Tinn Isriyanet |Pacharapun Chochuwong|21|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|19|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:42|21|Chloe Birch|none|17|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:42|17|Chloe Birch|none|21|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:42|21|Chloe Birch|none|9|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:28|21|Sofie Holmboe Dahl|none|18|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:28|21|Sofie Holmboe Dahl|none|5|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:32|21|Michelle Li|none|15|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:32|21|Michelle Li|none|14|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:33|21|Kim Hyo Min|none|10|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:33|21|Kim Hyo Min|none|13|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:48|21|Delphine Lansac|none|15|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:48|19|Delphine Lansac|none|21|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:48|21|Delphine Lansac|none|12|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:36|25|Vitalij Durkin|Nina Vislova|23|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:36|21|Vitalij Durkin|Nina Vislova|17|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|Dinar Dyah Ayustine |none|11|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:34|21|Dinar Dyah Ayustine |none|15|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:22|21|Natalia Perminova|none|6|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:22|21|Natalia Perminova|none|10|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:32|21|Alexander Dunn|Adam Hall|17|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:32|21|Alexander Dunn|Adam Hall|15|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|1:01|23|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|1:01|13|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|1:01|21|Yvonne Li|none|15|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:43|19|Jacco Arends|Ruben Jille|21|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:43|21|Jacco Arends|Ruben Jille|8|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:43|29|Jacco Arends|Ruben Jille|27|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:28|21|Thom Gicquel|Ronan Labar|11|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:28|24|Thom Gicquel|Ronan Labar|22|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:53|18|Milosz Bochat|Adam Cwalina|21|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:48|21|Konstantin Abramov|Alexandr Zinchenko|15|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:48|17|Konstantin Abramov|Alexandr Zinchenko|21|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:48|21|Konstantin Abramov|Alexandr Zinchenko|17|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|Bastian Kersaudy|Julien Maio|13|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|23|Bastian Kersaudy|Julien Maio|21|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:27|21|Chloe Birch|Jessica Pugh|13|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:27|21|Chloe Birch|Jessica Pugh|7|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:30|21|Ben Lane|Sean Vendy|18|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:30|21|Ben Lane|Sean Vendy|10|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:22|21|Nadia Fankhauser|Iris Tabeling|13|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:22|21|Nadia Fankhauser|Iris Tabeling|7|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:22|21|Olga Konon|Chloe Magee|10|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:22|21|Olga Konon|Chloe Magee|9|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:26|21|Debora Jille|Imke Van Der Aar|12|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:26|21|Debora Jille|Imke Van Der Aar|17|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:51|24|Thomas Rouxel|none|22|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:51|21|Thomas Rouxel|none|19|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:39|25|Rasmus Gemke|none|23|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:39|21|Rasmus Gemke|none|10|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|1:04|21|Lucas Corvee|none|13|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|1:04|17|Lucas Corvee|none|21|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|1:04|21|Lucas Corvee|none|17|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:31|21|Huang Yaqiong |Yu Xiaohan|11|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:31|21|Huang Yaqiong |Yu Xiaohan|12|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:37|21|Kenta Nishimoto|none|18|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:37|21|Kenta Nishimoto|none|12|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:58|17|Delphine Lansac|none|21|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:58|21|Delphine Lansac|none|17|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:58|21|Delphine Lansac|none|12|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:50|12|Thom Gicquel|Ronan Labar|21|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:50|21|Thom Gicquel|Ronan Labar|18|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:50|21|Thom Gicquel|Ronan Labar|19|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|1:04|21|Dinar Dyah Ayustine |none|19|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|1:04|9|Dinar Dyah Ayustine |none|21|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|1:04|21|Dinar Dyah Ayustine |none|13|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:32|21|Natalia Perminova|none|18|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:32|21|Natalia Perminova|none|10|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:34|21|Jacco Arends|Ruben Jille|17|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|Jacco Arends|Ruben Jille|19|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:47|12|Sofie Holmboe Dahl|none|21|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171026|0:44|16|Milosz Bochat|Adam Cwalina|21|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:44|21|Milosz Bochat|Adam Cwalina|15|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:44|21|Milosz Bochat|Adam Cwalina|12|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|Bastian Kersaudy|Julien Maio|19|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|22|Bastian Kersaudy|Julien Maio|20|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|9|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:51|17|Savitree Amitrapai |Pacharapun Chochuwong|21|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|12|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:43|21|Huang Yaqiong |Yu Xiaohan|14|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:43|21|Huang Yaqiong |Yu Xiaohan|19|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:28|21|Tontowi Ahmad |Liliyana Natsir|15|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:28|21|Tontowi Ahmad |Liliyana Natsir|12|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|He Jiting|Du Yue|18|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:34|21|He Jiting|Du Yue|16|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:30|21|Zheng Siwei |Chen Qingchen|19|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:30|21|Zheng Siwei |Chen Qingchen|13|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:41|22|Tan Kian Meng |Lai Pei Jing|20|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:41|21|Tan Kian Meng |Lai Pei Jing|13|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:32|21|Seung Jae Seo |Kim Ha Na|16|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:32|21|Seung Jae Seo |Kim Ha Na|14|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:33|21|Zhang Nan |Li Yinhui|19|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:33|21|Zhang Nan |Li Yinhui|17|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:54|17|Tang Chun Man|Tse Ying Suet|21|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:54|21|Tang Chun Man|Tse Ying Suet|16|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:54|21|Tang Chun Man|Tse Ying Suet|12|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:51|19|Lee Yang|Hsu Ya Ching|21|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:51|21|Lee Yang|Hsu Ya Ching|14|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:51|21|Lee Yang|Hsu Ya Ching|16|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:39|23|Dechapol Puavaranukroh|Puttita Supajirakul|21|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:39|21|Dechapol Puavaranukroh|Puttita Supajirakul|15|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:33|21|Ronan Labar|Audrey Fontaine|18|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:33|21|Ronan Labar|Audrey Fontaine|14|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:37|21|Mathias Christiansen|Christinna Pedersen|18|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:37|21|Mathias Christiansen|Christinna Pedersen|10|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:36|21|Lu Kai |Huang Yaqiong|15|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:36|21|Lu Kai |Huang Yaqiong|12|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:50|21|Ben Lane|Jessica Pugh|15|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:50|20|Ben Lane|Jessica Pugh|22|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171026|0:50|21|Ben Lane|Jessica Pugh|12|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:29|21|Vitalij Durkin|Nina Vislova|19|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:29|22|Vitalij Durkin|Nina Vislova|20|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:55|21|Niclas Nohr|Sara Thygesen|18|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:55|18|Niclas Nohr|Sara Thygesen|21|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:55|21|Niclas Nohr|Sara Thygesen|15|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:49|21|Jones Ralfy Jansen|Eva Janssens|15|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:49|16|Jones Ralfy Jansen|Eva Janssens|21|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:49|22|Jones Ralfy Jansen|Eva Janssens|20|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:37|17|Johannes Pistorius|Lara Kaepplein|21|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:37|21|Johannes Pistorius|Lara Kaepplein|16|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:37|21|Johannes Pistorius|Lara Kaepplein|9|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|16|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|7|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:29|21|Ruben Jille|Emilie Lefel|19|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:29|21|Ruben Jille|Emilie Lefel|16|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|17|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:47|13|Tinn Isriyanet |Pacharapun Chochuwong|21|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|14|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:39|21|Thomas Rouxel|none|12|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:39|23|Thomas Rouxel|none|21|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:53|21|Wei Nan|none|16|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:53|21|Wei Nan|none|23|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:53|24|Wei Nan|none|22|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:53|22|Scott Evans|none|20|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:53|18|Scott Evans|none|21|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:53|21|Scott Evans|none|10|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:41|24|Kenta Nishimoto|none|22|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:41|21|Kenta Nishimoto|none|15|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:35|21|Lucas Corvee|none|12|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:35|21|Lucas Corvee|none|14|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:46|21|Takuma Ueda|none|18|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:46|21|Takuma Ueda|none|17|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:46|21|Niclas Nohr|Sara Thygesen|10|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:46|16|Niclas Nohr|Sara Thygesen|21|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:46|21|Niclas Nohr|Sara Thygesen|16|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|13|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|18|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|12|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:49|19|Tinn Isriyanet |Pacharapun Chochuwong|21|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|19|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:42|21|Chloe Birch|none|17|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:42|17|Chloe Birch|none|21|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:42|21|Chloe Birch|none|9|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:28|21|Sofie Holmboe Dahl|none|18|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:28|21|Sofie Holmboe Dahl|none|5|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:32|21|Michelle Li|none|15|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:32|21|Michelle Li|none|14|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:33|21|Kim Hyo Min|none|10|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:33|21|Kim Hyo Min|none|13|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:48|21|Delphine Lansac|none|15|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:48|19|Delphine Lansac|none|21|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:48|21|Delphine Lansac|none|12|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:36|25|Vitalij Durkin|Nina Vislova|23|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:36|21|Vitalij Durkin|Nina Vislova|17|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|Dinar Dyah Ayustine |none|11|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:34|21|Dinar Dyah Ayustine |none|15|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:22|21|Natalia Perminova|none|6|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:22|21|Natalia Perminova|none|10|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:32|21|Alexander Dunn|Adam Hall|17|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:32|21|Alexander Dunn|Adam Hall|15|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|1:01|23|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|1:01|13|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|1:01|21|Yvonne Li|none|15|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:43|19|Jacco Arends|Ruben Jille|21|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:43|21|Jacco Arends|Ruben Jille|8|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:43|29|Jacco Arends|Ruben Jille|27|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:28|21|Thom Gicquel|Ronan Labar|11|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:28|24|Thom Gicquel|Ronan Labar|22|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:53|18|Milosz Bochat|Adam Cwalina|21|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:48|21|Konstantin Abramov|Alexandr Zinchenko|15|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:48|17|Konstantin Abramov|Alexandr Zinchenko|21|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:48|21|Konstantin Abramov|Alexandr Zinchenko|17|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|Bastian Kersaudy|Julien Maio|13|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|23|Bastian Kersaudy|Julien Maio|21|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:27|21|Chloe Birch|Jessica Pugh|13|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:27|21|Chloe Birch|Jessica Pugh|7|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:30|21|Ben Lane|Sean Vendy|18|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:30|21|Ben Lane|Sean Vendy|10|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:22|21|Nadia Fankhauser|Iris Tabeling|13|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:22|21|Nadia Fankhauser|Iris Tabeling|7|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:22|21|Olga Konon|Chloe Magee|10|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:22|21|Olga Konon|Chloe Magee|9|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:26|21|Debora Jille|Imke Van Der Aar|12|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:26|21|Debora Jille|Imke Van Der Aar|17|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:51|24|Thomas Rouxel|none|22|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:51|21|Thomas Rouxel|none|19|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:39|25|Rasmus Gemke|none|23|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:39|21|Rasmus Gemke|none|10|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|1:04|21|Lucas Corvee|none|13|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|1:04|17|Lucas Corvee|none|21|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|1:04|21|Lucas Corvee|none|17|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:31|21|Huang Yaqiong |Yu Xiaohan|11|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:31|21|Huang Yaqiong |Yu Xiaohan|12|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:37|21|Kenta Nishimoto|none|18|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:37|21|Kenta Nishimoto|none|12|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:58|17|Delphine Lansac|none|21|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:58|21|Delphine Lansac|none|17|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:58|21|Delphine Lansac|none|12|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:50|12|Thom Gicquel|Ronan Labar|21|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:50|21|Thom Gicquel|Ronan Labar|18|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:50|21|Thom Gicquel|Ronan Labar|19|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|1:04|21|Dinar Dyah Ayustine |none|19|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|1:04|9|Dinar Dyah Ayustine |none|21|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|1:04|21|Dinar Dyah Ayustine |none|13|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:32|21|Natalia Perminova|none|18|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:32|21|Natalia Perminova|none|10|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:34|21|Jacco Arends|Ruben Jille|17|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|Jacco Arends|Ruben Jille|19|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:47|12|Sofie Holmboe Dahl|none|21|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171027|0:44|16|Milosz Bochat|Adam Cwalina|21|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:44|21|Milosz Bochat|Adam Cwalina|15|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:44|21|Milosz Bochat|Adam Cwalina|12|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|Bastian Kersaudy|Julien Maio|19|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|22|Bastian Kersaudy|Julien Maio|20|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|9|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:51|17|Savitree Amitrapai |Pacharapun Chochuwong|21|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|12|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:43|21|Huang Yaqiong |Yu Xiaohan|14|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:43|21|Huang Yaqiong |Yu Xiaohan|19|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:28|21|Tontowi Ahmad |Liliyana Natsir|15|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:28|21|Tontowi Ahmad |Liliyana Natsir|12|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|He Jiting|Du Yue|18|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:34|21|He Jiting|Du Yue|16|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:30|21|Zheng Siwei |Chen Qingchen|19|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:30|21|Zheng Siwei |Chen Qingchen|13|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:41|22|Tan Kian Meng |Lai Pei Jing|20|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:41|21|Tan Kian Meng |Lai Pei Jing|13|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:32|21|Seung Jae Seo |Kim Ha Na|16|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:32|21|Seung Jae Seo |Kim Ha Na|14|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:33|21|Zhang Nan |Li Yinhui|19|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:33|21|Zhang Nan |Li Yinhui|17|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:54|17|Tang Chun Man|Tse Ying Suet|21|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:54|21|Tang Chun Man|Tse Ying Suet|16|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:54|21|Tang Chun Man|Tse Ying Suet|12|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:51|19|Lee Yang|Hsu Ya Ching|21|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:51|21|Lee Yang|Hsu Ya Ching|14|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:51|21|Lee Yang|Hsu Ya Ching|16|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:39|23|Dechapol Puavaranukroh|Puttita Supajirakul|21|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:39|21|Dechapol Puavaranukroh|Puttita Supajirakul|15|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:33|21|Ronan Labar|Audrey Fontaine|18|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:33|21|Ronan Labar|Audrey Fontaine|14|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:37|21|Mathias Christiansen|Christinna Pedersen|18|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:37|21|Mathias Christiansen|Christinna Pedersen|10|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:36|21|Lu Kai |Huang Yaqiong|15|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:36|21|Lu Kai |Huang Yaqiong|12|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:50|21|Ben Lane|Jessica Pugh|15|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:50|20|Ben Lane|Jessica Pugh|22|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171027|0:50|21|Ben Lane|Jessica Pugh|12|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:29|21|Vitalij Durkin|Nina Vislova|19|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:29|22|Vitalij Durkin|Nina Vislova|20|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:55|21|Niclas Nohr|Sara Thygesen|18|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:55|18|Niclas Nohr|Sara Thygesen|21|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:55|21|Niclas Nohr|Sara Thygesen|15|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:49|21|Jones Ralfy Jansen|Eva Janssens|15|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:49|16|Jones Ralfy Jansen|Eva Janssens|21|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:49|22|Jones Ralfy Jansen|Eva Janssens|20|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:37|17|Johannes Pistorius|Lara Kaepplein|21|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:37|21|Johannes Pistorius|Lara Kaepplein|16|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:37|21|Johannes Pistorius|Lara Kaepplein|9|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|16|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|7|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:29|21|Ruben Jille|Emilie Lefel|19|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:29|21|Ruben Jille|Emilie Lefel|16|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|17|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:47|13|Tinn Isriyanet |Pacharapun Chochuwong|21|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|14|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:39|21|Thomas Rouxel|none|12|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:39|23|Thomas Rouxel|none|21|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:53|21|Wei Nan|none|16|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:53|21|Wei Nan|none|23|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:53|24|Wei Nan|none|22|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:53|22|Scott Evans|none|20|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:53|18|Scott Evans|none|21|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:53|21|Scott Evans|none|10|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:41|24|Kenta Nishimoto|none|22|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:41|21|Kenta Nishimoto|none|15|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:35|21|Lucas Corvee|none|12|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:35|21|Lucas Corvee|none|14|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:46|21|Takuma Ueda|none|18|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:46|21|Takuma Ueda|none|17|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:46|21|Niclas Nohr|Sara Thygesen|10|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:46|16|Niclas Nohr|Sara Thygesen|21|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:46|21|Niclas Nohr|Sara Thygesen|16|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|13|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|18|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|12|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:49|19|Tinn Isriyanet |Pacharapun Chochuwong|21|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|19|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:42|21|Chloe Birch|none|17|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:42|17|Chloe Birch|none|21|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:42|21|Chloe Birch|none|9|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:28|21|Sofie Holmboe Dahl|none|18|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:28|21|Sofie Holmboe Dahl|none|5|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:32|21|Michelle Li|none|15|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:32|21|Michelle Li|none|14|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:33|21|Kim Hyo Min|none|10|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:33|21|Kim Hyo Min|none|13|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:48|21|Delphine Lansac|none|15|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:48|19|Delphine Lansac|none|21|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:48|21|Delphine Lansac|none|12|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:36|25|Vitalij Durkin|Nina Vislova|23|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:36|21|Vitalij Durkin|Nina Vislova|17|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|Dinar Dyah Ayustine |none|11|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:34|21|Dinar Dyah Ayustine |none|15|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:22|21|Natalia Perminova|none|6|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:22|21|Natalia Perminova|none|10|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:32|21|Alexander Dunn|Adam Hall|17|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:32|21|Alexander Dunn|Adam Hall|15|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|1:01|23|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|1:01|13|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|1:01|21|Yvonne Li|none|15|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:43|19|Jacco Arends|Ruben Jille|21|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:43|21|Jacco Arends|Ruben Jille|8|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:43|29|Jacco Arends|Ruben Jille|27|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:28|21|Thom Gicquel|Ronan Labar|11|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:28|24|Thom Gicquel|Ronan Labar|22|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:53|18|Milosz Bochat|Adam Cwalina|21|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:48|21|Konstantin Abramov|Alexandr Zinchenko|15|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:48|17|Konstantin Abramov|Alexandr Zinchenko|21|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:48|21|Konstantin Abramov|Alexandr Zinchenko|17|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|Bastian Kersaudy|Julien Maio|13|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|23|Bastian Kersaudy|Julien Maio|21|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:27|21|Chloe Birch|Jessica Pugh|13|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:27|21|Chloe Birch|Jessica Pugh|7|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:30|21|Ben Lane|Sean Vendy|18|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:30|21|Ben Lane|Sean Vendy|10|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:22|21|Nadia Fankhauser|Iris Tabeling|13|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:22|21|Nadia Fankhauser|Iris Tabeling|7|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:22|21|Olga Konon|Chloe Magee|10|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:22|21|Olga Konon|Chloe Magee|9|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:26|21|Debora Jille|Imke Van Der Aar|12|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:26|21|Debora Jille|Imke Van Der Aar|17|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:51|24|Thomas Rouxel|none|22|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:51|21|Thomas Rouxel|none|19|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:39|25|Rasmus Gemke|none|23|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:39|21|Rasmus Gemke|none|10|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|1:04|21|Lucas Corvee|none|13|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|1:04|17|Lucas Corvee|none|21|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|1:04|21|Lucas Corvee|none|17|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:31|21|Huang Yaqiong |Yu Xiaohan|11|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:31|21|Huang Yaqiong |Yu Xiaohan|12|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:37|21|Kenta Nishimoto|none|18|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:37|21|Kenta Nishimoto|none|12|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:58|17|Delphine Lansac|none|21|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:58|21|Delphine Lansac|none|17|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:58|21|Delphine Lansac|none|12|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:50|12|Thom Gicquel|Ronan Labar|21|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:50|21|Thom Gicquel|Ronan Labar|18|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:50|21|Thom Gicquel|Ronan Labar|19|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|1:04|21|Dinar Dyah Ayustine |none|19|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|1:04|9|Dinar Dyah Ayustine |none|21|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|1:04|21|Dinar Dyah Ayustine |none|13|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:32|21|Natalia Perminova|none|18|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:32|21|Natalia Perminova|none|10|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:34|21|Jacco Arends|Ruben Jille|17|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|Jacco Arends|Ruben Jille|19|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:47|12|Sofie Holmboe Dahl|none|21|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171028|0:44|16|Milosz Bochat|Adam Cwalina|21|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:44|21|Milosz Bochat|Adam Cwalina|15|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:44|21|Milosz Bochat|Adam Cwalina|12|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|Bastian Kersaudy|Julien Maio|19|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|22|Bastian Kersaudy|Julien Maio|20|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|9|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:51|17|Savitree Amitrapai |Pacharapun Chochuwong|21|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|12|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:43|21|Huang Yaqiong |Yu Xiaohan|14|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:43|21|Huang Yaqiong |Yu Xiaohan|19|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:28|21|Tontowi Ahmad |Liliyana Natsir|15|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:28|21|Tontowi Ahmad |Liliyana Natsir|12|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|He Jiting|Du Yue|18|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:34|21|He Jiting|Du Yue|16|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:30|21|Zheng Siwei |Chen Qingchen|19|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:30|21|Zheng Siwei |Chen Qingchen|13|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:41|22|Tan Kian Meng |Lai Pei Jing|20|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:41|21|Tan Kian Meng |Lai Pei Jing|13|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:32|21|Seung Jae Seo |Kim Ha Na|16|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:32|21|Seung Jae Seo |Kim Ha Na|14|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:33|21|Zhang Nan |Li Yinhui|19|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:33|21|Zhang Nan |Li Yinhui|17|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:54|17|Tang Chun Man|Tse Ying Suet|21|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:54|21|Tang Chun Man|Tse Ying Suet|16|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:54|21|Tang Chun Man|Tse Ying Suet|12|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:51|19|Lee Yang|Hsu Ya Ching|21|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:51|21|Lee Yang|Hsu Ya Ching|14|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:51|21|Lee Yang|Hsu Ya Ching|16|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:39|23|Dechapol Puavaranukroh|Puttita Supajirakul|21|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:39|21|Dechapol Puavaranukroh|Puttita Supajirakul|15|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:33|21|Ronan Labar|Audrey Fontaine|18|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:33|21|Ronan Labar|Audrey Fontaine|14|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:37|21|Mathias Christiansen|Christinna Pedersen|18|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:37|21|Mathias Christiansen|Christinna Pedersen|10|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:36|21|Lu Kai |Huang Yaqiong|15|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:36|21|Lu Kai |Huang Yaqiong|12|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:50|21|Ben Lane|Jessica Pugh|15|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:50|20|Ben Lane|Jessica Pugh|22|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171028|0:50|21|Ben Lane|Jessica Pugh|12|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:29|21|Vitalij Durkin|Nina Vislova|19|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:29|22|Vitalij Durkin|Nina Vislova|20|Anton Kaisti|Jenny Nystrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:26|21|Scott Evans|Amanda Hogstrom|15|Oliver Schaller|Celine Burkart|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:55|21|Niclas Nohr|Sara Thygesen|18|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:55|18|Niclas Nohr|Sara Thygesen|21|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:55|21|Niclas Nohr|Sara Thygesen|15|Gregory Mairs|Jenny Moore|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:49|21|Jones Ralfy Jansen|Eva Janssens|15|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:49|16|Jones Ralfy Jansen|Eva Janssens|21|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:49|22|Jones Ralfy Jansen|Eva Janssens|20|Jelle Maas|Imke Van Der Aar|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:37|17|Johannes Pistorius|Lara Kaepplein|21|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:37|21|Johannes Pistorius|Lara Kaepplein|16|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:37|21|Johannes Pistorius|Lara Kaepplein|9|Matthew Clare|Victoria Williams|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|16|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:23|21|Ivan Sozonov|Evgeniya Kosetskaya|7|Alexandr Zinchenko|Olga Morozova|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:29|21|Ruben Jille|Emilie Lefel|19|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:29|21|Ruben Jille|Emilie Lefel|16|Thom Gicquel|Delphine Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|17|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:47|13|Tinn Isriyanet |Pacharapun Chochuwong|21|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:47|21|Tinn Isriyanet |Pacharapun Chochuwong|14|Peter Kaesbauer|Olga Konon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:40|21|Kai Schaefer|none|14|Pierrick Cajot|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:39|21|Thomas Rouxel|none|12|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:39|23|Thomas Rouxel|none|21|Lee Cheuk Yiu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:42|22|Rasmus Gemke|none|20|Eetu Heino|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:53|21|Wei Nan|none|16|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:53|21|Wei Nan|none|23|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:53|24|Wei Nan|none|22|Raul Must|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:53|22|Scott Evans|none|20|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:53|18|Scott Evans|none|21|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:53|21|Scott Evans|none|10|Tien Minh Nguyen|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:41|24|Kenta Nishimoto|none|22|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:41|21|Kenta Nishimoto|none|15|Erik Meijs|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:35|21|Lucas Corvee|none|12|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:35|21|Lucas Corvee|none|14|Kieran Merrilees|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:46|21|Takuma Ueda|none|18|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:46|21|Takuma Ueda|none|17|Lucas Claerbout|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:46|21|Niclas Nohr|Sara Thygesen|10|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:46|16|Niclas Nohr|Sara Thygesen|21|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:46|21|Niclas Nohr|Sara Thygesen|16|Jones Ralfy Jansen|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|13|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:24|21|Ivan Sozonov|Evgeniya Kosetskaya|18|Johannes Pistorius|Lara Kaepplein|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|12|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:49|19|Tinn Isriyanet |Pacharapun Chochuwong|21|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:49|21|Tinn Isriyanet |Pacharapun Chochuwong|19|Ruben Jille|Emilie Lefel|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:42|21|Chloe Birch|none|17|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:42|17|Chloe Birch|none|21|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:42|21|Chloe Birch|none|9|Manon Krieger|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:28|21|Sofie Holmboe Dahl|none|18|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:28|21|Sofie Holmboe Dahl|none|5|Luise Heim|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:32|21|Michelle Li|none|15|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:32|21|Michelle Li|none|14|Pai Yu Po|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:33|21|Kim Hyo Min|none|10|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:33|21|Kim Hyo Min|none|13|Thi Trang (B) Vu|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:48|21|Delphine Lansac|none|15|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:48|19|Delphine Lansac|none|21|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:48|21|Delphine Lansac|none|12|Clara Azurmendi|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:36|25|Vitalij Durkin|Nina Vislova|23|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:36|21|Vitalij Durkin|Nina Vislova|17|Scott Evans|Amanda Hogstrom|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|Dinar Dyah Ayustine |none|11|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:34|21|Dinar Dyah Ayustine |none|15|Natalia Koch Rohde|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:22|21|Natalia Perminova|none|6|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:22|21|Natalia Perminova|none|10|Fontaine Mica Wright|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:32|21|Alexander Dunn|Adam Hall|17|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:32|21|Alexander Dunn|Adam Hall|15|Jae Hwan Kim|Seung Jae Seo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|1:01|23|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|1:01|13|Yvonne Li|none|21|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|1:01|21|Yvonne Li|none|15|Lyanny Alessandra Mainaky|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:43|19|Jacco Arends|Ruben Jille|21|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:43|21|Jacco Arends|Ruben Jille|8|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:43|29|Jacco Arends|Ruben Jille|27|Matthew Clare|Gregory Mairs|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|Hyuk Gyun Choi|Park Kyung Hoon|18|Tinn Isriyanet|Kittisak Namdash|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:28|21|Thom Gicquel|Ronan Labar|11|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:28|24|Thom Gicquel|Ronan Labar|22|Joshua Magee|Sam Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:53|18|Milosz Bochat|Adam Cwalina|21|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:53|21|Milosz Bochat|Adam Cwalina|14|Jelle Maas|Robin Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:48|21|Konstantin Abramov|Alexandr Zinchenko|15|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:48|17|Konstantin Abramov|Alexandr Zinchenko|21|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:48|21|Konstantin Abramov|Alexandr Zinchenko|17|Peter Kaesbauer|Johannes Pistorius|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|Bastian Kersaudy|Julien Maio|13|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|23|Bastian Kersaudy|Julien Maio|21|Martin Campbell|Patrick Machugh|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:27|21|Chloe Birch|Jessica Pugh|13|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:27|21|Chloe Birch|Jessica Pugh|7|Lorraine Baumann|Verlaine Faulmann|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:30|21|Ben Lane|Sean Vendy|18|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:30|21|Ben Lane|Sean Vendy|10|Maxime Briot|Fabien Delrue|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:22|21|Nadia Fankhauser|Iris Tabeling|13|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:22|21|Nadia Fankhauser|Iris Tabeling|7|Meline Metaireau|Juliane Piron|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:22|21|Olga Konon|Chloe Magee|10|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:22|21|Olga Konon|Chloe Magee|9|Ieva Pope|Monika Radovska|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:26|21|Debora Jille|Imke Van Der Aar|12|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:26|21|Debora Jille|Imke Van Der Aar|17|Manon Krieger|Andréa Vanderstukken|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:51|24|Thomas Rouxel|none|22|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:51|21|Thomas Rouxel|none|19|Kai Schaefer|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:39|25|Rasmus Gemke|none|23|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:39|21|Rasmus Gemke|none|10|Wei Nan|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|1:04|21|Lucas Corvee|none|13|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|1:04|17|Lucas Corvee|none|21|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|1:04|21|Lucas Corvee|none|17|Takuma Ueda|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:31|21|Huang Yaqiong |Yu Xiaohan|11|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:31|21|Huang Yaqiong |Yu Xiaohan|12|Linda Efler|Eva Janssens|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:37|21|Kenta Nishimoto|none|18|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:37|21|Kenta Nishimoto|none|12|Scott Evans|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:58|17|Delphine Lansac|none|21|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:58|21|Delphine Lansac|none|17|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:58|21|Delphine Lansac|none|12|Michelle Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:50|12|Thom Gicquel|Ronan Labar|21|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:50|21|Thom Gicquel|Ronan Labar|18|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:50|21|Thom Gicquel|Ronan Labar|19|Hyuk Gyun Choi|Park Kyung Hoon|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|1:04|21|Dinar Dyah Ayustine |none|19|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|1:04|9|Dinar Dyah Ayustine |none|21|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|1:04|21|Dinar Dyah Ayustine |none|13|Kim Hyo Min|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:32|21|Natalia Perminova|none|18|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:32|21|Natalia Perminova|none|10|Yvonne Li|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:34|21|Jacco Arends|Ruben Jille|17|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|Jacco Arends|Ruben Jille|19|Alexander Dunn|Adam Hall|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:47|12|Sofie Holmboe Dahl|none|21|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:47|21|Sofie Holmboe Dahl|none|16|Chloe Birch|none|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|singles
+20171029|0:44|16|Milosz Bochat|Adam Cwalina|21|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:44|21|Milosz Bochat|Adam Cwalina|15|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:44|21|Milosz Bochat|Adam Cwalina|12|Konstantin Abramov|Alexandr Zinchenko|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|Bastian Kersaudy|Julien Maio|19|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|22|Bastian Kersaudy|Julien Maio|20|Ben Lane|Sean Vendy|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|9|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:51|17|Savitree Amitrapai |Pacharapun Chochuwong|21|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:51|21|Savitree Amitrapai |Pacharapun Chochuwong|12|Nadia Fankhauser|Iris Tabeling|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:43|21|Huang Yaqiong |Yu Xiaohan|14|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:43|21|Huang Yaqiong |Yu Xiaohan|19|Olga Konon|Chloe Magee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:28|21|Tontowi Ahmad |Liliyana Natsir|15|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:28|21|Tontowi Ahmad |Liliyana Natsir|12|Pranaav Jerry Chopra|Reddy N. Sikki|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|He Jiting|Du Yue|18|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:34|21|He Jiting|Du Yue|16|Mark Lamsfuss|Isabel Herttrich|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:30|21|Zheng Siwei |Chen Qingchen|19|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:30|21|Zheng Siwei |Chen Qingchen|13|Hafiz Faizal|Gloria Emanuelle Widjaja|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:41|22|Tan Kian Meng |Lai Pei Jing|20|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:41|21|Tan Kian Meng |Lai Pei Jing|13|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:32|21|Seung Jae Seo |Kim Ha Na|16|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:32|21|Seung Jae Seo |Kim Ha Na|14|Goh Soon Huat|Shevon Jemie Lai|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:33|21|Zhang Nan |Li Yinhui|19|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:33|21|Zhang Nan |Li Yinhui|17|Yugo Kobayashi|Misaki Matsutomo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:54|17|Tang Chun Man|Tse Ying Suet|21|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:54|21|Tang Chun Man|Tse Ying Suet|16|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:54|21|Tang Chun Man|Tse Ying Suet|12|Marcus Ellis|Lauren Smith|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:51|19|Lee Yang|Hsu Ya Ching|21|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:51|21|Lee Yang|Hsu Ya Ching|14|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:51|21|Lee Yang|Hsu Ya Ching|16|Jae Hwan Kim|Lee So Hee|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:39|23|Dechapol Puavaranukroh|Puttita Supajirakul|21|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:39|21|Dechapol Puavaranukroh|Puttita Supajirakul|15|Jacco Arends|Selena Piek|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:33|21|Ronan Labar|Audrey Fontaine|18|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:33|21|Ronan Labar|Audrey Fontaine|14|Anders Skaarup Rasmussen|Line Højmark Kjaersfeldt|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:37|21|Mathias Christiansen|Christinna Pedersen|18|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:37|21|Mathias Christiansen|Christinna Pedersen|10|Marvin Emil Seidel|Linda Efler|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:36|21|Lu Kai |Huang Yaqiong|15|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:36|21|Lu Kai |Huang Yaqiong|12|Bastian Kersaudy|Lea Palermo|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:50|21|Ben Lane|Jessica Pugh|15|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:50|20|Ben Lane|Jessica Pugh|22|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles
+20171029|0:50|21|Ben Lane|Jessica Pugh|12|Robin Tabeling|Cheryl Seinen|AB88223D-BBC2-45EB-AC19-8CE0DB7DE8BE|doubles

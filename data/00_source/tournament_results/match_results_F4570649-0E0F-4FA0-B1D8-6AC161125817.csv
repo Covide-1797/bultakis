@@ -1,0 +1,781 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20171123|0:30|21|Manish Gupta|Aruni Chauhan|18|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|22|Manish Gupta|Aruni Chauhan|20|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:23|21|Sai Rohit Bomboji|Nila Valluvan|13|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:23|21|Sai Rohit Bomboji|Nila Valluvan|10|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|7|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|5|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:34|21|Singh Vinay Kumar|Revati Devasthale|16|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:34|21|Singh Vinay Kumar|Revati Devasthale|13|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:29|21|Saihul Islam|Austin Cindy Pratiwi|14|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:29|21|Saihul Islam|Austin Cindy Pratiwi|8|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:35|22|Akash Kumar|Pinky Karki|20|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:35|21|Akash Kumar|Pinky Karki|19|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:24|21|Singh Kunwar Ishan|Deepali Gupta|16|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:24|21|Singh Kunwar Ishan|Deepali Gupta|15|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|22|Siddharth .|Manali Sinha|20|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|21|Siddharth .|Manali Sinha|15|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|19|Nishant Dua|Anamika Kashyap|21|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:22|21|Kartik Jindal|none|13|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:22|21|Kartik Jindal|none|7|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:06|12|Balraj Kajla|none|2|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:06|Walkover Win|Balraj Kajla|none|Walkover Loss|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:43|21|Abhyansh Singh|none|18|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:43|17|Abhyansh Singh|none|21|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:43|21|Abhyansh Singh|none|12|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:35|21|Ashish Sharma|none|10|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:35|18|Ashish Sharma|none|21|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:35|21|Ashish Sharma|none|15|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:27|21|Alap Mishra|none|11|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:27|21|Alap Mishra|none|18|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Dhruv Kumar|none|16|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Dhruv Kumar|none|13|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:31|21|Vishal Thakran|none|9|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:31|24|Vishal Thakran|none|22|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:19|21|Arintap Das Gupta|none|6|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:19|21|Arintap Das Gupta|none|11|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:45|15|Mayank Ahuja|none|21|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:45|21|Mayank Ahuja|none|15|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:45|21|Mayank Ahuja|none|18|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123||Walkover Win|Ketan Chahal|none|Walkover Loss|Shubham Prajapati|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:35|21|Muhammad Elaf Wei Tan |none|15|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:35|21|Muhammad Elaf Wei Tan |none|16|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:23|21|Abhinav Manota|none|7|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:23|21|Abhinav Manota|none|11|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:27|21|Sai Charan Koya|none|16|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:27|21|Sai Charan Koya|none|15|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:00|14|Ananya Goel|none|21|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:00|21|Ananya Goel|none|17|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:00|21|Ananya Goel|none|18|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123||Walkover Win|Manish Gupta|none|Walkover Loss|Ankit Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:25|21|Varshini Viswanath Sri|none|13|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:25|21|Varshini Viswanath Sri|none|9|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:39|16|Priya Konjengbam |none|21|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:39|22|Priya Konjengbam |none|20|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:39|21|Priya Konjengbam |none|15|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Prashi Joshi|none|6|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Prashi Joshi|none|11|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:55|17|Kanika Kanwal|none|21|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:55|21|Kanika Kanwal|none|14|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:55|21|Kanika Kanwal|none|18|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Purva Barve|none|8|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Purva Barve|none|11|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:40|22|Andrew Susanto|none|20|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:40|14|Andrew Susanto|none|21|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:40|21|Andrew Susanto|none|11|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:48|21|Shivani Vaishnavi Devi Gangula|none|12|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:48|16|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:48|23|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Guniarti Rafika Mutiara|none|14|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Guniarti Rafika Mutiara|none|17|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Vidhu Nair|none|19|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Vidhu Nair|none|15|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123||Walkover Win|Riya Arolkar|none|Walkover Loss|Rucha Nikam [5]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123||Walkover Win|Meghana Reddy Mareddy|none|Walkover Loss|Sanchali Dasgupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Kaivalya Lakshmi Yadavalli|none|9|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Kaivalya Lakshmi Yadavalli|none|12|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:40|21|Vaishnavi Kaari|none|23|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:40|21|Vaishnavi Kaari|none|13|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:40|21|Vaishnavi Kaari|none|19|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:10|17|Ruhi Raju|none|21|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:10|21|Ruhi Raju|none|12|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:10|21|Ruhi Raju|none|15|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:21|21|Marunmayi Saoji|none|4|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:21|21|Marunmayi Saoji|none|5|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Revati Devasthale|none|11|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Revati Devasthale|none|9|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Sai Rohit Bomboji|Akash Chandran|14|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|21|Sai Rohit Bomboji|Akash Chandran|18|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:26|21|Vaibhaav .|Prakash Raj|13|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:26|21|Vaibhaav .|Prakash Raj|8|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:35|13|Nishant Dua |Nihar Kelkar|21|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:35|21|Nishant Dua |Nihar Kelkar|13|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:35|21|Nishant Dua |Nihar Kelkar|19|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Hadees Faiz|Singh Kunwar Ishan|14|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Hadees Faiz|Singh Kunwar Ishan|17|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:55|22|Kush Chugh |Sudhish Venkat Gude|24|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:55|21|Kush Chugh |Sudhish Venkat Gude|16|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:55|21|Kush Chugh |Sudhish Venkat Gude|15|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|14|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:43|17|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|21|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|15|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|22|Hardik Makkar|Himanshu Saroha|20|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|21|Hardik Makkar|Himanshu Saroha|10|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123||Walkover Win|Harshal Bhoyar |Manish Gupta|Walkover Loss|Pramesh Patidar|Sanjay Thakur|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:33|21|Kaustubh Rawat |Arjun Sachdeva|17|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:33|17|Kaustubh Rawat |Arjun Sachdeva|21|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:33|21|Kaustubh Rawat |Arjun Sachdeva|16|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|17|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|12|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:40|21|Pavan Malik |Sujey Tamboli|19|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:40|21|Pavan Malik |Sujey Tamboli|16|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123||Walkover Win|Utkarsh Choudhary|Deepak Mishra|Walkover Loss|Prem Chavan Sharaf|Sanskar Saraswat|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:22|21|Ankur Dhiman|Gaurav Naman Singh|8|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:22|21|Ankur Dhiman|Gaurav Naman Singh|11|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:45|16|Himanshu Tiwari |Lalita Dahiya|21|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:20|21|Shivam Sharma|Poorvisha S Ram|16|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:20|21|Shivam Sharma|Poorvisha S Ram|11|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:25|21|Sai Rohit Bomboji|Nila Valluvan|16|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:25|21|Sai Rohit Bomboji|Nila Valluvan|19|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:25|21|Singh Vinay Kumar|Revati Devasthale|9|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:25|21|Singh Vinay Kumar|Revati Devasthale|15|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:45|20|Saihul Islam|Austin Cindy Pratiwi|22|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:45|21|Saihul Islam|Austin Cindy Pratiwi|13|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:45|21|Saihul Islam|Austin Cindy Pratiwi|12|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123||Walkover Win|Singh Kunwar Ishan|Deepali Gupta|Walkover Loss|Vishnura Rajendran [4]|Purnima Devi Naorem|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123||Walkover Win|Nishant Dua|Anamika Kashyap|Walkover Loss|Shubham Yadav [2]|Parssa Naqvi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|21|Kartik Jindal|none|19|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Kartik Jindal|none|16|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:48|21|Abhyansh Singh|none|23|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:48|22|Abhyansh Singh|none|20|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:48|21|Abhyansh Singh|none|13|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:50|21|Gopal Krishna Reddy Dundi|none|19|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:50|16|Gopal Krishna Reddy Dundi|none|21|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:50|21|Gopal Krishna Reddy Dundi|none|14|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:03|19|Muhammad Elaf Wei Tan |none|21|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:03|21|Muhammad Elaf Wei Tan |none|13|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|1:03|21|Muhammad Elaf Wei Tan |none|19|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:27|21|Sai Charan Koya|none|15|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:27|21|Sai Charan Koya|none|17|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Ananya Goel|none|10|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Ananya Goel|none|12|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:25|21|Prashi Joshi|none|6|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:25|21|Prashi Joshi|none|14|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:45|17|Purva Barve|none|21|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:45|21|Purva Barve|none|15|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:45|21|Purva Barve|none|12|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:31|16|Guniarti Rafika Mutiara|none|21|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:31|21|Guniarti Rafika Mutiara|none|13|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:31|21|Guniarti Rafika Mutiara|none|16|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:31|21|Riya Arolkar|none|18|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:31|21|Riya Arolkar|none|16|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:32|21|Dhruv Kumar|none|19|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:32|21|Dhruv Kumar|none|12|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:25|21|Arintap Das Gupta|none|19|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:25|21|Arintap Das Gupta|none|18|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:32|24|Kaivalya Lakshmi Yadavalli|none|22|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:32|21|Kaivalya Lakshmi Yadavalli|none|18|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:36|21|Vaishnavi Kaari|none|14|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:36|15|Vaishnavi Kaari|none|21|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:36|21|Vaishnavi Kaari|none|12|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:50|21|Revati Devasthale|none|17|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:50|17|Revati Devasthale|none|21|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:50|21|Revati Devasthale|none|14|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171123|0:30|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|8|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|24|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|22|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|13|Nishant Dua |Nihar Kelkar|21|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|21|Nishant Dua |Nihar Kelkar|19|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:30|21|Nishant Dua |Nihar Kelkar|18|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:39|21|Kaustubh Rawat |Arjun Sachdeva|19|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:39|15|Kaustubh Rawat |Arjun Sachdeva|21|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:39|21|Kaustubh Rawat |Arjun Sachdeva|15|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|10|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|18|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:50|20|Ankur Dhiman|Gaurav Naman Singh|22|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:50|21|Ankur Dhiman|Gaurav Naman Singh|6|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:50|21|Ankur Dhiman|Gaurav Naman Singh|17|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|19|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|17|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Vaibhaav .|Prakash Raj|18|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171123|0:27|21|Vaibhaav .|Prakash Raj|13|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|21|Manish Gupta|Aruni Chauhan|18|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|22|Manish Gupta|Aruni Chauhan|20|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:23|21|Sai Rohit Bomboji|Nila Valluvan|13|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:23|21|Sai Rohit Bomboji|Nila Valluvan|10|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|7|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|5|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:34|21|Singh Vinay Kumar|Revati Devasthale|16|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:34|21|Singh Vinay Kumar|Revati Devasthale|13|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:29|21|Saihul Islam|Austin Cindy Pratiwi|14|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:29|21|Saihul Islam|Austin Cindy Pratiwi|8|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:35|22|Akash Kumar|Pinky Karki|20|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:35|21|Akash Kumar|Pinky Karki|19|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:24|21|Singh Kunwar Ishan|Deepali Gupta|16|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:24|21|Singh Kunwar Ishan|Deepali Gupta|15|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|22|Siddharth .|Manali Sinha|20|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|21|Siddharth .|Manali Sinha|15|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|19|Nishant Dua|Anamika Kashyap|21|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:22|21|Kartik Jindal|none|13|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:22|21|Kartik Jindal|none|7|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:06|12|Balraj Kajla|none|2|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:06|Walkover Win|Balraj Kajla|none|Walkover Loss|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:43|21|Abhyansh Singh|none|18|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:43|17|Abhyansh Singh|none|21|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:43|21|Abhyansh Singh|none|12|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:35|21|Ashish Sharma|none|10|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:35|18|Ashish Sharma|none|21|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:35|21|Ashish Sharma|none|15|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:27|21|Alap Mishra|none|11|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:27|21|Alap Mishra|none|18|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Dhruv Kumar|none|16|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Dhruv Kumar|none|13|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:31|21|Vishal Thakran|none|9|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:31|24|Vishal Thakran|none|22|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:19|21|Arintap Das Gupta|none|6|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:19|21|Arintap Das Gupta|none|11|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:45|15|Mayank Ahuja|none|21|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:45|21|Mayank Ahuja|none|15|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:45|21|Mayank Ahuja|none|18|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124||Walkover Win|Ketan Chahal|none|Walkover Loss|Shubham Prajapati|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:35|21|Muhammad Elaf Wei Tan |none|15|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:35|21|Muhammad Elaf Wei Tan |none|16|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:23|21|Abhinav Manota|none|7|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:23|21|Abhinav Manota|none|11|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:27|21|Sai Charan Koya|none|16|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:27|21|Sai Charan Koya|none|15|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:00|14|Ananya Goel|none|21|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:00|21|Ananya Goel|none|17|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:00|21|Ananya Goel|none|18|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124||Walkover Win|Manish Gupta|none|Walkover Loss|Ankit Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:25|21|Varshini Viswanath Sri|none|13|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:25|21|Varshini Viswanath Sri|none|9|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:39|16|Priya Konjengbam |none|21|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:39|22|Priya Konjengbam |none|20|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:39|21|Priya Konjengbam |none|15|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Prashi Joshi|none|6|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Prashi Joshi|none|11|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:55|17|Kanika Kanwal|none|21|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:55|21|Kanika Kanwal|none|14|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:55|21|Kanika Kanwal|none|18|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Purva Barve|none|8|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Purva Barve|none|11|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:40|22|Andrew Susanto|none|20|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:40|14|Andrew Susanto|none|21|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:40|21|Andrew Susanto|none|11|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:48|21|Shivani Vaishnavi Devi Gangula|none|12|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:48|16|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:48|23|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Guniarti Rafika Mutiara|none|14|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Guniarti Rafika Mutiara|none|17|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Vidhu Nair|none|19|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Vidhu Nair|none|15|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124||Walkover Win|Riya Arolkar|none|Walkover Loss|Rucha Nikam [5]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124||Walkover Win|Meghana Reddy Mareddy|none|Walkover Loss|Sanchali Dasgupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Kaivalya Lakshmi Yadavalli|none|9|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Kaivalya Lakshmi Yadavalli|none|12|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:40|21|Vaishnavi Kaari|none|23|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:40|21|Vaishnavi Kaari|none|13|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:40|21|Vaishnavi Kaari|none|19|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:10|17|Ruhi Raju|none|21|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:10|21|Ruhi Raju|none|12|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:10|21|Ruhi Raju|none|15|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:21|21|Marunmayi Saoji|none|4|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:21|21|Marunmayi Saoji|none|5|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Revati Devasthale|none|11|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Revati Devasthale|none|9|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Sai Rohit Bomboji|Akash Chandran|14|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|21|Sai Rohit Bomboji|Akash Chandran|18|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:26|21|Vaibhaav .|Prakash Raj|13|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:26|21|Vaibhaav .|Prakash Raj|8|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:35|13|Nishant Dua |Nihar Kelkar|21|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:35|21|Nishant Dua |Nihar Kelkar|13|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:35|21|Nishant Dua |Nihar Kelkar|19|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Hadees Faiz|Singh Kunwar Ishan|14|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Hadees Faiz|Singh Kunwar Ishan|17|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:55|22|Kush Chugh |Sudhish Venkat Gude|24|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:55|21|Kush Chugh |Sudhish Venkat Gude|16|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:55|21|Kush Chugh |Sudhish Venkat Gude|15|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|14|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:43|17|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|21|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|15|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|22|Hardik Makkar|Himanshu Saroha|20|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|21|Hardik Makkar|Himanshu Saroha|10|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124||Walkover Win|Harshal Bhoyar |Manish Gupta|Walkover Loss|Pramesh Patidar|Sanjay Thakur|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:33|21|Kaustubh Rawat |Arjun Sachdeva|17|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:33|17|Kaustubh Rawat |Arjun Sachdeva|21|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:33|21|Kaustubh Rawat |Arjun Sachdeva|16|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|17|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|12|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:40|21|Pavan Malik |Sujey Tamboli|19|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:40|21|Pavan Malik |Sujey Tamboli|16|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124||Walkover Win|Utkarsh Choudhary|Deepak Mishra|Walkover Loss|Prem Chavan Sharaf|Sanskar Saraswat|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:22|21|Ankur Dhiman|Gaurav Naman Singh|8|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:22|21|Ankur Dhiman|Gaurav Naman Singh|11|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:45|16|Himanshu Tiwari |Lalita Dahiya|21|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:20|21|Shivam Sharma|Poorvisha S Ram|16|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:20|21|Shivam Sharma|Poorvisha S Ram|11|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:25|21|Sai Rohit Bomboji|Nila Valluvan|16|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:25|21|Sai Rohit Bomboji|Nila Valluvan|19|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:25|21|Singh Vinay Kumar|Revati Devasthale|9|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:25|21|Singh Vinay Kumar|Revati Devasthale|15|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:45|20|Saihul Islam|Austin Cindy Pratiwi|22|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:45|21|Saihul Islam|Austin Cindy Pratiwi|13|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:45|21|Saihul Islam|Austin Cindy Pratiwi|12|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124||Walkover Win|Singh Kunwar Ishan|Deepali Gupta|Walkover Loss|Vishnura Rajendran [4]|Purnima Devi Naorem|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124||Walkover Win|Nishant Dua|Anamika Kashyap|Walkover Loss|Shubham Yadav [2]|Parssa Naqvi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|21|Kartik Jindal|none|19|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Kartik Jindal|none|16|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:48|21|Abhyansh Singh|none|23|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:48|22|Abhyansh Singh|none|20|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:48|21|Abhyansh Singh|none|13|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:50|21|Gopal Krishna Reddy Dundi|none|19|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:50|16|Gopal Krishna Reddy Dundi|none|21|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:50|21|Gopal Krishna Reddy Dundi|none|14|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:03|19|Muhammad Elaf Wei Tan |none|21|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:03|21|Muhammad Elaf Wei Tan |none|13|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|1:03|21|Muhammad Elaf Wei Tan |none|19|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:27|21|Sai Charan Koya|none|15|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:27|21|Sai Charan Koya|none|17|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Ananya Goel|none|10|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Ananya Goel|none|12|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:25|21|Prashi Joshi|none|6|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:25|21|Prashi Joshi|none|14|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:45|17|Purva Barve|none|21|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:45|21|Purva Barve|none|15|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:45|21|Purva Barve|none|12|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:31|16|Guniarti Rafika Mutiara|none|21|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:31|21|Guniarti Rafika Mutiara|none|13|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:31|21|Guniarti Rafika Mutiara|none|16|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:31|21|Riya Arolkar|none|18|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:31|21|Riya Arolkar|none|16|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:32|21|Dhruv Kumar|none|19|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:32|21|Dhruv Kumar|none|12|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:25|21|Arintap Das Gupta|none|19|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:25|21|Arintap Das Gupta|none|18|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:32|24|Kaivalya Lakshmi Yadavalli|none|22|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:32|21|Kaivalya Lakshmi Yadavalli|none|18|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:36|21|Vaishnavi Kaari|none|14|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:36|15|Vaishnavi Kaari|none|21|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:36|21|Vaishnavi Kaari|none|12|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:50|21|Revati Devasthale|none|17|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:50|17|Revati Devasthale|none|21|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:50|21|Revati Devasthale|none|14|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171124|0:30|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|8|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|24|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|22|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|13|Nishant Dua |Nihar Kelkar|21|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|21|Nishant Dua |Nihar Kelkar|19|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:30|21|Nishant Dua |Nihar Kelkar|18|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:39|21|Kaustubh Rawat |Arjun Sachdeva|19|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:39|15|Kaustubh Rawat |Arjun Sachdeva|21|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:39|21|Kaustubh Rawat |Arjun Sachdeva|15|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|10|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|18|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:50|20|Ankur Dhiman|Gaurav Naman Singh|22|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:50|21|Ankur Dhiman|Gaurav Naman Singh|6|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:50|21|Ankur Dhiman|Gaurav Naman Singh|17|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|19|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|17|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Vaibhaav .|Prakash Raj|18|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171124|0:27|21|Vaibhaav .|Prakash Raj|13|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|21|Manish Gupta|Aruni Chauhan|18|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|22|Manish Gupta|Aruni Chauhan|20|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:23|21|Sai Rohit Bomboji|Nila Valluvan|13|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:23|21|Sai Rohit Bomboji|Nila Valluvan|10|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|7|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|5|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:34|21|Singh Vinay Kumar|Revati Devasthale|16|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:34|21|Singh Vinay Kumar|Revati Devasthale|13|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:29|21|Saihul Islam|Austin Cindy Pratiwi|14|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:29|21|Saihul Islam|Austin Cindy Pratiwi|8|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:35|22|Akash Kumar|Pinky Karki|20|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:35|21|Akash Kumar|Pinky Karki|19|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:24|21|Singh Kunwar Ishan|Deepali Gupta|16|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:24|21|Singh Kunwar Ishan|Deepali Gupta|15|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|22|Siddharth .|Manali Sinha|20|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|21|Siddharth .|Manali Sinha|15|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|19|Nishant Dua|Anamika Kashyap|21|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:22|21|Kartik Jindal|none|13|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:22|21|Kartik Jindal|none|7|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:06|12|Balraj Kajla|none|2|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:06|Walkover Win|Balraj Kajla|none|Walkover Loss|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:43|21|Abhyansh Singh|none|18|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:43|17|Abhyansh Singh|none|21|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:43|21|Abhyansh Singh|none|12|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:35|21|Ashish Sharma|none|10|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:35|18|Ashish Sharma|none|21|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:35|21|Ashish Sharma|none|15|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:27|21|Alap Mishra|none|11|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:27|21|Alap Mishra|none|18|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Dhruv Kumar|none|16|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Dhruv Kumar|none|13|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:31|21|Vishal Thakran|none|9|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:31|24|Vishal Thakran|none|22|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:19|21|Arintap Das Gupta|none|6|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:19|21|Arintap Das Gupta|none|11|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:45|15|Mayank Ahuja|none|21|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:45|21|Mayank Ahuja|none|15|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:45|21|Mayank Ahuja|none|18|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125||Walkover Win|Ketan Chahal|none|Walkover Loss|Shubham Prajapati|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:35|21|Muhammad Elaf Wei Tan |none|15|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:35|21|Muhammad Elaf Wei Tan |none|16|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:23|21|Abhinav Manota|none|7|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:23|21|Abhinav Manota|none|11|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:27|21|Sai Charan Koya|none|16|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:27|21|Sai Charan Koya|none|15|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:00|14|Ananya Goel|none|21|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:00|21|Ananya Goel|none|17|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:00|21|Ananya Goel|none|18|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125||Walkover Win|Manish Gupta|none|Walkover Loss|Ankit Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:25|21|Varshini Viswanath Sri|none|13|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:25|21|Varshini Viswanath Sri|none|9|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:39|16|Priya Konjengbam |none|21|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:39|22|Priya Konjengbam |none|20|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:39|21|Priya Konjengbam |none|15|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Prashi Joshi|none|6|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Prashi Joshi|none|11|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:55|17|Kanika Kanwal|none|21|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:55|21|Kanika Kanwal|none|14|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:55|21|Kanika Kanwal|none|18|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Purva Barve|none|8|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Purva Barve|none|11|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:40|22|Andrew Susanto|none|20|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:40|14|Andrew Susanto|none|21|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:40|21|Andrew Susanto|none|11|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:48|21|Shivani Vaishnavi Devi Gangula|none|12|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:48|16|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:48|23|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Guniarti Rafika Mutiara|none|14|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Guniarti Rafika Mutiara|none|17|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Vidhu Nair|none|19|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Vidhu Nair|none|15|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125||Walkover Win|Riya Arolkar|none|Walkover Loss|Rucha Nikam [5]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125||Walkover Win|Meghana Reddy Mareddy|none|Walkover Loss|Sanchali Dasgupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Kaivalya Lakshmi Yadavalli|none|9|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Kaivalya Lakshmi Yadavalli|none|12|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:40|21|Vaishnavi Kaari|none|23|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:40|21|Vaishnavi Kaari|none|13|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:40|21|Vaishnavi Kaari|none|19|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:10|17|Ruhi Raju|none|21|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:10|21|Ruhi Raju|none|12|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:10|21|Ruhi Raju|none|15|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:21|21|Marunmayi Saoji|none|4|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:21|21|Marunmayi Saoji|none|5|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Revati Devasthale|none|11|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Revati Devasthale|none|9|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Sai Rohit Bomboji|Akash Chandran|14|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|21|Sai Rohit Bomboji|Akash Chandran|18|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:26|21|Vaibhaav .|Prakash Raj|13|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:26|21|Vaibhaav .|Prakash Raj|8|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:35|13|Nishant Dua |Nihar Kelkar|21|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:35|21|Nishant Dua |Nihar Kelkar|13|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:35|21|Nishant Dua |Nihar Kelkar|19|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Hadees Faiz|Singh Kunwar Ishan|14|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Hadees Faiz|Singh Kunwar Ishan|17|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:55|22|Kush Chugh |Sudhish Venkat Gude|24|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:55|21|Kush Chugh |Sudhish Venkat Gude|16|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:55|21|Kush Chugh |Sudhish Venkat Gude|15|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|14|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:43|17|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|21|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|15|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|22|Hardik Makkar|Himanshu Saroha|20|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|21|Hardik Makkar|Himanshu Saroha|10|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125||Walkover Win|Harshal Bhoyar |Manish Gupta|Walkover Loss|Pramesh Patidar|Sanjay Thakur|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:33|21|Kaustubh Rawat |Arjun Sachdeva|17|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:33|17|Kaustubh Rawat |Arjun Sachdeva|21|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:33|21|Kaustubh Rawat |Arjun Sachdeva|16|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|17|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|12|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:40|21|Pavan Malik |Sujey Tamboli|19|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:40|21|Pavan Malik |Sujey Tamboli|16|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125||Walkover Win|Utkarsh Choudhary|Deepak Mishra|Walkover Loss|Prem Chavan Sharaf|Sanskar Saraswat|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:22|21|Ankur Dhiman|Gaurav Naman Singh|8|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:22|21|Ankur Dhiman|Gaurav Naman Singh|11|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:45|16|Himanshu Tiwari |Lalita Dahiya|21|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:20|21|Shivam Sharma|Poorvisha S Ram|16|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:20|21|Shivam Sharma|Poorvisha S Ram|11|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:25|21|Sai Rohit Bomboji|Nila Valluvan|16|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:25|21|Sai Rohit Bomboji|Nila Valluvan|19|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:25|21|Singh Vinay Kumar|Revati Devasthale|9|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:25|21|Singh Vinay Kumar|Revati Devasthale|15|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:45|20|Saihul Islam|Austin Cindy Pratiwi|22|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:45|21|Saihul Islam|Austin Cindy Pratiwi|13|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:45|21|Saihul Islam|Austin Cindy Pratiwi|12|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125||Walkover Win|Singh Kunwar Ishan|Deepali Gupta|Walkover Loss|Vishnura Rajendran [4]|Purnima Devi Naorem|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125||Walkover Win|Nishant Dua|Anamika Kashyap|Walkover Loss|Shubham Yadav [2]|Parssa Naqvi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|21|Kartik Jindal|none|19|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Kartik Jindal|none|16|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:48|21|Abhyansh Singh|none|23|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:48|22|Abhyansh Singh|none|20|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:48|21|Abhyansh Singh|none|13|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:50|21|Gopal Krishna Reddy Dundi|none|19|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:50|16|Gopal Krishna Reddy Dundi|none|21|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:50|21|Gopal Krishna Reddy Dundi|none|14|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:03|19|Muhammad Elaf Wei Tan |none|21|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:03|21|Muhammad Elaf Wei Tan |none|13|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|1:03|21|Muhammad Elaf Wei Tan |none|19|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:27|21|Sai Charan Koya|none|15|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:27|21|Sai Charan Koya|none|17|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Ananya Goel|none|10|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Ananya Goel|none|12|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:25|21|Prashi Joshi|none|6|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:25|21|Prashi Joshi|none|14|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:45|17|Purva Barve|none|21|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:45|21|Purva Barve|none|15|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:45|21|Purva Barve|none|12|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:31|16|Guniarti Rafika Mutiara|none|21|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:31|21|Guniarti Rafika Mutiara|none|13|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:31|21|Guniarti Rafika Mutiara|none|16|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:31|21|Riya Arolkar|none|18|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:31|21|Riya Arolkar|none|16|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:32|21|Dhruv Kumar|none|19|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:32|21|Dhruv Kumar|none|12|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:25|21|Arintap Das Gupta|none|19|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:25|21|Arintap Das Gupta|none|18|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:32|24|Kaivalya Lakshmi Yadavalli|none|22|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:32|21|Kaivalya Lakshmi Yadavalli|none|18|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:36|21|Vaishnavi Kaari|none|14|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:36|15|Vaishnavi Kaari|none|21|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:36|21|Vaishnavi Kaari|none|12|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:50|21|Revati Devasthale|none|17|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:50|17|Revati Devasthale|none|21|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:50|21|Revati Devasthale|none|14|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171125|0:30|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|8|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|24|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|22|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|13|Nishant Dua |Nihar Kelkar|21|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|21|Nishant Dua |Nihar Kelkar|19|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:30|21|Nishant Dua |Nihar Kelkar|18|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:39|21|Kaustubh Rawat |Arjun Sachdeva|19|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:39|15|Kaustubh Rawat |Arjun Sachdeva|21|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:39|21|Kaustubh Rawat |Arjun Sachdeva|15|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|10|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|18|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:50|20|Ankur Dhiman|Gaurav Naman Singh|22|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:50|21|Ankur Dhiman|Gaurav Naman Singh|6|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:50|21|Ankur Dhiman|Gaurav Naman Singh|17|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|19|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|17|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Vaibhaav .|Prakash Raj|18|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171125|0:27|21|Vaibhaav .|Prakash Raj|13|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|21|Manish Gupta|Aruni Chauhan|18|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|22|Manish Gupta|Aruni Chauhan|20|Ayan Khan|Rupal Anand|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:23|21|Sai Rohit Bomboji|Nila Valluvan|13|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:23|21|Sai Rohit Bomboji|Nila Valluvan|10|Jairaj Singh Shaktawat|Rohini Bilawar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|7|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:20|21|Muthyal Shiva Kumar|Varsha V Belawadi|5|Narasimha Reddy Ramavathu|Sai Tejaswi Pasupulaty|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:34|21|Singh Vinay Kumar|Revati Devasthale|16|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:34|21|Singh Vinay Kumar|Revati Devasthale|13|Qadeer Moinuddin Mohammed|Varshini Viswanath Sri|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:29|21|Saihul Islam|Austin Cindy Pratiwi|14|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:29|21|Saihul Islam|Austin Cindy Pratiwi|8|Saharsh Mohan|Anusha Goel|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:35|22|Akash Kumar|Pinky Karki|20|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:35|21|Akash Kumar|Pinky Karki|19|Santhosh Justieen Saravanan|Vidhu Nair|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:24|21|Singh Kunwar Ishan|Deepali Gupta|16|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:24|21|Singh Kunwar Ishan|Deepali Gupta|15|Kirtesh Dhindhwal|Anubha Kaushik|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|22|Siddharth .|Manali Sinha|20|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|21|Siddharth .|Manali Sinha|15|Tarun Reddy Katam|Kaivalya Lakshmi Yadavalli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|19|Nishant Dua|Anamika Kashyap|21|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|22|Nishant Dua|Anamika Kashyap|20|Mohit Tiwari|Saruni Sharma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:22|21|Kartik Jindal|none|13|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:22|21|Kartik Jindal|none|7|Ameya Oak|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:06|12|Balraj Kajla|none|2|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:06|Walkover Win|Balraj Kajla|none|Walkover Loss|Aneeth Kumar Repudi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:43|21|Abhyansh Singh|none|18|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:43|17|Abhyansh Singh|none|21|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:43|21|Abhyansh Singh|none|12|Abhishek Kulkarni|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:35|21|Ashish Sharma|none|10|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:35|18|Ashish Sharma|none|21|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:35|21|Ashish Sharma|none|15|Minhaz Mohammad|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:27|21|Alap Mishra|none|11|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:27|21|Alap Mishra|none|18|Swarnaraj Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Dhruv Kumar|none|16|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Dhruv Kumar|none|13|Lishwan Mudukasan|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:31|21|Vishal Thakran|none|9|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:31|24|Vishal Thakran|none|22|Tushar Krishna Roy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:19|21|Arintap Das Gupta|none|6|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:19|21|Arintap Das Gupta|none|11|Sarath Dunna [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:45|15|Mayank Ahuja|none|21|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:45|21|Mayank Ahuja|none|15|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:45|21|Mayank Ahuja|none|18|Sai Naga Koteswararao Adapa|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:17|21|Gopal Krishna Reddy Dundi|none|11|Bhaskar Chakraborty|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126||Walkover Win|Ketan Chahal|none|Walkover Loss|Shubham Prajapati|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:35|21|Muhammad Elaf Wei Tan |none|15|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:35|21|Muhammad Elaf Wei Tan |none|16|Satinder Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:23|21|Abhinav Manota|none|7|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:23|21|Abhinav Manota|none|11|Abdul Bari Ansari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:27|21|Sai Charan Koya|none|16|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:27|21|Sai Charan Koya|none|15|Amit Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:00|14|Ananya Goel|none|21|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:00|21|Ananya Goel|none|17|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:00|21|Ananya Goel|none|18|Bhavya Rishi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126||Walkover Win|Manish Gupta|none|Walkover Loss|Ankit Malik|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:25|21|Varshini Viswanath Sri|none|13|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:25|21|Varshini Viswanath Sri|none|9|Mamitha Kadari|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:39|16|Priya Konjengbam |none|21|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:39|22|Priya Konjengbam |none|20|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:39|21|Priya Konjengbam |none|15|Megha Morchana Bora|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Prashi Joshi|none|6|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Prashi Joshi|none|11|Rashi Tyagi|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:55|17|Kanika Kanwal|none|21|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:55|21|Kanika Kanwal|none|14|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:55|21|Kanika Kanwal|none|18|Keyura Mopati [4]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Purva Barve|none|8|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Purva Barve|none|11|Niranjana Anil|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:40|22|Andrew Susanto|none|20|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:40|14|Andrew Susanto|none|21|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:40|21|Andrew Susanto|none|11|Siddharth . [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:48|21|Shivani Vaishnavi Devi Gangula|none|12|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:48|16|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:48|23|Shivani Vaishnavi Devi Gangula|none|21|Shenan Christian [7]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Guniarti Rafika Mutiara|none|14|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Guniarti Rafika Mutiara|none|17|Ch. Poornima|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Vidhu Nair|none|19|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Vidhu Nair|none|15|Supriya Balli|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126||Walkover Win|Riya Arolkar|none|Walkover Loss|Rucha Nikam [5]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126||Walkover Win|Meghana Reddy Mareddy|none|Walkover Loss|Sanchali Dasgupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Kaivalya Lakshmi Yadavalli|none|9|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Kaivalya Lakshmi Yadavalli|none|12|Vanshika Kapila [3]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:40|21|Vaishnavi Kaari|none|23|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:40|21|Vaishnavi Kaari|none|13|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:40|21|Vaishnavi Kaari|none|19|Khushi Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:10|17|Ruhi Raju|none|21|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:10|21|Ruhi Raju|none|12|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:10|21|Ruhi Raju|none|15|Manali Sinha [8]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:21|21|Marunmayi Saoji|none|4|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:21|21|Marunmayi Saoji|none|5|Rohini Bilawar|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Revati Devasthale|none|11|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Revati Devasthale|none|9|Vibhuti Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Sai Rohit Bomboji|Akash Chandran|14|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|21|Sai Rohit Bomboji|Akash Chandran|18|Sarmukh Singh [1]|Vishal Thakran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:26|21|Vaibhaav .|Prakash Raj|13|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:26|21|Vaibhaav .|Prakash Raj|8|Gurbaksh Singh|Himanshu Verma|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:35|13|Nishant Dua |Nihar Kelkar|21|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:35|21|Nishant Dua |Nihar Kelkar|13|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:35|21|Nishant Dua |Nihar Kelkar|19|Viplav Kuvale|Firoj Mulani|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Hadees Faiz|Singh Kunwar Ishan|14|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Hadees Faiz|Singh Kunwar Ishan|17|Muthyal Shiva Kumar|T. Nagendra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:55|22|Kush Chugh |Sudhish Venkat Gude|24|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:55|21|Kush Chugh |Sudhish Venkat Gude|16|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:55|21|Kush Chugh |Sudhish Venkat Gude|15|Shubham Bhatt|Anubhav Saxena|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|14|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:43|17|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|21|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:43|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|15|Anmoal Behrani|Arijeet Bose|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|22|Hardik Makkar|Himanshu Saroha|20|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|21|Hardik Makkar|Himanshu Saroha|10|Kiran Kumar Gopal|Vasantha Kumar Hanumaiah Raganatha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126||Walkover Win|Harshal Bhoyar |Manish Gupta|Walkover Loss|Pramesh Patidar|Sanjay Thakur|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:33|21|Kaustubh Rawat |Arjun Sachdeva|17|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:33|17|Kaustubh Rawat |Arjun Sachdeva|21|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:33|21|Kaustubh Rawat |Arjun Sachdeva|16|Amol Karkare|Jaiditya Pratap Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|23|Mayank Bhasin|Nripendra Singh|21|Saurav Das|Shubham Yadav|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|17|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Prince Chaturvedi [3]|Himanshu Tiwari|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:24|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|12|Mayank Ahuja|Anant Shivam Jindal|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:40|21|Pavan Malik |Sujey Tamboli|19|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:40|21|Pavan Malik |Sujey Tamboli|16|Edwin Joy|Arvind V Suresh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|23|Farid Pramadita Gunawan|Andrew Susanto|21|Sanidhya Bandooni|Akash Kumar|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126||Walkover Win|Utkarsh Choudhary|Deepak Mishra|Walkover Loss|Prem Chavan Sharaf|Sanskar Saraswat|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:22|21|Ankur Dhiman|Gaurav Naman Singh|8|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:22|21|Ankur Dhiman|Gaurav Naman Singh|11|Dinesh Chaudhry [2]|Divyansh Sangwan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:45|16|Himanshu Tiwari |Lalita Dahiya|21|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:45|21|Himanshu Tiwari |Lalita Dahiya|13|Vishal Thakran|Megha Morchana Bora|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:20|21|Shivam Sharma|Poorvisha S Ram|16|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:20|21|Shivam Sharma|Poorvisha S Ram|11|Manish Gupta|Aruni Chauhan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:25|21|Sai Rohit Bomboji|Nila Valluvan|16|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:25|21|Sai Rohit Bomboji|Nila Valluvan|19|Mohammad Salman Khan [3]|Alina Sultana|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:25|21|Singh Vinay Kumar|Revati Devasthale|9|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:25|21|Singh Vinay Kumar|Revati Devasthale|15|Muthyal Shiva Kumar|Varsha V Belawadi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:45|20|Saihul Islam|Austin Cindy Pratiwi|22|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:45|21|Saihul Islam|Austin Cindy Pratiwi|13|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:45|21|Saihul Islam|Austin Cindy Pratiwi|12|Akash Kumar|Pinky Karki|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126||Walkover Win|Singh Kunwar Ishan|Deepali Gupta|Walkover Loss|Vishnura Rajendran [4]|Purnima Devi Naorem|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126||Walkover Win|Nishant Dua|Anamika Kashyap|Walkover Loss|Shubham Yadav [2]|Parssa Naqvi|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|21|Kartik Jindal|none|19|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Kartik Jindal|none|16|Balraj Kajla|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:48|21|Abhyansh Singh|none|23|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:48|22|Abhyansh Singh|none|20|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:48|21|Abhyansh Singh|none|13|Andrew Susanto|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:20|21|Alap Mishra|none|9|Ashish Sharma|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:50|21|Gopal Krishna Reddy Dundi|none|19|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:50|16|Gopal Krishna Reddy Dundi|none|21|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:50|21|Gopal Krishna Reddy Dundi|none|14|Mayank Ahuja|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:03|19|Muhammad Elaf Wei Tan |none|21|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:03|21|Muhammad Elaf Wei Tan |none|13|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|1:03|21|Muhammad Elaf Wei Tan |none|19|Ketan Chahal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:27|21|Sai Charan Koya|none|15|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:27|21|Sai Charan Koya|none|17|Abhinav Manota|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Ananya Goel|none|10|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Ananya Goel|none|12|Varshini Viswanath Sri|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:25|21|Prashi Joshi|none|6|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:25|21|Prashi Joshi|none|14|Priya Konjengbam [6]|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:45|17|Purva Barve|none|21|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:45|21|Purva Barve|none|15|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:45|21|Purva Barve|none|12|Kanika Kanwal|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:31|16|Guniarti Rafika Mutiara|none|21|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:31|21|Guniarti Rafika Mutiara|none|13|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:31|21|Guniarti Rafika Mutiara|none|16|Shivani Vaishnavi Devi Gangula|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:31|21|Riya Arolkar|none|18|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:31|21|Riya Arolkar|none|16|Vidhu Nair|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:32|21|Dhruv Kumar|none|19|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:32|21|Dhruv Kumar|none|12|Manish Gupta|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:25|21|Arintap Das Gupta|none|19|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:25|21|Arintap Das Gupta|none|18|Vishal Thakran|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:32|24|Kaivalya Lakshmi Yadavalli|none|22|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:32|21|Kaivalya Lakshmi Yadavalli|none|18|Meghana Reddy Mareddy|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:36|21|Vaishnavi Kaari|none|14|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:36|15|Vaishnavi Kaari|none|21|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:36|21|Vaishnavi Kaari|none|12|Ruhi Raju|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:50|21|Revati Devasthale|none|17|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:50|17|Revati Devasthale|none|21|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:50|21|Revati Devasthale|none|14|Marunmayi Saoji|none|F4570649-0E0F-4FA0-B1D8-6AC161125817|singles
+20171126|0:30|21|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|8|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|24|Manjit Singh Khwairakpam|Dingku Singh Konthoujam|22|Kush Chugh [4]|Sudhish Venkat Gude|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|13|Nishant Dua |Nihar Kelkar|21|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|21|Nishant Dua |Nihar Kelkar|19|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:30|21|Nishant Dua |Nihar Kelkar|18|Hadees Faiz|Singh Kunwar Ishan|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:39|21|Kaustubh Rawat |Arjun Sachdeva|19|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:39|15|Kaustubh Rawat |Arjun Sachdeva|21|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:39|21|Kaustubh Rawat |Arjun Sachdeva|15|Hardik Makkar|Himanshu Saroha|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|10|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:21|21|Vembarasan Venkatachalam|Lokesh Viswanathan|15|Mayank Bhasin|Nripendra Singh|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|18|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:28|21|Sanjai Srivatsa Dhanraj|Siddarth Elango|16|Pavan Malik [7]|Sujey Tamboli|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:50|20|Ankur Dhiman|Gaurav Naman Singh|22|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:50|21|Ankur Dhiman|Gaurav Naman Singh|6|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:50|21|Ankur Dhiman|Gaurav Naman Singh|17|Utkarsh Choudhary|Deepak Mishra|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|19|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Farid Pramadita Gunawan|Andrew Susanto|17|Harshal Bhoyar [8]|Manish Gupta|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Vaibhaav .|Prakash Raj|18|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles
+20171126|0:27|21|Vaibhaav .|Prakash Raj|13|Sai Rohit Bomboji|Akash Chandran|F4570649-0E0F-4FA0-B1D8-6AC161125817|doubles

@@ -1,0 +1,297 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20170629|0:45|13|Georgii Karpov|Anastasiia Kurdyukova|21|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|15|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|13|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|13|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|7|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|15|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|9|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:21|21|Petr Borovikov|Sofya Potapovich|12|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:21|21|Petr Borovikov|Sofya Potapovich|5|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|18|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|6|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170629|0:36|22|Roman Loos|none|20|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:36|21|Roman Loos|none|8|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:45|21|Karl Kert|none|11|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:45|21|Karl Kert|none|12|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:57|16|Vladimir Shipilenko|none|21|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:30|21|Ruttanapak Oupthong |none|8|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:30|21|Ruttanapak Oupthong |none|5|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:40|21|Nikita Fedotovskikh|none|15|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:40|21|Nikita Fedotovskikh|none|19|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:56|18|Victor Kokhanov|none|21|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:34|21|Georgii Karpov|none|6|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:34|21|Georgii Karpov|none|12|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:27|21|Iliyan Stoynov|none|12|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:27|21|Iliyan Stoynov|none|13|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:38|24|Amir Khamidulin|none|22|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:38|21|Amir Khamidulin|none|12|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:35|21|Michael Lebedev|none|9|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:35|21|Michael Lebedev|none|19|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:45|21|Mikhail Lavrikov |none|14|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:45|21|Mikhail Lavrikov |none|9|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:09|Walkover Win|Robert Sokman|none|Walkover Loss|Maxim Komarov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:29|21|Dmitrii Klimenko|none|19|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:29|21|Dmitrii Klimenko|none|11|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:40|21|Ilya Venediktov|none|13|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:40|21|Ilya Venediktov|none|9|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:39|21|Chasinee Korepap |none|6|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:39|21|Chasinee Korepap |none|9|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:51|21|Vlada Gynga |none|16|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:51|19|Vlada Gynga |none|21|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:51|21|Vlada Gynga |none|12|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:26|21|Daria Radchenko|none|13|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:26|21|Daria Radchenko|none|18|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:20|21|Purva Barve |none|9|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:20|21|Purva Barve |none|16|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:25|21|Anastasiia Sharapova|none|10|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:25|21|Anastasiia Sharapova|none|5|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:25|21|Yelizaveta Kharchenko |none|13|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:25|22|Yelizaveta Kharchenko |none|20|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:36|21|Yulia Vasilyeva|none|9|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:36|21|Yulia Vasilyeva|none|16|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:36|21|Vaishnavi Reddy Jakka|none|15|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:36|21|Vaishnavi Reddy Jakka|none|7|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:59|19|Anastasiya Prozorova |none|21|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:59|21|Anastasiya Prozorova |none|9|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:59|25|Anastasiya Prozorova |none|23|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:36|21|Hasini Nusaka Ambalangodage|none|15|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:36|21|Hasini Nusaka Ambalangodage|none|13|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:32|21|Lela Minadze |none|15|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:32|21|Lela Minadze |none|16|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:33|22|Vera Kramarenko|none|20|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:33|21|Vera Kramarenko|none|19|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:32|21|Katsiaryna Zablotskaya |none|15|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:32|21|Katsiaryna Zablotskaya |none|11|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:37|21|Eshita Raju. K|none|16|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:37|21|Eshita Raju. K|none|19|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:32|21|Anastasiia Shapovalova|none|10|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170629|0:32|21|Anastasiia Shapovalova|none|12|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:45|13|Georgii Karpov|Anastasiia Kurdyukova|21|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|15|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|13|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|13|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|7|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|15|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|9|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:21|21|Petr Borovikov|Sofya Potapovich|12|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:21|21|Petr Borovikov|Sofya Potapovich|5|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|18|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|6|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170630|0:36|22|Roman Loos|none|20|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:36|21|Roman Loos|none|8|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:45|21|Karl Kert|none|11|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:45|21|Karl Kert|none|12|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:57|16|Vladimir Shipilenko|none|21|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:30|21|Ruttanapak Oupthong |none|8|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:30|21|Ruttanapak Oupthong |none|5|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:40|21|Nikita Fedotovskikh|none|15|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:40|21|Nikita Fedotovskikh|none|19|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:56|18|Victor Kokhanov|none|21|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:34|21|Georgii Karpov|none|6|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:34|21|Georgii Karpov|none|12|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:27|21|Iliyan Stoynov|none|12|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:27|21|Iliyan Stoynov|none|13|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:38|24|Amir Khamidulin|none|22|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:38|21|Amir Khamidulin|none|12|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:35|21|Michael Lebedev|none|9|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:35|21|Michael Lebedev|none|19|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:45|21|Mikhail Lavrikov |none|14|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:45|21|Mikhail Lavrikov |none|9|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:09|Walkover Win|Robert Sokman|none|Walkover Loss|Maxim Komarov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:29|21|Dmitrii Klimenko|none|19|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:29|21|Dmitrii Klimenko|none|11|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:40|21|Ilya Venediktov|none|13|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:40|21|Ilya Venediktov|none|9|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:39|21|Chasinee Korepap |none|6|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:39|21|Chasinee Korepap |none|9|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:51|21|Vlada Gynga |none|16|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:51|19|Vlada Gynga |none|21|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:51|21|Vlada Gynga |none|12|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:26|21|Daria Radchenko|none|13|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:26|21|Daria Radchenko|none|18|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:20|21|Purva Barve |none|9|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:20|21|Purva Barve |none|16|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:25|21|Anastasiia Sharapova|none|10|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:25|21|Anastasiia Sharapova|none|5|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:25|21|Yelizaveta Kharchenko |none|13|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:25|22|Yelizaveta Kharchenko |none|20|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:36|21|Yulia Vasilyeva|none|9|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:36|21|Yulia Vasilyeva|none|16|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:36|21|Vaishnavi Reddy Jakka|none|15|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:36|21|Vaishnavi Reddy Jakka|none|7|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:59|19|Anastasiya Prozorova |none|21|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:59|21|Anastasiya Prozorova |none|9|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:59|25|Anastasiya Prozorova |none|23|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:36|21|Hasini Nusaka Ambalangodage|none|15|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:36|21|Hasini Nusaka Ambalangodage|none|13|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:32|21|Lela Minadze |none|15|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:32|21|Lela Minadze |none|16|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:33|22|Vera Kramarenko|none|20|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:33|21|Vera Kramarenko|none|19|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:32|21|Katsiaryna Zablotskaya |none|15|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:32|21|Katsiaryna Zablotskaya |none|11|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:37|21|Eshita Raju. K|none|16|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:37|21|Eshita Raju. K|none|19|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:32|21|Anastasiia Shapovalova|none|10|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170630|0:32|21|Anastasiia Shapovalova|none|12|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:45|13|Georgii Karpov|Anastasiia Kurdyukova|21|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|15|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|13|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|13|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|7|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|15|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|9|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:21|21|Petr Borovikov|Sofya Potapovich|12|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:21|21|Petr Borovikov|Sofya Potapovich|5|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|18|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|6|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170701|0:36|22|Roman Loos|none|20|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:36|21|Roman Loos|none|8|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:45|21|Karl Kert|none|11|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:45|21|Karl Kert|none|12|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:57|16|Vladimir Shipilenko|none|21|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:30|21|Ruttanapak Oupthong |none|8|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:30|21|Ruttanapak Oupthong |none|5|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:40|21|Nikita Fedotovskikh|none|15|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:40|21|Nikita Fedotovskikh|none|19|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:56|18|Victor Kokhanov|none|21|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:34|21|Georgii Karpov|none|6|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:34|21|Georgii Karpov|none|12|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:27|21|Iliyan Stoynov|none|12|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:27|21|Iliyan Stoynov|none|13|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:38|24|Amir Khamidulin|none|22|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:38|21|Amir Khamidulin|none|12|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:35|21|Michael Lebedev|none|9|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:35|21|Michael Lebedev|none|19|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:45|21|Mikhail Lavrikov |none|14|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:45|21|Mikhail Lavrikov |none|9|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:09|Walkover Win|Robert Sokman|none|Walkover Loss|Maxim Komarov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:29|21|Dmitrii Klimenko|none|19|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:29|21|Dmitrii Klimenko|none|11|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:40|21|Ilya Venediktov|none|13|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:40|21|Ilya Venediktov|none|9|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:39|21|Chasinee Korepap |none|6|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:39|21|Chasinee Korepap |none|9|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:51|21|Vlada Gynga |none|16|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:51|19|Vlada Gynga |none|21|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:51|21|Vlada Gynga |none|12|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:26|21|Daria Radchenko|none|13|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:26|21|Daria Radchenko|none|18|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:20|21|Purva Barve |none|9|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:20|21|Purva Barve |none|16|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:25|21|Anastasiia Sharapova|none|10|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:25|21|Anastasiia Sharapova|none|5|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:25|21|Yelizaveta Kharchenko |none|13|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:25|22|Yelizaveta Kharchenko |none|20|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:36|21|Yulia Vasilyeva|none|9|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:36|21|Yulia Vasilyeva|none|16|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:36|21|Vaishnavi Reddy Jakka|none|15|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:36|21|Vaishnavi Reddy Jakka|none|7|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:59|19|Anastasiya Prozorova |none|21|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:59|21|Anastasiya Prozorova |none|9|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:59|25|Anastasiya Prozorova |none|23|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:36|21|Hasini Nusaka Ambalangodage|none|15|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:36|21|Hasini Nusaka Ambalangodage|none|13|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:32|21|Lela Minadze |none|15|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:32|21|Lela Minadze |none|16|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:33|22|Vera Kramarenko|none|20|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:33|21|Vera Kramarenko|none|19|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:32|21|Katsiaryna Zablotskaya |none|15|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:32|21|Katsiaryna Zablotskaya |none|11|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:37|21|Eshita Raju. K|none|16|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:37|21|Eshita Raju. K|none|19|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:32|21|Anastasiia Shapovalova|none|10|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170701|0:32|21|Anastasiia Shapovalova|none|12|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:45|13|Georgii Karpov|Anastasiia Kurdyukova|21|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|15|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:45|21|Georgii Karpov|Anastasiia Kurdyukova|13|Ivan Medynskiy|Valeriya Rudakova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|13|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:14|21|Dmitrii Klimenko|Ekaterina Kadochnikova|7|Alexander Raudsepp|Merit Mägi|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|15|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:27|21|Ruttanapak Oupthong|Chasinee Korepap|9|Viktor Novikov|Amina Nelidova|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:21|21|Petr Borovikov|Sofya Potapovich|12|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:21|21|Petr Borovikov|Sofya Potapovich|5|Robert Sokman|Laura Martinson|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|18|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:26|21|Mikhail Lavrikov|Anastasiia Shapovalova|6|Karl Kert|Liisa Tannik|DBE869CE-B176-4CD2-AA56-73B33736B5FC|doubles
+20170702|0:36|22|Roman Loos|none|20|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:36|21|Roman Loos|none|8|Vadim Arzumanov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:45|21|Karl Kert|none|11|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:45|21|Karl Kert|none|12|Konstantin Vardosanidze|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:57|16|Vladimir Shipilenko|none|21|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:57|21|Vladimir Shipilenko|none|17|Petr Borovikov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:30|21|Ruttanapak Oupthong |none|8|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:30|21|Ruttanapak Oupthong |none|5|Nikita Makoveev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:40|21|Nikita Fedotovskikh|none|15|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:40|21|Nikita Fedotovskikh|none|19|Glib Beketov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:56|18|Victor Kokhanov|none|21|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:56|21|Victor Kokhanov|none|16|Nikhit Laxman|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:34|21|Georgii Karpov|none|6|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:34|21|Georgii Karpov|none|12|Ivan Kuzaev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:27|21|Iliyan Stoynov|none|12|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:27|21|Iliyan Stoynov|none|13|Dmitrii Fedorov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:38|24|Amir Khamidulin|none|22|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:38|21|Amir Khamidulin|none|12|Ivan Medynskiy|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:35|21|Michael Lebedev|none|9|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:35|21|Michael Lebedev|none|19|Varun Trikha|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:45|21|Mikhail Lavrikov |none|14|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:45|21|Mikhail Lavrikov |none|9|Temur Turakhonov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:09|Walkover Win|Robert Sokman|none|Walkover Loss|Maxim Komarov|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:29|21|Dmitrii Klimenko|none|19|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:29|21|Dmitrii Klimenko|none|11|Ikramzhan Yuldashev|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:40|21|Ilya Venediktov|none|13|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:40|21|Ilya Venediktov|none|9|Alexander Raudsepp|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:39|21|Chasinee Korepap |none|6|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:39|21|Chasinee Korepap |none|9|Anastasia Osiyanenko|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:02|21|Alina Romanko|none|14|Ekaterina Kadochnikova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:51|21|Vlada Gynga |none|16|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:51|19|Vlada Gynga |none|21|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:51|21|Vlada Gynga |none|12|Julia Bulantseva|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:26|21|Daria Radchenko|none|13|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:26|21|Daria Radchenko|none|18|Ulyana Zakharava|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:20|21|Purva Barve |none|9|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:20|21|Purva Barve |none|16|Mariya Malygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:25|21|Anastasiia Sharapova|none|10|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:25|21|Anastasiia Sharapova|none|5|Merit Mägi|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:25|21|Yelizaveta Kharchenko |none|13|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:25|22|Yelizaveta Kharchenko |none|20|Serafima Roiak|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:36|21|Yulia Vasilyeva|none|9|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:36|21|Yulia Vasilyeva|none|16|Valeriya Rudakova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:36|21|Vaishnavi Reddy Jakka|none|15|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:36|21|Vaishnavi Reddy Jakka|none|7|Lana Kuleshova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:59|19|Anastasiya Prozorova |none|21|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:59|21|Anastasiya Prozorova |none|9|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:59|25|Anastasiya Prozorova |none|23|Anna Pianzina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:36|21|Hasini Nusaka Ambalangodage|none|15|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:36|21|Hasini Nusaka Ambalangodage|none|13|Tatiana Samburskaia|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:32|21|Lela Minadze |none|15|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:32|21|Lela Minadze |none|16|Amina Nelidova|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:33|22|Vera Kramarenko|none|20|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:33|21|Vera Kramarenko|none|19|Liisa Tannik|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:32|21|Katsiaryna Zablotskaya |none|15|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:32|21|Katsiaryna Zablotskaya |none|11|Sofya Potapovich|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:37|21|Eshita Raju. K|none|16|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:37|21|Eshita Raju. K|none|19|Alina Busygina|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:32|21|Anastasiia Shapovalova|none|10|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles
+20170702|0:32|21|Anastasiia Shapovalova|none|12|Veronika Dobiášová [2]|none|DBE869CE-B176-4CD2-AA56-73B33736B5FC|singles

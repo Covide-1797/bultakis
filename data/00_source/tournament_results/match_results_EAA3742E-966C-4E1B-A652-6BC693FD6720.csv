@@ -1,0 +1,775 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150908|0:44|21|Yuta Watanabe|Arisa Higashino|9|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:44|13|Yuta Watanabe|Arisa Higashino|21|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:44|21|Yuta Watanabe|Arisa Higashino|19|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:23|21|Kenta Kazuno|Ayane Kurihara|7|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:23|21|Kenta Kazuno|Ayane Kurihara|10|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:43|21|Yuki Kaneko |Shizuka Matsuo|9|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:43|14|Yuki Kaneko |Shizuka Matsuo|21|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:43|21|Yuki Kaneko |Shizuka Matsuo|11|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:26|21|Yoo Yeon Seong|Chang Ye Na|13|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:26|21|Yoo Yeon Seong|Chang Ye Na|12|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:25|21|Yugo Kobayashi|Yuki Fukushima|12|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:25|21|Yugo Kobayashi|Yuki Fukushima|17|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:30|21|Akira Koga |Koharu Yonemoto|8|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:30|23|Akira Koga |Koharu Yonemoto|21|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:43|17|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|21|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|15|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|18|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:30|21|Choi Solgyu |Eom Hye Won|15|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:30|21|Choi Solgyu |Eom Hye Won|18|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:46|21|Puavaranukroh Dechapol |Kedren Kittinupong|18|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:46|13|Puavaranukroh Dechapol |Kedren Kittinupong|21|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:46|22|Puavaranukroh Dechapol |Kedren Kittinupong|20|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:34|21|Hiroyuki Saeki |Ryota Taohata|9|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:34|21|Hiroyuki Saeki |Ryota Taohata|19|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:24|21|Taiki Shimada|Yoshinori Takeuchi|13|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:24|21|Taiki Shimada|Yoshinori Takeuchi|16|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:44|16|Liao Min Chun |Tseng Min Hao|21|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:50|22|Kanta Tsuneyama|none|20|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:50|21|Kanta Tsuneyama|none|18|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:39|21|Ihsan Maulana Mustofa|none|13|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:39|21|Ihsan Maulana Mustofa|none|11|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:34|21|Shintaro Ikeda|Kazuaki Oshima|13|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:34|21|Shintaro Ikeda|Kazuaki Oshima|16|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:16|20|Kazuya Itani|Tomoya Takashina|8|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:16|Walkover Win|Kazuya Itani|Tomoya Takashina|Walkover Loss|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:53|21|Chang Ye Na|Lee So Hee|9|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:53|18|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:53|23|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|1:16|22|Christie Jonatan |none|24|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:16|22|Christie Jonatan |none|20|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:16|21|Christie Jonatan |none|19|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:59|21|Wang Tzu Wei|none|19|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:59|20|Wang Tzu Wei|none|22|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:59|21|Wang Tzu Wei|none|17|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:32|21|Keiichiro Matsui|Koshun Miura|17|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:32|21|Keiichiro Matsui|Koshun Miura|14|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|12|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|19|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|11|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:46|15|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|21|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|13|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|19|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|16|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:09|17|Jeon Hyeok Jin|none|21|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:44|18|Saena Kawakami|none|21|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:44|21|Saena Kawakami|none|10|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:44|21|Saena Kawakami|none|9|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:33|21|Kwang Hee Heo|none|10|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:33|21|Kwang Hee Heo|none|18|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908||Walkover Win|Ayumi Mine|none|Walkover Loss|Nitchaon Jindapol [3]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:02|21|Lee Dong Keun |none|12|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:02|12|Lee Dong Keun |none|21|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:02|21|Lee Dong Keun |none|18|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:06|11|Aya Ohori |none|4|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:06|Walkover Win|Aya Ohori |none|Walkover Loss|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:54|21|Kana Ito|none|18|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:54|20|Kana Ito|none|22|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:54|21|Kana Ito|none|11|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:00|20|Yuka Kusunose|none|22|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:00|21|Yuka Kusunose|none|10|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:00|21|Yuka Kusunose|none|17|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:31|21|Moe Araki|none|19|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:31|21|Moe Araki|none|11|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:20|21|Choi Solgyu |Eom Hye Won|7|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:20|21|Choi Solgyu |Eom Hye Won|15|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:28|21|Akira Koga |Koharu Yonemoto|18|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:28|21|Akira Koga |Koharu Yonemoto|19|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|1:04|21|Ihsan Maulana Mustofa|none|13|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:04|14|Ihsan Maulana Mustofa|none|21|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:04|21|Ihsan Maulana Mustofa|none|16|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:35|21|Kenta Kazuno|Ayane Kurihara|17|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:35|21|Kenta Kazuno|Ayane Kurihara|15|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:28|21|Lee Chong Wei|none|10|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:28|21|Lee Chong Wei|none|12|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:54|21|Wang Tzu Wei|none|19|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:54|19|Wang Tzu Wei|none|21|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:54|21|Wang Tzu Wei|none|14|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:24|23|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:24|14|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:24|21|Lee Dong Keun |none|19|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:58|21|Hiroyuki Saeki |Ryota Taohata|12|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:58|16|Hiroyuki Saeki |Ryota Taohata|21|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:58|21|Hiroyuki Saeki |Ryota Taohata|18|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:29|21|Chang Ye Na|Lee So Hee|11|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:29|21|Chang Ye Na|Lee So Hee|6|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:29|21|Jung Kyung Eun|Shin Seung Chan|13|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:29|21|Jung Kyung Eun|Shin Seung Chan|8|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:47|16|Puavaranukroh Dechapol |Kedren Kittinupong|21|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|10|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|14|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:30|21|Moe Araki|none|6|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:30|21|Moe Araki|none|10|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|10|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|14|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:44|21|Ayumi Mine|none|16|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:44|21|Ayumi Mine|none|8|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|0:57|19|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:57|23|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:57|21|Rira Kawashima|Saori Ozaki|8|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:23|21|Liao Min Chun |Tseng Min Hao|16|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|0:23|21|Liao Min Chun |Tseng Min Hao|10|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|1:00|6|Chaladchalam Chayanit |Phataimas Muenwong|21|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|18|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|11|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150908|1:09|16|Saena Kawakami|none|21|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:09|21|Saena Kawakami|none|14|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150908|1:09|21|Saena Kawakami|none|16|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:44|21|Yuta Watanabe|Arisa Higashino|9|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:44|13|Yuta Watanabe|Arisa Higashino|21|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:44|21|Yuta Watanabe|Arisa Higashino|19|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:23|21|Kenta Kazuno|Ayane Kurihara|7|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:23|21|Kenta Kazuno|Ayane Kurihara|10|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:43|21|Yuki Kaneko |Shizuka Matsuo|9|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:43|14|Yuki Kaneko |Shizuka Matsuo|21|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:43|21|Yuki Kaneko |Shizuka Matsuo|11|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:26|21|Yoo Yeon Seong|Chang Ye Na|13|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:26|21|Yoo Yeon Seong|Chang Ye Na|12|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:25|21|Yugo Kobayashi|Yuki Fukushima|12|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:25|21|Yugo Kobayashi|Yuki Fukushima|17|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:30|21|Akira Koga |Koharu Yonemoto|8|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:30|23|Akira Koga |Koharu Yonemoto|21|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:43|17|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|21|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|15|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|18|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:30|21|Choi Solgyu |Eom Hye Won|15|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:30|21|Choi Solgyu |Eom Hye Won|18|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:46|21|Puavaranukroh Dechapol |Kedren Kittinupong|18|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:46|13|Puavaranukroh Dechapol |Kedren Kittinupong|21|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:46|22|Puavaranukroh Dechapol |Kedren Kittinupong|20|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:34|21|Hiroyuki Saeki |Ryota Taohata|9|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:34|21|Hiroyuki Saeki |Ryota Taohata|19|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:24|21|Taiki Shimada|Yoshinori Takeuchi|13|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:24|21|Taiki Shimada|Yoshinori Takeuchi|16|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:44|16|Liao Min Chun |Tseng Min Hao|21|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:50|22|Kanta Tsuneyama|none|20|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:50|21|Kanta Tsuneyama|none|18|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:39|21|Ihsan Maulana Mustofa|none|13|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:39|21|Ihsan Maulana Mustofa|none|11|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:34|21|Shintaro Ikeda|Kazuaki Oshima|13|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:34|21|Shintaro Ikeda|Kazuaki Oshima|16|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:16|20|Kazuya Itani|Tomoya Takashina|8|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:16|Walkover Win|Kazuya Itani|Tomoya Takashina|Walkover Loss|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:53|21|Chang Ye Na|Lee So Hee|9|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:53|18|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:53|23|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|1:16|22|Christie Jonatan |none|24|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:16|22|Christie Jonatan |none|20|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:16|21|Christie Jonatan |none|19|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:59|21|Wang Tzu Wei|none|19|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:59|20|Wang Tzu Wei|none|22|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:59|21|Wang Tzu Wei|none|17|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:32|21|Keiichiro Matsui|Koshun Miura|17|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:32|21|Keiichiro Matsui|Koshun Miura|14|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|12|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|19|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|11|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:46|15|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|21|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|13|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|19|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|16|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:09|17|Jeon Hyeok Jin|none|21|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:44|18|Saena Kawakami|none|21|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:44|21|Saena Kawakami|none|10|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:44|21|Saena Kawakami|none|9|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:33|21|Kwang Hee Heo|none|10|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:33|21|Kwang Hee Heo|none|18|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909||Walkover Win|Ayumi Mine|none|Walkover Loss|Nitchaon Jindapol [3]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:02|21|Lee Dong Keun |none|12|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:02|12|Lee Dong Keun |none|21|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:02|21|Lee Dong Keun |none|18|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:06|11|Aya Ohori |none|4|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:06|Walkover Win|Aya Ohori |none|Walkover Loss|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:54|21|Kana Ito|none|18|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:54|20|Kana Ito|none|22|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:54|21|Kana Ito|none|11|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:00|20|Yuka Kusunose|none|22|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:00|21|Yuka Kusunose|none|10|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:00|21|Yuka Kusunose|none|17|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:31|21|Moe Araki|none|19|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:31|21|Moe Araki|none|11|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:20|21|Choi Solgyu |Eom Hye Won|7|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:20|21|Choi Solgyu |Eom Hye Won|15|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:28|21|Akira Koga |Koharu Yonemoto|18|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:28|21|Akira Koga |Koharu Yonemoto|19|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|1:04|21|Ihsan Maulana Mustofa|none|13|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:04|14|Ihsan Maulana Mustofa|none|21|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:04|21|Ihsan Maulana Mustofa|none|16|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:35|21|Kenta Kazuno|Ayane Kurihara|17|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:35|21|Kenta Kazuno|Ayane Kurihara|15|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:28|21|Lee Chong Wei|none|10|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:28|21|Lee Chong Wei|none|12|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:54|21|Wang Tzu Wei|none|19|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:54|19|Wang Tzu Wei|none|21|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:54|21|Wang Tzu Wei|none|14|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:24|23|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:24|14|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:24|21|Lee Dong Keun |none|19|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:58|21|Hiroyuki Saeki |Ryota Taohata|12|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:58|16|Hiroyuki Saeki |Ryota Taohata|21|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:58|21|Hiroyuki Saeki |Ryota Taohata|18|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:29|21|Chang Ye Na|Lee So Hee|11|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:29|21|Chang Ye Na|Lee So Hee|6|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:29|21|Jung Kyung Eun|Shin Seung Chan|13|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:29|21|Jung Kyung Eun|Shin Seung Chan|8|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:47|16|Puavaranukroh Dechapol |Kedren Kittinupong|21|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|10|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|14|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:30|21|Moe Araki|none|6|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:30|21|Moe Araki|none|10|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|10|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|14|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:44|21|Ayumi Mine|none|16|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:44|21|Ayumi Mine|none|8|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|0:57|19|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:57|23|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:57|21|Rira Kawashima|Saori Ozaki|8|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:23|21|Liao Min Chun |Tseng Min Hao|16|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|0:23|21|Liao Min Chun |Tseng Min Hao|10|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|1:00|6|Chaladchalam Chayanit |Phataimas Muenwong|21|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|18|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|11|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150909|1:09|16|Saena Kawakami|none|21|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:09|21|Saena Kawakami|none|14|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150909|1:09|21|Saena Kawakami|none|16|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:44|21|Yuta Watanabe|Arisa Higashino|9|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:44|13|Yuta Watanabe|Arisa Higashino|21|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:44|21|Yuta Watanabe|Arisa Higashino|19|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:23|21|Kenta Kazuno|Ayane Kurihara|7|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:23|21|Kenta Kazuno|Ayane Kurihara|10|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:43|21|Yuki Kaneko |Shizuka Matsuo|9|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:43|14|Yuki Kaneko |Shizuka Matsuo|21|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:43|21|Yuki Kaneko |Shizuka Matsuo|11|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:26|21|Yoo Yeon Seong|Chang Ye Na|13|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:26|21|Yoo Yeon Seong|Chang Ye Na|12|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:25|21|Yugo Kobayashi|Yuki Fukushima|12|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:25|21|Yugo Kobayashi|Yuki Fukushima|17|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:30|21|Akira Koga |Koharu Yonemoto|8|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:30|23|Akira Koga |Koharu Yonemoto|21|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:43|17|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|21|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|15|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|18|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:30|21|Choi Solgyu |Eom Hye Won|15|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:30|21|Choi Solgyu |Eom Hye Won|18|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:46|21|Puavaranukroh Dechapol |Kedren Kittinupong|18|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:46|13|Puavaranukroh Dechapol |Kedren Kittinupong|21|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:46|22|Puavaranukroh Dechapol |Kedren Kittinupong|20|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:34|21|Hiroyuki Saeki |Ryota Taohata|9|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:34|21|Hiroyuki Saeki |Ryota Taohata|19|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:24|21|Taiki Shimada|Yoshinori Takeuchi|13|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:24|21|Taiki Shimada|Yoshinori Takeuchi|16|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:44|16|Liao Min Chun |Tseng Min Hao|21|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:50|22|Kanta Tsuneyama|none|20|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:50|21|Kanta Tsuneyama|none|18|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:39|21|Ihsan Maulana Mustofa|none|13|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:39|21|Ihsan Maulana Mustofa|none|11|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:34|21|Shintaro Ikeda|Kazuaki Oshima|13|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:34|21|Shintaro Ikeda|Kazuaki Oshima|16|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:16|20|Kazuya Itani|Tomoya Takashina|8|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:16|Walkover Win|Kazuya Itani|Tomoya Takashina|Walkover Loss|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:53|21|Chang Ye Na|Lee So Hee|9|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:53|18|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:53|23|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|1:16|22|Christie Jonatan |none|24|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:16|22|Christie Jonatan |none|20|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:16|21|Christie Jonatan |none|19|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:59|21|Wang Tzu Wei|none|19|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:59|20|Wang Tzu Wei|none|22|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:59|21|Wang Tzu Wei|none|17|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:32|21|Keiichiro Matsui|Koshun Miura|17|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:32|21|Keiichiro Matsui|Koshun Miura|14|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|12|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|19|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|11|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:46|15|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|21|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|13|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|19|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|16|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:09|17|Jeon Hyeok Jin|none|21|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:44|18|Saena Kawakami|none|21|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:44|21|Saena Kawakami|none|10|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:44|21|Saena Kawakami|none|9|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:33|21|Kwang Hee Heo|none|10|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:33|21|Kwang Hee Heo|none|18|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910||Walkover Win|Ayumi Mine|none|Walkover Loss|Nitchaon Jindapol [3]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:02|21|Lee Dong Keun |none|12|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:02|12|Lee Dong Keun |none|21|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:02|21|Lee Dong Keun |none|18|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:06|11|Aya Ohori |none|4|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:06|Walkover Win|Aya Ohori |none|Walkover Loss|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:54|21|Kana Ito|none|18|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:54|20|Kana Ito|none|22|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:54|21|Kana Ito|none|11|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:00|20|Yuka Kusunose|none|22|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:00|21|Yuka Kusunose|none|10|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:00|21|Yuka Kusunose|none|17|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:31|21|Moe Araki|none|19|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:31|21|Moe Araki|none|11|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:20|21|Choi Solgyu |Eom Hye Won|7|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:20|21|Choi Solgyu |Eom Hye Won|15|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:28|21|Akira Koga |Koharu Yonemoto|18|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:28|21|Akira Koga |Koharu Yonemoto|19|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|1:04|21|Ihsan Maulana Mustofa|none|13|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:04|14|Ihsan Maulana Mustofa|none|21|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:04|21|Ihsan Maulana Mustofa|none|16|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:35|21|Kenta Kazuno|Ayane Kurihara|17|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:35|21|Kenta Kazuno|Ayane Kurihara|15|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:28|21|Lee Chong Wei|none|10|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:28|21|Lee Chong Wei|none|12|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:54|21|Wang Tzu Wei|none|19|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:54|19|Wang Tzu Wei|none|21|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:54|21|Wang Tzu Wei|none|14|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:24|23|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:24|14|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:24|21|Lee Dong Keun |none|19|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:58|21|Hiroyuki Saeki |Ryota Taohata|12|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:58|16|Hiroyuki Saeki |Ryota Taohata|21|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:58|21|Hiroyuki Saeki |Ryota Taohata|18|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:29|21|Chang Ye Na|Lee So Hee|11|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:29|21|Chang Ye Na|Lee So Hee|6|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:29|21|Jung Kyung Eun|Shin Seung Chan|13|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:29|21|Jung Kyung Eun|Shin Seung Chan|8|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:47|16|Puavaranukroh Dechapol |Kedren Kittinupong|21|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|10|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|14|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:30|21|Moe Araki|none|6|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:30|21|Moe Araki|none|10|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|10|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|14|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:44|21|Ayumi Mine|none|16|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:44|21|Ayumi Mine|none|8|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|0:57|19|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:57|23|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:57|21|Rira Kawashima|Saori Ozaki|8|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:23|21|Liao Min Chun |Tseng Min Hao|16|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|0:23|21|Liao Min Chun |Tseng Min Hao|10|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|1:00|6|Chaladchalam Chayanit |Phataimas Muenwong|21|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|18|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|11|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150910|1:09|16|Saena Kawakami|none|21|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:09|21|Saena Kawakami|none|14|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150910|1:09|21|Saena Kawakami|none|16|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:44|21|Yuta Watanabe|Arisa Higashino|9|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:44|13|Yuta Watanabe|Arisa Higashino|21|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:44|21|Yuta Watanabe|Arisa Higashino|19|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:23|21|Kenta Kazuno|Ayane Kurihara|7|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:23|21|Kenta Kazuno|Ayane Kurihara|10|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:43|21|Yuki Kaneko |Shizuka Matsuo|9|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:43|14|Yuki Kaneko |Shizuka Matsuo|21|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:43|21|Yuki Kaneko |Shizuka Matsuo|11|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:26|21|Yoo Yeon Seong|Chang Ye Na|13|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:26|21|Yoo Yeon Seong|Chang Ye Na|12|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:25|21|Yugo Kobayashi|Yuki Fukushima|12|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:25|21|Yugo Kobayashi|Yuki Fukushima|17|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:30|21|Akira Koga |Koharu Yonemoto|8|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:30|23|Akira Koga |Koharu Yonemoto|21|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:43|17|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|21|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|15|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|18|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:30|21|Choi Solgyu |Eom Hye Won|15|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:30|21|Choi Solgyu |Eom Hye Won|18|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:46|21|Puavaranukroh Dechapol |Kedren Kittinupong|18|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:46|13|Puavaranukroh Dechapol |Kedren Kittinupong|21|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:46|22|Puavaranukroh Dechapol |Kedren Kittinupong|20|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:34|21|Hiroyuki Saeki |Ryota Taohata|9|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:34|21|Hiroyuki Saeki |Ryota Taohata|19|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:24|21|Taiki Shimada|Yoshinori Takeuchi|13|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:24|21|Taiki Shimada|Yoshinori Takeuchi|16|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:44|16|Liao Min Chun |Tseng Min Hao|21|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:50|22|Kanta Tsuneyama|none|20|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:50|21|Kanta Tsuneyama|none|18|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:39|21|Ihsan Maulana Mustofa|none|13|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:39|21|Ihsan Maulana Mustofa|none|11|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:34|21|Shintaro Ikeda|Kazuaki Oshima|13|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:34|21|Shintaro Ikeda|Kazuaki Oshima|16|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:16|20|Kazuya Itani|Tomoya Takashina|8|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:16|Walkover Win|Kazuya Itani|Tomoya Takashina|Walkover Loss|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:53|21|Chang Ye Na|Lee So Hee|9|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:53|18|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:53|23|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|1:16|22|Christie Jonatan |none|24|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:16|22|Christie Jonatan |none|20|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:16|21|Christie Jonatan |none|19|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:59|21|Wang Tzu Wei|none|19|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:59|20|Wang Tzu Wei|none|22|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:59|21|Wang Tzu Wei|none|17|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:32|21|Keiichiro Matsui|Koshun Miura|17|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:32|21|Keiichiro Matsui|Koshun Miura|14|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|12|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|19|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|11|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:46|15|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|21|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|13|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|19|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|16|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:09|17|Jeon Hyeok Jin|none|21|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:44|18|Saena Kawakami|none|21|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:44|21|Saena Kawakami|none|10|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:44|21|Saena Kawakami|none|9|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:33|21|Kwang Hee Heo|none|10|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:33|21|Kwang Hee Heo|none|18|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911||Walkover Win|Ayumi Mine|none|Walkover Loss|Nitchaon Jindapol [3]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:02|21|Lee Dong Keun |none|12|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:02|12|Lee Dong Keun |none|21|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:02|21|Lee Dong Keun |none|18|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:06|11|Aya Ohori |none|4|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:06|Walkover Win|Aya Ohori |none|Walkover Loss|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:54|21|Kana Ito|none|18|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:54|20|Kana Ito|none|22|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:54|21|Kana Ito|none|11|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:00|20|Yuka Kusunose|none|22|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:00|21|Yuka Kusunose|none|10|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:00|21|Yuka Kusunose|none|17|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:31|21|Moe Araki|none|19|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:31|21|Moe Araki|none|11|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:20|21|Choi Solgyu |Eom Hye Won|7|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:20|21|Choi Solgyu |Eom Hye Won|15|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:28|21|Akira Koga |Koharu Yonemoto|18|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:28|21|Akira Koga |Koharu Yonemoto|19|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|1:04|21|Ihsan Maulana Mustofa|none|13|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:04|14|Ihsan Maulana Mustofa|none|21|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:04|21|Ihsan Maulana Mustofa|none|16|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:35|21|Kenta Kazuno|Ayane Kurihara|17|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:35|21|Kenta Kazuno|Ayane Kurihara|15|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:28|21|Lee Chong Wei|none|10|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:28|21|Lee Chong Wei|none|12|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:54|21|Wang Tzu Wei|none|19|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:54|19|Wang Tzu Wei|none|21|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:54|21|Wang Tzu Wei|none|14|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:24|23|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:24|14|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:24|21|Lee Dong Keun |none|19|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:58|21|Hiroyuki Saeki |Ryota Taohata|12|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:58|16|Hiroyuki Saeki |Ryota Taohata|21|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:58|21|Hiroyuki Saeki |Ryota Taohata|18|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:29|21|Chang Ye Na|Lee So Hee|11|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:29|21|Chang Ye Na|Lee So Hee|6|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:29|21|Jung Kyung Eun|Shin Seung Chan|13|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:29|21|Jung Kyung Eun|Shin Seung Chan|8|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:47|16|Puavaranukroh Dechapol |Kedren Kittinupong|21|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|10|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|14|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:30|21|Moe Araki|none|6|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:30|21|Moe Araki|none|10|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|10|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|14|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:44|21|Ayumi Mine|none|16|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:44|21|Ayumi Mine|none|8|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|0:57|19|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:57|23|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:57|21|Rira Kawashima|Saori Ozaki|8|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:23|21|Liao Min Chun |Tseng Min Hao|16|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|0:23|21|Liao Min Chun |Tseng Min Hao|10|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|1:00|6|Chaladchalam Chayanit |Phataimas Muenwong|21|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|18|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|11|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150911|1:09|16|Saena Kawakami|none|21|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:09|21|Saena Kawakami|none|14|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150911|1:09|21|Saena Kawakami|none|16|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:44|21|Yuta Watanabe|Arisa Higashino|9|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:44|13|Yuta Watanabe|Arisa Higashino|21|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:44|21|Yuta Watanabe|Arisa Higashino|19|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:23|21|Kenta Kazuno|Ayane Kurihara|7|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:23|21|Kenta Kazuno|Ayane Kurihara|10|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:43|21|Yuki Kaneko |Shizuka Matsuo|9|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:43|14|Yuki Kaneko |Shizuka Matsuo|21|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:43|21|Yuki Kaneko |Shizuka Matsuo|11|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:26|21|Yoo Yeon Seong|Chang Ye Na|13|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:26|21|Yoo Yeon Seong|Chang Ye Na|12|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:25|21|Yugo Kobayashi|Yuki Fukushima|12|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:25|21|Yugo Kobayashi|Yuki Fukushima|17|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:30|21|Akira Koga |Koharu Yonemoto|8|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:30|23|Akira Koga |Koharu Yonemoto|21|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:43|17|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|21|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|15|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|18|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:30|21|Choi Solgyu |Eom Hye Won|15|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:30|21|Choi Solgyu |Eom Hye Won|18|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:46|21|Puavaranukroh Dechapol |Kedren Kittinupong|18|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:46|13|Puavaranukroh Dechapol |Kedren Kittinupong|21|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:46|22|Puavaranukroh Dechapol |Kedren Kittinupong|20|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:34|21|Hiroyuki Saeki |Ryota Taohata|9|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:34|21|Hiroyuki Saeki |Ryota Taohata|19|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:24|21|Taiki Shimada|Yoshinori Takeuchi|13|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:24|21|Taiki Shimada|Yoshinori Takeuchi|16|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:44|16|Liao Min Chun |Tseng Min Hao|21|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:50|22|Kanta Tsuneyama|none|20|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:50|21|Kanta Tsuneyama|none|18|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:39|21|Ihsan Maulana Mustofa|none|13|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:39|21|Ihsan Maulana Mustofa|none|11|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:34|21|Shintaro Ikeda|Kazuaki Oshima|13|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:34|21|Shintaro Ikeda|Kazuaki Oshima|16|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:16|20|Kazuya Itani|Tomoya Takashina|8|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:16|Walkover Win|Kazuya Itani|Tomoya Takashina|Walkover Loss|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:53|21|Chang Ye Na|Lee So Hee|9|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:53|18|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:53|23|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|1:16|22|Christie Jonatan |none|24|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:16|22|Christie Jonatan |none|20|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:16|21|Christie Jonatan |none|19|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:59|21|Wang Tzu Wei|none|19|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:59|20|Wang Tzu Wei|none|22|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:59|21|Wang Tzu Wei|none|17|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:32|21|Keiichiro Matsui|Koshun Miura|17|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:32|21|Keiichiro Matsui|Koshun Miura|14|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|12|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|19|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|11|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:46|15|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|21|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|13|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|19|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|16|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:09|17|Jeon Hyeok Jin|none|21|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:44|18|Saena Kawakami|none|21|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:44|21|Saena Kawakami|none|10|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:44|21|Saena Kawakami|none|9|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:33|21|Kwang Hee Heo|none|10|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:33|21|Kwang Hee Heo|none|18|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912||Walkover Win|Ayumi Mine|none|Walkover Loss|Nitchaon Jindapol [3]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:02|21|Lee Dong Keun |none|12|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:02|12|Lee Dong Keun |none|21|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:02|21|Lee Dong Keun |none|18|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:06|11|Aya Ohori |none|4|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:06|Walkover Win|Aya Ohori |none|Walkover Loss|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:54|21|Kana Ito|none|18|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:54|20|Kana Ito|none|22|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:54|21|Kana Ito|none|11|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:00|20|Yuka Kusunose|none|22|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:00|21|Yuka Kusunose|none|10|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:00|21|Yuka Kusunose|none|17|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:31|21|Moe Araki|none|19|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:31|21|Moe Araki|none|11|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:20|21|Choi Solgyu |Eom Hye Won|7|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:20|21|Choi Solgyu |Eom Hye Won|15|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:28|21|Akira Koga |Koharu Yonemoto|18|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:28|21|Akira Koga |Koharu Yonemoto|19|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|1:04|21|Ihsan Maulana Mustofa|none|13|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:04|14|Ihsan Maulana Mustofa|none|21|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:04|21|Ihsan Maulana Mustofa|none|16|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:35|21|Kenta Kazuno|Ayane Kurihara|17|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:35|21|Kenta Kazuno|Ayane Kurihara|15|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:28|21|Lee Chong Wei|none|10|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:28|21|Lee Chong Wei|none|12|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:54|21|Wang Tzu Wei|none|19|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:54|19|Wang Tzu Wei|none|21|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:54|21|Wang Tzu Wei|none|14|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:24|23|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:24|14|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:24|21|Lee Dong Keun |none|19|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:58|21|Hiroyuki Saeki |Ryota Taohata|12|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:58|16|Hiroyuki Saeki |Ryota Taohata|21|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:58|21|Hiroyuki Saeki |Ryota Taohata|18|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:29|21|Chang Ye Na|Lee So Hee|11|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:29|21|Chang Ye Na|Lee So Hee|6|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:29|21|Jung Kyung Eun|Shin Seung Chan|13|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:29|21|Jung Kyung Eun|Shin Seung Chan|8|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:47|16|Puavaranukroh Dechapol |Kedren Kittinupong|21|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|10|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|14|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:30|21|Moe Araki|none|6|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:30|21|Moe Araki|none|10|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|10|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|14|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:44|21|Ayumi Mine|none|16|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:44|21|Ayumi Mine|none|8|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|0:57|19|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:57|23|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:57|21|Rira Kawashima|Saori Ozaki|8|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:23|21|Liao Min Chun |Tseng Min Hao|16|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|0:23|21|Liao Min Chun |Tseng Min Hao|10|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|1:00|6|Chaladchalam Chayanit |Phataimas Muenwong|21|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|18|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|11|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150912|1:09|16|Saena Kawakami|none|21|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:09|21|Saena Kawakami|none|14|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150912|1:09|21|Saena Kawakami|none|16|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:44|21|Yuta Watanabe|Arisa Higashino|9|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:44|13|Yuta Watanabe|Arisa Higashino|21|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:44|21|Yuta Watanabe|Arisa Higashino|19|Kona Tarun [1]|Sikki N. Reddy|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:23|21|Kenta Kazuno|Ayane Kurihara|7|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:23|21|Kenta Kazuno|Ayane Kurihara|10|Yehezkiel Fritz Mainaky|Lyanny Alessandra Mainaky|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:43|21|Yuki Kaneko |Shizuka Matsuo|9|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:43|14|Yuki Kaneko |Shizuka Matsuo|21|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:43|21|Yuki Kaneko |Shizuka Matsuo|11|Shuto Morioka|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:26|21|Yoo Yeon Seong|Chang Ye Na|13|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:26|21|Yoo Yeon Seong|Chang Ye Na|12|Tomoya Takashina|Rie Etoh|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:25|21|Yugo Kobayashi|Yuki Fukushima|12|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:25|21|Yugo Kobayashi|Yuki Fukushima|17|Kim Jae Hwan|Kim So Yeong|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:30|21|Akira Koga |Koharu Yonemoto|8|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:30|23|Akira Koga |Koharu Yonemoto|21|Hikaru Komachiya|Kaede Kameda|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:43|17|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|21|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|15|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:43|21|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|18|Koshun Miura|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:30|21|Choi Solgyu |Eom Hye Won|15|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:30|21|Choi Solgyu |Eom Hye Won|18|Daisuke Suzuki|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:46|21|Puavaranukroh Dechapol |Kedren Kittinupong|18|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:46|13|Puavaranukroh Dechapol |Kedren Kittinupong|21|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:46|22|Puavaranukroh Dechapol |Kedren Kittinupong|20|Yuya Komatsuzaki|Hiroki Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:34|21|Hiroyuki Saeki |Ryota Taohata|9|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:34|21|Hiroyuki Saeki |Ryota Taohata|19|Shohei Hoshino|Izumi Okoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:24|21|Taiki Shimada|Yoshinori Takeuchi|13|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:24|21|Taiki Shimada|Yoshinori Takeuchi|16|Chan Alan Yun Lung|Lee Chun Hei Reginald|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:44|16|Liao Min Chun |Tseng Min Hao|21|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:44|21|Liao Min Chun |Tseng Min Hao|16|Takatoshi Kurose|Ryota Sando|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:50|22|Kanta Tsuneyama|none|20|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:50|21|Kanta Tsuneyama|none|18|Anand Pawar|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:39|21|Ihsan Maulana Mustofa|none|13|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:39|21|Ihsan Maulana Mustofa|none|11|Kazumasa Sakai|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:34|21|Shintaro Ikeda|Kazuaki Oshima|13|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:34|21|Shintaro Ikeda|Kazuaki Oshima|16|Shuto Morioka|Keita Ogawa|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:16|20|Kazuya Itani|Tomoya Takashina|8|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:16|Walkover Win|Kazuya Itani|Tomoya Takashina|Walkover Loss|Lee Yan Sheng|Lin Woon Fui|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:37|21|Asumi Kugo|Megumi Yokoyama|16|Arisa Higashino [4]|Chisato Hoshi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:53|21|Chang Ye Na|Lee So Hee|9|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:53|18|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:53|23|Chang Ye Na|Lee So Hee|21|Nami Matsuyama|Chiharu Shida|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|1:16|22|Christie Jonatan |none|24|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:16|22|Christie Jonatan |none|20|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:16|21|Christie Jonatan |none|19|Kenta Nishimoto|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:59|21|Wang Tzu Wei|none|19|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:59|20|Wang Tzu Wei|none|22|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:59|21|Wang Tzu Wei|none|17|Ginting Anthony|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:32|21|Keiichiro Matsui|Koshun Miura|17|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:32|21|Keiichiro Matsui|Koshun Miura|14|Choi Solgyu|Kim Jae Hwan|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|12|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:29|21|Markis Kido |Agripinna Prima Rahmanto Putra|19|Akira Koga|Taichi Saito|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|11|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:46|15|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|21|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:46|21|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|13|Della Destiara Haris|Rizki Amelia Pradipta|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|19|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:50|21|Chaladchalam Chayanit |Phataimas Muenwong|16|Atsuko Koike|Midori Sakurai|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:23|21|Lee Chong Wei|none|3|Alistair Casey|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:09|17|Jeon Hyeok Jin|none|21|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:09|21|Jeon Hyeok Jin|none|15|Hashiru Shimono|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:44|18|Saena Kawakami|none|21|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:44|21|Saena Kawakami|none|10|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:44|21|Saena Kawakami|none|9|Lyanny Alessandra Mainaky|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:33|21|Kwang Hee Heo|none|10|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:33|21|Kwang Hee Heo|none|18|Yosei Yamaguchi|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913||Walkover Win|Ayumi Mine|none|Walkover Loss|Nitchaon Jindapol [3]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:02|21|Lee Dong Keun |none|12|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:02|12|Lee Dong Keun |none|21|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:02|21|Lee Dong Keun |none|18|Kenichi Tago|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:06|11|Aya Ohori |none|4|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:06|Walkover Win|Aya Ohori |none|Walkover Loss|Natsuki Nidaira|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:54|21|Kana Ito|none|18|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:54|20|Kana Ito|none|22|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:54|21|Kana Ito|none|11|Shiori Saito|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:00|20|Yuka Kusunose|none|22|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:00|21|Yuka Kusunose|none|10|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:00|21|Yuka Kusunose|none|17|Chen Hsiao Huan|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:31|21|Moe Araki|none|19|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:31|21|Moe Araki|none|11|Hsu Ya Ching [2]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:20|21|Choi Solgyu |Eom Hye Won|7|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:20|21|Choi Solgyu |Eom Hye Won|15|Agripinna Prima Rahmanto Putra|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:28|21|Yoo Yeon Seong|Chang Ye Na|15|Yuki Kaneko [3]|Shizuka Matsuo|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:28|21|Akira Koga |Koharu Yonemoto|18|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:28|21|Akira Koga |Koharu Yonemoto|19|Yugo Kobayashi|Yuki Fukushima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|1:04|21|Ihsan Maulana Mustofa|none|13|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:04|14|Ihsan Maulana Mustofa|none|21|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:04|21|Ihsan Maulana Mustofa|none|16|Kanta Tsuneyama|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:35|21|Kenta Kazuno|Ayane Kurihara|17|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:35|21|Kenta Kazuno|Ayane Kurihara|15|Yuta Watanabe|Arisa Higashino|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:28|21|Lee Chong Wei|none|10|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:28|21|Lee Chong Wei|none|12|Kwang Hee Heo|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:54|21|Wang Tzu Wei|none|19|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:54|19|Wang Tzu Wei|none|21|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:54|21|Wang Tzu Wei|none|14|Christie Jonatan [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:24|23|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:24|14|Lee Dong Keun |none|21|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:24|21|Lee Dong Keun |none|19|Jeon Hyeok Jin|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:42|21|Kana Ito|none|19|Iris Wang [1]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:58|21|Hiroyuki Saeki |Ryota Taohata|12|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:58|16|Hiroyuki Saeki |Ryota Taohata|21|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:58|21|Hiroyuki Saeki |Ryota Taohata|18|Taiki Shimada|Yoshinori Takeuchi|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:29|21|Chang Ye Na|Lee So Hee|11|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:29|21|Chang Ye Na|Lee So Hee|6|Misato Aratama|Akane Watanabe|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:29|21|Jung Kyung Eun|Shin Seung Chan|13|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:29|21|Jung Kyung Eun|Shin Seung Chan|8|Pia Zebadiah Bernadeth|Aprilsasi Putri Lejarsar Variella|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:47|16|Puavaranukroh Dechapol |Kedren Kittinupong|21|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|10|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:47|21|Puavaranukroh Dechapol |Kedren Kittinupong|14|Shintaro Ikeda|Kazuaki Oshima|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:30|21|Moe Araki|none|6|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:30|21|Moe Araki|none|10|Yuka Kusunose|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|10|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:22|21|Markis Kido |Agripinna Prima Rahmanto Putra|14|Kazuya Itani|Tomoya Takashina|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:44|21|Ayumi Mine|none|16|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:44|21|Ayumi Mine|none|8|Shizuka Uchida|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|0:57|19|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:57|23|Rira Kawashima|Saori Ozaki|21|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:57|21|Rira Kawashima|Saori Ozaki|8|Asumi Kugo|Megumi Yokoyama|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:23|21|Liao Min Chun |Tseng Min Hao|16|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|0:23|21|Liao Min Chun |Tseng Min Hao|10|Keiichiro Matsui|Koshun Miura|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|1:00|6|Chaladchalam Chayanit |Phataimas Muenwong|21|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|18|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|1:00|21|Chaladchalam Chayanit |Phataimas Muenwong|11|Mirai Shinoda|Natsumi Uratani|EAA3742E-966C-4E1B-A652-6BC693FD6720|doubles
+20150913|1:09|16|Saena Kawakami|none|21|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:09|21|Saena Kawakami|none|14|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles
+20150913|1:09|21|Saena Kawakami|none|16|Aya Ohori [4]|none|EAA3742E-966C-4E1B-A652-6BC693FD6720|singles

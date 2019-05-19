@@ -1,0 +1,874 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20180615|0:26|21|Jan Janoštík|Ema Staňková|17|Peter Dubecky|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:26|21|Jan Janoštík|Ema Staňková|11|Peter Dubecky|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:40|19|Constantinos Hadjigeorgiou|Eva Kattirtzi|21|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:40|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|15|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:40|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|14|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Aleksandar Jovicic|Minja Milovanovic|13|Luka Črep|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Aleksandar Jovicic|Minja Milovanovic|8|Luka Črep|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:25|21|Viacheslav Yakovlev|Polina Tkach|12|Christian Tomic|Karoline Pottendorfer|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:25|21|Viacheslav Yakovlev|Polina Tkach|11|Christian Tomic|Karoline Pottendorfer|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|11|Constantinos Symeonides|Theodora Hadjisolomou|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|8|Constantinos Symeonides|Theodora Hadjisolomou|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:28|21|Mihnea Craciun|none|19|Adam Vojtěch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Mihnea Craciun|none|7|Adam Vojtěch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Teodor Ioan Cioroboiu |none|6|Ognen Trajkovski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Teodor Ioan Cioroboiu |none|8|Ognen Trajkovski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Vojtěch Poříz|none|9|Ivan Grubić|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Vojtěch Poříz|none|8|Ivan Grubić|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Lukas Kudlac|none|9|Ivan Pejoski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Lukas Kudlac|none|10|Ivan Pejoski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Jan Janoštík |none|6|David Butas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Jan Janoštík |none|6|David Butas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:31|21|Armin Sarosi|none|14|Luka Črep|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:31|21|Armin Sarosi|none|14|Luka Črep|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:29|21|Andrei Don |none|15|Peter Dubecky|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:29|21|Andrei Don |none|13|Peter Dubecky|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:38|21|Sergej Lukic |none|11|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:38|13|Sergej Lukic |none|21|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:38|21|Sergej Lukic |none|6|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|21|Patrik Papanek|none|11|Iakovos Acheriotis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|21|Patrik Papanek|none|13|Iakovos Acheriotis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:31|21|Vsevolod Pchelintsev |none|16|Viacheslav Yakovlev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:31|21|Vsevolod Pchelintsev |none|19|Viacheslav Yakovlev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:20|21|Sebastian Kadlec |none|6|Dragos Draghiciu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:20|21|Sebastian Kadlec |none|13|Dragos Draghiciu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Christian Tomic|none|3|Calin Tudor Turcu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Christian Tomic|none|10|Calin Tudor Turcu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Karol Budny |none|10|Zihao Zhai|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Karol Budny |none|12|Zihao Zhai|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:46|21|Piotr Wiercigroch|none|19|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:46|15|Piotr Wiercigroch|none|21|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:46|24|Piotr Wiercigroch|none|22|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Michael Tomic |none|15|Volodymyr Koluzaiev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Michael Tomic |none|12|Volodymyr Koluzaiev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:29|21|Christos Hailis|none|16|Bogdan Stoica|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:29|21|Christos Hailis|none|19|Bogdan Stoica|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Simeon Suchy|none|19|Andreas Theodotou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Simeon Suchy|none|14|Andreas Theodotou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|24|Evgeni Panev|none|26|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Evgeni Panev|none|15|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Evgeni Panev|none|6|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:33|21|Stephen Jong|none|17|Stefan Mijatovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:33|21|Stephen Jong|none|19|Stefan Mijatovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:42|21|Mikolaj Szymanowski |none|16|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:42|15|Mikolaj Szymanowski |none|21|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:42|21|Mikolaj Szymanowski |none|11|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Andreas Hadjisolomou|none|12|Michal Szczypka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Andreas Hadjisolomou|none|17|Michal Szczypka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:53|21|Mihajlo Tomic|none|18|Adam Ehm [15]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:53|24|Mihajlo Tomic|none|22|Adam Ehm [15]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Bogdan Deremeshko|none|18|Artur Manukian|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Bogdan Deremeshko|none|11|Artur Manukian|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Paul Harangus |none|10|Filip Knežević|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Paul Harangus |none|7|Filip Knežević|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:03|21|Leonid Stojanov|none|19|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:03|13|Leonid Stojanov|none|21|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:03|21|Leonid Stojanov|none|17|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Peter Radoczi |none|6|Theodoros Papadopoulos|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Peter Radoczi |none|9|Theodoros Papadopoulos|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:40|21|Mykola Kozubenko|none|13|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:40|18|Mykola Kozubenko|none|21|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:40|21|Mykola Kozubenko|none|19|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Lenny Sudarma |none|1|Antreas Mestanas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Lenny Sudarma |none|3|Antreas Mestanas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:31|22|Artem Nosov|none|20|Piotr Liszka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:31|21|Artem Nosov|none|19|Piotr Liszka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:32|21|Daniel Ivanko|none|19|Antonis Adamou [9]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:32|21|Daniel Ivanko|none|18|Antonis Adamou [9]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Gal Bizjak|none|12|Jacob Toczek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Gal Bizjak|none|18|Jacob Toczek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Egor Velp |none|12|Nathaniel Zilka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Egor Velp |none|10|Nathaniel Zilka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Natalia Tomcova|none|9|Elizaveta Dokudaeva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Natalia Tomcova|none|15|Elizaveta Dokudaeva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Elisavet Koronidou|none|9|Arta Priedniece|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Elisavet Koronidou|none|12|Arta Priedniece|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:01|21|Nina Bogdanovic|none|8|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:01|22|Nina Bogdanovic|none|24|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:01|21|Nina Bogdanovic|none|14|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:39|17|Martina Ševčíková|none|21|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:39|21|Martina Ševčíková|none|16|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:39|21|Martina Ševčíková|none|18|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Klára Petrušková|none|17|Julia Piwowar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Klára Petrušková|none|7|Julia Piwowar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Gergana Pavlova|none|12|Daria Zimnol|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Gergana Pavlova|none|12|Daria Zimnol|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Anastasiia Prokopovych|none|15|Jovana Vucetic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Anastasiia Prokopovych|none|15|Jovana Vucetic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Elena Bessonova|none|12|Yelyzaveta Yakovlieva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Elena Bessonova|none|9|Yelyzaveta Yakovlieva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|23|Polina Tkach|none|21|Anna Natálie Kohoutová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Polina Tkach|none|12|Anna Natálie Kohoutová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:39|21|Anna Czuchra|none|11|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:39|19|Anna Czuchra|none|21|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:39|21|Anna Czuchra|none|19|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:24|21|Olivia Kadlecova|none|13|Alexa Tanase|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:24|21|Olivia Kadlecova|none|5|Alexa Tanase|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615||Walkover Win|Zuzanna Jankowska|none|Walkover Loss|Simona Streharski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:20|21|Galina Mezentseva|none|11|Ioanna Antoniou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:20|21|Galina Mezentseva|none|9|Ioanna Antoniou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Sofia Slosiarikova|none|2|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|9|Sofia Slosiarikova|none|21|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Sofia Slosiarikova|none|19|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Victoriia Grigoreva|none|11|Julia Chmurovicova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Victoriia Grigoreva|none|9|Julia Chmurovicova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615||Walkover Win|Kaloyana Nalbantova|none|Walkover Loss|Emily Wu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Barbara Janičić|none|12|Minja Milovanovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Barbara Janičić|none|16|Minja Milovanovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615||Walkover Win|Luna Šaban|none|Walkover Loss|Mihaela Zlatanova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|21|Polina Buhrova|none|9|Arianna Biel|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|21|Polina Buhrova|none|18|Arianna Biel|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|21|Soňa Hořínková|none|15|Sara Loncar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|23|Soňa Hořínková|none|21|Sara Loncar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:32|18|Justyna Biernot|none|21|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:32|21|Justyna Biernot|none|7|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:32|21|Justyna Biernot|none|12|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Ira Martinuš|none|10|Rafailia Mertzemeki|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Ira Martinuš|none|16|Rafailia Mertzemeki|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|22|Tanya Ivanova|none|24|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Tanya Ivanova|none|14|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Tanya Ivanova|none|15|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:24|21|Kateřina Valentová|none|12|Jana Nedeljkovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:24|21|Kateřina Valentová|none|15|Jana Nedeljkovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Jan Janoštík |none|12|Mihnea Craciun|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Jan Janoštík |none|12|Mihnea Craciun|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Teodor Ioan Cioroboiu |none|14|Vojtěch Poříz|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Teodor Ioan Cioroboiu |none|15|Vojtěch Poříz|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Vsevolod Pchelintsev |none|14|Armin Sarosi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Vsevolod Pchelintsev |none|11|Armin Sarosi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Andrei Don |none|12|Lukas Kudlac|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:30|21|Andrei Don |none|12|Lukas Kudlac|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:51|22|Sergej Lukic |none|24|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:51|21|Sergej Lukic |none|5|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:51|21|Sergej Lukic |none|13|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:45|21|Christian Tomic|none|16|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:45|11|Christian Tomic|none|21|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:45|21|Christian Tomic|none|16|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Karol Budny |none|11|Piotr Wiercigroch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:28|21|Karol Budny |none|16|Piotr Wiercigroch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:52|21|Michael Tomic |none|14|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:52|18|Michael Tomic |none|21|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:52|23|Michael Tomic |none|21|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Simeon Suchy|none|11|Evgeni Panev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Simeon Suchy|none|5|Evgeni Panev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:32|22|Mikolaj Szymanowski |none|20|Stephen Jong|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:32|21|Mikolaj Szymanowski |none|9|Stephen Jong|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Mihajlo Tomic|none|13|Andreas Hadjisolomou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Mihajlo Tomic|none|13|Andreas Hadjisolomou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Bogdan Deremeshko|none|12|Paul Harangus [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:25|21|Bogdan Deremeshko|none|13|Paul Harangus [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:16|21|Peter Radoczi |none|13|Leonid Stojanov|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:16|21|Peter Radoczi |none|11|Leonid Stojanov|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|21|Lenny Sudarma |none|17|Mykola Kozubenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:27|21|Lenny Sudarma |none|11|Mykola Kozubenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Artem Nosov|none|8|Daniel Ivanko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Artem Nosov|none|10|Daniel Ivanko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Egor Velp |none|8|Gal Bizjak|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Egor Velp |none|14|Gal Bizjak|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Marija Sudimac |none|11|Natalia Tomcova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Marija Sudimac |none|9|Natalia Tomcova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Nina Bogdanovic|none|23|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|21|Nina Bogdanovic|none|18|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:21|22|Nina Bogdanovic|none|20|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Mariia Stoliarenko |none|5|Martina Ševčíková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:22|21|Mariia Stoliarenko |none|8|Martina Ševčíková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:37|21|Gergana Pavlova|none|15|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:37|14|Gergana Pavlova|none|21|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:37|21|Gergana Pavlova|none|8|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Ira Misir |none|13|Anastasiia Prokopovych|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:26|21|Ira Misir |none|10|Anastasiia Prokopovych|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:35|21|Polina Tkach|none|19|Elena Bessonova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:35|21|Polina Tkach|none|18|Elena Bessonova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615||Walkover Win|Anna Czuchra|none|Walkover Loss|Michaela Telehanicova [8]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Zuzanna Jankowska|none|7|Olivia Kadlecova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:23|21|Zuzanna Jankowska|none|15|Olivia Kadlecova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Barbara Janičić|none|13|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|15|Barbara Janičić|none|21|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Barbara Janičić|none|15|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:29|21|Ema Staňková |none|18|Sofia Slosiarikova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:29|21|Ema Staňková |none|15|Sofia Slosiarikova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:50|15|Victoriia Grigoreva|none|21|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:50|21|Victoriia Grigoreva|none|16|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:50|21|Victoriia Grigoreva|none|16|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:42|22|Luna Šaban|none|20|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:42|9|Luna Šaban|none|21|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:42|21|Luna Šaban|none|18|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|19|Soňa Hořínková|none|21|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Soňa Hořínková|none|15|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:44|21|Soňa Hořínková|none|19|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Arina Marushchak |none|8|Justyna Biernot|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:19|21|Arina Marushchak |none|6|Justyna Biernot|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:45|12|Tanya Ivanova|none|21|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:45|21|Tanya Ivanova|none|19|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:45|21|Tanya Ivanova|none|19|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:47|21|Joanna Podedworny |none|19|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:47|14|Joanna Podedworny |none|21|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:47|21|Joanna Podedworny |none|7|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180615|0:47|16|Antonis Adamou|Aris Kattirtzi|21|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:47|23|Antonis Adamou|Aris Kattirtzi|21|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:47|21|Antonis Adamou|Aris Kattirtzi|19|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:33|18|Paul Harangus|Victor Zarzu|21|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:33|21|Paul Harangus|Victor Zarzu|10|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:33|21|Paul Harangus|Victor Zarzu|9|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:29|21|Volodymyr Koluzaiev|Mykola Kozubenko|8|Zihao Zhai|Nathaniel Zilka|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:29|21|Volodymyr Koluzaiev|Mykola Kozubenko|15|Zihao Zhai|Nathaniel Zilka|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Karol Budny |Mikolaj Szymanowski|9|Daniel Ivanko|Peter Radoczi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Karol Budny |Mikolaj Szymanowski|13|Daniel Ivanko|Peter Radoczi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:18|21|Gal Bizjak|Mihnea Craciun|7|Andreas Hadjisolomou|Constantinos Symeonides|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:18|21|Gal Bizjak|Mihnea Craciun|6|Andreas Hadjisolomou|Constantinos Symeonides|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|David Butas|Lukas Kudlac|9|Dragos Draghiciu|Calin Tudor Turcu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|David Butas|Lukas Kudlac|14|Dragos Draghiciu|Calin Tudor Turcu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Lenny Sudarma|Michael Tomic|4|Stefan Mijatovic|Luka Milic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Lenny Sudarma|Michael Tomic|4|Stefan Mijatovic|Luka Milic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Bogdan Deremeshko|Igor Kalinichenko|8|Ivan Grubić|Ivor Zekan|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Bogdan Deremeshko|Igor Kalinichenko|12|Ivan Grubić|Ivor Zekan|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:29|21|Armin Sarosi|Christian Tomic|13|Sebastian Kadlec|Simeon Suchy|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:29|21|Armin Sarosi|Christian Tomic|13|Sebastian Kadlec|Simeon Suchy|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:25|21|Artem Nosov|Viacheslav Yakovlev|16|Teodor Ioan Cioroboiu|Bogdan Stoica|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:25|21|Artem Nosov|Viacheslav Yakovlev|16|Teodor Ioan Cioroboiu|Bogdan Stoica|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:22|21|Artur Manukian |Egor Velp|6|Michal Szczypka|Piotr Wiercigroch|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:22|21|Artur Manukian |Egor Velp|11|Michal Szczypka|Piotr Wiercigroch|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:29|21|Iakovos Acheriotis|Christos Hailis|15|Peter Dubecky|Patrik Papanek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:29|21|Iakovos Acheriotis|Christos Hailis|13|Peter Dubecky|Patrik Papanek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:21|21|Vojtěch Poříz|Adam Vojtěch|8|Ivan Pejoski|Leonid Stojanov|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:21|21|Vojtěch Poříz|Adam Vojtěch|11|Ivan Pejoski|Leonid Stojanov|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:26|21|Constantinos Hadjigeorgiou|Andreas Theodotou|14|Piotr Liszka|Jacob Toczek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:26|21|Constantinos Hadjigeorgiou|Andreas Theodotou|17|Piotr Liszka|Jacob Toczek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:37|15|Olivia Kadlecova|Martina Ševčíková|21|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:37|21|Olivia Kadlecova|Martina Ševčíková|19|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:37|21|Olivia Kadlecova|Martina Ševčíková|15|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:36|21|Arianna Biel|Zuzanna Jankowska|13|Ioanna Antoniou|Eva Kattirtzi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:36|26|Arianna Biel|Zuzanna Jankowska|24|Ioanna Antoniou|Eva Kattirtzi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:27|21|Anastasiia Prokopovych|Polina Tkach|13|Minja Milovanovic|Jana Nedeljkovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:27|21|Anastasiia Prokopovych|Polina Tkach|10|Minja Milovanovic|Jana Nedeljkovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:36|21|Polina Buhrova|Yana Sobko|17|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:36|19|Polina Buhrova|Yana Sobko|21|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:36|21|Polina Buhrova|Yana Sobko|11|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:43|21|Victoriia Grigoreva|Galina Mezentseva|16|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:43|18|Victoriia Grigoreva|Galina Mezentseva|21|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:43|21|Victoriia Grigoreva|Galina Mezentseva|17|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:30|23|Elena Bessonova|Elizaveta Dokudaeva|21|Alexandra Soare|Denisa Stemate|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:30|21|Elena Bessonova|Elizaveta Dokudaeva|9|Alexandra Soare|Denisa Stemate|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:41|21|Anna Natálie Kohoutová|Markéta Kohoutová|10|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:41|17|Anna Natálie Kohoutová|Markéta Kohoutová|21|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:41|21|Anna Natálie Kohoutová|Markéta Kohoutová|13|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:28|21|Arina Marushchak|Yelyzaveta Yakovlieva|8|Kaloyana Nalbantova|Gergana Pavlova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:28|21|Arina Marushchak|Yelyzaveta Yakovlieva|16|Kaloyana Nalbantova|Gergana Pavlova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:35|15|Klára Petrušková|Kateřina Valentová|21|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:35|21|Klára Petrušková|Kateřina Valentová|13|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:35|21|Klára Petrušková|Kateřina Valentová|15|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Sergej Lukic |Sara Loncar|9|Stephen Jong|Monika Valcheva|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Sergej Lukic |Sara Loncar|16|Stephen Jong|Monika Valcheva|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|6|Michal Szczypka|Julia Piwowar|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|12|Michal Szczypka|Julia Piwowar|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:33|17|Piotr Liszka|Anna Czuchra|21|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:33|21|Piotr Liszka|Anna Czuchra|19|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:33|21|Piotr Liszka|Anna Czuchra|18|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Egor Velp |Elena Bessonova|10|Mikolaj Szymanowski|Julia Prokopczuk|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Egor Velp |Elena Bessonova|13|Mikolaj Szymanowski|Julia Prokopczuk|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:09|21|Bogdan Deremeshko |Anastasiia Prokopovych|13|Victor Zarzu|Alexandra Chiosa|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:09|21|Bogdan Deremeshko |Anastasiia Prokopovych|11|Victor Zarzu|Alexandra Chiosa|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:39|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|23|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:39|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|15|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:39|23|Constantinos Hadjigeorgiou|Eva Kattirtzi|21|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:37|12|Jan Janoštík|Ema Staňková|21|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:37|21|Jan Janoštík|Ema Staňková|8|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:37|21|Jan Janoštík|Ema Staňková|12|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Andrei Don |Arina Marushchak|11|Christos Hailis|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Andrei Don |Arina Marushchak|15|Christos Hailis|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Adam Ehm|Kateřina Valentová|11|Piotr Wiercigroch|Justyna Biernot|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:24|21|Adam Ehm|Kateřina Valentová|15|Piotr Wiercigroch|Justyna Biernot|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Viacheslav Yakovlev|Polina Tkach|11|Dragos Draghiciu|Alexa Tanase|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Viacheslav Yakovlev|Polina Tkach|5|Dragos Draghiciu|Alexa Tanase|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:42|21|Mykola Kozubenko|Polina Buhrova|16|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:42|11|Mykola Kozubenko|Polina Buhrova|21|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:42|21|Mykola Kozubenko|Polina Buhrova|19|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Artem Nosov |Mariia Stoliarenko|8|Teodor Ioan Cioroboiu|Diana Popescu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Artem Nosov |Mariia Stoliarenko|8|Teodor Ioan Cioroboiu|Diana Popescu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:27|21|Artur Manukian|Elizaveta Baranova|14|Simeon Suchy|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:27|21|Artur Manukian|Elizaveta Baranova|19|Simeon Suchy|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Mihajlo Tomic |Marija Sudimac|17|Stefan Mijatovic|Jovana Vucetic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180615|0:20|21|Mihajlo Tomic |Marija Sudimac|11|Stefan Mijatovic|Jovana Vucetic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:26|21|Jan Janoštík|Ema Staňková|17|Peter Dubecky|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:26|21|Jan Janoštík|Ema Staňková|11|Peter Dubecky|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:40|19|Constantinos Hadjigeorgiou|Eva Kattirtzi|21|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:40|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|15|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:40|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|14|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Aleksandar Jovicic|Minja Milovanovic|13|Luka Črep|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Aleksandar Jovicic|Minja Milovanovic|8|Luka Črep|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:25|21|Viacheslav Yakovlev|Polina Tkach|12|Christian Tomic|Karoline Pottendorfer|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:25|21|Viacheslav Yakovlev|Polina Tkach|11|Christian Tomic|Karoline Pottendorfer|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|11|Constantinos Symeonides|Theodora Hadjisolomou|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|8|Constantinos Symeonides|Theodora Hadjisolomou|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:28|21|Mihnea Craciun|none|19|Adam Vojtěch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Mihnea Craciun|none|7|Adam Vojtěch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Teodor Ioan Cioroboiu |none|6|Ognen Trajkovski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Teodor Ioan Cioroboiu |none|8|Ognen Trajkovski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Vojtěch Poříz|none|9|Ivan Grubić|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Vojtěch Poříz|none|8|Ivan Grubić|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Lukas Kudlac|none|9|Ivan Pejoski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Lukas Kudlac|none|10|Ivan Pejoski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Jan Janoštík |none|6|David Butas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Jan Janoštík |none|6|David Butas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:31|21|Armin Sarosi|none|14|Luka Črep|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:31|21|Armin Sarosi|none|14|Luka Črep|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:29|21|Andrei Don |none|15|Peter Dubecky|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:29|21|Andrei Don |none|13|Peter Dubecky|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:38|21|Sergej Lukic |none|11|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:38|13|Sergej Lukic |none|21|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:38|21|Sergej Lukic |none|6|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|21|Patrik Papanek|none|11|Iakovos Acheriotis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|21|Patrik Papanek|none|13|Iakovos Acheriotis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:31|21|Vsevolod Pchelintsev |none|16|Viacheslav Yakovlev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:31|21|Vsevolod Pchelintsev |none|19|Viacheslav Yakovlev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:20|21|Sebastian Kadlec |none|6|Dragos Draghiciu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:20|21|Sebastian Kadlec |none|13|Dragos Draghiciu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Christian Tomic|none|3|Calin Tudor Turcu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Christian Tomic|none|10|Calin Tudor Turcu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Karol Budny |none|10|Zihao Zhai|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Karol Budny |none|12|Zihao Zhai|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:46|21|Piotr Wiercigroch|none|19|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:46|15|Piotr Wiercigroch|none|21|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:46|24|Piotr Wiercigroch|none|22|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Michael Tomic |none|15|Volodymyr Koluzaiev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Michael Tomic |none|12|Volodymyr Koluzaiev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:29|21|Christos Hailis|none|16|Bogdan Stoica|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:29|21|Christos Hailis|none|19|Bogdan Stoica|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Simeon Suchy|none|19|Andreas Theodotou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Simeon Suchy|none|14|Andreas Theodotou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|24|Evgeni Panev|none|26|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Evgeni Panev|none|15|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Evgeni Panev|none|6|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:33|21|Stephen Jong|none|17|Stefan Mijatovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:33|21|Stephen Jong|none|19|Stefan Mijatovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:42|21|Mikolaj Szymanowski |none|16|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:42|15|Mikolaj Szymanowski |none|21|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:42|21|Mikolaj Szymanowski |none|11|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Andreas Hadjisolomou|none|12|Michal Szczypka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Andreas Hadjisolomou|none|17|Michal Szczypka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:53|21|Mihajlo Tomic|none|18|Adam Ehm [15]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:53|24|Mihajlo Tomic|none|22|Adam Ehm [15]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Bogdan Deremeshko|none|18|Artur Manukian|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Bogdan Deremeshko|none|11|Artur Manukian|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Paul Harangus |none|10|Filip Knežević|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Paul Harangus |none|7|Filip Knežević|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:03|21|Leonid Stojanov|none|19|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:03|13|Leonid Stojanov|none|21|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:03|21|Leonid Stojanov|none|17|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Peter Radoczi |none|6|Theodoros Papadopoulos|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Peter Radoczi |none|9|Theodoros Papadopoulos|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:40|21|Mykola Kozubenko|none|13|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:40|18|Mykola Kozubenko|none|21|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:40|21|Mykola Kozubenko|none|19|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Lenny Sudarma |none|1|Antreas Mestanas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Lenny Sudarma |none|3|Antreas Mestanas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:31|22|Artem Nosov|none|20|Piotr Liszka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:31|21|Artem Nosov|none|19|Piotr Liszka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:32|21|Daniel Ivanko|none|19|Antonis Adamou [9]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:32|21|Daniel Ivanko|none|18|Antonis Adamou [9]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Gal Bizjak|none|12|Jacob Toczek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Gal Bizjak|none|18|Jacob Toczek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Egor Velp |none|12|Nathaniel Zilka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Egor Velp |none|10|Nathaniel Zilka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Natalia Tomcova|none|9|Elizaveta Dokudaeva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Natalia Tomcova|none|15|Elizaveta Dokudaeva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Elisavet Koronidou|none|9|Arta Priedniece|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Elisavet Koronidou|none|12|Arta Priedniece|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:01|21|Nina Bogdanovic|none|8|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:01|22|Nina Bogdanovic|none|24|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:01|21|Nina Bogdanovic|none|14|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:39|17|Martina Ševčíková|none|21|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:39|21|Martina Ševčíková|none|16|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:39|21|Martina Ševčíková|none|18|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Klára Petrušková|none|17|Julia Piwowar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Klára Petrušková|none|7|Julia Piwowar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Gergana Pavlova|none|12|Daria Zimnol|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Gergana Pavlova|none|12|Daria Zimnol|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Anastasiia Prokopovych|none|15|Jovana Vucetic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Anastasiia Prokopovych|none|15|Jovana Vucetic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Elena Bessonova|none|12|Yelyzaveta Yakovlieva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Elena Bessonova|none|9|Yelyzaveta Yakovlieva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|23|Polina Tkach|none|21|Anna Natálie Kohoutová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Polina Tkach|none|12|Anna Natálie Kohoutová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:39|21|Anna Czuchra|none|11|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:39|19|Anna Czuchra|none|21|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:39|21|Anna Czuchra|none|19|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:24|21|Olivia Kadlecova|none|13|Alexa Tanase|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:24|21|Olivia Kadlecova|none|5|Alexa Tanase|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616||Walkover Win|Zuzanna Jankowska|none|Walkover Loss|Simona Streharski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:20|21|Galina Mezentseva|none|11|Ioanna Antoniou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:20|21|Galina Mezentseva|none|9|Ioanna Antoniou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Sofia Slosiarikova|none|2|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|9|Sofia Slosiarikova|none|21|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Sofia Slosiarikova|none|19|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Victoriia Grigoreva|none|11|Julia Chmurovicova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Victoriia Grigoreva|none|9|Julia Chmurovicova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616||Walkover Win|Kaloyana Nalbantova|none|Walkover Loss|Emily Wu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Barbara Janičić|none|12|Minja Milovanovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Barbara Janičić|none|16|Minja Milovanovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616||Walkover Win|Luna Šaban|none|Walkover Loss|Mihaela Zlatanova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|21|Polina Buhrova|none|9|Arianna Biel|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|21|Polina Buhrova|none|18|Arianna Biel|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|21|Soňa Hořínková|none|15|Sara Loncar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|23|Soňa Hořínková|none|21|Sara Loncar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:32|18|Justyna Biernot|none|21|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:32|21|Justyna Biernot|none|7|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:32|21|Justyna Biernot|none|12|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Ira Martinuš|none|10|Rafailia Mertzemeki|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Ira Martinuš|none|16|Rafailia Mertzemeki|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|22|Tanya Ivanova|none|24|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Tanya Ivanova|none|14|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Tanya Ivanova|none|15|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:24|21|Kateřina Valentová|none|12|Jana Nedeljkovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:24|21|Kateřina Valentová|none|15|Jana Nedeljkovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Jan Janoštík |none|12|Mihnea Craciun|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Jan Janoštík |none|12|Mihnea Craciun|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Teodor Ioan Cioroboiu |none|14|Vojtěch Poříz|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Teodor Ioan Cioroboiu |none|15|Vojtěch Poříz|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Vsevolod Pchelintsev |none|14|Armin Sarosi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Vsevolod Pchelintsev |none|11|Armin Sarosi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Andrei Don |none|12|Lukas Kudlac|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:30|21|Andrei Don |none|12|Lukas Kudlac|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:51|22|Sergej Lukic |none|24|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:51|21|Sergej Lukic |none|5|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:51|21|Sergej Lukic |none|13|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:45|21|Christian Tomic|none|16|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:45|11|Christian Tomic|none|21|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:45|21|Christian Tomic|none|16|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Karol Budny |none|11|Piotr Wiercigroch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:28|21|Karol Budny |none|16|Piotr Wiercigroch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:52|21|Michael Tomic |none|14|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:52|18|Michael Tomic |none|21|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:52|23|Michael Tomic |none|21|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Simeon Suchy|none|11|Evgeni Panev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Simeon Suchy|none|5|Evgeni Panev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:32|22|Mikolaj Szymanowski |none|20|Stephen Jong|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:32|21|Mikolaj Szymanowski |none|9|Stephen Jong|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Mihajlo Tomic|none|13|Andreas Hadjisolomou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Mihajlo Tomic|none|13|Andreas Hadjisolomou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Bogdan Deremeshko|none|12|Paul Harangus [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:25|21|Bogdan Deremeshko|none|13|Paul Harangus [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:16|21|Peter Radoczi |none|13|Leonid Stojanov|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:16|21|Peter Radoczi |none|11|Leonid Stojanov|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|21|Lenny Sudarma |none|17|Mykola Kozubenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:27|21|Lenny Sudarma |none|11|Mykola Kozubenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Artem Nosov|none|8|Daniel Ivanko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Artem Nosov|none|10|Daniel Ivanko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Egor Velp |none|8|Gal Bizjak|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Egor Velp |none|14|Gal Bizjak|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Marija Sudimac |none|11|Natalia Tomcova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Marija Sudimac |none|9|Natalia Tomcova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Nina Bogdanovic|none|23|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|21|Nina Bogdanovic|none|18|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:21|22|Nina Bogdanovic|none|20|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Mariia Stoliarenko |none|5|Martina Ševčíková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:22|21|Mariia Stoliarenko |none|8|Martina Ševčíková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:37|21|Gergana Pavlova|none|15|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:37|14|Gergana Pavlova|none|21|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:37|21|Gergana Pavlova|none|8|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Ira Misir |none|13|Anastasiia Prokopovych|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:26|21|Ira Misir |none|10|Anastasiia Prokopovych|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:35|21|Polina Tkach|none|19|Elena Bessonova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:35|21|Polina Tkach|none|18|Elena Bessonova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616||Walkover Win|Anna Czuchra|none|Walkover Loss|Michaela Telehanicova [8]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Zuzanna Jankowska|none|7|Olivia Kadlecova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:23|21|Zuzanna Jankowska|none|15|Olivia Kadlecova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Barbara Janičić|none|13|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|15|Barbara Janičić|none|21|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Barbara Janičić|none|15|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:29|21|Ema Staňková |none|18|Sofia Slosiarikova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:29|21|Ema Staňková |none|15|Sofia Slosiarikova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:50|15|Victoriia Grigoreva|none|21|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:50|21|Victoriia Grigoreva|none|16|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:50|21|Victoriia Grigoreva|none|16|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:42|22|Luna Šaban|none|20|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:42|9|Luna Šaban|none|21|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:42|21|Luna Šaban|none|18|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|19|Soňa Hořínková|none|21|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Soňa Hořínková|none|15|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:44|21|Soňa Hořínková|none|19|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Arina Marushchak |none|8|Justyna Biernot|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:19|21|Arina Marushchak |none|6|Justyna Biernot|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:45|12|Tanya Ivanova|none|21|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:45|21|Tanya Ivanova|none|19|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:45|21|Tanya Ivanova|none|19|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:47|21|Joanna Podedworny |none|19|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:47|14|Joanna Podedworny |none|21|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:47|21|Joanna Podedworny |none|7|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180616|0:47|16|Antonis Adamou|Aris Kattirtzi|21|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:47|23|Antonis Adamou|Aris Kattirtzi|21|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:47|21|Antonis Adamou|Aris Kattirtzi|19|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:33|18|Paul Harangus|Victor Zarzu|21|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:33|21|Paul Harangus|Victor Zarzu|10|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:33|21|Paul Harangus|Victor Zarzu|9|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:29|21|Volodymyr Koluzaiev|Mykola Kozubenko|8|Zihao Zhai|Nathaniel Zilka|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:29|21|Volodymyr Koluzaiev|Mykola Kozubenko|15|Zihao Zhai|Nathaniel Zilka|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Karol Budny |Mikolaj Szymanowski|9|Daniel Ivanko|Peter Radoczi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Karol Budny |Mikolaj Szymanowski|13|Daniel Ivanko|Peter Radoczi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:18|21|Gal Bizjak|Mihnea Craciun|7|Andreas Hadjisolomou|Constantinos Symeonides|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:18|21|Gal Bizjak|Mihnea Craciun|6|Andreas Hadjisolomou|Constantinos Symeonides|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|David Butas|Lukas Kudlac|9|Dragos Draghiciu|Calin Tudor Turcu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|David Butas|Lukas Kudlac|14|Dragos Draghiciu|Calin Tudor Turcu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Lenny Sudarma|Michael Tomic|4|Stefan Mijatovic|Luka Milic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Lenny Sudarma|Michael Tomic|4|Stefan Mijatovic|Luka Milic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Bogdan Deremeshko|Igor Kalinichenko|8|Ivan Grubić|Ivor Zekan|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Bogdan Deremeshko|Igor Kalinichenko|12|Ivan Grubić|Ivor Zekan|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:29|21|Armin Sarosi|Christian Tomic|13|Sebastian Kadlec|Simeon Suchy|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:29|21|Armin Sarosi|Christian Tomic|13|Sebastian Kadlec|Simeon Suchy|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:25|21|Artem Nosov|Viacheslav Yakovlev|16|Teodor Ioan Cioroboiu|Bogdan Stoica|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:25|21|Artem Nosov|Viacheslav Yakovlev|16|Teodor Ioan Cioroboiu|Bogdan Stoica|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:22|21|Artur Manukian |Egor Velp|6|Michal Szczypka|Piotr Wiercigroch|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:22|21|Artur Manukian |Egor Velp|11|Michal Szczypka|Piotr Wiercigroch|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:29|21|Iakovos Acheriotis|Christos Hailis|15|Peter Dubecky|Patrik Papanek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:29|21|Iakovos Acheriotis|Christos Hailis|13|Peter Dubecky|Patrik Papanek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:21|21|Vojtěch Poříz|Adam Vojtěch|8|Ivan Pejoski|Leonid Stojanov|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:21|21|Vojtěch Poříz|Adam Vojtěch|11|Ivan Pejoski|Leonid Stojanov|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:26|21|Constantinos Hadjigeorgiou|Andreas Theodotou|14|Piotr Liszka|Jacob Toczek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:26|21|Constantinos Hadjigeorgiou|Andreas Theodotou|17|Piotr Liszka|Jacob Toczek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:37|15|Olivia Kadlecova|Martina Ševčíková|21|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:37|21|Olivia Kadlecova|Martina Ševčíková|19|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:37|21|Olivia Kadlecova|Martina Ševčíková|15|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:36|21|Arianna Biel|Zuzanna Jankowska|13|Ioanna Antoniou|Eva Kattirtzi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:36|26|Arianna Biel|Zuzanna Jankowska|24|Ioanna Antoniou|Eva Kattirtzi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:27|21|Anastasiia Prokopovych|Polina Tkach|13|Minja Milovanovic|Jana Nedeljkovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:27|21|Anastasiia Prokopovych|Polina Tkach|10|Minja Milovanovic|Jana Nedeljkovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:36|21|Polina Buhrova|Yana Sobko|17|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:36|19|Polina Buhrova|Yana Sobko|21|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:36|21|Polina Buhrova|Yana Sobko|11|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:43|21|Victoriia Grigoreva|Galina Mezentseva|16|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:43|18|Victoriia Grigoreva|Galina Mezentseva|21|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:43|21|Victoriia Grigoreva|Galina Mezentseva|17|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:30|23|Elena Bessonova|Elizaveta Dokudaeva|21|Alexandra Soare|Denisa Stemate|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:30|21|Elena Bessonova|Elizaveta Dokudaeva|9|Alexandra Soare|Denisa Stemate|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:41|21|Anna Natálie Kohoutová|Markéta Kohoutová|10|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:41|17|Anna Natálie Kohoutová|Markéta Kohoutová|21|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:41|21|Anna Natálie Kohoutová|Markéta Kohoutová|13|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:28|21|Arina Marushchak|Yelyzaveta Yakovlieva|8|Kaloyana Nalbantova|Gergana Pavlova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:28|21|Arina Marushchak|Yelyzaveta Yakovlieva|16|Kaloyana Nalbantova|Gergana Pavlova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:35|15|Klára Petrušková|Kateřina Valentová|21|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:35|21|Klára Petrušková|Kateřina Valentová|13|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:35|21|Klára Petrušková|Kateřina Valentová|15|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Sergej Lukic |Sara Loncar|9|Stephen Jong|Monika Valcheva|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Sergej Lukic |Sara Loncar|16|Stephen Jong|Monika Valcheva|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|6|Michal Szczypka|Julia Piwowar|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|12|Michal Szczypka|Julia Piwowar|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:33|17|Piotr Liszka|Anna Czuchra|21|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:33|21|Piotr Liszka|Anna Czuchra|19|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:33|21|Piotr Liszka|Anna Czuchra|18|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Egor Velp |Elena Bessonova|10|Mikolaj Szymanowski|Julia Prokopczuk|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Egor Velp |Elena Bessonova|13|Mikolaj Szymanowski|Julia Prokopczuk|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:09|21|Bogdan Deremeshko |Anastasiia Prokopovych|13|Victor Zarzu|Alexandra Chiosa|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:09|21|Bogdan Deremeshko |Anastasiia Prokopovych|11|Victor Zarzu|Alexandra Chiosa|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:39|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|23|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:39|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|15|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:39|23|Constantinos Hadjigeorgiou|Eva Kattirtzi|21|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:37|12|Jan Janoštík|Ema Staňková|21|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:37|21|Jan Janoštík|Ema Staňková|8|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:37|21|Jan Janoštík|Ema Staňková|12|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Andrei Don |Arina Marushchak|11|Christos Hailis|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Andrei Don |Arina Marushchak|15|Christos Hailis|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Adam Ehm|Kateřina Valentová|11|Piotr Wiercigroch|Justyna Biernot|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:24|21|Adam Ehm|Kateřina Valentová|15|Piotr Wiercigroch|Justyna Biernot|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Viacheslav Yakovlev|Polina Tkach|11|Dragos Draghiciu|Alexa Tanase|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Viacheslav Yakovlev|Polina Tkach|5|Dragos Draghiciu|Alexa Tanase|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:42|21|Mykola Kozubenko|Polina Buhrova|16|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:42|11|Mykola Kozubenko|Polina Buhrova|21|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:42|21|Mykola Kozubenko|Polina Buhrova|19|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Artem Nosov |Mariia Stoliarenko|8|Teodor Ioan Cioroboiu|Diana Popescu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Artem Nosov |Mariia Stoliarenko|8|Teodor Ioan Cioroboiu|Diana Popescu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:27|21|Artur Manukian|Elizaveta Baranova|14|Simeon Suchy|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:27|21|Artur Manukian|Elizaveta Baranova|19|Simeon Suchy|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Mihajlo Tomic |Marija Sudimac|17|Stefan Mijatovic|Jovana Vucetic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180616|0:20|21|Mihajlo Tomic |Marija Sudimac|11|Stefan Mijatovic|Jovana Vucetic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:26|21|Jan Janoštík|Ema Staňková|17|Peter Dubecky|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:26|21|Jan Janoštík|Ema Staňková|11|Peter Dubecky|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:40|19|Constantinos Hadjigeorgiou|Eva Kattirtzi|21|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:40|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|15|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:40|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|14|Sebastian Kadlec|Olivia Kadlecova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Aleksandar Jovicic|Minja Milovanovic|13|Luka Črep|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Aleksandar Jovicic|Minja Milovanovic|8|Luka Črep|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:25|21|Viacheslav Yakovlev|Polina Tkach|12|Christian Tomic|Karoline Pottendorfer|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:25|21|Viacheslav Yakovlev|Polina Tkach|11|Christian Tomic|Karoline Pottendorfer|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|11|Constantinos Symeonides|Theodora Hadjisolomou|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|8|Constantinos Symeonides|Theodora Hadjisolomou|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:28|21|Mihnea Craciun|none|19|Adam Vojtěch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Mihnea Craciun|none|7|Adam Vojtěch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Teodor Ioan Cioroboiu |none|6|Ognen Trajkovski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Teodor Ioan Cioroboiu |none|8|Ognen Trajkovski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Vojtěch Poříz|none|9|Ivan Grubić|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Vojtěch Poříz|none|8|Ivan Grubić|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Lukas Kudlac|none|9|Ivan Pejoski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Lukas Kudlac|none|10|Ivan Pejoski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Jan Janoštík |none|6|David Butas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Jan Janoštík |none|6|David Butas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:31|21|Armin Sarosi|none|14|Luka Črep|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:31|21|Armin Sarosi|none|14|Luka Črep|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:29|21|Andrei Don |none|15|Peter Dubecky|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:29|21|Andrei Don |none|13|Peter Dubecky|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:38|21|Sergej Lukic |none|11|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:38|13|Sergej Lukic |none|21|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:38|21|Sergej Lukic |none|6|Igor Kalinichenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|21|Patrik Papanek|none|11|Iakovos Acheriotis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|21|Patrik Papanek|none|13|Iakovos Acheriotis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:31|21|Vsevolod Pchelintsev |none|16|Viacheslav Yakovlev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:31|21|Vsevolod Pchelintsev |none|19|Viacheslav Yakovlev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:20|21|Sebastian Kadlec |none|6|Dragos Draghiciu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:20|21|Sebastian Kadlec |none|13|Dragos Draghiciu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Christian Tomic|none|3|Calin Tudor Turcu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Christian Tomic|none|10|Calin Tudor Turcu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Karol Budny |none|10|Zihao Zhai|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Karol Budny |none|12|Zihao Zhai|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:46|21|Piotr Wiercigroch|none|19|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:46|15|Piotr Wiercigroch|none|21|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:46|24|Piotr Wiercigroch|none|22|Constantinos Hadjigeorgiou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Michael Tomic |none|15|Volodymyr Koluzaiev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Michael Tomic |none|12|Volodymyr Koluzaiev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:29|21|Christos Hailis|none|16|Bogdan Stoica|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:29|21|Christos Hailis|none|19|Bogdan Stoica|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Simeon Suchy|none|19|Andreas Theodotou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Simeon Suchy|none|14|Andreas Theodotou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|24|Evgeni Panev|none|26|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Evgeni Panev|none|15|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Evgeni Panev|none|6|Luka Milic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:33|21|Stephen Jong|none|17|Stefan Mijatovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:33|21|Stephen Jong|none|19|Stefan Mijatovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:42|21|Mikolaj Szymanowski |none|16|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:42|15|Mikolaj Szymanowski |none|21|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:42|21|Mikolaj Szymanowski |none|11|Aris Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Andreas Hadjisolomou|none|12|Michal Szczypka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Andreas Hadjisolomou|none|17|Michal Szczypka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:53|21|Mihajlo Tomic|none|18|Adam Ehm [15]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:53|24|Mihajlo Tomic|none|22|Adam Ehm [15]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Bogdan Deremeshko|none|18|Artur Manukian|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Bogdan Deremeshko|none|11|Artur Manukian|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Paul Harangus |none|10|Filip Knežević|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Paul Harangus |none|7|Filip Knežević|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:03|21|Leonid Stojanov|none|19|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:03|13|Leonid Stojanov|none|21|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:03|21|Leonid Stojanov|none|17|Timon Gunda|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Peter Radoczi |none|6|Theodoros Papadopoulos|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Peter Radoczi |none|9|Theodoros Papadopoulos|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:40|21|Mykola Kozubenko|none|13|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:40|18|Mykola Kozubenko|none|21|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:40|21|Mykola Kozubenko|none|19|Victor Zarzu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Lenny Sudarma |none|1|Antreas Mestanas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Lenny Sudarma |none|3|Antreas Mestanas|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:31|22|Artem Nosov|none|20|Piotr Liszka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:31|21|Artem Nosov|none|19|Piotr Liszka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:32|21|Daniel Ivanko|none|19|Antonis Adamou [9]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:32|21|Daniel Ivanko|none|18|Antonis Adamou [9]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Gal Bizjak|none|12|Jacob Toczek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Gal Bizjak|none|18|Jacob Toczek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Egor Velp |none|12|Nathaniel Zilka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Egor Velp |none|10|Nathaniel Zilka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Natalia Tomcova|none|9|Elizaveta Dokudaeva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Natalia Tomcova|none|15|Elizaveta Dokudaeva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Elisavet Koronidou|none|9|Arta Priedniece|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Elisavet Koronidou|none|12|Arta Priedniece|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:01|21|Nina Bogdanovic|none|8|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:01|22|Nina Bogdanovic|none|24|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:01|21|Nina Bogdanovic|none|14|Eva Kattirtzi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:39|17|Martina Ševčíková|none|21|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:39|21|Martina Ševčíková|none|16|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:39|21|Martina Ševčíková|none|18|Denisa Stemate|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Klára Petrušková|none|17|Julia Piwowar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Klára Petrušková|none|7|Julia Piwowar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Gergana Pavlova|none|12|Daria Zimnol|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Gergana Pavlova|none|12|Daria Zimnol|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Anastasiia Prokopovych|none|15|Jovana Vucetic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Anastasiia Prokopovych|none|15|Jovana Vucetic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Elena Bessonova|none|12|Yelyzaveta Yakovlieva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Elena Bessonova|none|9|Yelyzaveta Yakovlieva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|23|Polina Tkach|none|21|Anna Natálie Kohoutová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Polina Tkach|none|12|Anna Natálie Kohoutová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:39|21|Anna Czuchra|none|11|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:39|19|Anna Czuchra|none|21|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:39|21|Anna Czuchra|none|19|Sanja Peric|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:24|21|Olivia Kadlecova|none|13|Alexa Tanase|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:24|21|Olivia Kadlecova|none|5|Alexa Tanase|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617||Walkover Win|Zuzanna Jankowska|none|Walkover Loss|Simona Streharski|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:20|21|Galina Mezentseva|none|11|Ioanna Antoniou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:20|21|Galina Mezentseva|none|9|Ioanna Antoniou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Sofia Slosiarikova|none|2|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|9|Sofia Slosiarikova|none|21|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Sofia Slosiarikova|none|19|Julia Prokopczuk|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Victoriia Grigoreva|none|11|Julia Chmurovicova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Victoriia Grigoreva|none|9|Julia Chmurovicova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617||Walkover Win|Kaloyana Nalbantova|none|Walkover Loss|Emily Wu|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Barbara Janičić|none|12|Minja Milovanovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Barbara Janičić|none|16|Minja Milovanovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617||Walkover Win|Luna Šaban|none|Walkover Loss|Mihaela Zlatanova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|21|Polina Buhrova|none|9|Arianna Biel|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|21|Polina Buhrova|none|18|Arianna Biel|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|21|Soňa Hořínková|none|15|Sara Loncar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|23|Soňa Hořínková|none|21|Sara Loncar|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:32|18|Justyna Biernot|none|21|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:32|21|Justyna Biernot|none|7|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:32|21|Justyna Biernot|none|12|Monika Valcheva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Ira Martinuš|none|10|Rafailia Mertzemeki|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Ira Martinuš|none|16|Rafailia Mertzemeki|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|22|Tanya Ivanova|none|24|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Tanya Ivanova|none|14|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Tanya Ivanova|none|15|Julia Plawecka|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:24|21|Kateřina Valentová|none|12|Jana Nedeljkovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:24|21|Kateřina Valentová|none|15|Jana Nedeljkovic|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Jan Janoštík |none|12|Mihnea Craciun|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Jan Janoštík |none|12|Mihnea Craciun|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Teodor Ioan Cioroboiu |none|14|Vojtěch Poříz|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Teodor Ioan Cioroboiu |none|15|Vojtěch Poříz|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Vsevolod Pchelintsev |none|14|Armin Sarosi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Vsevolod Pchelintsev |none|11|Armin Sarosi|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Andrei Don |none|12|Lukas Kudlac|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:30|21|Andrei Don |none|12|Lukas Kudlac|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:51|22|Sergej Lukic |none|24|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:51|21|Sergej Lukic |none|5|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:51|21|Sergej Lukic |none|13|Patrik Papanek|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:45|21|Christian Tomic|none|16|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:45|11|Christian Tomic|none|21|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:45|21|Christian Tomic|none|16|Sebastian Kadlec [16]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Karol Budny |none|11|Piotr Wiercigroch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:28|21|Karol Budny |none|16|Piotr Wiercigroch|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:52|21|Michael Tomic |none|14|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:52|18|Michael Tomic |none|21|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:52|23|Michael Tomic |none|21|Christos Hailis|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Simeon Suchy|none|11|Evgeni Panev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Simeon Suchy|none|5|Evgeni Panev|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:32|22|Mikolaj Szymanowski |none|20|Stephen Jong|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:32|21|Mikolaj Szymanowski |none|9|Stephen Jong|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Mihajlo Tomic|none|13|Andreas Hadjisolomou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Mihajlo Tomic|none|13|Andreas Hadjisolomou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Bogdan Deremeshko|none|12|Paul Harangus [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:25|21|Bogdan Deremeshko|none|13|Paul Harangus [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:16|21|Peter Radoczi |none|13|Leonid Stojanov|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:16|21|Peter Radoczi |none|11|Leonid Stojanov|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|21|Lenny Sudarma |none|17|Mykola Kozubenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:27|21|Lenny Sudarma |none|11|Mykola Kozubenko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Artem Nosov|none|8|Daniel Ivanko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Artem Nosov|none|10|Daniel Ivanko|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Egor Velp |none|8|Gal Bizjak|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Egor Velp |none|14|Gal Bizjak|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Marija Sudimac |none|11|Natalia Tomcova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Marija Sudimac |none|9|Natalia Tomcova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Nina Bogdanovic|none|23|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|21|Nina Bogdanovic|none|18|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:21|22|Nina Bogdanovic|none|20|Elisavet Koronidou|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Mariia Stoliarenko |none|5|Martina Ševčíková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:22|21|Mariia Stoliarenko |none|8|Martina Ševčíková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:37|21|Gergana Pavlova|none|15|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:37|14|Gergana Pavlova|none|21|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:37|21|Gergana Pavlova|none|8|Klára Petrušková|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Ira Misir |none|13|Anastasiia Prokopovych|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:26|21|Ira Misir |none|10|Anastasiia Prokopovych|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:35|21|Polina Tkach|none|19|Elena Bessonova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:35|21|Polina Tkach|none|18|Elena Bessonova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617||Walkover Win|Anna Czuchra|none|Walkover Loss|Michaela Telehanicova [8]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Zuzanna Jankowska|none|7|Olivia Kadlecova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:23|21|Zuzanna Jankowska|none|15|Olivia Kadlecova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Barbara Janičić|none|13|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|15|Barbara Janičić|none|21|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Barbara Janičić|none|15|Galina Mezentseva|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:29|21|Ema Staňková |none|18|Sofia Slosiarikova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:29|21|Ema Staňková |none|15|Sofia Slosiarikova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:50|15|Victoriia Grigoreva|none|21|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:50|21|Victoriia Grigoreva|none|16|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:50|21|Victoriia Grigoreva|none|16|Kaloyana Nalbantova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:42|22|Luna Šaban|none|20|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:42|9|Luna Šaban|none|21|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:42|21|Luna Šaban|none|18|Alexandra Soare [4]|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|19|Soňa Hořínková|none|21|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Soňa Hořínková|none|15|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:44|21|Soňa Hořínková|none|19|Polina Buhrova|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Arina Marushchak |none|8|Justyna Biernot|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:19|21|Arina Marushchak |none|6|Justyna Biernot|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:45|12|Tanya Ivanova|none|21|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:45|21|Tanya Ivanova|none|19|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:45|21|Tanya Ivanova|none|19|Ira Martinuš|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:47|21|Joanna Podedworny |none|19|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:47|14|Joanna Podedworny |none|21|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:47|21|Joanna Podedworny |none|7|Kateřina Valentová|none|4B6475DC-A04D-4229-A4D7-24B8C7490693|singles
+20180617|0:47|16|Antonis Adamou|Aris Kattirtzi|21|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:47|23|Antonis Adamou|Aris Kattirtzi|21|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:47|21|Antonis Adamou|Aris Kattirtzi|19|Stephen Jong|Evgeni Panev|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:33|18|Paul Harangus|Victor Zarzu|21|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:33|21|Paul Harangus|Victor Zarzu|10|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:33|21|Paul Harangus|Victor Zarzu|9|Luka Črep|Filip Knežević|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:29|21|Volodymyr Koluzaiev|Mykola Kozubenko|8|Zihao Zhai|Nathaniel Zilka|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:29|21|Volodymyr Koluzaiev|Mykola Kozubenko|15|Zihao Zhai|Nathaniel Zilka|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Karol Budny |Mikolaj Szymanowski|9|Daniel Ivanko|Peter Radoczi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Karol Budny |Mikolaj Szymanowski|13|Daniel Ivanko|Peter Radoczi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:18|21|Gal Bizjak|Mihnea Craciun|7|Andreas Hadjisolomou|Constantinos Symeonides|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:18|21|Gal Bizjak|Mihnea Craciun|6|Andreas Hadjisolomou|Constantinos Symeonides|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|David Butas|Lukas Kudlac|9|Dragos Draghiciu|Calin Tudor Turcu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|David Butas|Lukas Kudlac|14|Dragos Draghiciu|Calin Tudor Turcu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Lenny Sudarma|Michael Tomic|4|Stefan Mijatovic|Luka Milic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Lenny Sudarma|Michael Tomic|4|Stefan Mijatovic|Luka Milic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Bogdan Deremeshko|Igor Kalinichenko|8|Ivan Grubić|Ivor Zekan|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Bogdan Deremeshko|Igor Kalinichenko|12|Ivan Grubić|Ivor Zekan|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:29|21|Armin Sarosi|Christian Tomic|13|Sebastian Kadlec|Simeon Suchy|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:29|21|Armin Sarosi|Christian Tomic|13|Sebastian Kadlec|Simeon Suchy|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:25|21|Artem Nosov|Viacheslav Yakovlev|16|Teodor Ioan Cioroboiu|Bogdan Stoica|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:25|21|Artem Nosov|Viacheslav Yakovlev|16|Teodor Ioan Cioroboiu|Bogdan Stoica|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:22|21|Artur Manukian |Egor Velp|6|Michal Szczypka|Piotr Wiercigroch|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:22|21|Artur Manukian |Egor Velp|11|Michal Szczypka|Piotr Wiercigroch|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:29|21|Iakovos Acheriotis|Christos Hailis|15|Peter Dubecky|Patrik Papanek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:29|21|Iakovos Acheriotis|Christos Hailis|13|Peter Dubecky|Patrik Papanek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:21|21|Vojtěch Poříz|Adam Vojtěch|8|Ivan Pejoski|Leonid Stojanov|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:21|21|Vojtěch Poříz|Adam Vojtěch|11|Ivan Pejoski|Leonid Stojanov|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:26|21|Constantinos Hadjigeorgiou|Andreas Theodotou|14|Piotr Liszka|Jacob Toczek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:26|21|Constantinos Hadjigeorgiou|Andreas Theodotou|17|Piotr Liszka|Jacob Toczek|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:37|15|Olivia Kadlecova|Martina Ševčíková|21|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:37|21|Olivia Kadlecova|Martina Ševčíková|19|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:37|21|Olivia Kadlecova|Martina Ševčíková|15|Julia Chmurovicova|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:36|21|Arianna Biel|Zuzanna Jankowska|13|Ioanna Antoniou|Eva Kattirtzi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:36|26|Arianna Biel|Zuzanna Jankowska|24|Ioanna Antoniou|Eva Kattirtzi|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:27|21|Anastasiia Prokopovych|Polina Tkach|13|Minja Milovanovic|Jana Nedeljkovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:27|21|Anastasiia Prokopovych|Polina Tkach|10|Minja Milovanovic|Jana Nedeljkovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:36|21|Polina Buhrova|Yana Sobko|17|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:36|19|Polina Buhrova|Yana Sobko|21|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:36|21|Polina Buhrova|Yana Sobko|11|Ira Martinuš|Luna Šaban|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:43|21|Victoriia Grigoreva|Galina Mezentseva|16|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:43|18|Victoriia Grigoreva|Galina Mezentseva|21|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:43|21|Victoriia Grigoreva|Galina Mezentseva|17|Varvara Frolova|Mariia Stoliarenko|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:30|23|Elena Bessonova|Elizaveta Dokudaeva|21|Alexandra Soare|Denisa Stemate|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:30|21|Elena Bessonova|Elizaveta Dokudaeva|9|Alexandra Soare|Denisa Stemate|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:41|21|Anna Natálie Kohoutová|Markéta Kohoutová|10|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:41|17|Anna Natálie Kohoutová|Markéta Kohoutová|21|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:41|21|Anna Natálie Kohoutová|Markéta Kohoutová|13|Karoline Pottendorfer|Sofia Slosiarikova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:28|21|Arina Marushchak|Yelyzaveta Yakovlieva|8|Kaloyana Nalbantova|Gergana Pavlova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:28|21|Arina Marushchak|Yelyzaveta Yakovlieva|16|Kaloyana Nalbantova|Gergana Pavlova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:35|15|Klára Petrušková|Kateřina Valentová|21|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:35|21|Klára Petrušková|Kateřina Valentová|13|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:35|21|Klára Petrušková|Kateřina Valentová|15|Julia Plawecka|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Sergej Lukic |Sara Loncar|9|Stephen Jong|Monika Valcheva|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Sergej Lukic |Sara Loncar|16|Stephen Jong|Monika Valcheva|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|6|Michal Szczypka|Julia Piwowar|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:23|21|Vsevolod Pchelintsev|Sofiia Bychkova|12|Michal Szczypka|Julia Piwowar|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:33|17|Piotr Liszka|Anna Czuchra|21|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:33|21|Piotr Liszka|Anna Czuchra|19|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:33|21|Piotr Liszka|Anna Czuchra|18|Aleksandar Jovicic|Minja Milovanovic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Egor Velp |Elena Bessonova|10|Mikolaj Szymanowski|Julia Prokopczuk|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Egor Velp |Elena Bessonova|13|Mikolaj Szymanowski|Julia Prokopczuk|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:09|21|Bogdan Deremeshko |Anastasiia Prokopovych|13|Victor Zarzu|Alexandra Chiosa|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:09|21|Bogdan Deremeshko |Anastasiia Prokopovych|11|Victor Zarzu|Alexandra Chiosa|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:39|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|23|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:39|21|Constantinos Hadjigeorgiou|Eva Kattirtzi|15|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:39|23|Constantinos Hadjigeorgiou|Eva Kattirtzi|21|Patrik Papanek|Julia Chmurovicova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:37|12|Jan Janoštík|Ema Staňková|21|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:37|21|Jan Janoštík|Ema Staňková|8|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:37|21|Jan Janoštík|Ema Staňková|12|Vojtěch Poříz|Martina Ševčíková|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Andrei Don |Arina Marushchak|11|Christos Hailis|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Andrei Don |Arina Marushchak|15|Christos Hailis|Daria Zimnol|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Adam Ehm|Kateřina Valentová|11|Piotr Wiercigroch|Justyna Biernot|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:24|21|Adam Ehm|Kateřina Valentová|15|Piotr Wiercigroch|Justyna Biernot|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Viacheslav Yakovlev|Polina Tkach|11|Dragos Draghiciu|Alexa Tanase|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Viacheslav Yakovlev|Polina Tkach|5|Dragos Draghiciu|Alexa Tanase|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:42|21|Mykola Kozubenko|Polina Buhrova|16|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:42|11|Mykola Kozubenko|Polina Buhrova|21|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:42|21|Mykola Kozubenko|Polina Buhrova|19|Karol Budny [4]|Zuzanna Jankowska|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Artem Nosov |Mariia Stoliarenko|8|Teodor Ioan Cioroboiu|Diana Popescu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Artem Nosov |Mariia Stoliarenko|8|Teodor Ioan Cioroboiu|Diana Popescu|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:27|21|Artur Manukian|Elizaveta Baranova|14|Simeon Suchy|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:27|21|Artur Manukian|Elizaveta Baranova|19|Simeon Suchy|Natalia Tomcova|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Mihajlo Tomic |Marija Sudimac|17|Stefan Mijatovic|Jovana Vucetic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles
+20180617|0:20|21|Mihajlo Tomic |Marija Sudimac|11|Stefan Mijatovic|Jovana Vucetic|4B6475DC-A04D-4229-A4D7-24B8C7490693|doubles

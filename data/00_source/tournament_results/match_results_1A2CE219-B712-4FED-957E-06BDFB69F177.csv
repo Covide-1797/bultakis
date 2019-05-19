@@ -1,0 +1,562 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20160909|0:20|21|Venediktov Ilya|Yulia Vasilyeva|9|Robert Joonas|Mari Ann Karjus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:20|21|Venediktov Ilya|Yulia Vasilyeva|14|Robert Joonas|Mari Ann Karjus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:33|21|Egor Kurdyukov|Olga Rogova|19|Sergei Nevgen|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:33|21|Egor Kurdyukov|Olga Rogova|15|Sergei Nevgen|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:33|21|Szymon Stokfisz|Magdalena Kulska|10|Laurynas Borusas|Gabija Mockute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:33|25|Szymon Stokfisz|Magdalena Kulska|23|Laurynas Borusas|Gabija Mockute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:24|21|Victor Kokhanov|Anastasiia Sharapova|12|Aleksander Bazanov|Editha Schmalz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:24|21|Victor Kokhanov|Anastasiia Sharapova|12|Aleksander Bazanov|Editha Schmalz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:36|21|Joona Puro|Pihla Lindberg|14|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:36|9|Joona Puro|Pihla Lindberg|21|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:36|21|Joona Puro|Pihla Lindberg|17|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:20|21|Georgii Karpov|Viktoriia Kozyreva|12|Andrey Kravchenko|Julia Bitsoukova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:20|21|Georgii Karpov|Viktoriia Kozyreva|6|Andrey Kravchenko|Julia Bitsoukova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:22|21|Dzmitry Kuzmitski|Maryana Viarbitskaya|19|Guido Andersson|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:22|21|Dzmitry Kuzmitski|Maryana Viarbitskaya|12|Guido Andersson|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:28|21|Matis Kaart|Sigrid Laura Moora|15|Jonas Petkus|Yelizaveta Kaminskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:28|21|Matis Kaart|Sigrid Laura Moora|10|Jonas Petkus|Yelizaveta Kaminskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:18|21|Dmitrii Klimenko|Anastasiia Pustinskaia|5|Simas Kliostoraitis|Daniele Svelnyte|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:18|21|Dmitrii Klimenko|Anastasiia Pustinskaia|2|Simas Kliostoraitis|Daniele Svelnyte|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:31|15|Egor Okolov|Sofya Potapovich|21|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:31|21|Egor Okolov|Sofya Potapovich|12|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:31|21|Egor Okolov|Sofya Potapovich|16|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:18|21|Marcus Lõo|Kati-Kreet Marran|11|Mikael Kuusisto|Jenni Kankaanpää|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:18|21|Marcus Lõo|Kati-Kreet Marran|7|Mikael Kuusisto|Jenni Kankaanpää|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:22|21|Eero Lauri|Maija Krzywacki|18|Paulius Bertasius|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:22|21|Eero Lauri|Maija Krzywacki|14|Paulius Bertasius|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:22|21|Robert Joonas|none|14|Mantas Maule|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:22|21|Robert Joonas|none|12|Mantas Maule|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:26|21|Klaus Erik Kruus|none|9|Klaidas Drevinskas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:26|21|Klaus Erik Kruus|none|19|Klaidas Drevinskas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:34|16|Andrey Kravchenko|none|21|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:34|21|Andrey Kravchenko|none|11|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:34|21|Andrey Kravchenko|none|17|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Arturs Kelpe|none|9|Ardas Valantiejus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Arturs Kelpe|none|15|Ardas Valantiejus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:22|21|Wiktor Trecki|none|12|Danielius Berzanskis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:22|21|Wiktor Trecki|none|13|Danielius Berzanskis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Victor Kokhanov|none|12|Guido Andersson|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Victor Kokhanov|none|5|Guido Andersson|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:43|19|Paulius Bertasius|none|21|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:43|21|Paulius Bertasius|none|18|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:43|21|Paulius Bertasius|none|15|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Anastasiia Pustinskaia|Anastasiia Sharapova|6|Jenni Kankaanpää|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:21|21|Anastasiia Pustinskaia|Anastasiia Sharapova|5|Jenni Kankaanpää|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:26|21|Karl Kert|none|15|Evgeny Chertilin|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:26|21|Karl Kert|none|18|Evgeny Chertilin|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Matis Kaart|none|12|Laurynas Borusas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Matis Kaart|none|18|Laurynas Borusas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:44|19|Wojciech Sajdok|none|21|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:44|21|Wojciech Sajdok|none|6|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:44|21|Wojciech Sajdok|none|18|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Egor Okolov|none|12|Joona Puro|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Egor Okolov|none|16|Joona Puro|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909||Walkover Win|Eero Lauri|none|Walkover Loss|Benas Davidonis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Venediktov Ilya|none|8|Ailantas Sutkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Venediktov Ilya|none|12|Ailantas Sutkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:17|21|Mikael Kuusisto|none|6|Simas Kliostoraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:17|21|Mikael Kuusisto|none|8|Simas Kliostoraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:15|21|Anastasiai Khomich|none|8|Austeja Blandyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:15|21|Anastasiai Khomich|none|9|Austeja Blandyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Julia Bitsoukova|none|8|Victoria Korobova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Julia Bitsoukova|none|8|Victoria Korobova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Inalotta Suutarinen|none|12|Daniele Svelnyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Inalotta Suutarinen|none|10|Daniele Svelnyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:31|21|Henna-Leena Lindberg|none|16|Merit Mägi|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:31|21|Henna-Leena Lindberg|none|14|Merit Mägi|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:30|21|Yulia Vasilyeva|none|16|Maija Krzywacki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:30|21|Yulia Vasilyeva|none|13|Maija Krzywacki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:20|21|Yliana Zaharova|none|8|Jenni Kankaanpää|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:20|21|Yliana Zaharova|none|8|Jenni Kankaanpää|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:25|21|Una Berga|none|17|Sofya Potapovich|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:25|21|Una Berga|none|19|Sofya Potapovich|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|16|Mantas Maule|Mark Sames|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|8|Mantas Maule|Mark Sames|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:28|21|Robert Joonas|Matis Kaart|16|Andrey Kravchenko|Dzmitry Kuzmitski|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:28|22|Robert Joonas|Matis Kaart|20|Andrey Kravchenko|Dzmitry Kuzmitski|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:28|21|Paulius Bertasius|Jonas Petkus|14|Guido Andersson|Mikael Kuusisto|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:28|21|Paulius Bertasius|Jonas Petkus|16|Guido Andersson|Mikael Kuusisto|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:19|21|Sigrid Laura Moora|none|14|Gabriele Paskeviciute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Sigrid Laura Moora|none|9|Gabriele Paskeviciute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:20|21|Liisa Tannik|none|7|Daniela Krista Langina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:20|21|Liisa Tannik|none|17|Daniela Krista Langina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:23|21|Anastasiia Sharapova|none|10|Emilia Harti|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:23|21|Anastasiia Sharapova|none|15|Emilia Harti|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Cristian Savin |none|8|Sergei Nevgen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:19|21|Cristian Savin |none|7|Sergei Nevgen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:28|21|Alan Ostrowski|none|15|Eero Lauri|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:28|22|Alan Ostrowski|none|20|Eero Lauri|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:18|21|Marcus Lõo|none|7|Klaus Erik Kruus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:18|21|Marcus Lõo|none|8|Klaus Erik Kruus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:23|21|Jere Övermark |none|17|Arturs Kelpe|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:23|21|Jere Övermark |none|15|Arturs Kelpe|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Niks Podosinoviks|none|10|Wiktor Trecki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Niks Podosinoviks|none|8|Wiktor Trecki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:38|21|Egor Okolov|none|8|Dzmitry Kuzmitski|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:38|25|Egor Okolov|none|23|Dzmitry Kuzmitski|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:29|21|Jesper Paul |none|10|Karl Kert|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:29|21|Jesper Paul |none|12|Karl Kert|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:28|21|Justus Kilpi|none|19|Matis Kaart|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:28|21|Justus Kilpi|none|16|Matis Kaart|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:20|21|Egor Kurdyukov |none|8|Venediktov Ilya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:20|21|Egor Kurdyukov |none|9|Venediktov Ilya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:26|21|Mark Sames|none|15|Wojciech Sajdok|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:26|21|Mark Sames|none|19|Wojciech Sajdok|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:30|21|Anton Monnberg|none|17|Mikhail Lavrikov [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:30|21|Anton Monnberg|none|16|Mikhail Lavrikov [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Nikita Fedotovskikh |none|19|Robert Joonas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Nikita Fedotovskikh |none|12|Robert Joonas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:18|21|Georgii Karpov |none|6|Mikael Kuusisto|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:18|21|Georgii Karpov |none|6|Mikael Kuusisto|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Szymon Stokfisz|none|15|Andrey Kravchenko|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Szymon Stokfisz|none|7|Andrey Kravchenko|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909||Walkover Win|Victor Kokhanov|none|Walkover Loss|Paulius Abraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:29|21|Dmitrii Klimenko |none|18|Paulius Bertasius|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:29|21|Dmitrii Klimenko |none|14|Paulius Bertasius|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909||Walkover Win|Monika Svetnickova |none|Walkover Loss|Sabina Alieva|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:25|21|Anastasiai Khomich|none|9|Diana Stognija|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:25|21|Anastasiai Khomich|none|18|Diana Stognija|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Maryana Viarbitskaya |none|11|Eerika Kuurne|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Maryana Viarbitskaya |none|10|Eerika Kuurne|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Julia Bitsoukova|none|14|Yelizaveta Kaminskaya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:24|21|Julia Bitsoukova|none|13|Yelizaveta Kaminskaya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:22|21|Anastasia.V Medvedeva |none|11|Diana Baltina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:22|21|Anastasia.V Medvedeva |none|15|Diana Baltina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Anastasia Osiyanenko|none|14|Inalotta Suutarinen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Anastasia Osiyanenko|none|19|Inalotta Suutarinen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:31|21|Mari Ann Karjus |none|14|Henna-Leena Lindberg|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:31|21|Mari Ann Karjus |none|16|Henna-Leena Lindberg|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:27|15|Yulia Vasilyeva|none|21|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:27|21|Yulia Vasilyeva|none|6|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:27|21|Yulia Vasilyeva|none|12|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:31|21|Viktoriia Kozyreva|none|15|Yliana Zaharova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:31|21|Viktoriia Kozyreva|none|16|Yliana Zaharova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:34|21|Zuzanna Parysz |none|9|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:34|13|Zuzanna Parysz |none|21|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:34|21|Zuzanna Parysz |none|15|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Anastasiia Pustinskaia|none|7|Sigrid Laura Moora|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:21|21|Anastasiia Pustinskaia|none|9|Sigrid Laura Moora|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:29|24|Katsiaryna Zablotskaya |none|22|Kateřina Zuzáková|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:29|21|Katsiaryna Zablotskaya |none|12|Kateřina Zuzáková|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:22|21|Liisa Tannik|none|18|Gabija Mockute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:22|21|Liisa Tannik|none|14|Gabija Mockute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:23|21|Pihla Lindberg |none|11|Liana Lencevica|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:23|21|Pihla Lindberg |none|16|Liana Lencevica|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:41|21|Anastasiia Sharapova|none|18|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:41|14|Anastasiia Sharapova|none|21|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:41|21|Anastasiia Sharapova|none|14|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:44|13|Lela Minadze|none|21|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:44|21|Lela Minadze|none|14|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909|0:44|23|Lela Minadze|none|21|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160909||Walkover Win|Egor Kurdyukov |Egor Okolov|Walkover Loss|Paulius Abraitis|Benas Davidonis|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:27|21|Karl Kert|Marcus Lõo|15|Kristaps Kalnins|Niks Podosinoviks|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:27|21|Karl Kert|Marcus Lõo|17|Kristaps Kalnins|Niks Podosinoviks|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:25|21|Dmitrii Klimenko |Victor Kokhanov|16|Eero Lauri|Joona Puro|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:25|21|Dmitrii Klimenko |Victor Kokhanov|18|Eero Lauri|Joona Puro|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:44|16|Szymon Stokfisz|Wiktor Trecki|21|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:44|21|Szymon Stokfisz|Wiktor Trecki|15|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:44|22|Szymon Stokfisz|Wiktor Trecki|20|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|10|Danielius Berzanskis|Laurynas Borusas|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|10|Danielius Berzanskis|Laurynas Borusas|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:18|21|Georgii Karpov |Mikhail Lavrikov|9|Aleksander Bazanov|Klaus Erik Kruus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:18|21|Georgii Karpov |Mikhail Lavrikov|11|Aleksander Bazanov|Klaus Erik Kruus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:41|21|Alan Ostrowski|Wojciech Sajdok|13|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:41|15|Alan Ostrowski|Wojciech Sajdok|21|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:41|21|Alan Ostrowski|Wojciech Sajdok|15|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:19|21|Jere Övermark |Jesper Paul|11|Ailantas Sutkus|Ardas Valantiejus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:19|21|Jere Övermark |Jesper Paul|2|Ailantas Sutkus|Ardas Valantiejus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:27|21|Pihla Lindberg |Inalotta Suutarinen|19|Anastasiai Khomich|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:27|21|Pihla Lindberg |Inalotta Suutarinen|18|Anastasiai Khomich|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:17|21|Hannaliina Piho|Liisa Tannik|8|Austeja Blandyte|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:17|21|Hannaliina Piho|Liisa Tannik|4|Austeja Blandyte|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:24|21|Magdalena Kulska |Zuzanna Parysz|18|Una Berga|Liana Lencevica|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:24|21|Magdalena Kulska |Zuzanna Parysz|9|Una Berga|Liana Lencevica|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:42|21|Viktoriia Kozyreva|Editha Schmalz|19|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:42|14|Viktoriia Kozyreva|Editha Schmalz|21|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:42|21|Viktoriia Kozyreva|Editha Schmalz|19|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:38|21|Anastasiia Pustinskaia|Anastasiia Sharapova|10|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:38|10|Anastasiia Pustinskaia|Anastasiia Sharapova|21|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:38|21|Anastasiia Pustinskaia|Anastasiia Sharapova|18|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:42|21|Katsiaryna Zablotskaya|Kateřina Zuzáková|19|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:42|17|Katsiaryna Zablotskaya|Kateřina Zuzáková|21|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:42|21|Katsiaryna Zablotskaya|Kateřina Zuzáková|18|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:40|21|Victoria Korobova|Merit Mägi|19|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:40|16|Victoria Korobova|Merit Mägi|21|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:40|21|Victoria Korobova|Merit Mägi|16|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:21|21|Mari Ann Karjus |Kati-Kreet Marran|16|Anastasia Osiyanenko|Olga Rogova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160909|0:21|21|Mari Ann Karjus |Kati-Kreet Marran|12|Anastasia Osiyanenko|Olga Rogova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:20|21|Venediktov Ilya|Yulia Vasilyeva|9|Robert Joonas|Mari Ann Karjus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:20|21|Venediktov Ilya|Yulia Vasilyeva|14|Robert Joonas|Mari Ann Karjus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:33|21|Egor Kurdyukov|Olga Rogova|19|Sergei Nevgen|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:33|21|Egor Kurdyukov|Olga Rogova|15|Sergei Nevgen|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:33|21|Szymon Stokfisz|Magdalena Kulska|10|Laurynas Borusas|Gabija Mockute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:33|25|Szymon Stokfisz|Magdalena Kulska|23|Laurynas Borusas|Gabija Mockute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:24|21|Victor Kokhanov|Anastasiia Sharapova|12|Aleksander Bazanov|Editha Schmalz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:24|21|Victor Kokhanov|Anastasiia Sharapova|12|Aleksander Bazanov|Editha Schmalz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:36|21|Joona Puro|Pihla Lindberg|14|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:36|9|Joona Puro|Pihla Lindberg|21|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:36|21|Joona Puro|Pihla Lindberg|17|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:20|21|Georgii Karpov|Viktoriia Kozyreva|12|Andrey Kravchenko|Julia Bitsoukova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:20|21|Georgii Karpov|Viktoriia Kozyreva|6|Andrey Kravchenko|Julia Bitsoukova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:22|21|Dzmitry Kuzmitski|Maryana Viarbitskaya|19|Guido Andersson|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:22|21|Dzmitry Kuzmitski|Maryana Viarbitskaya|12|Guido Andersson|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:28|21|Matis Kaart|Sigrid Laura Moora|15|Jonas Petkus|Yelizaveta Kaminskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:28|21|Matis Kaart|Sigrid Laura Moora|10|Jonas Petkus|Yelizaveta Kaminskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:18|21|Dmitrii Klimenko|Anastasiia Pustinskaia|5|Simas Kliostoraitis|Daniele Svelnyte|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:18|21|Dmitrii Klimenko|Anastasiia Pustinskaia|2|Simas Kliostoraitis|Daniele Svelnyte|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:31|15|Egor Okolov|Sofya Potapovich|21|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:31|21|Egor Okolov|Sofya Potapovich|12|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:31|21|Egor Okolov|Sofya Potapovich|16|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:18|21|Marcus Lõo|Kati-Kreet Marran|11|Mikael Kuusisto|Jenni Kankaanpää|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:18|21|Marcus Lõo|Kati-Kreet Marran|7|Mikael Kuusisto|Jenni Kankaanpää|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:22|21|Eero Lauri|Maija Krzywacki|18|Paulius Bertasius|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:22|21|Eero Lauri|Maija Krzywacki|14|Paulius Bertasius|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:22|21|Robert Joonas|none|14|Mantas Maule|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:22|21|Robert Joonas|none|12|Mantas Maule|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:26|21|Klaus Erik Kruus|none|9|Klaidas Drevinskas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:26|21|Klaus Erik Kruus|none|19|Klaidas Drevinskas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:34|16|Andrey Kravchenko|none|21|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:34|21|Andrey Kravchenko|none|11|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:34|21|Andrey Kravchenko|none|17|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Arturs Kelpe|none|9|Ardas Valantiejus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Arturs Kelpe|none|15|Ardas Valantiejus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:22|21|Wiktor Trecki|none|12|Danielius Berzanskis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:22|21|Wiktor Trecki|none|13|Danielius Berzanskis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Victor Kokhanov|none|12|Guido Andersson|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Victor Kokhanov|none|5|Guido Andersson|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:43|19|Paulius Bertasius|none|21|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:43|21|Paulius Bertasius|none|18|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:43|21|Paulius Bertasius|none|15|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Anastasiia Pustinskaia|Anastasiia Sharapova|6|Jenni Kankaanpää|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:21|21|Anastasiia Pustinskaia|Anastasiia Sharapova|5|Jenni Kankaanpää|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:26|21|Karl Kert|none|15|Evgeny Chertilin|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:26|21|Karl Kert|none|18|Evgeny Chertilin|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Matis Kaart|none|12|Laurynas Borusas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Matis Kaart|none|18|Laurynas Borusas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:44|19|Wojciech Sajdok|none|21|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:44|21|Wojciech Sajdok|none|6|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:44|21|Wojciech Sajdok|none|18|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Egor Okolov|none|12|Joona Puro|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Egor Okolov|none|16|Joona Puro|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910||Walkover Win|Eero Lauri|none|Walkover Loss|Benas Davidonis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Venediktov Ilya|none|8|Ailantas Sutkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Venediktov Ilya|none|12|Ailantas Sutkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:17|21|Mikael Kuusisto|none|6|Simas Kliostoraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:17|21|Mikael Kuusisto|none|8|Simas Kliostoraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:15|21|Anastasiai Khomich|none|8|Austeja Blandyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:15|21|Anastasiai Khomich|none|9|Austeja Blandyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Julia Bitsoukova|none|8|Victoria Korobova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Julia Bitsoukova|none|8|Victoria Korobova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Inalotta Suutarinen|none|12|Daniele Svelnyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Inalotta Suutarinen|none|10|Daniele Svelnyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:31|21|Henna-Leena Lindberg|none|16|Merit Mägi|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:31|21|Henna-Leena Lindberg|none|14|Merit Mägi|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:30|21|Yulia Vasilyeva|none|16|Maija Krzywacki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:30|21|Yulia Vasilyeva|none|13|Maija Krzywacki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:20|21|Yliana Zaharova|none|8|Jenni Kankaanpää|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:20|21|Yliana Zaharova|none|8|Jenni Kankaanpää|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:25|21|Una Berga|none|17|Sofya Potapovich|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:25|21|Una Berga|none|19|Sofya Potapovich|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|16|Mantas Maule|Mark Sames|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|8|Mantas Maule|Mark Sames|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:28|21|Robert Joonas|Matis Kaart|16|Andrey Kravchenko|Dzmitry Kuzmitski|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:28|22|Robert Joonas|Matis Kaart|20|Andrey Kravchenko|Dzmitry Kuzmitski|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:28|21|Paulius Bertasius|Jonas Petkus|14|Guido Andersson|Mikael Kuusisto|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:28|21|Paulius Bertasius|Jonas Petkus|16|Guido Andersson|Mikael Kuusisto|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:19|21|Sigrid Laura Moora|none|14|Gabriele Paskeviciute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Sigrid Laura Moora|none|9|Gabriele Paskeviciute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:20|21|Liisa Tannik|none|7|Daniela Krista Langina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:20|21|Liisa Tannik|none|17|Daniela Krista Langina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:23|21|Anastasiia Sharapova|none|10|Emilia Harti|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:23|21|Anastasiia Sharapova|none|15|Emilia Harti|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Cristian Savin |none|8|Sergei Nevgen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:19|21|Cristian Savin |none|7|Sergei Nevgen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:28|21|Alan Ostrowski|none|15|Eero Lauri|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:28|22|Alan Ostrowski|none|20|Eero Lauri|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:18|21|Marcus Lõo|none|7|Klaus Erik Kruus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:18|21|Marcus Lõo|none|8|Klaus Erik Kruus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:23|21|Jere Övermark |none|17|Arturs Kelpe|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:23|21|Jere Övermark |none|15|Arturs Kelpe|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Niks Podosinoviks|none|10|Wiktor Trecki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Niks Podosinoviks|none|8|Wiktor Trecki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:38|21|Egor Okolov|none|8|Dzmitry Kuzmitski|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:38|25|Egor Okolov|none|23|Dzmitry Kuzmitski|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:29|21|Jesper Paul |none|10|Karl Kert|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:29|21|Jesper Paul |none|12|Karl Kert|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:28|21|Justus Kilpi|none|19|Matis Kaart|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:28|21|Justus Kilpi|none|16|Matis Kaart|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:20|21|Egor Kurdyukov |none|8|Venediktov Ilya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:20|21|Egor Kurdyukov |none|9|Venediktov Ilya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:26|21|Mark Sames|none|15|Wojciech Sajdok|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:26|21|Mark Sames|none|19|Wojciech Sajdok|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:30|21|Anton Monnberg|none|17|Mikhail Lavrikov [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:30|21|Anton Monnberg|none|16|Mikhail Lavrikov [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Nikita Fedotovskikh |none|19|Robert Joonas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Nikita Fedotovskikh |none|12|Robert Joonas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:18|21|Georgii Karpov |none|6|Mikael Kuusisto|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:18|21|Georgii Karpov |none|6|Mikael Kuusisto|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Szymon Stokfisz|none|15|Andrey Kravchenko|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Szymon Stokfisz|none|7|Andrey Kravchenko|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910||Walkover Win|Victor Kokhanov|none|Walkover Loss|Paulius Abraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:29|21|Dmitrii Klimenko |none|18|Paulius Bertasius|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:29|21|Dmitrii Klimenko |none|14|Paulius Bertasius|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910||Walkover Win|Monika Svetnickova |none|Walkover Loss|Sabina Alieva|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:25|21|Anastasiai Khomich|none|9|Diana Stognija|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:25|21|Anastasiai Khomich|none|18|Diana Stognija|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Maryana Viarbitskaya |none|11|Eerika Kuurne|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Maryana Viarbitskaya |none|10|Eerika Kuurne|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Julia Bitsoukova|none|14|Yelizaveta Kaminskaya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:24|21|Julia Bitsoukova|none|13|Yelizaveta Kaminskaya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:22|21|Anastasia.V Medvedeva |none|11|Diana Baltina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:22|21|Anastasia.V Medvedeva |none|15|Diana Baltina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Anastasia Osiyanenko|none|14|Inalotta Suutarinen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Anastasia Osiyanenko|none|19|Inalotta Suutarinen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:31|21|Mari Ann Karjus |none|14|Henna-Leena Lindberg|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:31|21|Mari Ann Karjus |none|16|Henna-Leena Lindberg|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:27|15|Yulia Vasilyeva|none|21|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:27|21|Yulia Vasilyeva|none|6|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:27|21|Yulia Vasilyeva|none|12|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:31|21|Viktoriia Kozyreva|none|15|Yliana Zaharova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:31|21|Viktoriia Kozyreva|none|16|Yliana Zaharova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:34|21|Zuzanna Parysz |none|9|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:34|13|Zuzanna Parysz |none|21|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:34|21|Zuzanna Parysz |none|15|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Anastasiia Pustinskaia|none|7|Sigrid Laura Moora|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:21|21|Anastasiia Pustinskaia|none|9|Sigrid Laura Moora|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:29|24|Katsiaryna Zablotskaya |none|22|Kateřina Zuzáková|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:29|21|Katsiaryna Zablotskaya |none|12|Kateřina Zuzáková|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:22|21|Liisa Tannik|none|18|Gabija Mockute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:22|21|Liisa Tannik|none|14|Gabija Mockute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:23|21|Pihla Lindberg |none|11|Liana Lencevica|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:23|21|Pihla Lindberg |none|16|Liana Lencevica|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:41|21|Anastasiia Sharapova|none|18|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:41|14|Anastasiia Sharapova|none|21|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:41|21|Anastasiia Sharapova|none|14|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:44|13|Lela Minadze|none|21|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:44|21|Lela Minadze|none|14|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910|0:44|23|Lela Minadze|none|21|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160910||Walkover Win|Egor Kurdyukov |Egor Okolov|Walkover Loss|Paulius Abraitis|Benas Davidonis|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:27|21|Karl Kert|Marcus Lõo|15|Kristaps Kalnins|Niks Podosinoviks|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:27|21|Karl Kert|Marcus Lõo|17|Kristaps Kalnins|Niks Podosinoviks|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:25|21|Dmitrii Klimenko |Victor Kokhanov|16|Eero Lauri|Joona Puro|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:25|21|Dmitrii Klimenko |Victor Kokhanov|18|Eero Lauri|Joona Puro|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:44|16|Szymon Stokfisz|Wiktor Trecki|21|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:44|21|Szymon Stokfisz|Wiktor Trecki|15|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:44|22|Szymon Stokfisz|Wiktor Trecki|20|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|10|Danielius Berzanskis|Laurynas Borusas|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|10|Danielius Berzanskis|Laurynas Borusas|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:18|21|Georgii Karpov |Mikhail Lavrikov|9|Aleksander Bazanov|Klaus Erik Kruus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:18|21|Georgii Karpov |Mikhail Lavrikov|11|Aleksander Bazanov|Klaus Erik Kruus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:41|21|Alan Ostrowski|Wojciech Sajdok|13|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:41|15|Alan Ostrowski|Wojciech Sajdok|21|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:41|21|Alan Ostrowski|Wojciech Sajdok|15|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:19|21|Jere Övermark |Jesper Paul|11|Ailantas Sutkus|Ardas Valantiejus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:19|21|Jere Övermark |Jesper Paul|2|Ailantas Sutkus|Ardas Valantiejus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:27|21|Pihla Lindberg |Inalotta Suutarinen|19|Anastasiai Khomich|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:27|21|Pihla Lindberg |Inalotta Suutarinen|18|Anastasiai Khomich|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:17|21|Hannaliina Piho|Liisa Tannik|8|Austeja Blandyte|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:17|21|Hannaliina Piho|Liisa Tannik|4|Austeja Blandyte|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:24|21|Magdalena Kulska |Zuzanna Parysz|18|Una Berga|Liana Lencevica|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:24|21|Magdalena Kulska |Zuzanna Parysz|9|Una Berga|Liana Lencevica|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:42|21|Viktoriia Kozyreva|Editha Schmalz|19|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:42|14|Viktoriia Kozyreva|Editha Schmalz|21|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:42|21|Viktoriia Kozyreva|Editha Schmalz|19|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:38|21|Anastasiia Pustinskaia|Anastasiia Sharapova|10|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:38|10|Anastasiia Pustinskaia|Anastasiia Sharapova|21|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:38|21|Anastasiia Pustinskaia|Anastasiia Sharapova|18|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:42|21|Katsiaryna Zablotskaya|Kateřina Zuzáková|19|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:42|17|Katsiaryna Zablotskaya|Kateřina Zuzáková|21|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:42|21|Katsiaryna Zablotskaya|Kateřina Zuzáková|18|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:40|21|Victoria Korobova|Merit Mägi|19|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:40|16|Victoria Korobova|Merit Mägi|21|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:40|21|Victoria Korobova|Merit Mägi|16|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:21|21|Mari Ann Karjus |Kati-Kreet Marran|16|Anastasia Osiyanenko|Olga Rogova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160910|0:21|21|Mari Ann Karjus |Kati-Kreet Marran|12|Anastasia Osiyanenko|Olga Rogova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:20|21|Venediktov Ilya|Yulia Vasilyeva|9|Robert Joonas|Mari Ann Karjus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:20|21|Venediktov Ilya|Yulia Vasilyeva|14|Robert Joonas|Mari Ann Karjus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:33|21|Egor Kurdyukov|Olga Rogova|19|Sergei Nevgen|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:33|21|Egor Kurdyukov|Olga Rogova|15|Sergei Nevgen|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:33|21|Szymon Stokfisz|Magdalena Kulska|10|Laurynas Borusas|Gabija Mockute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:33|25|Szymon Stokfisz|Magdalena Kulska|23|Laurynas Borusas|Gabija Mockute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:24|21|Victor Kokhanov|Anastasiia Sharapova|12|Aleksander Bazanov|Editha Schmalz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:24|21|Victor Kokhanov|Anastasiia Sharapova|12|Aleksander Bazanov|Editha Schmalz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:36|21|Joona Puro|Pihla Lindberg|14|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:36|9|Joona Puro|Pihla Lindberg|21|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:36|21|Joona Puro|Pihla Lindberg|17|Evgeny Chertilin|Anastasia Osiyanenko|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:20|21|Georgii Karpov|Viktoriia Kozyreva|12|Andrey Kravchenko|Julia Bitsoukova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:20|21|Georgii Karpov|Viktoriia Kozyreva|6|Andrey Kravchenko|Julia Bitsoukova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:22|21|Dzmitry Kuzmitski|Maryana Viarbitskaya|19|Guido Andersson|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:22|21|Dzmitry Kuzmitski|Maryana Viarbitskaya|12|Guido Andersson|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:28|21|Matis Kaart|Sigrid Laura Moora|15|Jonas Petkus|Yelizaveta Kaminskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:28|21|Matis Kaart|Sigrid Laura Moora|10|Jonas Petkus|Yelizaveta Kaminskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:18|21|Dmitrii Klimenko|Anastasiia Pustinskaia|5|Simas Kliostoraitis|Daniele Svelnyte|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:18|21|Dmitrii Klimenko|Anastasiia Pustinskaia|2|Simas Kliostoraitis|Daniele Svelnyte|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:31|15|Egor Okolov|Sofya Potapovich|21|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:31|21|Egor Okolov|Sofya Potapovich|12|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:31|21|Egor Okolov|Sofya Potapovich|16|Wiktor Trecki|Zuzanna Parysz|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:18|21|Marcus Lõo|Kati-Kreet Marran|11|Mikael Kuusisto|Jenni Kankaanpää|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:18|21|Marcus Lõo|Kati-Kreet Marran|7|Mikael Kuusisto|Jenni Kankaanpää|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:22|21|Eero Lauri|Maija Krzywacki|18|Paulius Bertasius|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:22|21|Eero Lauri|Maija Krzywacki|14|Paulius Bertasius|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:22|21|Robert Joonas|none|14|Mantas Maule|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:22|21|Robert Joonas|none|12|Mantas Maule|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:26|21|Klaus Erik Kruus|none|9|Klaidas Drevinskas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:26|21|Klaus Erik Kruus|none|19|Klaidas Drevinskas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:34|16|Andrey Kravchenko|none|21|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:34|21|Andrey Kravchenko|none|11|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:34|21|Andrey Kravchenko|none|17|Aleksander Bazanov|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Arturs Kelpe|none|9|Ardas Valantiejus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Arturs Kelpe|none|15|Ardas Valantiejus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:22|21|Wiktor Trecki|none|12|Danielius Berzanskis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:22|21|Wiktor Trecki|none|13|Danielius Berzanskis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Victor Kokhanov|none|12|Guido Andersson|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Victor Kokhanov|none|5|Guido Andersson|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:43|19|Paulius Bertasius|none|21|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:43|21|Paulius Bertasius|none|18|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:43|21|Paulius Bertasius|none|15|Kristaps Kalnins|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Anastasiia Pustinskaia|Anastasiia Sharapova|6|Jenni Kankaanpää|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:21|21|Anastasiia Pustinskaia|Anastasiia Sharapova|5|Jenni Kankaanpää|Eerika Kuurne|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:26|21|Karl Kert|none|15|Evgeny Chertilin|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:26|21|Karl Kert|none|18|Evgeny Chertilin|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Matis Kaart|none|12|Laurynas Borusas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Matis Kaart|none|18|Laurynas Borusas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:44|19|Wojciech Sajdok|none|21|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:44|21|Wojciech Sajdok|none|6|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:44|21|Wojciech Sajdok|none|18|Jonas Petkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Egor Okolov|none|12|Joona Puro|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Egor Okolov|none|16|Joona Puro|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911||Walkover Win|Eero Lauri|none|Walkover Loss|Benas Davidonis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Venediktov Ilya|none|8|Ailantas Sutkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Venediktov Ilya|none|12|Ailantas Sutkus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:17|21|Mikael Kuusisto|none|6|Simas Kliostoraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:17|21|Mikael Kuusisto|none|8|Simas Kliostoraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:15|21|Anastasiai Khomich|none|8|Austeja Blandyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:15|21|Anastasiai Khomich|none|9|Austeja Blandyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Julia Bitsoukova|none|8|Victoria Korobova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Julia Bitsoukova|none|8|Victoria Korobova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Inalotta Suutarinen|none|12|Daniele Svelnyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Inalotta Suutarinen|none|10|Daniele Svelnyte|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:31|21|Henna-Leena Lindberg|none|16|Merit Mägi|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:31|21|Henna-Leena Lindberg|none|14|Merit Mägi|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:30|21|Yulia Vasilyeva|none|16|Maija Krzywacki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:30|21|Yulia Vasilyeva|none|13|Maija Krzywacki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:20|21|Yliana Zaharova|none|8|Jenni Kankaanpää|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:20|21|Yliana Zaharova|none|8|Jenni Kankaanpää|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:25|21|Una Berga|none|17|Sofya Potapovich|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:25|21|Una Berga|none|19|Sofya Potapovich|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|16|Mantas Maule|Mark Sames|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|8|Mantas Maule|Mark Sames|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:28|21|Robert Joonas|Matis Kaart|16|Andrey Kravchenko|Dzmitry Kuzmitski|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:28|22|Robert Joonas|Matis Kaart|20|Andrey Kravchenko|Dzmitry Kuzmitski|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:28|21|Paulius Bertasius|Jonas Petkus|14|Guido Andersson|Mikael Kuusisto|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:28|21|Paulius Bertasius|Jonas Petkus|16|Guido Andersson|Mikael Kuusisto|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:19|21|Sigrid Laura Moora|none|14|Gabriele Paskeviciute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Sigrid Laura Moora|none|9|Gabriele Paskeviciute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:20|21|Liisa Tannik|none|7|Daniela Krista Langina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:20|21|Liisa Tannik|none|17|Daniela Krista Langina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:23|21|Anastasiia Sharapova|none|10|Emilia Harti|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:23|21|Anastasiia Sharapova|none|15|Emilia Harti|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Cristian Savin |none|8|Sergei Nevgen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:19|21|Cristian Savin |none|7|Sergei Nevgen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:28|21|Alan Ostrowski|none|15|Eero Lauri|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:28|22|Alan Ostrowski|none|20|Eero Lauri|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:18|21|Marcus Lõo|none|7|Klaus Erik Kruus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:18|21|Marcus Lõo|none|8|Klaus Erik Kruus|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:23|21|Jere Övermark |none|17|Arturs Kelpe|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:23|21|Jere Övermark |none|15|Arturs Kelpe|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Niks Podosinoviks|none|10|Wiktor Trecki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Niks Podosinoviks|none|8|Wiktor Trecki|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:38|21|Egor Okolov|none|8|Dzmitry Kuzmitski|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:38|25|Egor Okolov|none|23|Dzmitry Kuzmitski|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:29|21|Jesper Paul |none|10|Karl Kert|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:29|21|Jesper Paul |none|12|Karl Kert|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:28|21|Justus Kilpi|none|19|Matis Kaart|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:28|21|Justus Kilpi|none|16|Matis Kaart|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:20|21|Egor Kurdyukov |none|8|Venediktov Ilya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:20|21|Egor Kurdyukov |none|9|Venediktov Ilya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:26|21|Mark Sames|none|15|Wojciech Sajdok|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:26|21|Mark Sames|none|19|Wojciech Sajdok|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:30|21|Anton Monnberg|none|17|Mikhail Lavrikov [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:30|21|Anton Monnberg|none|16|Mikhail Lavrikov [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Nikita Fedotovskikh |none|19|Robert Joonas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Nikita Fedotovskikh |none|12|Robert Joonas|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:18|21|Georgii Karpov |none|6|Mikael Kuusisto|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:18|21|Georgii Karpov |none|6|Mikael Kuusisto|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Szymon Stokfisz|none|15|Andrey Kravchenko|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Szymon Stokfisz|none|7|Andrey Kravchenko|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911||Walkover Win|Victor Kokhanov|none|Walkover Loss|Paulius Abraitis|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:29|21|Dmitrii Klimenko |none|18|Paulius Bertasius|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:29|21|Dmitrii Klimenko |none|14|Paulius Bertasius|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911||Walkover Win|Monika Svetnickova |none|Walkover Loss|Sabina Alieva|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:25|21|Anastasiai Khomich|none|9|Diana Stognija|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:25|21|Anastasiai Khomich|none|18|Diana Stognija|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Maryana Viarbitskaya |none|11|Eerika Kuurne|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Maryana Viarbitskaya |none|10|Eerika Kuurne|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Julia Bitsoukova|none|14|Yelizaveta Kaminskaya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:24|21|Julia Bitsoukova|none|13|Yelizaveta Kaminskaya|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:22|21|Anastasia.V Medvedeva |none|11|Diana Baltina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:22|21|Anastasia.V Medvedeva |none|15|Diana Baltina|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Anastasia Osiyanenko|none|14|Inalotta Suutarinen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Anastasia Osiyanenko|none|19|Inalotta Suutarinen|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:31|21|Mari Ann Karjus |none|14|Henna-Leena Lindberg|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:31|21|Mari Ann Karjus |none|16|Henna-Leena Lindberg|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:27|15|Yulia Vasilyeva|none|21|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:27|21|Yulia Vasilyeva|none|6|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:27|21|Yulia Vasilyeva|none|12|Magdalena Kulska|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:31|21|Viktoriia Kozyreva|none|15|Yliana Zaharova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:31|21|Viktoriia Kozyreva|none|16|Yliana Zaharova|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:34|21|Zuzanna Parysz |none|9|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:34|13|Zuzanna Parysz |none|21|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:34|21|Zuzanna Parysz |none|15|Una Berga|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Anastasiia Pustinskaia|none|7|Sigrid Laura Moora|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:21|21|Anastasiia Pustinskaia|none|9|Sigrid Laura Moora|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:29|24|Katsiaryna Zablotskaya |none|22|Kateřina Zuzáková|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:29|21|Katsiaryna Zablotskaya |none|12|Kateřina Zuzáková|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:22|21|Liisa Tannik|none|18|Gabija Mockute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:22|21|Liisa Tannik|none|14|Gabija Mockute|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:23|21|Pihla Lindberg |none|11|Liana Lencevica|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:23|21|Pihla Lindberg |none|16|Liana Lencevica|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:41|21|Anastasiia Sharapova|none|18|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:41|14|Anastasiia Sharapova|none|21|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:41|21|Anastasiia Sharapova|none|14|Hannaliina Piho|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:44|13|Lela Minadze|none|21|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:44|21|Lela Minadze|none|14|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911|0:44|23|Lela Minadze|none|21|Kati-Kreet Marran [2]|none|1A2CE219-B712-4FED-957E-06BDFB69F177|singles
+20160911||Walkover Win|Egor Kurdyukov |Egor Okolov|Walkover Loss|Paulius Abraitis|Benas Davidonis|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:27|21|Karl Kert|Marcus Lõo|15|Kristaps Kalnins|Niks Podosinoviks|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:27|21|Karl Kert|Marcus Lõo|17|Kristaps Kalnins|Niks Podosinoviks|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:25|21|Dmitrii Klimenko |Victor Kokhanov|16|Eero Lauri|Joona Puro|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:25|21|Dmitrii Klimenko |Victor Kokhanov|18|Eero Lauri|Joona Puro|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:44|16|Szymon Stokfisz|Wiktor Trecki|21|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:44|21|Szymon Stokfisz|Wiktor Trecki|15|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:44|22|Szymon Stokfisz|Wiktor Trecki|20|Paulius Bertasius|Jonas Petkus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|10|Danielius Berzanskis|Laurynas Borusas|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:21|21|Nikita Fedotovskikh|Venediktov Ilya|10|Danielius Berzanskis|Laurynas Borusas|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:18|21|Georgii Karpov |Mikhail Lavrikov|9|Aleksander Bazanov|Klaus Erik Kruus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:18|21|Georgii Karpov |Mikhail Lavrikov|11|Aleksander Bazanov|Klaus Erik Kruus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:41|21|Alan Ostrowski|Wojciech Sajdok|13|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:41|15|Alan Ostrowski|Wojciech Sajdok|21|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:41|21|Alan Ostrowski|Wojciech Sajdok|15|Robert Joonas|Matis Kaart|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:19|21|Jere Övermark |Jesper Paul|11|Ailantas Sutkus|Ardas Valantiejus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:19|21|Jere Övermark |Jesper Paul|2|Ailantas Sutkus|Ardas Valantiejus|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:27|21|Pihla Lindberg |Inalotta Suutarinen|19|Anastasiai Khomich|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:27|21|Pihla Lindberg |Inalotta Suutarinen|18|Anastasiai Khomich|Yliana Zaharova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:17|21|Hannaliina Piho|Liisa Tannik|8|Austeja Blandyte|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:17|21|Hannaliina Piho|Liisa Tannik|4|Austeja Blandyte|Gabriele Paskeviciute|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:24|21|Magdalena Kulska |Zuzanna Parysz|18|Una Berga|Liana Lencevica|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:24|21|Magdalena Kulska |Zuzanna Parysz|9|Una Berga|Liana Lencevica|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:42|21|Viktoriia Kozyreva|Editha Schmalz|19|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:42|14|Viktoriia Kozyreva|Editha Schmalz|21|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:42|21|Viktoriia Kozyreva|Editha Schmalz|19|Anastasia.V Medvedeva|Sofya Potapovich|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:38|21|Anastasiia Pustinskaia|Anastasiia Sharapova|10|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:38|10|Anastasiia Pustinskaia|Anastasiia Sharapova|21|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:38|21|Anastasiia Pustinskaia|Anastasiia Sharapova|18|Julia Bitsoukova|Maryana Viarbitskaya|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:42|21|Katsiaryna Zablotskaya|Kateřina Zuzáková|19|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:42|17|Katsiaryna Zablotskaya|Kateřina Zuzáková|21|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:42|21|Katsiaryna Zablotskaya|Kateřina Zuzáková|18|Lela Minadze [3]|Yulia Vasilyeva|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:40|21|Victoria Korobova|Merit Mägi|19|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:40|16|Victoria Korobova|Merit Mägi|21|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:40|21|Victoria Korobova|Merit Mägi|16|Emilia Harti|Henna-Leena Lindberg|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:21|21|Mari Ann Karjus |Kati-Kreet Marran|16|Anastasia Osiyanenko|Olga Rogova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles
+20160911|0:21|21|Mari Ann Karjus |Kati-Kreet Marran|12|Anastasia Osiyanenko|Olga Rogova|1A2CE219-B712-4FED-957E-06BDFB69F177|doubles

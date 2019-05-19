@@ -1,0 +1,577 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20171208|0:21|11|Abdul Voris Muminov|none|2|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Abdul Voris Muminov|none|4|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Abdul Voris Muminov|none|5|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Roman Loos|none|6|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Roman Loos|none|8|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Roman Loos|none|4|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|13|Adam Twardzik|none|11|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Adam Twardzik|none|8|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Adam Twardzik|none|6|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:16|11|Denis Panfilov|none|8|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:16|11|Denis Panfilov|none|3|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:16|11|Denis Panfilov|none|1|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208||Walkover Win|Markus Saarepuu|none|Walkover Loss|Simas Kliostoraitis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Abdurashid Muminov|none|6|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|14|Abdurashid Muminov|none|12|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Abdurashid Muminov|none|5|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|12|Danylo Skrynnik|none|10|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|9|Danylo Skrynnik|none|11|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|11|Danylo Skrynnik|none|3|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|11|Danylo Skrynnik|none|6|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|12|Daria Misouno|none|10|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Daria Misouno|none|3|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Daria Misouno|none|8|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:26|13|Anastasiia Nefedova|none|15|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:26|11|Anastasiia Nefedova|none|5|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:26|11|Anastasiia Nefedova|none|3|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:26|11|Anastasiia Nefedova|none|6|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:29|11|Leda Dominić|none|6|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:29|4|Leda Dominić|none|11|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:29|11|Leda Dominić|none|9|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:29|11|Leda Dominić|none|4|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:04|11|Evgeny Chertilin |none|9|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:04|12|Evgeny Chertilin |none|10|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:04|11|Evgeny Chertilin |none|13|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:04|6|Evgeny Chertilin |none|11|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:04|11|Evgeny Chertilin |none|8|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Azamat Sultanov|none|7|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Azamat Sultanov|none|9|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Azamat Sultanov|none|5|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208||Walkover Win|Leo Hölzmer |none|Walkover Loss|Asadbek Olimjanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Artur Ajupov |none|7|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Artur Ajupov |none|9|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Artur Ajupov |none|5|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Yevhen Kobzar |none|9|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Yevhen Kobzar |none|6|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Yevhen Kobzar |none|7|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|12|Abdul Voris Muminov|none|10|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|11|Abdul Voris Muminov|none|5|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|10|Abdul Voris Muminov|none|12|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:31|11|Abdul Voris Muminov|none|3|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|11|Nikita Makoveev|none|9|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|11|Nikita Makoveev|none|9|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|7|Nikita Makoveev|none|11|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|11|Nikita Makoveev|none|6|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:41|11|Adam Twardzik|none|6|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:41|10|Adam Twardzik|none|12|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:41|10|Adam Twardzik|none|12|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:41|11|Adam Twardzik|none|2|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:41|11|Adam Twardzik|none|2|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|14|Biloliddin Kuchkarboev|none|12|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Biloliddin Kuchkarboev|none|8|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Biloliddin Kuchkarboev|none|9|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|7|Morten Karjus|none|11|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Morten Karjus|none|7|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Morten Karjus|none|8|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Morten Karjus|none|7|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:27|13|Michael Mcguire|none|11|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:27|11|Michael Mcguire|none|8|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:27|12|Michael Mcguire|none|10|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|13|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|9|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|11|Abdurashid Muminov|none|7|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|7|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:34|11|Abdurashid Muminov|none|5|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:28|11|Christopher Siilbaum |none|8|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:28|14|Christopher Siilbaum |none|15|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:28|11|Christopher Siilbaum |none|8|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:28|11|Christopher Siilbaum |none|6|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:15|11|Danylo Skrynnik|none|4|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:15|11|Danylo Skrynnik|none|2|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:15|11|Danylo Skrynnik|none|6|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Egor Kholkin |none|7|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Egor Kholkin |none|5|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Egor Kholkin |none|4|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Evgeny Chertilin |none|4|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|12|Evgeny Chertilin |none|10|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:25|11|Evgeny Chertilin |none|3|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:42|7|Abdul Voris Muminov|none|11|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:42|12|Abdul Voris Muminov|none|10|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:42|11|Abdul Voris Muminov|none|6|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:42|11|Abdul Voris Muminov|none|7|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:44|7|Nikita Makoveev|none|11|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:44|11|Nikita Makoveev|none|4|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:44|10|Nikita Makoveev|none|12|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:44|11|Nikita Makoveev|none|8|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:44|12|Nikita Makoveev|none|10|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Yevhen Kobzar |none|7|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Yevhen Kobzar |none|8|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Yevhen Kobzar |none|7|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:23|11|Jonas Petkus |none|9|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:23|11|Jonas Petkus |none|5|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:23|11|Jonas Petkus |none|8|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Michael Mcguire|none|1|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Michael Mcguire|none|8|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Michael Mcguire|none|9|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:17|11|Viktoriia Kozyreva |none|4|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:17|11|Viktoriia Kozyreva |none|5|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:17|11|Viktoriia Kozyreva |none|3|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:18|11|Margaryta Tsignadze|none|6|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:18|11|Margaryta Tsignadze|none|2|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:18|11|Margaryta Tsignadze|none|4|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Abdurashid Muminov|none|7|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Abdurashid Muminov|none|6|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:20|11|Abdurashid Muminov|none|4|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:38|6|Egor Kholkin |none|11|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:38|11|Egor Kholkin |none|6|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:38|11|Egor Kholkin |none|4|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:38|10|Egor Kholkin |none|12|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:38|11|Egor Kholkin |none|6|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:30|11|Olga Sokolova|none|9|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:30|11|Olga Sokolova|none|13|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:30|11|Olga Sokolova|none|4|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:30|11|Olga Sokolova|none|4|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Alena Koroleva|none|5|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Alena Koroleva|none|8|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:21|11|Alena Koroleva|none|5|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Anastasiia Nefedova|none|5|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|12|Anastasiia Nefedova|none|10|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|14|Anastasiia Nefedova|none|12|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Vera Kramarenko |none|5|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Vera Kramarenko |none|6|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Vera Kramarenko |none|9|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Leda Dominić|none|7|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Leda Dominić|none|6|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:24|11|Leda Dominić|none|9|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Mariia Sukhova |none|7|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Mariia Sukhova |none|5|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|11|Mariia Sukhova |none|8|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171208|0:22|12|Biloliddin Kuchkarboev|Azamat Sultanov|10|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:22|11|Biloliddin Kuchkarboev|Azamat Sultanov|6|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:22|6|Biloliddin Kuchkarboev|Azamat Sultanov|11|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:22|11|Biloliddin Kuchkarboev|Azamat Sultanov|6|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:29|9|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:29|11|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|6|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:29|9|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:29|11|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|5|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:29|13|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:34|6|Laurynas Borusas|Jonas Petkus|11|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:34|11|Laurynas Borusas|Jonas Petkus|8|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:34|8|Laurynas Borusas|Jonas Petkus|11|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:34|11|Laurynas Borusas|Jonas Petkus|7|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:34|11|Laurynas Borusas|Jonas Petkus|6|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|6|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|3|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|6|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:17|11|Aleksey Molochaev|Danylo Skrynnik|2|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:17|11|Aleksey Molochaev|Danylo Skrynnik|4|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:17|11|Aleksey Molochaev|Danylo Skrynnik|4|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:16|11|Egor Kholkin|Viktor Novikov|8|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:16|11|Egor Kholkin|Viktor Novikov|4|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:16|11|Egor Kholkin|Viktor Novikov|8|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|11|Nikita Filipenko|Anastasiia Prokopovych|6|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|11|Nikita Filipenko|Anastasiia Prokopovych|9|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|15|Nikita Filipenko|Anastasiia Prokopovych|14|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|4|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|7|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|3|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:01|11|Nikita Makoveev|Vera Kramarenko|6|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:01|11|Nikita Makoveev|Vera Kramarenko|3|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:01|11|Nikita Makoveev|Vera Kramarenko|5|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:37|8|Jonas Petkus|Gabija Mockute|11|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:37|12|Jonas Petkus|Gabija Mockute|10|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:37|11|Jonas Petkus|Gabija Mockute|6|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:37|8|Jonas Petkus|Gabija Mockute|11|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:37|11|Jonas Petkus|Gabija Mockute|5|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|11|Denis Panfilov|Alena Koroleva|7|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|11|Denis Panfilov|Alena Koroleva|8|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|10|Denis Panfilov|Alena Koroleva|12|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|11|Denis Panfilov|Alena Koroleva|9|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:21|11|Aleksey Molochaev|Olga Sokolova|4|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:21|11|Aleksey Molochaev|Olga Sokolova|7|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:21|11|Aleksey Molochaev|Olga Sokolova|4|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:19|11|Viktor Novikov|Amina Nelidova|6|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:19|11|Viktor Novikov|Amina Nelidova|5|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:19|11|Viktor Novikov|Amina Nelidova|5|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|11|Artur Ajupov |Ramona Üprus|7|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|7|Artur Ajupov |Ramona Üprus|11|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|13|Artur Ajupov |Ramona Üprus|11|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171208|0:27|11|Artur Ajupov |Ramona Üprus|9|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:21|11|Abdul Voris Muminov|none|2|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Abdul Voris Muminov|none|4|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Abdul Voris Muminov|none|5|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Roman Loos|none|6|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Roman Loos|none|8|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Roman Loos|none|4|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|13|Adam Twardzik|none|11|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Adam Twardzik|none|8|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Adam Twardzik|none|6|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:16|11|Denis Panfilov|none|8|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:16|11|Denis Panfilov|none|3|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:16|11|Denis Panfilov|none|1|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209||Walkover Win|Markus Saarepuu|none|Walkover Loss|Simas Kliostoraitis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Abdurashid Muminov|none|6|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|14|Abdurashid Muminov|none|12|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Abdurashid Muminov|none|5|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|12|Danylo Skrynnik|none|10|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|9|Danylo Skrynnik|none|11|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|11|Danylo Skrynnik|none|3|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|11|Danylo Skrynnik|none|6|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|12|Daria Misouno|none|10|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Daria Misouno|none|3|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Daria Misouno|none|8|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:26|13|Anastasiia Nefedova|none|15|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:26|11|Anastasiia Nefedova|none|5|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:26|11|Anastasiia Nefedova|none|3|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:26|11|Anastasiia Nefedova|none|6|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:29|11|Leda Dominić|none|6|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:29|4|Leda Dominić|none|11|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:29|11|Leda Dominić|none|9|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:29|11|Leda Dominić|none|4|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:04|11|Evgeny Chertilin |none|9|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:04|12|Evgeny Chertilin |none|10|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:04|11|Evgeny Chertilin |none|13|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:04|6|Evgeny Chertilin |none|11|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:04|11|Evgeny Chertilin |none|8|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Azamat Sultanov|none|7|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Azamat Sultanov|none|9|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Azamat Sultanov|none|5|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209||Walkover Win|Leo Hölzmer |none|Walkover Loss|Asadbek Olimjanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Artur Ajupov |none|7|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Artur Ajupov |none|9|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Artur Ajupov |none|5|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Yevhen Kobzar |none|9|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Yevhen Kobzar |none|6|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Yevhen Kobzar |none|7|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|12|Abdul Voris Muminov|none|10|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|11|Abdul Voris Muminov|none|5|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|10|Abdul Voris Muminov|none|12|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:31|11|Abdul Voris Muminov|none|3|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|11|Nikita Makoveev|none|9|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|11|Nikita Makoveev|none|9|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|7|Nikita Makoveev|none|11|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|11|Nikita Makoveev|none|6|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:41|11|Adam Twardzik|none|6|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:41|10|Adam Twardzik|none|12|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:41|10|Adam Twardzik|none|12|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:41|11|Adam Twardzik|none|2|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:41|11|Adam Twardzik|none|2|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|14|Biloliddin Kuchkarboev|none|12|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Biloliddin Kuchkarboev|none|8|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Biloliddin Kuchkarboev|none|9|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|7|Morten Karjus|none|11|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Morten Karjus|none|7|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Morten Karjus|none|8|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Morten Karjus|none|7|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:27|13|Michael Mcguire|none|11|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:27|11|Michael Mcguire|none|8|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:27|12|Michael Mcguire|none|10|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|13|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|9|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|11|Abdurashid Muminov|none|7|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|7|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:34|11|Abdurashid Muminov|none|5|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:28|11|Christopher Siilbaum |none|8|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:28|14|Christopher Siilbaum |none|15|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:28|11|Christopher Siilbaum |none|8|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:28|11|Christopher Siilbaum |none|6|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:15|11|Danylo Skrynnik|none|4|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:15|11|Danylo Skrynnik|none|2|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:15|11|Danylo Skrynnik|none|6|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Egor Kholkin |none|7|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Egor Kholkin |none|5|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Egor Kholkin |none|4|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Evgeny Chertilin |none|4|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|12|Evgeny Chertilin |none|10|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:25|11|Evgeny Chertilin |none|3|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:42|7|Abdul Voris Muminov|none|11|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:42|12|Abdul Voris Muminov|none|10|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:42|11|Abdul Voris Muminov|none|6|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:42|11|Abdul Voris Muminov|none|7|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:44|7|Nikita Makoveev|none|11|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:44|11|Nikita Makoveev|none|4|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:44|10|Nikita Makoveev|none|12|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:44|11|Nikita Makoveev|none|8|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:44|12|Nikita Makoveev|none|10|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Yevhen Kobzar |none|7|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Yevhen Kobzar |none|8|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Yevhen Kobzar |none|7|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:23|11|Jonas Petkus |none|9|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:23|11|Jonas Petkus |none|5|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:23|11|Jonas Petkus |none|8|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Michael Mcguire|none|1|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Michael Mcguire|none|8|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Michael Mcguire|none|9|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:17|11|Viktoriia Kozyreva |none|4|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:17|11|Viktoriia Kozyreva |none|5|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:17|11|Viktoriia Kozyreva |none|3|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:18|11|Margaryta Tsignadze|none|6|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:18|11|Margaryta Tsignadze|none|2|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:18|11|Margaryta Tsignadze|none|4|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Abdurashid Muminov|none|7|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Abdurashid Muminov|none|6|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:20|11|Abdurashid Muminov|none|4|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:38|6|Egor Kholkin |none|11|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:38|11|Egor Kholkin |none|6|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:38|11|Egor Kholkin |none|4|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:38|10|Egor Kholkin |none|12|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:38|11|Egor Kholkin |none|6|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:30|11|Olga Sokolova|none|9|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:30|11|Olga Sokolova|none|13|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:30|11|Olga Sokolova|none|4|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:30|11|Olga Sokolova|none|4|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Alena Koroleva|none|5|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Alena Koroleva|none|8|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:21|11|Alena Koroleva|none|5|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Anastasiia Nefedova|none|5|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|12|Anastasiia Nefedova|none|10|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|14|Anastasiia Nefedova|none|12|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Vera Kramarenko |none|5|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Vera Kramarenko |none|6|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Vera Kramarenko |none|9|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Leda Dominić|none|7|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Leda Dominić|none|6|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:24|11|Leda Dominić|none|9|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Mariia Sukhova |none|7|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Mariia Sukhova |none|5|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|11|Mariia Sukhova |none|8|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171209|0:22|12|Biloliddin Kuchkarboev|Azamat Sultanov|10|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:22|11|Biloliddin Kuchkarboev|Azamat Sultanov|6|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:22|6|Biloliddin Kuchkarboev|Azamat Sultanov|11|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:22|11|Biloliddin Kuchkarboev|Azamat Sultanov|6|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:29|9|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:29|11|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|6|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:29|9|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:29|11|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|5|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:29|13|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:34|6|Laurynas Borusas|Jonas Petkus|11|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:34|11|Laurynas Borusas|Jonas Petkus|8|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:34|8|Laurynas Borusas|Jonas Petkus|11|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:34|11|Laurynas Borusas|Jonas Petkus|7|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:34|11|Laurynas Borusas|Jonas Petkus|6|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|6|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|3|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|6|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:17|11|Aleksey Molochaev|Danylo Skrynnik|2|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:17|11|Aleksey Molochaev|Danylo Skrynnik|4|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:17|11|Aleksey Molochaev|Danylo Skrynnik|4|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:16|11|Egor Kholkin|Viktor Novikov|8|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:16|11|Egor Kholkin|Viktor Novikov|4|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:16|11|Egor Kholkin|Viktor Novikov|8|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|11|Nikita Filipenko|Anastasiia Prokopovych|6|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|11|Nikita Filipenko|Anastasiia Prokopovych|9|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|15|Nikita Filipenko|Anastasiia Prokopovych|14|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|4|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|7|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|3|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:01|11|Nikita Makoveev|Vera Kramarenko|6|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:01|11|Nikita Makoveev|Vera Kramarenko|3|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:01|11|Nikita Makoveev|Vera Kramarenko|5|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:37|8|Jonas Petkus|Gabija Mockute|11|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:37|12|Jonas Petkus|Gabija Mockute|10|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:37|11|Jonas Petkus|Gabija Mockute|6|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:37|8|Jonas Petkus|Gabija Mockute|11|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:37|11|Jonas Petkus|Gabija Mockute|5|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|11|Denis Panfilov|Alena Koroleva|7|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|11|Denis Panfilov|Alena Koroleva|8|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|10|Denis Panfilov|Alena Koroleva|12|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|11|Denis Panfilov|Alena Koroleva|9|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:21|11|Aleksey Molochaev|Olga Sokolova|4|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:21|11|Aleksey Molochaev|Olga Sokolova|7|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:21|11|Aleksey Molochaev|Olga Sokolova|4|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:19|11|Viktor Novikov|Amina Nelidova|6|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:19|11|Viktor Novikov|Amina Nelidova|5|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:19|11|Viktor Novikov|Amina Nelidova|5|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|11|Artur Ajupov |Ramona Üprus|7|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|7|Artur Ajupov |Ramona Üprus|11|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|13|Artur Ajupov |Ramona Üprus|11|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171209|0:27|11|Artur Ajupov |Ramona Üprus|9|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:21|11|Abdul Voris Muminov|none|2|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Abdul Voris Muminov|none|4|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Abdul Voris Muminov|none|5|Kait-Kontra Tähe|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Roman Loos|none|6|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Roman Loos|none|8|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Roman Loos|none|4|Nikita Filipenko|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|13|Adam Twardzik|none|11|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Adam Twardzik|none|8|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Adam Twardzik|none|6|Laurynas Borusas|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:16|11|Denis Panfilov|none|8|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:16|11|Denis Panfilov|none|3|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:16|11|Denis Panfilov|none|1|Norman Jaak Ambre|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210||Walkover Win|Markus Saarepuu|none|Walkover Loss|Simas Kliostoraitis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Abdurashid Muminov|none|6|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|14|Abdurashid Muminov|none|12|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Abdurashid Muminov|none|5|Denis Nikulin|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|12|Danylo Skrynnik|none|10|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|9|Danylo Skrynnik|none|11|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|11|Danylo Skrynnik|none|3|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|11|Danylo Skrynnik|none|6|Aliaksandr Aliaksandrovich|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|12|Daria Misouno|none|10|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Daria Misouno|none|3|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Daria Misouno|none|8|Laura Martinson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:26|13|Anastasiia Nefedova|none|15|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:26|11|Anastasiia Nefedova|none|5|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:26|11|Anastasiia Nefedova|none|3|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:26|11|Anastasiia Nefedova|none|6|Gabija Mockute|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:29|11|Leda Dominić|none|6|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:29|4|Leda Dominić|none|11|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:29|11|Leda Dominić|none|9|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:29|11|Leda Dominić|none|4|Amina Nelidova|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:04|11|Evgeny Chertilin |none|9|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:04|12|Evgeny Chertilin |none|10|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:04|11|Evgeny Chertilin |none|13|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:04|6|Evgeny Chertilin |none|11|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:04|11|Evgeny Chertilin |none|8|Matias Blomberg|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Azamat Sultanov|none|7|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Azamat Sultanov|none|9|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Azamat Sultanov|none|5|Rain Pärna|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210||Walkover Win|Leo Hölzmer |none|Walkover Loss|Asadbek Olimjanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Artur Ajupov |none|7|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Artur Ajupov |none|9|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Artur Ajupov |none|5|Aleksey Molochaev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Yevhen Kobzar |none|9|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Yevhen Kobzar |none|6|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Yevhen Kobzar |none|7|Danny Robson|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|12|Abdul Voris Muminov|none|10|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|11|Abdul Voris Muminov|none|5|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|10|Abdul Voris Muminov|none|12|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:31|11|Abdul Voris Muminov|none|3|Uladzimir Kryvasheyeu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|11|Nikita Makoveev|none|9|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|11|Nikita Makoveev|none|9|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|7|Nikita Makoveev|none|11|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|11|Nikita Makoveev|none|6|Roman Loos|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:41|11|Adam Twardzik|none|6|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:41|10|Adam Twardzik|none|12|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:41|10|Adam Twardzik|none|12|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:41|11|Adam Twardzik|none|2|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:41|11|Adam Twardzik|none|2|Edgars Vaivads|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|14|Biloliddin Kuchkarboev|none|12|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Biloliddin Kuchkarboev|none|8|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Biloliddin Kuchkarboev|none|9|Denis Panfilov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Jonas Petkus |none|7|Viktor Novikov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|7|Morten Karjus|none|11|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Morten Karjus|none|7|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Morten Karjus|none|8|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Morten Karjus|none|7|Markus Saarepuu|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:27|13|Michael Mcguire|none|11|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:27|11|Michael Mcguire|none|8|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:27|12|Michael Mcguire|none|10|Alexander Nikulin [3]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|13|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|9|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|11|Abdurashid Muminov|none|7|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|7|Abdurashid Muminov|none|11|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:34|11|Abdurashid Muminov|none|5|Danielius Berzanskis|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:28|11|Christopher Siilbaum |none|8|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:28|14|Christopher Siilbaum |none|15|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:28|11|Christopher Siilbaum |none|8|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:28|11|Christopher Siilbaum |none|6|Umidjon Khayitboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:15|11|Danylo Skrynnik|none|4|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:15|11|Danylo Skrynnik|none|2|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:15|11|Danylo Skrynnik|none|6|Sten Muinast|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Egor Kholkin |none|7|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Egor Kholkin |none|5|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Egor Kholkin |none|4|Markus Kivistik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Evgeny Chertilin |none|4|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|12|Evgeny Chertilin |none|10|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:25|11|Evgeny Chertilin |none|3|Azamat Sultanov|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:42|7|Abdul Voris Muminov|none|11|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:42|12|Abdul Voris Muminov|none|10|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:42|11|Abdul Voris Muminov|none|6|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:42|11|Abdul Voris Muminov|none|7|Leo Hölzmer [8]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:44|7|Nikita Makoveev|none|11|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:44|11|Nikita Makoveev|none|4|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:44|10|Nikita Makoveev|none|12|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:44|11|Nikita Makoveev|none|8|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:44|12|Nikita Makoveev|none|10|Artur Ajupov [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Yevhen Kobzar |none|7|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Yevhen Kobzar |none|8|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Yevhen Kobzar |none|7|Adam Twardzik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:23|11|Jonas Petkus |none|9|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:23|11|Jonas Petkus |none|5|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:23|11|Jonas Petkus |none|8|Biloliddin Kuchkarboev|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Michael Mcguire|none|1|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Michael Mcguire|none|8|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Michael Mcguire|none|9|Morten Karjus|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:17|11|Viktoriia Kozyreva |none|4|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:17|11|Viktoriia Kozyreva |none|5|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:17|11|Viktoriia Kozyreva |none|3|Kim Schmidt|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:18|11|Margaryta Tsignadze|none|6|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:18|11|Margaryta Tsignadze|none|2|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:18|11|Margaryta Tsignadze|none|4|Diana Baltina|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Abdurashid Muminov|none|7|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Abdurashid Muminov|none|6|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:20|11|Abdurashid Muminov|none|4|Christopher Siilbaum [6]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:38|6|Egor Kholkin |none|11|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:38|11|Egor Kholkin |none|6|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:38|11|Egor Kholkin |none|4|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:38|10|Egor Kholkin |none|12|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:38|11|Egor Kholkin |none|6|Danylo Skrynnik|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:30|11|Olga Sokolova|none|9|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:30|11|Olga Sokolova|none|13|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:30|11|Olga Sokolova|none|4|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:30|11|Olga Sokolova|none|4|Alesia Ershova [4]|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Alena Koroleva|none|5|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Alena Koroleva|none|8|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:21|11|Alena Koroleva|none|5|Daria Misouno|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Anastasiia Nefedova|none|5|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|12|Anastasiia Nefedova|none|10|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|14|Anastasiia Nefedova|none|12|Yelyzaveta Yakovlieva|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Vera Kramarenko |none|5|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Vera Kramarenko |none|6|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Vera Kramarenko |none|9|Kirke Karolin Heiter|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Leda Dominić|none|7|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Leda Dominić|none|6|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:24|11|Leda Dominić|none|9|Diana Stognija|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Mariia Sukhova |none|7|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Mariia Sukhova |none|5|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|11|Mariia Sukhova |none|8|Veranika Tarusava|none|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|singles
+20171210|0:22|12|Biloliddin Kuchkarboev|Azamat Sultanov|10|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:22|11|Biloliddin Kuchkarboev|Azamat Sultanov|6|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:22|6|Biloliddin Kuchkarboev|Azamat Sultanov|11|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:22|11|Biloliddin Kuchkarboev|Azamat Sultanov|6|Danielius Berzanskis|Umidjon Khayitboev|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:29|9|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:29|11|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|6|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:29|9|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:29|11|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|5|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:29|13|Aliaksandr Aliaksandrovich|Uladzimir Kryvasheyeu|11|Rain Pärna|Markus Saarepuu|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:34|6|Laurynas Borusas|Jonas Petkus|11|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:34|11|Laurynas Borusas|Jonas Petkus|8|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:34|8|Laurynas Borusas|Jonas Petkus|11|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:34|11|Laurynas Borusas|Jonas Petkus|7|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:34|11|Laurynas Borusas|Jonas Petkus|6|Michael Mcguire|Danny Robson|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|6|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|3|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:19|11|Abdul Voris Muminov|Abdurashid Muminov|6|Norman Jaak Ambre|Markus Kivistik|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:17|11|Aleksey Molochaev|Danylo Skrynnik|2|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:17|11|Aleksey Molochaev|Danylo Skrynnik|4|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:17|11|Aleksey Molochaev|Danylo Skrynnik|4|Morten Karjus|Sten Muinast|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:16|11|Egor Kholkin|Viktor Novikov|8|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:16|11|Egor Kholkin|Viktor Novikov|4|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:16|11|Egor Kholkin|Viktor Novikov|8|Artur Ajupov [2]|Tauri Kilk|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|11|Nikita Filipenko|Anastasiia Prokopovych|6|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|11|Nikita Filipenko|Anastasiia Prokopovych|9|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|15|Nikita Filipenko|Anastasiia Prokopovych|14|Adam Twardzik|Markéta Kohoutová|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|4|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|7|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:01|11|Evgeny Chertilin |Viktoriia Kozyreva|3|Aliaksandr Aliaksandrovich|Veranika Tarusava|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:01|11|Nikita Makoveev|Vera Kramarenko|6|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:01|11|Nikita Makoveev|Vera Kramarenko|3|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:01|11|Nikita Makoveev|Vera Kramarenko|5|Uladzimir Kryvasheyeu|Daria Misouno|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:37|8|Jonas Petkus|Gabija Mockute|11|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:37|12|Jonas Petkus|Gabija Mockute|10|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:37|11|Jonas Petkus|Gabija Mockute|6|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:37|8|Jonas Petkus|Gabija Mockute|11|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:37|11|Jonas Petkus|Gabija Mockute|5|Alexander Nikulin [2]|Mariia Sukhova|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|11|Denis Panfilov|Alena Koroleva|7|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|11|Denis Panfilov|Alena Koroleva|8|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|10|Denis Panfilov|Alena Koroleva|12|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|11|Denis Panfilov|Alena Koroleva|9|Yevhen Kobzar [1]|Mariia Stoliarenko|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:21|11|Aleksey Molochaev|Olga Sokolova|4|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:21|11|Aleksey Molochaev|Olga Sokolova|7|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:21|11|Aleksey Molochaev|Olga Sokolova|4|Morten Karjus|Eliise-Kristiina Altmäe|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:19|11|Viktor Novikov|Amina Nelidova|6|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:19|11|Viktor Novikov|Amina Nelidova|5|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:19|11|Viktor Novikov|Amina Nelidova|5|Leo Hölzmer|Leda Dominić|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|11|Artur Ajupov |Ramona Üprus|7|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|7|Artur Ajupov |Ramona Üprus|11|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|13|Artur Ajupov |Ramona Üprus|11|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles
+20171210|0:27|11|Artur Ajupov |Ramona Üprus|9|Danylo Skrynnik|Yelyzaveta Yakovlieva|7AB4C0E7-F1DC-45C4-AC22-87B77C7D3ACB|doubles

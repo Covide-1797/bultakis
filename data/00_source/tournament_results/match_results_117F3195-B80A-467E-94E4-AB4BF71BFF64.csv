@@ -1,0 +1,937 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20170321|0:18|21|Zhuge Lukai|Pan Beibei|8|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:18|21|Zhuge Lukai|Pan Beibei|7|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Pham Trung Luan|Pham Ngoc Bich|17|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|22|Pham Trung Luan|Pham Ngoc Bich|20|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Nguyen Van Viet|Do Thi Hoai|10|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Nguyen Van Viet|Do Thi Hoai|17|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|18|Nguyen Hoang Anh|Nguyen Thi Be Tram|21|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|13|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|11|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:20|21|An Thanh Huy|Tran Thi Yen Chi|7|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:20|21|An Thanh Huy|Tran Thi Yen Chi|8|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|1:00|21|Koji Naito|none|23|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|21|Koji Naito|none|19|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|21|Koji Naito|none|11|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:26|21|Nguyen Xuan Manh|none|17|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:26|21|Nguyen Xuan Manh|none|12|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:20|21|Bodhit Joshi |none|6|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:20|21|Bodhit Joshi |none|12|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|23|Fahmi Mubarok|none|21|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Fahmi Mubarok|none|10|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Lishwan Mudukasan |none|14|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Lishwan Mudukasan |none|7|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Chuang Jin Lei |none|7|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Chuang Jin Lei |none|6|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|21|Teh Jia Heng Jason|none|18|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|21|Teh Jia Heng Jason|none|11|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:19|21|An Junchen|none|8|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:19|21|An Junchen|none|12|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:48|21|Setthanan Piyawatcharavijit|none|13|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:48|17|Setthanan Piyawatcharavijit|none|21|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:48|21|Setthanan Piyawatcharavijit|none|17|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:30|21|Koh Jia Wei Joel|none|14|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:30|21|Koh Jia Wei Joel|none|12|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Liu Haichao|none|7|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Liu Haichao|none|15|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Tay Jimmy, Yu Lun|none|15|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Tay Jimmy, Yu Lun|none|10|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|21|Phanuwat Srimanta |none|12|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|26|Phanuwat Srimanta |none|24|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:29|21|Peeranat Boontun|none|10|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:29|21|Peeranat Boontun|none|14|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Tan Muhammad Elaf Wei|none|19|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Tan Muhammad Elaf Wei|none|14|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:37|21|Hooi Yue Yann Jaslyn|none|14|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:37|22|Hooi Yue Yann Jaslyn|none|20|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:26|21|Nguyen Thi Sen |none|9|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:26|21|Nguyen Thi Sen |none|16|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:54|21|Manassanan Lerthattasin|none|19|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:54|22|Manassanan Lerthattasin|none|24|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:54|21|Manassanan Lerthattasin|none|13|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:26|22|Benyapa Aimsaard|none|20|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:26|21|Benyapa Aimsaard|none|18|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Nuntakarn Aimsaard |none|10|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Nuntakarn Aimsaard |none|9|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Lim Ming Hui|none|11|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Lim Ming Hui|none|12|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:06|19|Sarah Joy Barredo |none|21|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:06|21|Sarah Joy Barredo |none|16|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:06|21|Sarah Joy Barredo |none|18|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:52|15|Dao Manh Thang|Le Ha Anh|21|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:52|26|Dao Manh Thang|Le Ha Anh|24|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:52|21|Dao Manh Thang|Le Ha Anh|16|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Keiichiro Matsui|Masato Takano|8|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Keiichiro Matsui|Masato Takano|17|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:18|21|Chen Sihang|Shi Longfei|8|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:18|21|Chen Sihang|Shi Longfei|9|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Le Van Tu|Luong Tuan Huy|19|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Le Van Tu|Luong Tuan Huy|17|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Nguyen Hoang Anh|Tran Quoc Viet|18|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|22|Nguyen Hoang Anh|Tran Quoc Viet|20|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|15|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|17|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:22|21|Shia Chun Kang|Riky Widianto|9|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:22|21|Shia Chun Kang|Riky Widianto|12|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Shao Jingjing|Xu Yingchao|4|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:30|21|Shao Jingjing|Xu Yingchao|5|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|16|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|2|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170321|0:35|21|Nguyen Tien Minh |none|18|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Nguyen Tien Minh |none|17|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:27|21|Koji Naito|none|12|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:27|21|Koji Naito|none|6|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:27|21|Bodhit Joshi|none|14|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:27|21|Bodhit Joshi|none|13|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:22|21|Pannawit Thongnuam |none|14|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:22|21|Pannawit Thongnuam |none|6|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|13|Enzi Shafira|none|21|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|21|Enzi Shafira|none|18|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|21|Enzi Shafira|none|16|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:40|21|Chen Chun-Wei |none|19|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:40|21|Chen Chun-Wei |none|14|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:47|21|Liu Haichao|none|8|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:47|19|Liu Haichao|none|21|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:47|21|Liu Haichao|none|16|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:45|21|Suppanyu Avihingsanon |none|14|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:45|22|Suppanyu Avihingsanon |none|20|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:40|21|Fikri Ihsandi Hadmadi |none|18|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:40|21|Fikri Ihsandi Hadmadi |none|16|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|22|Aljallad Ahmad|none|20|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Aljallad Ahmad|none|19|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|21|Abhishek Yelegar |none|17|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|21|Abhishek Yelegar |none|14|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:29|21|Kuo Ching-Hung|none|9|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:29|21|Kuo Ching-Hung|none|15|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|21|Chico Aura Dwi Wardoyo|none|11|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|16|Chico Aura Dwi Wardoyo|none|21|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|21|Chico Aura Dwi Wardoyo|none|17|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:41|21|Lin Chia Hsuan|none|19|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:41|21|Lin Chia Hsuan|none|17|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:24|21|Kunlavut Vitidsarn|none|8|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:24|21|Kunlavut Vitidsarn|none|11|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|21|Cheam June Wei|none|15|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|15|Cheam June Wei|none|21|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:00|21|Cheam June Wei|none|16|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Yang Chih Chieh|none|6|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Yang Chih Chieh|none|19|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:30|21|Chuang Jin Lei|none|15|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:30|21|Chuang Jin Lei|none|19|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Le Duc Phat|none|18|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Le Duc Phat|none|12|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Siril Verma |none|8|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:25|21|Siril Verma |none|10|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Adulrach Namkul|none|15|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Adulrach Namkul|none|11|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Panji Ahmad Maulana |none|19|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Panji Ahmad Maulana |none|12|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:42|21|Pham Cao Cuong|none|19|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:42|21|Pham Cao Cuong|none|16|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|21|Krishna Adi Nugraha |none|18|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:33|21|Krishna Adi Nugraha |none|17|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:48|21|Fahmi Mubarok|none|17|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:48|19|Fahmi Mubarok|none|21|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:48|21|Fahmi Mubarok|none|13|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Hsueh Hsuan Yi |none|13|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:35|21|Hsueh Hsuan Yi |none|16|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|19|Andre Marteen|none|21|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|21|Andre Marteen|none|12|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|21|Andre Marteen|none|9|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:20|19|Ryotaro Maruo|none|21|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:20|21|Ryotaro Maruo|none|19|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|1:20|21|Ryotaro Maruo|none|16|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|21|Mahbub Thomi Azizan|none|19|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|15|Mahbub Thomi Azizan|none|21|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:50|21|Mahbub Thomi Azizan|none|14|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:40|21|Khosit Phetpradab |none|10|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170321|0:40|21|Khosit Phetpradab |none|17|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:18|21|Zhuge Lukai|Pan Beibei|8|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:18|21|Zhuge Lukai|Pan Beibei|7|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Pham Trung Luan|Pham Ngoc Bich|17|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|22|Pham Trung Luan|Pham Ngoc Bich|20|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Nguyen Van Viet|Do Thi Hoai|10|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Nguyen Van Viet|Do Thi Hoai|17|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|18|Nguyen Hoang Anh|Nguyen Thi Be Tram|21|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|13|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|11|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:20|21|An Thanh Huy|Tran Thi Yen Chi|7|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:20|21|An Thanh Huy|Tran Thi Yen Chi|8|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|1:00|21|Koji Naito|none|23|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|21|Koji Naito|none|19|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|21|Koji Naito|none|11|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:26|21|Nguyen Xuan Manh|none|17|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:26|21|Nguyen Xuan Manh|none|12|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:20|21|Bodhit Joshi |none|6|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:20|21|Bodhit Joshi |none|12|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|23|Fahmi Mubarok|none|21|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Fahmi Mubarok|none|10|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Lishwan Mudukasan |none|14|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Lishwan Mudukasan |none|7|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Chuang Jin Lei |none|7|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Chuang Jin Lei |none|6|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|21|Teh Jia Heng Jason|none|18|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|21|Teh Jia Heng Jason|none|11|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:19|21|An Junchen|none|8|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:19|21|An Junchen|none|12|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:48|21|Setthanan Piyawatcharavijit|none|13|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:48|17|Setthanan Piyawatcharavijit|none|21|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:48|21|Setthanan Piyawatcharavijit|none|17|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:30|21|Koh Jia Wei Joel|none|14|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:30|21|Koh Jia Wei Joel|none|12|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Liu Haichao|none|7|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Liu Haichao|none|15|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Tay Jimmy, Yu Lun|none|15|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Tay Jimmy, Yu Lun|none|10|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|21|Phanuwat Srimanta |none|12|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|26|Phanuwat Srimanta |none|24|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:29|21|Peeranat Boontun|none|10|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:29|21|Peeranat Boontun|none|14|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Tan Muhammad Elaf Wei|none|19|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Tan Muhammad Elaf Wei|none|14|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:37|21|Hooi Yue Yann Jaslyn|none|14|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:37|22|Hooi Yue Yann Jaslyn|none|20|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:26|21|Nguyen Thi Sen |none|9|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:26|21|Nguyen Thi Sen |none|16|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:54|21|Manassanan Lerthattasin|none|19|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:54|22|Manassanan Lerthattasin|none|24|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:54|21|Manassanan Lerthattasin|none|13|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:26|22|Benyapa Aimsaard|none|20|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:26|21|Benyapa Aimsaard|none|18|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Nuntakarn Aimsaard |none|10|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Nuntakarn Aimsaard |none|9|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Lim Ming Hui|none|11|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Lim Ming Hui|none|12|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:06|19|Sarah Joy Barredo |none|21|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:06|21|Sarah Joy Barredo |none|16|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:06|21|Sarah Joy Barredo |none|18|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:52|15|Dao Manh Thang|Le Ha Anh|21|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:52|26|Dao Manh Thang|Le Ha Anh|24|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:52|21|Dao Manh Thang|Le Ha Anh|16|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Keiichiro Matsui|Masato Takano|8|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Keiichiro Matsui|Masato Takano|17|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:18|21|Chen Sihang|Shi Longfei|8|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:18|21|Chen Sihang|Shi Longfei|9|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Le Van Tu|Luong Tuan Huy|19|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Le Van Tu|Luong Tuan Huy|17|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Nguyen Hoang Anh|Tran Quoc Viet|18|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|22|Nguyen Hoang Anh|Tran Quoc Viet|20|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|15|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|17|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:22|21|Shia Chun Kang|Riky Widianto|9|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:22|21|Shia Chun Kang|Riky Widianto|12|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Shao Jingjing|Xu Yingchao|4|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:30|21|Shao Jingjing|Xu Yingchao|5|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|16|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|2|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170322|0:35|21|Nguyen Tien Minh |none|18|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Nguyen Tien Minh |none|17|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:27|21|Koji Naito|none|12|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:27|21|Koji Naito|none|6|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:27|21|Bodhit Joshi|none|14|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:27|21|Bodhit Joshi|none|13|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:22|21|Pannawit Thongnuam |none|14|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:22|21|Pannawit Thongnuam |none|6|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|13|Enzi Shafira|none|21|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|21|Enzi Shafira|none|18|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|21|Enzi Shafira|none|16|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:40|21|Chen Chun-Wei |none|19|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:40|21|Chen Chun-Wei |none|14|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:47|21|Liu Haichao|none|8|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:47|19|Liu Haichao|none|21|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:47|21|Liu Haichao|none|16|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:45|21|Suppanyu Avihingsanon |none|14|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:45|22|Suppanyu Avihingsanon |none|20|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:40|21|Fikri Ihsandi Hadmadi |none|18|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:40|21|Fikri Ihsandi Hadmadi |none|16|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|22|Aljallad Ahmad|none|20|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Aljallad Ahmad|none|19|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|21|Abhishek Yelegar |none|17|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|21|Abhishek Yelegar |none|14|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:29|21|Kuo Ching-Hung|none|9|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:29|21|Kuo Ching-Hung|none|15|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|21|Chico Aura Dwi Wardoyo|none|11|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|16|Chico Aura Dwi Wardoyo|none|21|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|21|Chico Aura Dwi Wardoyo|none|17|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:41|21|Lin Chia Hsuan|none|19|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:41|21|Lin Chia Hsuan|none|17|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:24|21|Kunlavut Vitidsarn|none|8|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:24|21|Kunlavut Vitidsarn|none|11|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|21|Cheam June Wei|none|15|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|15|Cheam June Wei|none|21|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:00|21|Cheam June Wei|none|16|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Yang Chih Chieh|none|6|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Yang Chih Chieh|none|19|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:30|21|Chuang Jin Lei|none|15|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:30|21|Chuang Jin Lei|none|19|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Le Duc Phat|none|18|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Le Duc Phat|none|12|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Siril Verma |none|8|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:25|21|Siril Verma |none|10|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Adulrach Namkul|none|15|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Adulrach Namkul|none|11|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Panji Ahmad Maulana |none|19|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Panji Ahmad Maulana |none|12|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:42|21|Pham Cao Cuong|none|19|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:42|21|Pham Cao Cuong|none|16|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|21|Krishna Adi Nugraha |none|18|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:33|21|Krishna Adi Nugraha |none|17|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:48|21|Fahmi Mubarok|none|17|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:48|19|Fahmi Mubarok|none|21|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:48|21|Fahmi Mubarok|none|13|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Hsueh Hsuan Yi |none|13|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:35|21|Hsueh Hsuan Yi |none|16|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|19|Andre Marteen|none|21|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|21|Andre Marteen|none|12|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|21|Andre Marteen|none|9|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:20|19|Ryotaro Maruo|none|21|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:20|21|Ryotaro Maruo|none|19|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|1:20|21|Ryotaro Maruo|none|16|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|21|Mahbub Thomi Azizan|none|19|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|15|Mahbub Thomi Azizan|none|21|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:50|21|Mahbub Thomi Azizan|none|14|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:40|21|Khosit Phetpradab |none|10|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170322|0:40|21|Khosit Phetpradab |none|17|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:18|21|Zhuge Lukai|Pan Beibei|8|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:18|21|Zhuge Lukai|Pan Beibei|7|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Pham Trung Luan|Pham Ngoc Bich|17|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|22|Pham Trung Luan|Pham Ngoc Bich|20|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Nguyen Van Viet|Do Thi Hoai|10|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Nguyen Van Viet|Do Thi Hoai|17|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|18|Nguyen Hoang Anh|Nguyen Thi Be Tram|21|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|13|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|11|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:20|21|An Thanh Huy|Tran Thi Yen Chi|7|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:20|21|An Thanh Huy|Tran Thi Yen Chi|8|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|1:00|21|Koji Naito|none|23|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|21|Koji Naito|none|19|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|21|Koji Naito|none|11|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:26|21|Nguyen Xuan Manh|none|17|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:26|21|Nguyen Xuan Manh|none|12|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:20|21|Bodhit Joshi |none|6|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:20|21|Bodhit Joshi |none|12|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|23|Fahmi Mubarok|none|21|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Fahmi Mubarok|none|10|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Lishwan Mudukasan |none|14|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Lishwan Mudukasan |none|7|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Chuang Jin Lei |none|7|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Chuang Jin Lei |none|6|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|21|Teh Jia Heng Jason|none|18|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|21|Teh Jia Heng Jason|none|11|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:19|21|An Junchen|none|8|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:19|21|An Junchen|none|12|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:48|21|Setthanan Piyawatcharavijit|none|13|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:48|17|Setthanan Piyawatcharavijit|none|21|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:48|21|Setthanan Piyawatcharavijit|none|17|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:30|21|Koh Jia Wei Joel|none|14|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:30|21|Koh Jia Wei Joel|none|12|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Liu Haichao|none|7|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Liu Haichao|none|15|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Tay Jimmy, Yu Lun|none|15|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Tay Jimmy, Yu Lun|none|10|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|21|Phanuwat Srimanta |none|12|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|26|Phanuwat Srimanta |none|24|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:29|21|Peeranat Boontun|none|10|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:29|21|Peeranat Boontun|none|14|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Tan Muhammad Elaf Wei|none|19|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Tan Muhammad Elaf Wei|none|14|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:37|21|Hooi Yue Yann Jaslyn|none|14|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:37|22|Hooi Yue Yann Jaslyn|none|20|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:26|21|Nguyen Thi Sen |none|9|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:26|21|Nguyen Thi Sen |none|16|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:54|21|Manassanan Lerthattasin|none|19|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:54|22|Manassanan Lerthattasin|none|24|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:54|21|Manassanan Lerthattasin|none|13|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:26|22|Benyapa Aimsaard|none|20|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:26|21|Benyapa Aimsaard|none|18|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Nuntakarn Aimsaard |none|10|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Nuntakarn Aimsaard |none|9|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Lim Ming Hui|none|11|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Lim Ming Hui|none|12|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:06|19|Sarah Joy Barredo |none|21|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:06|21|Sarah Joy Barredo |none|16|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:06|21|Sarah Joy Barredo |none|18|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:52|15|Dao Manh Thang|Le Ha Anh|21|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:52|26|Dao Manh Thang|Le Ha Anh|24|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:52|21|Dao Manh Thang|Le Ha Anh|16|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Keiichiro Matsui|Masato Takano|8|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Keiichiro Matsui|Masato Takano|17|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:18|21|Chen Sihang|Shi Longfei|8|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:18|21|Chen Sihang|Shi Longfei|9|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Le Van Tu|Luong Tuan Huy|19|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Le Van Tu|Luong Tuan Huy|17|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Nguyen Hoang Anh|Tran Quoc Viet|18|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|22|Nguyen Hoang Anh|Tran Quoc Viet|20|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|15|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|17|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:22|21|Shia Chun Kang|Riky Widianto|9|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:22|21|Shia Chun Kang|Riky Widianto|12|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Shao Jingjing|Xu Yingchao|4|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:30|21|Shao Jingjing|Xu Yingchao|5|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|16|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|2|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170323|0:35|21|Nguyen Tien Minh |none|18|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Nguyen Tien Minh |none|17|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:27|21|Koji Naito|none|12|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:27|21|Koji Naito|none|6|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:27|21|Bodhit Joshi|none|14|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:27|21|Bodhit Joshi|none|13|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:22|21|Pannawit Thongnuam |none|14|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:22|21|Pannawit Thongnuam |none|6|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|13|Enzi Shafira|none|21|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|21|Enzi Shafira|none|18|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|21|Enzi Shafira|none|16|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:40|21|Chen Chun-Wei |none|19|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:40|21|Chen Chun-Wei |none|14|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:47|21|Liu Haichao|none|8|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:47|19|Liu Haichao|none|21|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:47|21|Liu Haichao|none|16|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:45|21|Suppanyu Avihingsanon |none|14|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:45|22|Suppanyu Avihingsanon |none|20|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:40|21|Fikri Ihsandi Hadmadi |none|18|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:40|21|Fikri Ihsandi Hadmadi |none|16|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|22|Aljallad Ahmad|none|20|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Aljallad Ahmad|none|19|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|21|Abhishek Yelegar |none|17|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|21|Abhishek Yelegar |none|14|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:29|21|Kuo Ching-Hung|none|9|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:29|21|Kuo Ching-Hung|none|15|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|21|Chico Aura Dwi Wardoyo|none|11|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|16|Chico Aura Dwi Wardoyo|none|21|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|21|Chico Aura Dwi Wardoyo|none|17|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:41|21|Lin Chia Hsuan|none|19|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:41|21|Lin Chia Hsuan|none|17|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:24|21|Kunlavut Vitidsarn|none|8|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:24|21|Kunlavut Vitidsarn|none|11|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|21|Cheam June Wei|none|15|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|15|Cheam June Wei|none|21|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:00|21|Cheam June Wei|none|16|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Yang Chih Chieh|none|6|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Yang Chih Chieh|none|19|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:30|21|Chuang Jin Lei|none|15|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:30|21|Chuang Jin Lei|none|19|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Le Duc Phat|none|18|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Le Duc Phat|none|12|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Siril Verma |none|8|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:25|21|Siril Verma |none|10|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Adulrach Namkul|none|15|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Adulrach Namkul|none|11|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Panji Ahmad Maulana |none|19|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Panji Ahmad Maulana |none|12|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:42|21|Pham Cao Cuong|none|19|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:42|21|Pham Cao Cuong|none|16|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|21|Krishna Adi Nugraha |none|18|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:33|21|Krishna Adi Nugraha |none|17|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:48|21|Fahmi Mubarok|none|17|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:48|19|Fahmi Mubarok|none|21|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:48|21|Fahmi Mubarok|none|13|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Hsueh Hsuan Yi |none|13|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:35|21|Hsueh Hsuan Yi |none|16|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|19|Andre Marteen|none|21|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|21|Andre Marteen|none|12|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|21|Andre Marteen|none|9|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:20|19|Ryotaro Maruo|none|21|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:20|21|Ryotaro Maruo|none|19|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|1:20|21|Ryotaro Maruo|none|16|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|21|Mahbub Thomi Azizan|none|19|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|15|Mahbub Thomi Azizan|none|21|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:50|21|Mahbub Thomi Azizan|none|14|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:40|21|Khosit Phetpradab |none|10|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170323|0:40|21|Khosit Phetpradab |none|17|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:18|21|Zhuge Lukai|Pan Beibei|8|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:18|21|Zhuge Lukai|Pan Beibei|7|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Pham Trung Luan|Pham Ngoc Bich|17|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|22|Pham Trung Luan|Pham Ngoc Bich|20|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Nguyen Van Viet|Do Thi Hoai|10|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Nguyen Van Viet|Do Thi Hoai|17|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|18|Nguyen Hoang Anh|Nguyen Thi Be Tram|21|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|13|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|11|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:20|21|An Thanh Huy|Tran Thi Yen Chi|7|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:20|21|An Thanh Huy|Tran Thi Yen Chi|8|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|1:00|21|Koji Naito|none|23|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|21|Koji Naito|none|19|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|21|Koji Naito|none|11|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:26|21|Nguyen Xuan Manh|none|17|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:26|21|Nguyen Xuan Manh|none|12|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:20|21|Bodhit Joshi |none|6|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:20|21|Bodhit Joshi |none|12|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|23|Fahmi Mubarok|none|21|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Fahmi Mubarok|none|10|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Lishwan Mudukasan |none|14|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Lishwan Mudukasan |none|7|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Chuang Jin Lei |none|7|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Chuang Jin Lei |none|6|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|21|Teh Jia Heng Jason|none|18|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|21|Teh Jia Heng Jason|none|11|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:19|21|An Junchen|none|8|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:19|21|An Junchen|none|12|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:48|21|Setthanan Piyawatcharavijit|none|13|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:48|17|Setthanan Piyawatcharavijit|none|21|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:48|21|Setthanan Piyawatcharavijit|none|17|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:30|21|Koh Jia Wei Joel|none|14|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:30|21|Koh Jia Wei Joel|none|12|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Liu Haichao|none|7|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Liu Haichao|none|15|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Tay Jimmy, Yu Lun|none|15|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Tay Jimmy, Yu Lun|none|10|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|21|Phanuwat Srimanta |none|12|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|26|Phanuwat Srimanta |none|24|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:29|21|Peeranat Boontun|none|10|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:29|21|Peeranat Boontun|none|14|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Tan Muhammad Elaf Wei|none|19|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Tan Muhammad Elaf Wei|none|14|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:37|21|Hooi Yue Yann Jaslyn|none|14|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:37|22|Hooi Yue Yann Jaslyn|none|20|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:26|21|Nguyen Thi Sen |none|9|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:26|21|Nguyen Thi Sen |none|16|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:54|21|Manassanan Lerthattasin|none|19|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:54|22|Manassanan Lerthattasin|none|24|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:54|21|Manassanan Lerthattasin|none|13|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:26|22|Benyapa Aimsaard|none|20|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:26|21|Benyapa Aimsaard|none|18|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Nuntakarn Aimsaard |none|10|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Nuntakarn Aimsaard |none|9|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Lim Ming Hui|none|11|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Lim Ming Hui|none|12|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:06|19|Sarah Joy Barredo |none|21|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:06|21|Sarah Joy Barredo |none|16|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:06|21|Sarah Joy Barredo |none|18|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:52|15|Dao Manh Thang|Le Ha Anh|21|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:52|26|Dao Manh Thang|Le Ha Anh|24|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:52|21|Dao Manh Thang|Le Ha Anh|16|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Keiichiro Matsui|Masato Takano|8|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Keiichiro Matsui|Masato Takano|17|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:18|21|Chen Sihang|Shi Longfei|8|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:18|21|Chen Sihang|Shi Longfei|9|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Le Van Tu|Luong Tuan Huy|19|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Le Van Tu|Luong Tuan Huy|17|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Nguyen Hoang Anh|Tran Quoc Viet|18|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|22|Nguyen Hoang Anh|Tran Quoc Viet|20|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|15|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|17|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:22|21|Shia Chun Kang|Riky Widianto|9|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:22|21|Shia Chun Kang|Riky Widianto|12|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Shao Jingjing|Xu Yingchao|4|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:30|21|Shao Jingjing|Xu Yingchao|5|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|16|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|2|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170324|0:35|21|Nguyen Tien Minh |none|18|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Nguyen Tien Minh |none|17|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:27|21|Koji Naito|none|12|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:27|21|Koji Naito|none|6|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:27|21|Bodhit Joshi|none|14|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:27|21|Bodhit Joshi|none|13|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:22|21|Pannawit Thongnuam |none|14|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:22|21|Pannawit Thongnuam |none|6|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|13|Enzi Shafira|none|21|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|21|Enzi Shafira|none|18|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|21|Enzi Shafira|none|16|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:40|21|Chen Chun-Wei |none|19|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:40|21|Chen Chun-Wei |none|14|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:47|21|Liu Haichao|none|8|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:47|19|Liu Haichao|none|21|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:47|21|Liu Haichao|none|16|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:45|21|Suppanyu Avihingsanon |none|14|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:45|22|Suppanyu Avihingsanon |none|20|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:40|21|Fikri Ihsandi Hadmadi |none|18|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:40|21|Fikri Ihsandi Hadmadi |none|16|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|22|Aljallad Ahmad|none|20|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Aljallad Ahmad|none|19|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|21|Abhishek Yelegar |none|17|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|21|Abhishek Yelegar |none|14|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:29|21|Kuo Ching-Hung|none|9|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:29|21|Kuo Ching-Hung|none|15|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|21|Chico Aura Dwi Wardoyo|none|11|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|16|Chico Aura Dwi Wardoyo|none|21|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|21|Chico Aura Dwi Wardoyo|none|17|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:41|21|Lin Chia Hsuan|none|19|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:41|21|Lin Chia Hsuan|none|17|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:24|21|Kunlavut Vitidsarn|none|8|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:24|21|Kunlavut Vitidsarn|none|11|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|21|Cheam June Wei|none|15|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|15|Cheam June Wei|none|21|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:00|21|Cheam June Wei|none|16|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Yang Chih Chieh|none|6|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Yang Chih Chieh|none|19|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:30|21|Chuang Jin Lei|none|15|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:30|21|Chuang Jin Lei|none|19|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Le Duc Phat|none|18|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Le Duc Phat|none|12|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Siril Verma |none|8|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:25|21|Siril Verma |none|10|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Adulrach Namkul|none|15|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Adulrach Namkul|none|11|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Panji Ahmad Maulana |none|19|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Panji Ahmad Maulana |none|12|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:42|21|Pham Cao Cuong|none|19|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:42|21|Pham Cao Cuong|none|16|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|21|Krishna Adi Nugraha |none|18|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:33|21|Krishna Adi Nugraha |none|17|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:48|21|Fahmi Mubarok|none|17|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:48|19|Fahmi Mubarok|none|21|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:48|21|Fahmi Mubarok|none|13|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Hsueh Hsuan Yi |none|13|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:35|21|Hsueh Hsuan Yi |none|16|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|19|Andre Marteen|none|21|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|21|Andre Marteen|none|12|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|21|Andre Marteen|none|9|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:20|19|Ryotaro Maruo|none|21|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:20|21|Ryotaro Maruo|none|19|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|1:20|21|Ryotaro Maruo|none|16|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|21|Mahbub Thomi Azizan|none|19|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|15|Mahbub Thomi Azizan|none|21|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:50|21|Mahbub Thomi Azizan|none|14|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:40|21|Khosit Phetpradab |none|10|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170324|0:40|21|Khosit Phetpradab |none|17|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:18|21|Zhuge Lukai|Pan Beibei|8|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:18|21|Zhuge Lukai|Pan Beibei|7|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Pham Trung Luan|Pham Ngoc Bich|17|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|22|Pham Trung Luan|Pham Ngoc Bich|20|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Nguyen Van Viet|Do Thi Hoai|10|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Nguyen Van Viet|Do Thi Hoai|17|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|18|Nguyen Hoang Anh|Nguyen Thi Be Tram|21|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|13|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|11|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:20|21|An Thanh Huy|Tran Thi Yen Chi|7|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:20|21|An Thanh Huy|Tran Thi Yen Chi|8|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|1:00|21|Koji Naito|none|23|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|21|Koji Naito|none|19|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|21|Koji Naito|none|11|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:26|21|Nguyen Xuan Manh|none|17|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:26|21|Nguyen Xuan Manh|none|12|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:20|21|Bodhit Joshi |none|6|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:20|21|Bodhit Joshi |none|12|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|23|Fahmi Mubarok|none|21|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Fahmi Mubarok|none|10|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Lishwan Mudukasan |none|14|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Lishwan Mudukasan |none|7|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Chuang Jin Lei |none|7|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Chuang Jin Lei |none|6|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|21|Teh Jia Heng Jason|none|18|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|21|Teh Jia Heng Jason|none|11|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:19|21|An Junchen|none|8|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:19|21|An Junchen|none|12|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:48|21|Setthanan Piyawatcharavijit|none|13|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:48|17|Setthanan Piyawatcharavijit|none|21|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:48|21|Setthanan Piyawatcharavijit|none|17|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:30|21|Koh Jia Wei Joel|none|14|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:30|21|Koh Jia Wei Joel|none|12|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Liu Haichao|none|7|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Liu Haichao|none|15|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Tay Jimmy, Yu Lun|none|15|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Tay Jimmy, Yu Lun|none|10|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|21|Phanuwat Srimanta |none|12|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|26|Phanuwat Srimanta |none|24|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:29|21|Peeranat Boontun|none|10|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:29|21|Peeranat Boontun|none|14|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Tan Muhammad Elaf Wei|none|19|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Tan Muhammad Elaf Wei|none|14|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:37|21|Hooi Yue Yann Jaslyn|none|14|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:37|22|Hooi Yue Yann Jaslyn|none|20|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:26|21|Nguyen Thi Sen |none|9|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:26|21|Nguyen Thi Sen |none|16|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:54|21|Manassanan Lerthattasin|none|19|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:54|22|Manassanan Lerthattasin|none|24|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:54|21|Manassanan Lerthattasin|none|13|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:26|22|Benyapa Aimsaard|none|20|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:26|21|Benyapa Aimsaard|none|18|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Nuntakarn Aimsaard |none|10|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Nuntakarn Aimsaard |none|9|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Lim Ming Hui|none|11|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Lim Ming Hui|none|12|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:06|19|Sarah Joy Barredo |none|21|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:06|21|Sarah Joy Barredo |none|16|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:06|21|Sarah Joy Barredo |none|18|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:52|15|Dao Manh Thang|Le Ha Anh|21|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:52|26|Dao Manh Thang|Le Ha Anh|24|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:52|21|Dao Manh Thang|Le Ha Anh|16|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Keiichiro Matsui|Masato Takano|8|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Keiichiro Matsui|Masato Takano|17|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:18|21|Chen Sihang|Shi Longfei|8|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:18|21|Chen Sihang|Shi Longfei|9|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Le Van Tu|Luong Tuan Huy|19|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Le Van Tu|Luong Tuan Huy|17|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Nguyen Hoang Anh|Tran Quoc Viet|18|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|22|Nguyen Hoang Anh|Tran Quoc Viet|20|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|15|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|17|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:22|21|Shia Chun Kang|Riky Widianto|9|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:22|21|Shia Chun Kang|Riky Widianto|12|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Shao Jingjing|Xu Yingchao|4|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:30|21|Shao Jingjing|Xu Yingchao|5|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|16|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|2|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170325|0:35|21|Nguyen Tien Minh |none|18|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Nguyen Tien Minh |none|17|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:27|21|Koji Naito|none|12|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:27|21|Koji Naito|none|6|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:27|21|Bodhit Joshi|none|14|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:27|21|Bodhit Joshi|none|13|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:22|21|Pannawit Thongnuam |none|14|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:22|21|Pannawit Thongnuam |none|6|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|13|Enzi Shafira|none|21|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|21|Enzi Shafira|none|18|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|21|Enzi Shafira|none|16|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:40|21|Chen Chun-Wei |none|19|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:40|21|Chen Chun-Wei |none|14|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:47|21|Liu Haichao|none|8|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:47|19|Liu Haichao|none|21|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:47|21|Liu Haichao|none|16|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:45|21|Suppanyu Avihingsanon |none|14|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:45|22|Suppanyu Avihingsanon |none|20|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:40|21|Fikri Ihsandi Hadmadi |none|18|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:40|21|Fikri Ihsandi Hadmadi |none|16|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|22|Aljallad Ahmad|none|20|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Aljallad Ahmad|none|19|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|21|Abhishek Yelegar |none|17|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|21|Abhishek Yelegar |none|14|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:29|21|Kuo Ching-Hung|none|9|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:29|21|Kuo Ching-Hung|none|15|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|21|Chico Aura Dwi Wardoyo|none|11|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|16|Chico Aura Dwi Wardoyo|none|21|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|21|Chico Aura Dwi Wardoyo|none|17|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:41|21|Lin Chia Hsuan|none|19|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:41|21|Lin Chia Hsuan|none|17|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:24|21|Kunlavut Vitidsarn|none|8|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:24|21|Kunlavut Vitidsarn|none|11|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|21|Cheam June Wei|none|15|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|15|Cheam June Wei|none|21|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:00|21|Cheam June Wei|none|16|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Yang Chih Chieh|none|6|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Yang Chih Chieh|none|19|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:30|21|Chuang Jin Lei|none|15|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:30|21|Chuang Jin Lei|none|19|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Le Duc Phat|none|18|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Le Duc Phat|none|12|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Siril Verma |none|8|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:25|21|Siril Verma |none|10|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Adulrach Namkul|none|15|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Adulrach Namkul|none|11|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Panji Ahmad Maulana |none|19|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Panji Ahmad Maulana |none|12|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:42|21|Pham Cao Cuong|none|19|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:42|21|Pham Cao Cuong|none|16|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|21|Krishna Adi Nugraha |none|18|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:33|21|Krishna Adi Nugraha |none|17|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:48|21|Fahmi Mubarok|none|17|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:48|19|Fahmi Mubarok|none|21|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:48|21|Fahmi Mubarok|none|13|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Hsueh Hsuan Yi |none|13|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:35|21|Hsueh Hsuan Yi |none|16|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|19|Andre Marteen|none|21|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|21|Andre Marteen|none|12|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|21|Andre Marteen|none|9|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:20|19|Ryotaro Maruo|none|21|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:20|21|Ryotaro Maruo|none|19|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|1:20|21|Ryotaro Maruo|none|16|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|21|Mahbub Thomi Azizan|none|19|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|15|Mahbub Thomi Azizan|none|21|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:50|21|Mahbub Thomi Azizan|none|14|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:40|21|Khosit Phetpradab |none|10|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170325|0:40|21|Khosit Phetpradab |none|17|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:18|21|Zhuge Lukai|Pan Beibei|8|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:18|21|Zhuge Lukai|Pan Beibei|7|Tran Ngoc Tuan Anh|Ho Thi Trang|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Pham Trung Luan|Pham Ngoc Bich|17|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|22|Pham Trung Luan|Pham Ngoc Bich|20|Zhao Jian|Jiang Yujing|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Nguyen Van Viet|Do Thi Hoai|10|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Nguyen Van Viet|Do Thi Hoai|17|Kuo Ching-Hung|Chen Hsiang Ting|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|18|Nguyen Hoang Anh|Nguyen Thi Be Tram|21|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|13|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Nguyen Hoang Anh|Nguyen Thi Be Tram|11|Keerati Likitanurucks|Nipada Punjae|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:20|21|An Thanh Huy|Tran Thi Yen Chi|7|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:20|21|An Thanh Huy|Tran Thi Yen Chi|8|Nguyen Chi Duc|Nguyen Thi Thu Minh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|1:00|21|Koji Naito|none|23|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|21|Koji Naito|none|19|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|21|Koji Naito|none|11|Saran Jamsri|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:26|21|Nguyen Xuan Manh|none|17|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:26|21|Nguyen Xuan Manh|none|12|Yusriazmi Yusuf|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:20|21|Bodhit Joshi |none|6|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:20|21|Bodhit Joshi |none|12|Nguyen Van Duc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|23|Fahmi Mubarok|none|21|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Fahmi Mubarok|none|10|Le Thanh Lam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Lishwan Mudukasan |none|14|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Lishwan Mudukasan |none|7|Luong Tuan Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Chuang Jin Lei |none|7|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Chuang Jin Lei |none|6|Nguyen Minh Hieu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:32|21|Tran Quoc Viet|none|17|Tan Li Bin|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|21|Teh Jia Heng Jason|none|18|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|21|Teh Jia Heng Jason|none|11|Nguyen Duc Giang [3]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:19|21|An Junchen|none|8|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:19|21|An Junchen|none|12|Nguyen Thien Loc|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:48|21|Setthanan Piyawatcharavijit|none|13|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:48|17|Setthanan Piyawatcharavijit|none|21|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:48|21|Setthanan Piyawatcharavijit|none|17|Nguyen Dinh Tuan Kiet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:30|21|Koh Jia Wei Joel|none|14|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:30|21|Koh Jia Wei Joel|none|12|Ros Leonard Pedrosa|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Liu Haichao|none|7|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Liu Haichao|none|15|Truong Thanh Long [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Tay Jimmy, Yu Lun|none|15|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Tay Jimmy, Yu Lun|none|10|Le Duy Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|21|Phanuwat Srimanta |none|12|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|26|Phanuwat Srimanta |none|24|Nguyen Thanh Son|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:29|21|Peeranat Boontun|none|10|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:29|21|Peeranat Boontun|none|14|Nguyen Hoang Nam|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Tan Muhammad Elaf Wei|none|19|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Tan Muhammad Elaf Wei|none|14|An Thanh Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:28|21|Isra Faradilla |none|8|Nguyen Thi Nhu Y|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:37|21|Hooi Yue Yann Jaslyn|none|14|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:37|22|Hooi Yue Yann Jaslyn|none|20|Dinh Thi Phuong Hong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:26|21|Nguyen Thi Sen |none|9|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:26|21|Nguyen Thi Sen |none|16|Krittaporn Jiantanet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:54|21|Manassanan Lerthattasin|none|19|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:54|22|Manassanan Lerthattasin|none|24|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:54|21|Manassanan Lerthattasin|none|13|Jiang Yujing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:26|22|Benyapa Aimsaard|none|20|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:26|21|Benyapa Aimsaard|none|18|Yang Lan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Nuntakarn Aimsaard |none|10|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Nuntakarn Aimsaard |none|9|Nguyen Thi Ngoc Thuy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Lim Ming Hui|none|11|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Lim Ming Hui|none|12|Peng Li Ting|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:06|19|Sarah Joy Barredo |none|21|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:06|21|Sarah Joy Barredo |none|16|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:06|21|Sarah Joy Barredo |none|18|Atitaya Povanon|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:52|15|Dao Manh Thang|Le Ha Anh|21|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:52|26|Dao Manh Thang|Le Ha Anh|24|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:52|21|Dao Manh Thang|Le Ha Anh|16|Wachirawit Sothon|Natthapat Trinkajee|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Keiichiro Matsui|Masato Takano|8|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Keiichiro Matsui|Masato Takano|17|Tanawat Topattanakul|Natchanon Tulamok|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:18|21|Chen Sihang|Shi Longfei|8|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:18|21|Chen Sihang|Shi Longfei|9|Do Van Nhan|Nguyen Van Viet|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Le Van Tu|Luong Tuan Huy|19|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Le Van Tu|Luong Tuan Huy|17|Le Hoang Nhat Quang|Nguyen Phi Hung|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Nguyen Hoang Anh|Tran Quoc Viet|18|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|22|Nguyen Hoang Anh|Tran Quoc Viet|20|Chen Jia Huo|Kwek Yee Jian|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|15|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:26|21|Lee Jian Liang|Wong Guang Liang Jason|17|Le Thanh Lam|Nguyen Xuan Manh|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:22|21|Shia Chun Kang|Riky Widianto|9|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:22|21|Shia Chun Kang|Riky Widianto|12|Mohd Nazman Mohd Salleh|Yusriazmi Yusuf|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Shao Jingjing|Xu Yingchao|4|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:30|21|Shao Jingjing|Xu Yingchao|5|Nguyen Thi Nhu Y|Vu Thi Lan|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|16|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:25|21|Dinh Thi Phuong Hong|Do Thi Hoai|2|Lin Fangling|Zhu Tianyi|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:20|21|An Thanh Huy|Pham Trung Luan|11|Nguyen Minh Hieu|Nguyen Van Duc|117F3195-B80A-467E-94E4-AB4BF71BFF64|doubles
+20170326|0:35|21|Nguyen Tien Minh |none|18|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Nguyen Tien Minh |none|17|Reksy Aureza Megananda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:27|21|Koji Naito|none|12|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:27|21|Koji Naito|none|6|Noppanai Singrueang|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:17|21|Shesar Hiren Rhustavito |none|7|Hin Shun Wong|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:27|21|Bodhit Joshi|none|14|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:27|21|Bodhit Joshi|none|13|Timothy Chiu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:22|21|Pannawit Thongnuam |none|14|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:22|21|Pannawit Thongnuam |none|6|Tran Quoc Viet|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|13|Enzi Shafira|none|21|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|21|Enzi Shafira|none|18|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|21|Enzi Shafira|none|16|Satheishtharan R.|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:40|21|Chen Chun-Wei |none|19|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:40|21|Chen Chun-Wei |none|14|Kantawat Leelavechabutr|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:47|21|Liu Haichao|none|8|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:47|19|Liu Haichao|none|21|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:47|21|Liu Haichao|none|16|Mithun Manjunath|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:45|21|Suppanyu Avihingsanon |none|14|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:45|22|Suppanyu Avihingsanon |none|20|Lim Chi Wing|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:40|21|Fikri Ihsandi Hadmadi |none|18|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:40|21|Fikri Ihsandi Hadmadi |none|16|An Junchen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|22|Aljallad Ahmad|none|20|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Aljallad Ahmad|none|19|Hemanth M.Gowda|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|21|Abhishek Yelegar |none|17|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|21|Abhishek Yelegar |none|14|Setthanan Piyawatcharavijit|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:29|21|Kuo Ching-Hung|none|9|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:29|21|Kuo Ching-Hung|none|15|Lishwan Mudukasan|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|21|Chico Aura Dwi Wardoyo|none|11|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|16|Chico Aura Dwi Wardoyo|none|21|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|21|Chico Aura Dwi Wardoyo|none|17|Chong Yee Han|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:41|21|Lin Chia Hsuan|none|19|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:41|21|Lin Chia Hsuan|none|17|Vega Vio Nirwanda [13]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:22|21|Wisnu Yuli Prasetyo|none|10|Nguyen Xuan Manh|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:24|21|Kunlavut Vitidsarn|none|8|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:24|21|Kunlavut Vitidsarn|none|11|Tan Muhammad Elaf Wei|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|21|Cheam June Wei|none|15|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|15|Cheam June Wei|none|21|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:00|21|Cheam June Wei|none|16|Kantaphon Wangcharoen [14]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Yang Chih Chieh|none|6|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Yang Chih Chieh|none|19|Dang Quang Huy|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:30|21|Chuang Jin Lei|none|15|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:30|21|Chuang Jin Lei|none|19|Jacob Maliekal [5]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Le Duc Phat|none|18|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Le Duc Phat|none|12|Koh Jia Wei Joel|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Siril Verma |none|8|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:25|21|Siril Verma |none|10|Jaspar Woon Chai Yu|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Adulrach Namkul|none|15|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Adulrach Namkul|none|11|Chang En Chia|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Panji Ahmad Maulana |none|19|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Panji Ahmad Maulana |none|12|Peeranat Boontun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:42|21|Pham Cao Cuong|none|19|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:42|21|Pham Cao Cuong|none|16|Kittipong Imnark|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|21|Krishna Adi Nugraha |none|18|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:33|21|Krishna Adi Nugraha |none|17|Tay Jimmy, Yu Lun|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:48|21|Fahmi Mubarok|none|17|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:48|19|Fahmi Mubarok|none|21|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:48|21|Fahmi Mubarok|none|13|Soh Shi Xuan Dominic|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Hsueh Hsuan Yi |none|13|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:35|21|Hsueh Hsuan Yi |none|16|Korakrit Laotrakul|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|19|Andre Marteen|none|21|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|21|Andre Marteen|none|12|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|21|Andre Marteen|none|9|Phanuwat Srimanta|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:20|19|Ryotaro Maruo|none|21|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:20|21|Ryotaro Maruo|none|19|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|1:20|21|Ryotaro Maruo|none|16|Tan Chun Seang [15]|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|21|Mahbub Thomi Azizan|none|19|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|15|Mahbub Thomi Azizan|none|21|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:50|21|Mahbub Thomi Azizan|none|14|Chirag Sen|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:40|21|Khosit Phetpradab |none|10|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles
+20170326|0:40|21|Khosit Phetpradab |none|17|Teh Jia Heng Jason|none|117F3195-B80A-467E-94E4-AB4BF71BFF64|singles

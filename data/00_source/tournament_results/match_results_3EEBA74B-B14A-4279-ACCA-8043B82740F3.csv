@@ -1,0 +1,757 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20181019|0:22|21|Jonathan Dresp|Michelle Kanschik|14|Simon Habersack|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:22|21|Jonathan Dresp|Michelle Kanschik|9|Simon Habersack|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:19|21|Adam Šulc|Soňa Hořínková|18|Balint Papai|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:19|21|Adam Šulc|Soňa Hořínková|12|Balint Papai|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|21|Christian Tomic|Cloé Brand|18|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|19|Christian Tomic|Cloé Brand|21|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|21|Christian Tomic|Cloé Brand|18|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:16|21|Arthur Boudier|Julie Franconville|15|Štěpán Kalbáč|Sunčica Sertić|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:16|21|Arthur Boudier|Julie Franconville|10|Štěpán Kalbáč|Sunčica Sertić|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:33|21|David Smutný|Lucie Metzová|19|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:33|15|David Smutný|Lucie Metzová|21|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:33|21|David Smutný|Lucie Metzová|10|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Julian Blaumoser|Yasmine Hamza|11|Kenneth Neumann|Hannah Berge|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Julian Blaumoser|Yasmine Hamza|12|Kenneth Neumann|Hannah Berge|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Jannik Auberger|Karoline Pottendorfer|15|Andreas De Winné|Lotte Geerts|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Jannik Auberger|Karoline Pottendorfer|14|Andreas De Winné|Lotte Geerts|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:40|21|Ruben Garcia|Ania Setien|7|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:40|18|Ruben Garcia|Ania Setien|21|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:40|21|Ruben Garcia|Ania Setien|19|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|21|Kai Niederhuber|Emily Wu|15|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|16|Kai Niederhuber|Emily Wu|21|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|21|Kai Niederhuber|Emily Wu|12|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:34|21|Adrian Krawczyk|Julia Plawecka|13|Liam Bauwens|Karla Henry|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:34|21|Adrian Krawczyk|Julia Plawecka|9|Liam Bauwens|Karla Henry|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Salvador Franco|Candela Arcos|8|Franciszek Dabrowski|Magdalena Tatomir|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Salvador Franco|Candela Arcos|8|Franciszek Dabrowski|Magdalena Tatomir|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:36|21|Jarne Schlevoigt|Julia Meyer|19|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:36|9|Jarne Schlevoigt|Julia Meyer|21|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:36|21|Jarne Schlevoigt|Julia Meyer|10|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Pelayo Pinto|Carlota Viejo|10|Peter Radoczi|Sofia Slosiarikova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Pelayo Pinto|Carlota Viejo|15|Peter Radoczi|Sofia Slosiarikova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:19|21|Tobias Mickel|Florentine Schöffski|13|Iakovos Acheriotis|Kelly Van Buiten|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:19|21|Tobias Mickel|Florentine Schöffski|13|Iakovos Acheriotis|Kelly Van Buiten|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:30|21|Sebbe Huyghe|Mare Van Britsom|18|Bence Fazekas|Eszter Szanto|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:30|21|Sebbe Huyghe|Mare Van Britsom|18|Bence Fazekas|Eszter Szanto|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:40|20|Katharina Fink |none|22|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:40|21|Katharina Fink |none|13|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:40|21|Katharina Fink |none|6|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|22|Luisa Pagliara|none|20|Markéta Kohoutová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|21|Luisa Pagliara|none|10|Markéta Kohoutová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Ema Staňková |none|10|Johanna Höfle|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Ema Staňková |none|11|Johanna Höfle|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:29|21|Ida Melkerhed|none|12|Anna Maria Schneider|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:29|21|Ida Melkerhed|none|16|Anna Maria Schneider|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:40|21|Anna Natálie Kohoutová|none|14|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:40|15|Anna Natálie Kohoutová|none|21|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:40|21|Anna Natálie Kohoutová|none|18|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Kateřina Mikelová |none|11|Sunčica Sertić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Kateřina Mikelová |none|12|Sunčica Sertić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Mihaela Zlatanova|none|19|Anna Bereczkei|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Mihaela Zlatanova|none|11|Anna Bereczkei|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:25|21|Ruth Veiguela |none|16|Kim Schmidt|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:25|21|Ruth Veiguela |none|11|Kim Schmidt|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:51|15|Tanya Ivanova|none|21|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:51|23|Tanya Ivanova|none|21|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:51|21|Tanya Ivanova|none|15|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:54|14|Caroline Racloz|none|21|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:54|21|Caroline Racloz|none|19|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:54|21|Caroline Racloz|none|16|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:41|22|Karla Henry|none|24|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:41|21|Karla Henry|none|19|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:41|22|Karla Henry|none|20|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Petra Meszaros |none|13|Tabea Tirschmann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Petra Meszaros |none|17|Tabea Tirschmann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|22|Elin Boman|none|20|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|15|Elin Boman|none|21|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|21|Elin Boman|none|15|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|22|Michelle Kanschik|none|20|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|16|Michelle Kanschik|none|21|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|24|Michelle Kanschik|none|22|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|23|Mirjam Lindgarde|none|21|Julia Plawecka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Mirjam Lindgarde|none|9|Julia Plawecka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Leonie Schindler|none|18|Sofia Slosiarikova [12]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Leonie Schindler|none|13|Sofia Slosiarikova [12]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|22|Emily Wu|none|20|Friederike Panmai Rudert|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Emily Wu|none|18|Friederike Panmai Rudert|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:30|21|Julie Franconville |none|18|Yasmine Hamza|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:30|21|Julie Franconville |none|11|Yasmine Hamza|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Lien Lammertyn|none|15|Lucie Metzová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Lien Lammertyn|none|14|Lucie Metzová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:37|17|Mihaela Chepisheva |none|21|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:37|21|Mihaela Chepisheva |none|15|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:37|21|Mihaela Chepisheva |none|15|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Adina Panza|none|11|Mare Van Britsom|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Adina Panza|none|15|Mare Van Britsom|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Kirsten De Wit|none|11|Soňa Hořínková [13]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Kirsten De Wit|none|18|Soňa Hořínková [13]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:30|21|Florentine Schöffski|none|13|Candela Arcos|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:30|21|Florentine Schöffski|none|15|Candela Arcos|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:32|21|Catlyn Kruus |none|15|Lucie Amiguet|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:32|21|Catlyn Kruus |none|12|Lucie Amiguet|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|21|Maria De La O Perez|none|12|Jeni Jeleva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|22|Maria De La O Perez|none|20|Jeni Jeleva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Lucia Rodriguez |none|14|Panna Pytel|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Lucia Rodriguez |none|10|Panna Pytel|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Daria Zimnol|none|19|Lotte Geerts|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Daria Zimnol|none|14|Lotte Geerts|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:56|22|Kelly Van Buiten|none|20|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:56|16|Kelly Van Buiten|none|21|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:56|21|Kelly Van Buiten|none|17|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Carlota Viejo|none|9|Mia Kask|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Carlota Viejo|none|19|Mia Kask|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:32|21|Cloé Brand|none|15|Antonina Marszalek|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:32|21|Cloé Brand|none|7|Antonina Marszalek|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:18|21|Ania Setien|none|4|Luna Šaban|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:18|21|Ania Setien|none|6|Luna Šaban|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:30|26|Fenna Laros|none|24|Tamara Cvitkušić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:30|21|Fenna Laros|none|14|Tamara Cvitkušić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Jan Janoštík |none|9|Armin Sarosi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Jan Janoštík |none|9|Armin Sarosi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Pelayo Pinto|none|16|Jan Babnik|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Pelayo Pinto|none|16|Jan Babnik|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:22|21|Kilian Maurer |none|12|Levente Toth|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:22|21|Kilian Maurer |none|6|Levente Toth|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|21|Vratislav Erhart|none|16|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|15|Vratislav Erhart|none|21|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|21|Vratislav Erhart|none|16|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|21|Andrzej Niczyporuk |none|17|Kai Niederhuber|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|21|Andrzej Niczyporuk |none|16|Kai Niederhuber|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Justin Seibel|none|15|Bene Benjamin Kiss|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|22|Justin Seibel|none|20|Bene Benjamin Kiss|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:20|21|Tobias Mickel |none|7|Andreas Hadjisolomou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:20|21|Tobias Mickel |none|15|Andreas Hadjisolomou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:50|21|Alejandro De Pablo|none|13|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:50|17|Alejandro De Pablo|none|21|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:50|21|Alejandro De Pablo|none|13|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|26|Balint Papai |none|24|Adrian Krawczyk|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Balint Papai |none|10|Adrian Krawczyk|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:35|21|Arthur Boudier|none|18|Iakovos Acheriotis|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:35|21|Arthur Boudier|none|11|Iakovos Acheriotis|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Tauri Kilk |none|17|Liam Bauwens|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:27|21|Tauri Kilk |none|15|Liam Bauwens|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|14|Dominik Kopřiva|none|21|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|21|Dominik Kopřiva|none|11|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|21|Dominik Kopřiva|none|15|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:33|21|Yaro Van Delsen |none|19|Andrei Don|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:33|22|Yaro Van Delsen |none|20|Andrei Don|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|21|Jonathan Dresp|none|19|Jacobo Fernandez|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|21|Jonathan Dresp|none|19|Jacobo Fernandez|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:23|21|Fernando Civico |none|16|Peter Radoczi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:23|21|Fernando Civico |none|5|Peter Radoczi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:40|21|Joel Koch|none|15|Matěj Rzeplinski|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:40|30|Joel Koch|none|29|Matěj Rzeplinski|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|19|Jarne Schlevoigt|none|21|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|21|Jarne Schlevoigt|none|11|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|21|Jarne Schlevoigt|none|11|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:38|14|Matthias Schnabel|none|21|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:38|21|Matthias Schnabel|none|15|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:38|21|Matthias Schnabel|none|13|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:25|21|Christos Hailis|none|12|Nathaniel Zilka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:25|21|Christos Hailis|none|13|Nathaniel Zilka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:22|21|Kian-Yu Oei |none|11|David Slíva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:22|21|Kian-Yu Oei |none|8|David Slíva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:35|21|Sebestyen Nagy |none|17|Christian Tomic|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:35|21|Sebestyen Nagy |none|16|Christian Tomic|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:23|21|Julian Blaumoser|none|14|Constantinos Hadjigeorgiou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:23|21|Julian Blaumoser|none|16|Constantinos Hadjigeorgiou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|16|Tobias Bäuerle|none|21|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|21|Tobias Bäuerle|none|15|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:46|21|Tobias Bäuerle|none|18|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|21|Michael Tomic |none|10|Adam Konczol|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:31|21|Michael Tomic |none|14|Adam Konczol|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:24|21|Jannik Auberger|none|6|Daniel Ivanko|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:24|21|Jannik Auberger|none|16|Daniel Ivanko|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|21|Adam Ehm |none|19|Jens Näser|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|22|Adam Ehm |none|20|Jens Näser|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:39|21|Lukáš Franek|none|14|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:39|20|Lukáš Franek|none|22|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:39|21|Lukáš Franek|none|15|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Gabriel Fernandez |none|17|Adam Šulc|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:28|21|Gabriel Fernandez |none|17|Adam Šulc|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Mikolaj Piorkowski|none|11|Bence Fazekas|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Mikolaj Piorkowski|none|12|Bence Fazekas|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Kristof Toth |none|9|Lukas Kudlac|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:26|21|Kristof Toth |none|13|Lukas Kudlac|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|25|David Smutný|none|23|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|11|David Smutný|none|21|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:53|21|David Smutný|none|15|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:29|21|Artur Ajupov |none|13|Gal Bizjak|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:29|21|Artur Ajupov |none|14|Gal Bizjak|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181019|0:34|21|Marie Růžičková |Kateřina Valentová|15|Amber Derksen|Fenna Laros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:34|23|Marie Růžičková |Kateřina Valentová|21|Amber Derksen|Fenna Laros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:49|21|Jeni Jeleva|Victoria Vateva|16|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:49|17|Jeni Jeleva|Victoria Vateva|21|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:49|25|Jeni Jeleva|Victoria Vateva|23|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|21|Ira Misir |Sunčica Sertić|19|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|19|Ira Misir |Sunčica Sertić|21|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|21|Ira Misir |Sunčica Sertić|19|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:24|21|Julie Franconville|Caroline Racloz|13|Karla Henry|Luisa Pagliara|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:24|21|Julie Franconville|Caroline Racloz|10|Karla Henry|Luisa Pagliara|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Catlyn Kruus |Ramona Üprus|9|Friederike Panmai Rudert|Tabea Tirschmann|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Catlyn Kruus |Ramona Üprus|16|Friederike Panmai Rudert|Tabea Tirschmann|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Anna Natálie Kohoutová|Markéta Kohoutová|13|Zuzanna Luban|Antonina Marszalek|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Anna Natálie Kohoutová|Markéta Kohoutová|11|Zuzanna Luban|Antonina Marszalek|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:29|21|Elin Boman|Julia Tuvesson|9|Soňa Hořínková [5]|Ema Staňková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:29|21|Elin Boman|Julia Tuvesson|12|Soňa Hořínková [5]|Ema Staňková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Karoline Pottendorfer|Emily Wu|19|Mihaela Chepisheva|Monika Valcheva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Karoline Pottendorfer|Emily Wu|12|Mihaela Chepisheva|Monika Valcheva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:27|21|Kirsten De Wit|Kelly Van Buiten|5|Mirjam Lindgarde|Ida Melkerhed|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:27|21|Kirsten De Wit|Kelly Van Buiten|13|Mirjam Lindgarde|Ida Melkerhed|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:24|21|Katharina Fink |Yasmine Hamza|10|Malgorzata Muszynska|Aleksandra Wronska|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:24|21|Katharina Fink |Yasmine Hamza|10|Malgorzata Muszynska|Aleksandra Wronska|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|15|Julia Plawecka|Daria Zimnol|21|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|21|Julia Plawecka|Daria Zimnol|12|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|21|Julia Plawecka|Daria Zimnol|18|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Kateřina Mikelová |Nela Němcová|9|Mia Kask|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Kateřina Mikelová |Nela Němcová|11|Mia Kask|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:33|21|Cloé Brand|Adina Panza|13|Petra Meszaros|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:33|21|Cloé Brand|Adina Panza|19|Petra Meszaros|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:30|21|Tamara Cvitkušić |Luna Šaban|15|Lucie Metzová|Klára Petrušková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:30|21|Tamara Cvitkušić |Luna Šaban|12|Lucie Metzová|Klára Petrušková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:44|22|Leonie Schindler|Florentine Schöffski|20|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:44|16|Leonie Schindler|Florentine Schöffski|21|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:44|22|Leonie Schindler|Florentine Schöffski|20|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|21|Lien Lammertyn|Kim Schmidt|16|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|17|Lien Lammertyn|Kim Schmidt|21|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:42|21|Lien Lammertyn|Kim Schmidt|19|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Artur Ajupov |Tauri Kilk|19|Julian Blaumoser|Jens Näser|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Artur Ajupov |Tauri Kilk|15|Julian Blaumoser|Jens Näser|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:29|21|Adam Konczol|Balint Papai|16|Daniel Ivanko|Peter Radoczi|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:29|21|Adam Konczol|Balint Papai|14|Daniel Ivanko|Peter Radoczi|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Kilian Maurer|Jarne Schlevoigt|14|Matěj Rzeplinski [6]|David Smutný|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Kilian Maurer|Jarne Schlevoigt|6|Matěj Rzeplinski [6]|David Smutný|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:46|20|Justus Graumann|Rasmus Hommelgaard|22|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:46|21|Justus Graumann|Rasmus Hommelgaard|16|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:46|21|Justus Graumann|Rasmus Hommelgaard|19|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Alejandro De Pablo |Gabriel Fernandez|12|Armin Sarosi|Christian Tomic|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Alejandro De Pablo |Gabriel Fernandez|16|Armin Sarosi|Christian Tomic|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Iljo Van Delsen|Yaro Van Delsen|15|Iakovos Acheriotis|Christos Hailis|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:25|21|Iljo Van Delsen|Yaro Van Delsen|12|Iakovos Acheriotis|Christos Hailis|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Matthias Schnabel |Justin Seibel|12|Vratislav Erhart|Adam Šulc|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Matthias Schnabel |Justin Seibel|15|Vratislav Erhart|Adam Šulc|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|17|Arthur Boudier|Kopisangar Naganathan|21|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|21|Arthur Boudier|Kopisangar Naganathan|16|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:41|21|Arthur Boudier|Kopisangar Naganathan|16|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|26|Mael Dietrich|Joel Koch|24|David Butas|Lukas Kudlac|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Mael Dietrich|Joel Koch|11|David Butas|Lukas Kudlac|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Tobias Mickel |Kian-Yu Oei|15|Jannik Auberger|Tobias Bäuerle|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:28|21|Tobias Mickel |Kian-Yu Oei|15|Jannik Auberger|Tobias Bäuerle|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Andreas De Winné|Sebbe Huyghe|6|Zihao Zhai|Nathaniel Zilka|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:26|21|Andreas De Winné|Sebbe Huyghe|17|Zihao Zhai|Nathaniel Zilka|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:33|21|Kai Niederhuber |Michael Tomic|19|Jan Babnik|Gal Bizjak|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:33|21|Kai Niederhuber |Michael Tomic|19|Jan Babnik|Gal Bizjak|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:27|21|Bene Benjamin Kiss|Kristof Toth|18|Lukáš Franek|Jakub Matula|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:27|21|Bene Benjamin Kiss|Kristof Toth|16|Lukáš Franek|Jakub Matula|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:44|20|Jonathan Dresp|Kenneth Neumann|22|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:44|21|Jonathan Dresp|Kenneth Neumann|16|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:44|21|Jonathan Dresp|Kenneth Neumann|11|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:23|21|Fernando Civico|Salvador Franco|11|Štěpán Kalbáč|David Slíva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:23|21|Fernando Civico|Salvador Franco|16|Štěpán Kalbáč|David Slíva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:27|21|Mikolaj Piorkowski |Mikolaj Wrzalik|4|Andreas Hadjisolomou|Andreas Theodotou|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181019|0:27|21|Mikolaj Piorkowski |Mikolaj Wrzalik|3|Andreas Hadjisolomou|Andreas Theodotou|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:22|21|Jonathan Dresp|Michelle Kanschik|14|Simon Habersack|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:22|21|Jonathan Dresp|Michelle Kanschik|9|Simon Habersack|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:19|21|Adam Šulc|Soňa Hořínková|18|Balint Papai|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:19|21|Adam Šulc|Soňa Hořínková|12|Balint Papai|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|21|Christian Tomic|Cloé Brand|18|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|19|Christian Tomic|Cloé Brand|21|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|21|Christian Tomic|Cloé Brand|18|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:16|21|Arthur Boudier|Julie Franconville|15|Štěpán Kalbáč|Sunčica Sertić|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:16|21|Arthur Boudier|Julie Franconville|10|Štěpán Kalbáč|Sunčica Sertić|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:33|21|David Smutný|Lucie Metzová|19|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:33|15|David Smutný|Lucie Metzová|21|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:33|21|David Smutný|Lucie Metzová|10|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Julian Blaumoser|Yasmine Hamza|11|Kenneth Neumann|Hannah Berge|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Julian Blaumoser|Yasmine Hamza|12|Kenneth Neumann|Hannah Berge|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Jannik Auberger|Karoline Pottendorfer|15|Andreas De Winné|Lotte Geerts|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Jannik Auberger|Karoline Pottendorfer|14|Andreas De Winné|Lotte Geerts|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:40|21|Ruben Garcia|Ania Setien|7|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:40|18|Ruben Garcia|Ania Setien|21|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:40|21|Ruben Garcia|Ania Setien|19|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|21|Kai Niederhuber|Emily Wu|15|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|16|Kai Niederhuber|Emily Wu|21|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|21|Kai Niederhuber|Emily Wu|12|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:34|21|Adrian Krawczyk|Julia Plawecka|13|Liam Bauwens|Karla Henry|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:34|21|Adrian Krawczyk|Julia Plawecka|9|Liam Bauwens|Karla Henry|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Salvador Franco|Candela Arcos|8|Franciszek Dabrowski|Magdalena Tatomir|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Salvador Franco|Candela Arcos|8|Franciszek Dabrowski|Magdalena Tatomir|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:36|21|Jarne Schlevoigt|Julia Meyer|19|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:36|9|Jarne Schlevoigt|Julia Meyer|21|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:36|21|Jarne Schlevoigt|Julia Meyer|10|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Pelayo Pinto|Carlota Viejo|10|Peter Radoczi|Sofia Slosiarikova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Pelayo Pinto|Carlota Viejo|15|Peter Radoczi|Sofia Slosiarikova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:19|21|Tobias Mickel|Florentine Schöffski|13|Iakovos Acheriotis|Kelly Van Buiten|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:19|21|Tobias Mickel|Florentine Schöffski|13|Iakovos Acheriotis|Kelly Van Buiten|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:30|21|Sebbe Huyghe|Mare Van Britsom|18|Bence Fazekas|Eszter Szanto|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:30|21|Sebbe Huyghe|Mare Van Britsom|18|Bence Fazekas|Eszter Szanto|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:40|20|Katharina Fink |none|22|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:40|21|Katharina Fink |none|13|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:40|21|Katharina Fink |none|6|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|22|Luisa Pagliara|none|20|Markéta Kohoutová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|21|Luisa Pagliara|none|10|Markéta Kohoutová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Ema Staňková |none|10|Johanna Höfle|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Ema Staňková |none|11|Johanna Höfle|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:29|21|Ida Melkerhed|none|12|Anna Maria Schneider|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:29|21|Ida Melkerhed|none|16|Anna Maria Schneider|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:40|21|Anna Natálie Kohoutová|none|14|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:40|15|Anna Natálie Kohoutová|none|21|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:40|21|Anna Natálie Kohoutová|none|18|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Kateřina Mikelová |none|11|Sunčica Sertić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Kateřina Mikelová |none|12|Sunčica Sertić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Mihaela Zlatanova|none|19|Anna Bereczkei|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Mihaela Zlatanova|none|11|Anna Bereczkei|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:25|21|Ruth Veiguela |none|16|Kim Schmidt|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:25|21|Ruth Veiguela |none|11|Kim Schmidt|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:51|15|Tanya Ivanova|none|21|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:51|23|Tanya Ivanova|none|21|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:51|21|Tanya Ivanova|none|15|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:54|14|Caroline Racloz|none|21|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:54|21|Caroline Racloz|none|19|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:54|21|Caroline Racloz|none|16|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:41|22|Karla Henry|none|24|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:41|21|Karla Henry|none|19|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:41|22|Karla Henry|none|20|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Petra Meszaros |none|13|Tabea Tirschmann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Petra Meszaros |none|17|Tabea Tirschmann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|22|Elin Boman|none|20|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|15|Elin Boman|none|21|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|21|Elin Boman|none|15|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|22|Michelle Kanschik|none|20|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|16|Michelle Kanschik|none|21|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|24|Michelle Kanschik|none|22|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|23|Mirjam Lindgarde|none|21|Julia Plawecka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Mirjam Lindgarde|none|9|Julia Plawecka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Leonie Schindler|none|18|Sofia Slosiarikova [12]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Leonie Schindler|none|13|Sofia Slosiarikova [12]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|22|Emily Wu|none|20|Friederike Panmai Rudert|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Emily Wu|none|18|Friederike Panmai Rudert|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:30|21|Julie Franconville |none|18|Yasmine Hamza|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:30|21|Julie Franconville |none|11|Yasmine Hamza|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Lien Lammertyn|none|15|Lucie Metzová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Lien Lammertyn|none|14|Lucie Metzová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:37|17|Mihaela Chepisheva |none|21|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:37|21|Mihaela Chepisheva |none|15|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:37|21|Mihaela Chepisheva |none|15|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Adina Panza|none|11|Mare Van Britsom|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Adina Panza|none|15|Mare Van Britsom|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Kirsten De Wit|none|11|Soňa Hořínková [13]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Kirsten De Wit|none|18|Soňa Hořínková [13]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:30|21|Florentine Schöffski|none|13|Candela Arcos|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:30|21|Florentine Schöffski|none|15|Candela Arcos|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:32|21|Catlyn Kruus |none|15|Lucie Amiguet|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:32|21|Catlyn Kruus |none|12|Lucie Amiguet|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|21|Maria De La O Perez|none|12|Jeni Jeleva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|22|Maria De La O Perez|none|20|Jeni Jeleva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Lucia Rodriguez |none|14|Panna Pytel|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Lucia Rodriguez |none|10|Panna Pytel|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Daria Zimnol|none|19|Lotte Geerts|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Daria Zimnol|none|14|Lotte Geerts|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:56|22|Kelly Van Buiten|none|20|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:56|16|Kelly Van Buiten|none|21|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:56|21|Kelly Van Buiten|none|17|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Carlota Viejo|none|9|Mia Kask|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Carlota Viejo|none|19|Mia Kask|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:32|21|Cloé Brand|none|15|Antonina Marszalek|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:32|21|Cloé Brand|none|7|Antonina Marszalek|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:18|21|Ania Setien|none|4|Luna Šaban|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:18|21|Ania Setien|none|6|Luna Šaban|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:30|26|Fenna Laros|none|24|Tamara Cvitkušić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:30|21|Fenna Laros|none|14|Tamara Cvitkušić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Jan Janoštík |none|9|Armin Sarosi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Jan Janoštík |none|9|Armin Sarosi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Pelayo Pinto|none|16|Jan Babnik|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Pelayo Pinto|none|16|Jan Babnik|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:22|21|Kilian Maurer |none|12|Levente Toth|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:22|21|Kilian Maurer |none|6|Levente Toth|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|21|Vratislav Erhart|none|16|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|15|Vratislav Erhart|none|21|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|21|Vratislav Erhart|none|16|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|21|Andrzej Niczyporuk |none|17|Kai Niederhuber|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|21|Andrzej Niczyporuk |none|16|Kai Niederhuber|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Justin Seibel|none|15|Bene Benjamin Kiss|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|22|Justin Seibel|none|20|Bene Benjamin Kiss|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:20|21|Tobias Mickel |none|7|Andreas Hadjisolomou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:20|21|Tobias Mickel |none|15|Andreas Hadjisolomou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:50|21|Alejandro De Pablo|none|13|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:50|17|Alejandro De Pablo|none|21|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:50|21|Alejandro De Pablo|none|13|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|26|Balint Papai |none|24|Adrian Krawczyk|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Balint Papai |none|10|Adrian Krawczyk|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:35|21|Arthur Boudier|none|18|Iakovos Acheriotis|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:35|21|Arthur Boudier|none|11|Iakovos Acheriotis|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Tauri Kilk |none|17|Liam Bauwens|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:27|21|Tauri Kilk |none|15|Liam Bauwens|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|14|Dominik Kopřiva|none|21|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|21|Dominik Kopřiva|none|11|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|21|Dominik Kopřiva|none|15|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:33|21|Yaro Van Delsen |none|19|Andrei Don|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:33|22|Yaro Van Delsen |none|20|Andrei Don|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|21|Jonathan Dresp|none|19|Jacobo Fernandez|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|21|Jonathan Dresp|none|19|Jacobo Fernandez|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:23|21|Fernando Civico |none|16|Peter Radoczi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:23|21|Fernando Civico |none|5|Peter Radoczi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:40|21|Joel Koch|none|15|Matěj Rzeplinski|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:40|30|Joel Koch|none|29|Matěj Rzeplinski|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|19|Jarne Schlevoigt|none|21|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|21|Jarne Schlevoigt|none|11|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|21|Jarne Schlevoigt|none|11|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:38|14|Matthias Schnabel|none|21|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:38|21|Matthias Schnabel|none|15|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:38|21|Matthias Schnabel|none|13|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:25|21|Christos Hailis|none|12|Nathaniel Zilka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:25|21|Christos Hailis|none|13|Nathaniel Zilka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:22|21|Kian-Yu Oei |none|11|David Slíva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:22|21|Kian-Yu Oei |none|8|David Slíva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:35|21|Sebestyen Nagy |none|17|Christian Tomic|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:35|21|Sebestyen Nagy |none|16|Christian Tomic|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:23|21|Julian Blaumoser|none|14|Constantinos Hadjigeorgiou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:23|21|Julian Blaumoser|none|16|Constantinos Hadjigeorgiou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|16|Tobias Bäuerle|none|21|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|21|Tobias Bäuerle|none|15|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:46|21|Tobias Bäuerle|none|18|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|21|Michael Tomic |none|10|Adam Konczol|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:31|21|Michael Tomic |none|14|Adam Konczol|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:24|21|Jannik Auberger|none|6|Daniel Ivanko|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:24|21|Jannik Auberger|none|16|Daniel Ivanko|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|21|Adam Ehm |none|19|Jens Näser|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|22|Adam Ehm |none|20|Jens Näser|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:39|21|Lukáš Franek|none|14|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:39|20|Lukáš Franek|none|22|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:39|21|Lukáš Franek|none|15|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Gabriel Fernandez |none|17|Adam Šulc|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:28|21|Gabriel Fernandez |none|17|Adam Šulc|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Mikolaj Piorkowski|none|11|Bence Fazekas|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Mikolaj Piorkowski|none|12|Bence Fazekas|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Kristof Toth |none|9|Lukas Kudlac|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:26|21|Kristof Toth |none|13|Lukas Kudlac|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|25|David Smutný|none|23|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|11|David Smutný|none|21|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:53|21|David Smutný|none|15|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:29|21|Artur Ajupov |none|13|Gal Bizjak|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:29|21|Artur Ajupov |none|14|Gal Bizjak|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181020|0:34|21|Marie Růžičková |Kateřina Valentová|15|Amber Derksen|Fenna Laros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:34|23|Marie Růžičková |Kateřina Valentová|21|Amber Derksen|Fenna Laros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:49|21|Jeni Jeleva|Victoria Vateva|16|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:49|17|Jeni Jeleva|Victoria Vateva|21|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:49|25|Jeni Jeleva|Victoria Vateva|23|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|21|Ira Misir |Sunčica Sertić|19|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|19|Ira Misir |Sunčica Sertić|21|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|21|Ira Misir |Sunčica Sertić|19|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:24|21|Julie Franconville|Caroline Racloz|13|Karla Henry|Luisa Pagliara|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:24|21|Julie Franconville|Caroline Racloz|10|Karla Henry|Luisa Pagliara|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Catlyn Kruus |Ramona Üprus|9|Friederike Panmai Rudert|Tabea Tirschmann|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Catlyn Kruus |Ramona Üprus|16|Friederike Panmai Rudert|Tabea Tirschmann|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Anna Natálie Kohoutová|Markéta Kohoutová|13|Zuzanna Luban|Antonina Marszalek|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Anna Natálie Kohoutová|Markéta Kohoutová|11|Zuzanna Luban|Antonina Marszalek|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:29|21|Elin Boman|Julia Tuvesson|9|Soňa Hořínková [5]|Ema Staňková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:29|21|Elin Boman|Julia Tuvesson|12|Soňa Hořínková [5]|Ema Staňková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Karoline Pottendorfer|Emily Wu|19|Mihaela Chepisheva|Monika Valcheva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Karoline Pottendorfer|Emily Wu|12|Mihaela Chepisheva|Monika Valcheva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:27|21|Kirsten De Wit|Kelly Van Buiten|5|Mirjam Lindgarde|Ida Melkerhed|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:27|21|Kirsten De Wit|Kelly Van Buiten|13|Mirjam Lindgarde|Ida Melkerhed|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:24|21|Katharina Fink |Yasmine Hamza|10|Malgorzata Muszynska|Aleksandra Wronska|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:24|21|Katharina Fink |Yasmine Hamza|10|Malgorzata Muszynska|Aleksandra Wronska|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|15|Julia Plawecka|Daria Zimnol|21|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|21|Julia Plawecka|Daria Zimnol|12|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|21|Julia Plawecka|Daria Zimnol|18|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Kateřina Mikelová |Nela Němcová|9|Mia Kask|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Kateřina Mikelová |Nela Němcová|11|Mia Kask|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:33|21|Cloé Brand|Adina Panza|13|Petra Meszaros|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:33|21|Cloé Brand|Adina Panza|19|Petra Meszaros|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:30|21|Tamara Cvitkušić |Luna Šaban|15|Lucie Metzová|Klára Petrušková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:30|21|Tamara Cvitkušić |Luna Šaban|12|Lucie Metzová|Klára Petrušková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:44|22|Leonie Schindler|Florentine Schöffski|20|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:44|16|Leonie Schindler|Florentine Schöffski|21|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:44|22|Leonie Schindler|Florentine Schöffski|20|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|21|Lien Lammertyn|Kim Schmidt|16|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|17|Lien Lammertyn|Kim Schmidt|21|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:42|21|Lien Lammertyn|Kim Schmidt|19|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Artur Ajupov |Tauri Kilk|19|Julian Blaumoser|Jens Näser|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Artur Ajupov |Tauri Kilk|15|Julian Blaumoser|Jens Näser|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:29|21|Adam Konczol|Balint Papai|16|Daniel Ivanko|Peter Radoczi|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:29|21|Adam Konczol|Balint Papai|14|Daniel Ivanko|Peter Radoczi|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Kilian Maurer|Jarne Schlevoigt|14|Matěj Rzeplinski [6]|David Smutný|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Kilian Maurer|Jarne Schlevoigt|6|Matěj Rzeplinski [6]|David Smutný|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:46|20|Justus Graumann|Rasmus Hommelgaard|22|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:46|21|Justus Graumann|Rasmus Hommelgaard|16|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:46|21|Justus Graumann|Rasmus Hommelgaard|19|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Alejandro De Pablo |Gabriel Fernandez|12|Armin Sarosi|Christian Tomic|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Alejandro De Pablo |Gabriel Fernandez|16|Armin Sarosi|Christian Tomic|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Iljo Van Delsen|Yaro Van Delsen|15|Iakovos Acheriotis|Christos Hailis|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:25|21|Iljo Van Delsen|Yaro Van Delsen|12|Iakovos Acheriotis|Christos Hailis|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Matthias Schnabel |Justin Seibel|12|Vratislav Erhart|Adam Šulc|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Matthias Schnabel |Justin Seibel|15|Vratislav Erhart|Adam Šulc|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|17|Arthur Boudier|Kopisangar Naganathan|21|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|21|Arthur Boudier|Kopisangar Naganathan|16|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:41|21|Arthur Boudier|Kopisangar Naganathan|16|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|26|Mael Dietrich|Joel Koch|24|David Butas|Lukas Kudlac|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Mael Dietrich|Joel Koch|11|David Butas|Lukas Kudlac|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Tobias Mickel |Kian-Yu Oei|15|Jannik Auberger|Tobias Bäuerle|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:28|21|Tobias Mickel |Kian-Yu Oei|15|Jannik Auberger|Tobias Bäuerle|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Andreas De Winné|Sebbe Huyghe|6|Zihao Zhai|Nathaniel Zilka|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:26|21|Andreas De Winné|Sebbe Huyghe|17|Zihao Zhai|Nathaniel Zilka|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:33|21|Kai Niederhuber |Michael Tomic|19|Jan Babnik|Gal Bizjak|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:33|21|Kai Niederhuber |Michael Tomic|19|Jan Babnik|Gal Bizjak|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:27|21|Bene Benjamin Kiss|Kristof Toth|18|Lukáš Franek|Jakub Matula|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:27|21|Bene Benjamin Kiss|Kristof Toth|16|Lukáš Franek|Jakub Matula|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:44|20|Jonathan Dresp|Kenneth Neumann|22|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:44|21|Jonathan Dresp|Kenneth Neumann|16|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:44|21|Jonathan Dresp|Kenneth Neumann|11|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:23|21|Fernando Civico|Salvador Franco|11|Štěpán Kalbáč|David Slíva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:23|21|Fernando Civico|Salvador Franco|16|Štěpán Kalbáč|David Slíva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:27|21|Mikolaj Piorkowski |Mikolaj Wrzalik|4|Andreas Hadjisolomou|Andreas Theodotou|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181020|0:27|21|Mikolaj Piorkowski |Mikolaj Wrzalik|3|Andreas Hadjisolomou|Andreas Theodotou|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:22|21|Jonathan Dresp|Michelle Kanschik|14|Simon Habersack|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:22|21|Jonathan Dresp|Michelle Kanschik|9|Simon Habersack|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:19|21|Adam Šulc|Soňa Hořínková|18|Balint Papai|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:19|21|Adam Šulc|Soňa Hořínková|12|Balint Papai|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|21|Christian Tomic|Cloé Brand|18|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|19|Christian Tomic|Cloé Brand|21|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|21|Christian Tomic|Cloé Brand|18|Mael Dietrich|Lucie Amiguet|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:16|21|Arthur Boudier|Julie Franconville|15|Štěpán Kalbáč|Sunčica Sertić|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:16|21|Arthur Boudier|Julie Franconville|10|Štěpán Kalbáč|Sunčica Sertić|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:33|21|David Smutný|Lucie Metzová|19|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:33|15|David Smutný|Lucie Metzová|21|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:33|21|David Smutný|Lucie Metzová|10|Gal Bizjak|Kim Schmidt|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Julian Blaumoser|Yasmine Hamza|11|Kenneth Neumann|Hannah Berge|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Julian Blaumoser|Yasmine Hamza|12|Kenneth Neumann|Hannah Berge|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Jannik Auberger|Karoline Pottendorfer|15|Andreas De Winné|Lotte Geerts|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Jannik Auberger|Karoline Pottendorfer|14|Andreas De Winné|Lotte Geerts|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:40|21|Ruben Garcia|Ania Setien|7|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:40|18|Ruben Garcia|Ania Setien|21|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:40|21|Ruben Garcia|Ania Setien|19|Kilian Maurer|Leonie Schindler|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|21|Kai Niederhuber|Emily Wu|15|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|16|Kai Niederhuber|Emily Wu|21|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|21|Kai Niederhuber|Emily Wu|12|Levente Toth|Petra Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:34|21|Adrian Krawczyk|Julia Plawecka|13|Liam Bauwens|Karla Henry|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:34|21|Adrian Krawczyk|Julia Plawecka|9|Liam Bauwens|Karla Henry|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Salvador Franco|Candela Arcos|8|Franciszek Dabrowski|Magdalena Tatomir|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Salvador Franco|Candela Arcos|8|Franciszek Dabrowski|Magdalena Tatomir|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:36|21|Jarne Schlevoigt|Julia Meyer|19|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:36|9|Jarne Schlevoigt|Julia Meyer|21|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:36|21|Jarne Schlevoigt|Julia Meyer|10|Iljo Van Delsen|Lien Lammertyn|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Pelayo Pinto|Carlota Viejo|10|Peter Radoczi|Sofia Slosiarikova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Pelayo Pinto|Carlota Viejo|15|Peter Radoczi|Sofia Slosiarikova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:19|21|Tobias Mickel|Florentine Schöffski|13|Iakovos Acheriotis|Kelly Van Buiten|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:19|21|Tobias Mickel|Florentine Schöffski|13|Iakovos Acheriotis|Kelly Van Buiten|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:30|21|Sebbe Huyghe|Mare Van Britsom|18|Bence Fazekas|Eszter Szanto|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:30|21|Sebbe Huyghe|Mare Van Britsom|18|Bence Fazekas|Eszter Szanto|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:40|20|Katharina Fink |none|22|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:40|21|Katharina Fink |none|13|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:40|21|Katharina Fink |none|6|Klára Petrušková|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|22|Luisa Pagliara|none|20|Markéta Kohoutová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|21|Luisa Pagliara|none|10|Markéta Kohoutová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Ema Staňková |none|10|Johanna Höfle|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Ema Staňková |none|11|Johanna Höfle|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:29|21|Ida Melkerhed|none|12|Anna Maria Schneider|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:29|21|Ida Melkerhed|none|16|Anna Maria Schneider|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:40|21|Anna Natálie Kohoutová|none|14|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:40|15|Anna Natálie Kohoutová|none|21|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:40|21|Anna Natálie Kohoutová|none|18|Victoria Vateva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Kateřina Mikelová |none|11|Sunčica Sertić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Kateřina Mikelová |none|12|Sunčica Sertić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Mihaela Zlatanova|none|19|Anna Bereczkei|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Mihaela Zlatanova|none|11|Anna Bereczkei|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:25|21|Ruth Veiguela |none|16|Kim Schmidt|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:25|21|Ruth Veiguela |none|11|Kim Schmidt|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:51|15|Tanya Ivanova|none|21|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:51|23|Tanya Ivanova|none|21|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:51|21|Tanya Ivanova|none|15|Amber Derksen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:54|14|Caroline Racloz|none|21|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:54|21|Caroline Racloz|none|19|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:54|21|Caroline Racloz|none|16|Marie Růžičková [6]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:41|22|Karla Henry|none|24|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:41|21|Karla Henry|none|19|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:41|22|Karla Henry|none|20|Monika Valcheva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Petra Meszaros |none|13|Tabea Tirschmann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Petra Meszaros |none|17|Tabea Tirschmann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|22|Elin Boman|none|20|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|15|Elin Boman|none|21|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|21|Elin Boman|none|15|Ramona Üprus|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|22|Michelle Kanschik|none|20|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|16|Michelle Kanschik|none|21|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|24|Michelle Kanschik|none|22|Ira Misir [10]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|23|Mirjam Lindgarde|none|21|Julia Plawecka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Mirjam Lindgarde|none|9|Julia Plawecka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Leonie Schindler|none|18|Sofia Slosiarikova [12]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Leonie Schindler|none|13|Sofia Slosiarikova [12]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|22|Emily Wu|none|20|Friederike Panmai Rudert|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Emily Wu|none|18|Friederike Panmai Rudert|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:30|21|Julie Franconville |none|18|Yasmine Hamza|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:30|21|Julie Franconville |none|11|Yasmine Hamza|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Lien Lammertyn|none|15|Lucie Metzová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Lien Lammertyn|none|14|Lucie Metzová|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:37|17|Mihaela Chepisheva |none|21|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:37|21|Mihaela Chepisheva |none|15|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:37|21|Mihaela Chepisheva |none|15|Malgorzata Muszynska|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Adina Panza|none|11|Mare Van Britsom|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Adina Panza|none|15|Mare Van Britsom|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Kirsten De Wit|none|11|Soňa Hořínková [13]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Kirsten De Wit|none|18|Soňa Hořínková [13]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:30|21|Florentine Schöffski|none|13|Candela Arcos|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:30|21|Florentine Schöffski|none|15|Candela Arcos|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:32|21|Catlyn Kruus |none|15|Lucie Amiguet|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:32|21|Catlyn Kruus |none|12|Lucie Amiguet|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|21|Maria De La O Perez|none|12|Jeni Jeleva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|22|Maria De La O Perez|none|20|Jeni Jeleva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Lucia Rodriguez |none|14|Panna Pytel|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Lucia Rodriguez |none|10|Panna Pytel|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Daria Zimnol|none|19|Lotte Geerts|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Daria Zimnol|none|14|Lotte Geerts|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:56|22|Kelly Van Buiten|none|20|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:56|16|Kelly Van Buiten|none|21|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:56|21|Kelly Van Buiten|none|17|Julia Tuvesson [8]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Carlota Viejo|none|9|Mia Kask|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Carlota Viejo|none|19|Mia Kask|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:32|21|Cloé Brand|none|15|Antonina Marszalek|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:32|21|Cloé Brand|none|7|Antonina Marszalek|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:18|21|Ania Setien|none|4|Luna Šaban|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:18|21|Ania Setien|none|6|Luna Šaban|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:30|26|Fenna Laros|none|24|Tamara Cvitkušić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:30|21|Fenna Laros|none|14|Tamara Cvitkušić|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Jan Janoštík |none|9|Armin Sarosi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Jan Janoštík |none|9|Armin Sarosi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Pelayo Pinto|none|16|Jan Babnik|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Pelayo Pinto|none|16|Jan Babnik|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:22|21|Kilian Maurer |none|12|Levente Toth|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:22|21|Kilian Maurer |none|6|Levente Toth|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|21|Vratislav Erhart|none|16|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|15|Vratislav Erhart|none|21|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|21|Vratislav Erhart|none|16|Mael Dietrich|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|21|Andrzej Niczyporuk |none|17|Kai Niederhuber|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|21|Andrzej Niczyporuk |none|16|Kai Niederhuber|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Justin Seibel|none|15|Bene Benjamin Kiss|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|22|Justin Seibel|none|20|Bene Benjamin Kiss|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:20|21|Tobias Mickel |none|7|Andreas Hadjisolomou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:20|21|Tobias Mickel |none|15|Andreas Hadjisolomou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:50|21|Alejandro De Pablo|none|13|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:50|17|Alejandro De Pablo|none|21|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:50|21|Alejandro De Pablo|none|13|Kenneth Neumann|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|26|Balint Papai |none|24|Adrian Krawczyk|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Balint Papai |none|10|Adrian Krawczyk|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:35|21|Arthur Boudier|none|18|Iakovos Acheriotis|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:35|21|Arthur Boudier|none|11|Iakovos Acheriotis|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Tauri Kilk |none|17|Liam Bauwens|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:27|21|Tauri Kilk |none|15|Liam Bauwens|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|14|Dominik Kopřiva|none|21|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|21|Dominik Kopřiva|none|11|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|21|Dominik Kopřiva|none|15|Gergely Szita|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:33|21|Yaro Van Delsen |none|19|Andrei Don|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:33|22|Yaro Van Delsen |none|20|Andrei Don|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|21|Jonathan Dresp|none|19|Jacobo Fernandez|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|21|Jonathan Dresp|none|19|Jacobo Fernandez|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:23|21|Fernando Civico |none|16|Peter Radoczi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:23|21|Fernando Civico |none|5|Peter Radoczi|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:40|21|Joel Koch|none|15|Matěj Rzeplinski|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:40|30|Joel Koch|none|29|Matěj Rzeplinski|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|19|Jarne Schlevoigt|none|21|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|21|Jarne Schlevoigt|none|11|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|21|Jarne Schlevoigt|none|11|Sebbe Huyghe|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:38|14|Matthias Schnabel|none|21|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:38|21|Matthias Schnabel|none|15|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:38|21|Matthias Schnabel|none|13|Andreas De Winné [11]|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:25|21|Christos Hailis|none|12|Nathaniel Zilka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:25|21|Christos Hailis|none|13|Nathaniel Zilka|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:22|21|Kian-Yu Oei |none|11|David Slíva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:22|21|Kian-Yu Oei |none|8|David Slíva|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:35|21|Sebestyen Nagy |none|17|Christian Tomic|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:35|21|Sebestyen Nagy |none|16|Christian Tomic|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:23|21|Julian Blaumoser|none|14|Constantinos Hadjigeorgiou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:23|21|Julian Blaumoser|none|16|Constantinos Hadjigeorgiou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|16|Tobias Bäuerle|none|21|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|21|Tobias Bäuerle|none|15|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:46|21|Tobias Bäuerle|none|18|Andreas Theodotou|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|21|Michael Tomic |none|10|Adam Konczol|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:31|21|Michael Tomic |none|14|Adam Konczol|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:24|21|Jannik Auberger|none|6|Daniel Ivanko|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:24|21|Jannik Auberger|none|16|Daniel Ivanko|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|21|Adam Ehm |none|19|Jens Näser|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|22|Adam Ehm |none|20|Jens Näser|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:39|21|Lukáš Franek|none|14|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:39|20|Lukáš Franek|none|22|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:39|21|Lukáš Franek|none|15|Kopisangar Naganathan|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Gabriel Fernandez |none|17|Adam Šulc|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:28|21|Gabriel Fernandez |none|17|Adam Šulc|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Mikolaj Piorkowski|none|11|Bence Fazekas|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Mikolaj Piorkowski|none|12|Bence Fazekas|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Kristof Toth |none|9|Lukas Kudlac|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:26|21|Kristof Toth |none|13|Lukas Kudlac|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|25|David Smutný|none|23|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|11|David Smutný|none|21|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:53|21|David Smutný|none|15|Iljo Van Delsen|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:29|21|Artur Ajupov |none|13|Gal Bizjak|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:29|21|Artur Ajupov |none|14|Gal Bizjak|none|3EEBA74B-B14A-4279-ACCA-8043B82740F3|singles
+20181021|0:34|21|Marie Růžičková |Kateřina Valentová|15|Amber Derksen|Fenna Laros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:34|23|Marie Růžičková |Kateřina Valentová|21|Amber Derksen|Fenna Laros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:49|21|Jeni Jeleva|Victoria Vateva|16|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:49|17|Jeni Jeleva|Victoria Vateva|21|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:49|25|Jeni Jeleva|Victoria Vateva|23|Lotte Geerts|Mare Van Britsom|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|21|Ira Misir |Sunčica Sertić|19|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|19|Ira Misir |Sunčica Sertić|21|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|21|Ira Misir |Sunčica Sertić|19|Anna Bereczkei|Panna Pytel|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:24|21|Julie Franconville|Caroline Racloz|13|Karla Henry|Luisa Pagliara|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:24|21|Julie Franconville|Caroline Racloz|10|Karla Henry|Luisa Pagliara|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Catlyn Kruus |Ramona Üprus|9|Friederike Panmai Rudert|Tabea Tirschmann|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Catlyn Kruus |Ramona Üprus|16|Friederike Panmai Rudert|Tabea Tirschmann|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Anna Natálie Kohoutová|Markéta Kohoutová|13|Zuzanna Luban|Antonina Marszalek|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Anna Natálie Kohoutová|Markéta Kohoutová|11|Zuzanna Luban|Antonina Marszalek|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:29|21|Elin Boman|Julia Tuvesson|9|Soňa Hořínková [5]|Ema Staňková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:29|21|Elin Boman|Julia Tuvesson|12|Soňa Hořínková [5]|Ema Staňková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Karoline Pottendorfer|Emily Wu|19|Mihaela Chepisheva|Monika Valcheva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Karoline Pottendorfer|Emily Wu|12|Mihaela Chepisheva|Monika Valcheva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:27|21|Kirsten De Wit|Kelly Van Buiten|5|Mirjam Lindgarde|Ida Melkerhed|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:27|21|Kirsten De Wit|Kelly Van Buiten|13|Mirjam Lindgarde|Ida Melkerhed|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:24|21|Katharina Fink |Yasmine Hamza|10|Malgorzata Muszynska|Aleksandra Wronska|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:24|21|Katharina Fink |Yasmine Hamza|10|Malgorzata Muszynska|Aleksandra Wronska|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|15|Julia Plawecka|Daria Zimnol|21|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|21|Julia Plawecka|Daria Zimnol|12|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|21|Julia Plawecka|Daria Zimnol|18|Aitana Martinez|Ruth Veiguela|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Kateřina Mikelová |Nela Němcová|9|Mia Kask|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Kateřina Mikelová |Nela Němcová|11|Mia Kask|Lena Rumpold|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:33|21|Cloé Brand|Adina Panza|13|Petra Meszaros|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:33|21|Cloé Brand|Adina Panza|19|Petra Meszaros|Boglarka Pandur|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:30|21|Tamara Cvitkušić |Luna Šaban|15|Lucie Metzová|Klára Petrušková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:30|21|Tamara Cvitkušić |Luna Šaban|12|Lucie Metzová|Klára Petrušková|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:44|22|Leonie Schindler|Florentine Schöffski|20|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:44|16|Leonie Schindler|Florentine Schöffski|21|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:44|22|Leonie Schindler|Florentine Schöffski|20|Tanya Ivanova|Mihaela Zlatanova|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|21|Lien Lammertyn|Kim Schmidt|16|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|17|Lien Lammertyn|Kim Schmidt|21|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:42|21|Lien Lammertyn|Kim Schmidt|19|Johanna Höfle|Anna Maria Schneider|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Artur Ajupov |Tauri Kilk|19|Julian Blaumoser|Jens Näser|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Artur Ajupov |Tauri Kilk|15|Julian Blaumoser|Jens Näser|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:29|21|Adam Konczol|Balint Papai|16|Daniel Ivanko|Peter Radoczi|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:29|21|Adam Konczol|Balint Papai|14|Daniel Ivanko|Peter Radoczi|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Kilian Maurer|Jarne Schlevoigt|14|Matěj Rzeplinski [6]|David Smutný|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Kilian Maurer|Jarne Schlevoigt|6|Matěj Rzeplinski [6]|David Smutný|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:46|20|Justus Graumann|Rasmus Hommelgaard|22|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:46|21|Justus Graumann|Rasmus Hommelgaard|16|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:46|21|Justus Graumann|Rasmus Hommelgaard|19|Bence Fazekas|Vencel Meszaros|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Alejandro De Pablo |Gabriel Fernandez|12|Armin Sarosi|Christian Tomic|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Alejandro De Pablo |Gabriel Fernandez|16|Armin Sarosi|Christian Tomic|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Iljo Van Delsen|Yaro Van Delsen|15|Iakovos Acheriotis|Christos Hailis|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:25|21|Iljo Van Delsen|Yaro Van Delsen|12|Iakovos Acheriotis|Christos Hailis|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Matthias Schnabel |Justin Seibel|12|Vratislav Erhart|Adam Šulc|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Matthias Schnabel |Justin Seibel|15|Vratislav Erhart|Adam Šulc|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|17|Arthur Boudier|Kopisangar Naganathan|21|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|21|Arthur Boudier|Kopisangar Naganathan|16|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:41|21|Arthur Boudier|Kopisangar Naganathan|16|Sebestyen Nagy|Gergely Szita|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|26|Mael Dietrich|Joel Koch|24|David Butas|Lukas Kudlac|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Mael Dietrich|Joel Koch|11|David Butas|Lukas Kudlac|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Tobias Mickel |Kian-Yu Oei|15|Jannik Auberger|Tobias Bäuerle|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:28|21|Tobias Mickel |Kian-Yu Oei|15|Jannik Auberger|Tobias Bäuerle|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Andreas De Winné|Sebbe Huyghe|6|Zihao Zhai|Nathaniel Zilka|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:26|21|Andreas De Winné|Sebbe Huyghe|17|Zihao Zhai|Nathaniel Zilka|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:33|21|Kai Niederhuber |Michael Tomic|19|Jan Babnik|Gal Bizjak|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:33|21|Kai Niederhuber |Michael Tomic|19|Jan Babnik|Gal Bizjak|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:27|21|Bene Benjamin Kiss|Kristof Toth|18|Lukáš Franek|Jakub Matula|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:27|21|Bene Benjamin Kiss|Kristof Toth|16|Lukáš Franek|Jakub Matula|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:44|20|Jonathan Dresp|Kenneth Neumann|22|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:44|21|Jonathan Dresp|Kenneth Neumann|16|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:44|21|Jonathan Dresp|Kenneth Neumann|11|Adam Ehm|Dominik Kopřiva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:23|21|Fernando Civico|Salvador Franco|11|Štěpán Kalbáč|David Slíva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:23|21|Fernando Civico|Salvador Franco|16|Štěpán Kalbáč|David Slíva|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:27|21|Mikolaj Piorkowski |Mikolaj Wrzalik|4|Andreas Hadjisolomou|Andreas Theodotou|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles
+20181021|0:27|21|Mikolaj Piorkowski |Mikolaj Wrzalik|3|Andreas Hadjisolomou|Andreas Theodotou|3EEBA74B-B14A-4279-ACCA-8043B82740F3|doubles

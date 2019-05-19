@@ -1,0 +1,565 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20190402||21|Hafiz Faizal |Gloria Emanuelle Widjaja|16|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Hafiz Faizal |Gloria Emanuelle Widjaja|10|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Busanan Ongbamrungphan|none|10|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Busanan Ongbamrungphan|none|7|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||22|Chayanit Chaladchalam|Phataimas Muenwong|20|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||16|Chayanit Chaladchalam|Phataimas Muenwong|21|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Chayanit Chaladchalam|Phataimas Muenwong|19|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|19|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||24|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|26|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|8|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Kantaphon Wangcharoen|none|10|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Kantaphon Wangcharoen|none|15|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Akane Yamaguchi |none|16|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Akane Yamaguchi |none|17|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Tan Kian Meng|Lai Pei Jing|16|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Tan Kian Meng|Lai Pei Jing|15|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||20|Kento Momota |none|22|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Kento Momota |none|13|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Kento Momota |none|11|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Chan Peng Soon |Goh Liu Ying|13|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Chan Peng Soon |Goh Liu Ying|19|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Goh V Shem|Tan Wee Kiong|14|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Goh V Shem|Tan Wee Kiong|18|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||13|Chen Xiaoxin|none|21|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Chen Xiaoxin|none|13|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Chen Xiaoxin|none|14|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||15|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Du Yue|Li Yinhui|11|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||23|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||22|Shi Yuqi |none|20|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Shi Yuqi |none|23|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Shi Yuqi |none|12|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Tontowi Ahmad|Winny Oktavina Kandow|15|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Tontowi Ahmad|Winny Oktavina Kandow|18|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Takeshi Kamura |Keigo Sonoda|17|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Takeshi Kamura |Keigo Sonoda|18|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Chen Long |none|13|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Chen Long |none|9|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Tai Tzu Ying |none|14|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Tai Tzu Ying |none|13|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Marcus Ellis|Lauren Smith|15|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Marcus Ellis|Lauren Smith|13|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Liu Cheng|Zhang Nan|18|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||15|Liu Cheng|Zhang Nan|21|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Liu Cheng|Zhang Nan|14|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Mohammad Ahsan |Hendra Setiawan|16|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Mohammad Ahsan |Hendra Setiawan|19|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Rasmus Gemke|none|19|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||24|Rasmus Gemke|none|22|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Chooi Kah Ming|Low Juan Shen|18|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||24|Chooi Kah Ming|Low Juan Shen|22|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Li Xuerui|none|6|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Li Xuerui|none|18|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Anders Antonsen|none|17|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||16|Anders Antonsen|none|21|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Anders Antonsen|none|13|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Lu Ching Yao|Yang Po Han|13|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Lu Ching Yao|Yang Po Han|12|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||16|Misaki Matsutomo |Ayaka Takahashi|21|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Misaki Matsutomo |Ayaka Takahashi|17|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Misaki Matsutomo |Ayaka Takahashi|15|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||19|Li Junhui |Liu Yuchen|21|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Li Junhui |Liu Yuchen|14|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Li Junhui |Liu Yuchen|15|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Nozomi Okuhara |none|15|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Nozomi Okuhara |none|16|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||4|Puttita Supajirakul|Sapsiree Taerattanachai|1|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||Walkover Win|Puttita Supajirakul|Sapsiree Taerattanachai|Walkover Loss|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||18|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Kenta Nishimoto|none|13|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||23|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Ricky Karandasuwardi|Pia Zebadiah Bernadet|18|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||13|Ricky Karandasuwardi|Pia Zebadiah Bernadet|21|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||27|Ricky Karandasuwardi|Pia Zebadiah Bernadet|25|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||22|Pranaav Jerry Chopra|Reddy N. Sikki|20|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||24|Pranaav Jerry Chopra|Reddy N. Sikki|22|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||16|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||23|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||22|Chang Ye Na|Jung Kyung Eun|20|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||19|Chen Yufei |none|21|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Chen Yufei |none|10|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Chen Yufei |none|13|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||Walkover Win|Ou Xuanyi|Feng Xueying|Walkover Loss|Chris Adcock [6]|Gabrielle Adcock|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||13|Sayaka Takahashi|none|21|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Sayaka Takahashi|none|16|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Sayaka Takahashi|none|12|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190402||21|Mayu Matsumoto |Wakana Nagahara|19|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||21|Mayu Matsumoto |Wakana Nagahara|11|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||17|Baek Ha Na|Kim Hye Rin|21|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190402||Walkover Win|Setyana Mapasa|Gronya Somerville|Walkover Loss|Gabriela Stoeva [7]|Stefani Stoeva|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Hafiz Faizal |Gloria Emanuelle Widjaja|16|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Hafiz Faizal |Gloria Emanuelle Widjaja|10|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Busanan Ongbamrungphan|none|10|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Busanan Ongbamrungphan|none|7|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||22|Chayanit Chaladchalam|Phataimas Muenwong|20|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||16|Chayanit Chaladchalam|Phataimas Muenwong|21|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Chayanit Chaladchalam|Phataimas Muenwong|19|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|19|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||24|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|26|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|8|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Kantaphon Wangcharoen|none|10|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Kantaphon Wangcharoen|none|15|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Akane Yamaguchi |none|16|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Akane Yamaguchi |none|17|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Tan Kian Meng|Lai Pei Jing|16|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Tan Kian Meng|Lai Pei Jing|15|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||20|Kento Momota |none|22|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Kento Momota |none|13|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Kento Momota |none|11|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Chan Peng Soon |Goh Liu Ying|13|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Chan Peng Soon |Goh Liu Ying|19|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Goh V Shem|Tan Wee Kiong|14|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Goh V Shem|Tan Wee Kiong|18|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||13|Chen Xiaoxin|none|21|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Chen Xiaoxin|none|13|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Chen Xiaoxin|none|14|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||15|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Du Yue|Li Yinhui|11|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||23|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||22|Shi Yuqi |none|20|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Shi Yuqi |none|23|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Shi Yuqi |none|12|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Tontowi Ahmad|Winny Oktavina Kandow|15|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Tontowi Ahmad|Winny Oktavina Kandow|18|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Takeshi Kamura |Keigo Sonoda|17|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Takeshi Kamura |Keigo Sonoda|18|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Chen Long |none|13|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Chen Long |none|9|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Tai Tzu Ying |none|14|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Tai Tzu Ying |none|13|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Marcus Ellis|Lauren Smith|15|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Marcus Ellis|Lauren Smith|13|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Liu Cheng|Zhang Nan|18|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||15|Liu Cheng|Zhang Nan|21|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Liu Cheng|Zhang Nan|14|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Mohammad Ahsan |Hendra Setiawan|16|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Mohammad Ahsan |Hendra Setiawan|19|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Rasmus Gemke|none|19|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||24|Rasmus Gemke|none|22|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Chooi Kah Ming|Low Juan Shen|18|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||24|Chooi Kah Ming|Low Juan Shen|22|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Li Xuerui|none|6|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Li Xuerui|none|18|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Anders Antonsen|none|17|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||16|Anders Antonsen|none|21|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Anders Antonsen|none|13|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Lu Ching Yao|Yang Po Han|13|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Lu Ching Yao|Yang Po Han|12|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||16|Misaki Matsutomo |Ayaka Takahashi|21|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Misaki Matsutomo |Ayaka Takahashi|17|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Misaki Matsutomo |Ayaka Takahashi|15|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||19|Li Junhui |Liu Yuchen|21|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Li Junhui |Liu Yuchen|14|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Li Junhui |Liu Yuchen|15|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Nozomi Okuhara |none|15|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Nozomi Okuhara |none|16|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||4|Puttita Supajirakul|Sapsiree Taerattanachai|1|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||Walkover Win|Puttita Supajirakul|Sapsiree Taerattanachai|Walkover Loss|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||18|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Kenta Nishimoto|none|13|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||23|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Ricky Karandasuwardi|Pia Zebadiah Bernadet|18|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||13|Ricky Karandasuwardi|Pia Zebadiah Bernadet|21|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||27|Ricky Karandasuwardi|Pia Zebadiah Bernadet|25|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||22|Pranaav Jerry Chopra|Reddy N. Sikki|20|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||24|Pranaav Jerry Chopra|Reddy N. Sikki|22|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||16|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||23|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||22|Chang Ye Na|Jung Kyung Eun|20|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||19|Chen Yufei |none|21|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Chen Yufei |none|10|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Chen Yufei |none|13|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||Walkover Win|Ou Xuanyi|Feng Xueying|Walkover Loss|Chris Adcock [6]|Gabrielle Adcock|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||13|Sayaka Takahashi|none|21|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Sayaka Takahashi|none|16|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Sayaka Takahashi|none|12|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190403||21|Mayu Matsumoto |Wakana Nagahara|19|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||21|Mayu Matsumoto |Wakana Nagahara|11|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||17|Baek Ha Na|Kim Hye Rin|21|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190403||Walkover Win|Setyana Mapasa|Gronya Somerville|Walkover Loss|Gabriela Stoeva [7]|Stefani Stoeva|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Hafiz Faizal |Gloria Emanuelle Widjaja|16|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Hafiz Faizal |Gloria Emanuelle Widjaja|10|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Busanan Ongbamrungphan|none|10|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Busanan Ongbamrungphan|none|7|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||22|Chayanit Chaladchalam|Phataimas Muenwong|20|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||16|Chayanit Chaladchalam|Phataimas Muenwong|21|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Chayanit Chaladchalam|Phataimas Muenwong|19|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|19|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||24|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|26|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|8|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Kantaphon Wangcharoen|none|10|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Kantaphon Wangcharoen|none|15|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Akane Yamaguchi |none|16|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Akane Yamaguchi |none|17|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Tan Kian Meng|Lai Pei Jing|16|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Tan Kian Meng|Lai Pei Jing|15|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||20|Kento Momota |none|22|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Kento Momota |none|13|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Kento Momota |none|11|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Chan Peng Soon |Goh Liu Ying|13|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Chan Peng Soon |Goh Liu Ying|19|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Goh V Shem|Tan Wee Kiong|14|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Goh V Shem|Tan Wee Kiong|18|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||13|Chen Xiaoxin|none|21|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Chen Xiaoxin|none|13|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Chen Xiaoxin|none|14|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||15|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Du Yue|Li Yinhui|11|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||23|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||22|Shi Yuqi |none|20|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Shi Yuqi |none|23|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Shi Yuqi |none|12|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Tontowi Ahmad|Winny Oktavina Kandow|15|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Tontowi Ahmad|Winny Oktavina Kandow|18|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Takeshi Kamura |Keigo Sonoda|17|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Takeshi Kamura |Keigo Sonoda|18|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Chen Long |none|13|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Chen Long |none|9|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Tai Tzu Ying |none|14|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Tai Tzu Ying |none|13|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Marcus Ellis|Lauren Smith|15|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Marcus Ellis|Lauren Smith|13|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Liu Cheng|Zhang Nan|18|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||15|Liu Cheng|Zhang Nan|21|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Liu Cheng|Zhang Nan|14|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Mohammad Ahsan |Hendra Setiawan|16|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Mohammad Ahsan |Hendra Setiawan|19|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Rasmus Gemke|none|19|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||24|Rasmus Gemke|none|22|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Chooi Kah Ming|Low Juan Shen|18|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||24|Chooi Kah Ming|Low Juan Shen|22|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Li Xuerui|none|6|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Li Xuerui|none|18|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Anders Antonsen|none|17|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||16|Anders Antonsen|none|21|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Anders Antonsen|none|13|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Lu Ching Yao|Yang Po Han|13|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Lu Ching Yao|Yang Po Han|12|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||16|Misaki Matsutomo |Ayaka Takahashi|21|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Misaki Matsutomo |Ayaka Takahashi|17|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Misaki Matsutomo |Ayaka Takahashi|15|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||19|Li Junhui |Liu Yuchen|21|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Li Junhui |Liu Yuchen|14|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Li Junhui |Liu Yuchen|15|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Nozomi Okuhara |none|15|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Nozomi Okuhara |none|16|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||4|Puttita Supajirakul|Sapsiree Taerattanachai|1|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||Walkover Win|Puttita Supajirakul|Sapsiree Taerattanachai|Walkover Loss|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||18|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Kenta Nishimoto|none|13|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||23|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Ricky Karandasuwardi|Pia Zebadiah Bernadet|18|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||13|Ricky Karandasuwardi|Pia Zebadiah Bernadet|21|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||27|Ricky Karandasuwardi|Pia Zebadiah Bernadet|25|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||22|Pranaav Jerry Chopra|Reddy N. Sikki|20|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||24|Pranaav Jerry Chopra|Reddy N. Sikki|22|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||16|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||23|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||22|Chang Ye Na|Jung Kyung Eun|20|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||19|Chen Yufei |none|21|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Chen Yufei |none|10|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Chen Yufei |none|13|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||Walkover Win|Ou Xuanyi|Feng Xueying|Walkover Loss|Chris Adcock [6]|Gabrielle Adcock|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||13|Sayaka Takahashi|none|21|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Sayaka Takahashi|none|16|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Sayaka Takahashi|none|12|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190404||21|Mayu Matsumoto |Wakana Nagahara|19|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||21|Mayu Matsumoto |Wakana Nagahara|11|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||17|Baek Ha Na|Kim Hye Rin|21|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190404||Walkover Win|Setyana Mapasa|Gronya Somerville|Walkover Loss|Gabriela Stoeva [7]|Stefani Stoeva|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Hafiz Faizal |Gloria Emanuelle Widjaja|16|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Hafiz Faizal |Gloria Emanuelle Widjaja|10|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Busanan Ongbamrungphan|none|10|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Busanan Ongbamrungphan|none|7|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||22|Chayanit Chaladchalam|Phataimas Muenwong|20|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||16|Chayanit Chaladchalam|Phataimas Muenwong|21|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Chayanit Chaladchalam|Phataimas Muenwong|19|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|19|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||24|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|26|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|8|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Kantaphon Wangcharoen|none|10|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Kantaphon Wangcharoen|none|15|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Akane Yamaguchi |none|16|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Akane Yamaguchi |none|17|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Tan Kian Meng|Lai Pei Jing|16|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Tan Kian Meng|Lai Pei Jing|15|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||20|Kento Momota |none|22|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Kento Momota |none|13|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Kento Momota |none|11|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Chan Peng Soon |Goh Liu Ying|13|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Chan Peng Soon |Goh Liu Ying|19|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Goh V Shem|Tan Wee Kiong|14|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Goh V Shem|Tan Wee Kiong|18|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||13|Chen Xiaoxin|none|21|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Chen Xiaoxin|none|13|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Chen Xiaoxin|none|14|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||15|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Du Yue|Li Yinhui|11|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||23|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||22|Shi Yuqi |none|20|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Shi Yuqi |none|23|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Shi Yuqi |none|12|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Tontowi Ahmad|Winny Oktavina Kandow|15|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Tontowi Ahmad|Winny Oktavina Kandow|18|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Takeshi Kamura |Keigo Sonoda|17|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Takeshi Kamura |Keigo Sonoda|18|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Chen Long |none|13|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Chen Long |none|9|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Tai Tzu Ying |none|14|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Tai Tzu Ying |none|13|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Marcus Ellis|Lauren Smith|15|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Marcus Ellis|Lauren Smith|13|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Liu Cheng|Zhang Nan|18|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||15|Liu Cheng|Zhang Nan|21|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Liu Cheng|Zhang Nan|14|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Mohammad Ahsan |Hendra Setiawan|16|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Mohammad Ahsan |Hendra Setiawan|19|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Rasmus Gemke|none|19|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||24|Rasmus Gemke|none|22|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Chooi Kah Ming|Low Juan Shen|18|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||24|Chooi Kah Ming|Low Juan Shen|22|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Li Xuerui|none|6|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Li Xuerui|none|18|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Anders Antonsen|none|17|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||16|Anders Antonsen|none|21|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Anders Antonsen|none|13|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Lu Ching Yao|Yang Po Han|13|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Lu Ching Yao|Yang Po Han|12|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||16|Misaki Matsutomo |Ayaka Takahashi|21|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Misaki Matsutomo |Ayaka Takahashi|17|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Misaki Matsutomo |Ayaka Takahashi|15|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||19|Li Junhui |Liu Yuchen|21|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Li Junhui |Liu Yuchen|14|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Li Junhui |Liu Yuchen|15|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Nozomi Okuhara |none|15|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Nozomi Okuhara |none|16|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||4|Puttita Supajirakul|Sapsiree Taerattanachai|1|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||Walkover Win|Puttita Supajirakul|Sapsiree Taerattanachai|Walkover Loss|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||18|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Kenta Nishimoto|none|13|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||23|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Ricky Karandasuwardi|Pia Zebadiah Bernadet|18|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||13|Ricky Karandasuwardi|Pia Zebadiah Bernadet|21|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||27|Ricky Karandasuwardi|Pia Zebadiah Bernadet|25|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||22|Pranaav Jerry Chopra|Reddy N. Sikki|20|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||24|Pranaav Jerry Chopra|Reddy N. Sikki|22|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||16|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||23|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||22|Chang Ye Na|Jung Kyung Eun|20|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||19|Chen Yufei |none|21|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Chen Yufei |none|10|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Chen Yufei |none|13|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||Walkover Win|Ou Xuanyi|Feng Xueying|Walkover Loss|Chris Adcock [6]|Gabrielle Adcock|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||13|Sayaka Takahashi|none|21|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Sayaka Takahashi|none|16|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Sayaka Takahashi|none|12|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190405||21|Mayu Matsumoto |Wakana Nagahara|19|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||21|Mayu Matsumoto |Wakana Nagahara|11|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||17|Baek Ha Na|Kim Hye Rin|21|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190405||Walkover Win|Setyana Mapasa|Gronya Somerville|Walkover Loss|Gabriela Stoeva [7]|Stefani Stoeva|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Hafiz Faizal |Gloria Emanuelle Widjaja|16|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Hafiz Faizal |Gloria Emanuelle Widjaja|10|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Busanan Ongbamrungphan|none|10|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Busanan Ongbamrungphan|none|7|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||22|Chayanit Chaladchalam|Phataimas Muenwong|20|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||16|Chayanit Chaladchalam|Phataimas Muenwong|21|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Chayanit Chaladchalam|Phataimas Muenwong|19|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|19|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||24|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|26|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|8|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Kantaphon Wangcharoen|none|10|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Kantaphon Wangcharoen|none|15|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Akane Yamaguchi |none|16|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Akane Yamaguchi |none|17|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Tan Kian Meng|Lai Pei Jing|16|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Tan Kian Meng|Lai Pei Jing|15|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||20|Kento Momota |none|22|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Kento Momota |none|13|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Kento Momota |none|11|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Chan Peng Soon |Goh Liu Ying|13|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Chan Peng Soon |Goh Liu Ying|19|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Goh V Shem|Tan Wee Kiong|14|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Goh V Shem|Tan Wee Kiong|18|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||13|Chen Xiaoxin|none|21|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Chen Xiaoxin|none|13|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Chen Xiaoxin|none|14|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||15|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Du Yue|Li Yinhui|11|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||23|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||22|Shi Yuqi |none|20|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Shi Yuqi |none|23|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Shi Yuqi |none|12|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Tontowi Ahmad|Winny Oktavina Kandow|15|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Tontowi Ahmad|Winny Oktavina Kandow|18|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Takeshi Kamura |Keigo Sonoda|17|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Takeshi Kamura |Keigo Sonoda|18|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Chen Long |none|13|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Chen Long |none|9|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Tai Tzu Ying |none|14|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Tai Tzu Ying |none|13|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Marcus Ellis|Lauren Smith|15|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Marcus Ellis|Lauren Smith|13|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Liu Cheng|Zhang Nan|18|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||15|Liu Cheng|Zhang Nan|21|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Liu Cheng|Zhang Nan|14|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Mohammad Ahsan |Hendra Setiawan|16|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Mohammad Ahsan |Hendra Setiawan|19|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Rasmus Gemke|none|19|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||24|Rasmus Gemke|none|22|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Chooi Kah Ming|Low Juan Shen|18|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||24|Chooi Kah Ming|Low Juan Shen|22|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Li Xuerui|none|6|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Li Xuerui|none|18|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Anders Antonsen|none|17|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||16|Anders Antonsen|none|21|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Anders Antonsen|none|13|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Lu Ching Yao|Yang Po Han|13|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Lu Ching Yao|Yang Po Han|12|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||16|Misaki Matsutomo |Ayaka Takahashi|21|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Misaki Matsutomo |Ayaka Takahashi|17|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Misaki Matsutomo |Ayaka Takahashi|15|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||19|Li Junhui |Liu Yuchen|21|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Li Junhui |Liu Yuchen|14|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Li Junhui |Liu Yuchen|15|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Nozomi Okuhara |none|15|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Nozomi Okuhara |none|16|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||4|Puttita Supajirakul|Sapsiree Taerattanachai|1|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||Walkover Win|Puttita Supajirakul|Sapsiree Taerattanachai|Walkover Loss|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||18|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Kenta Nishimoto|none|13|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||23|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Ricky Karandasuwardi|Pia Zebadiah Bernadet|18|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||13|Ricky Karandasuwardi|Pia Zebadiah Bernadet|21|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||27|Ricky Karandasuwardi|Pia Zebadiah Bernadet|25|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||22|Pranaav Jerry Chopra|Reddy N. Sikki|20|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||24|Pranaav Jerry Chopra|Reddy N. Sikki|22|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||16|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||23|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||22|Chang Ye Na|Jung Kyung Eun|20|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||19|Chen Yufei |none|21|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Chen Yufei |none|10|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Chen Yufei |none|13|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||Walkover Win|Ou Xuanyi|Feng Xueying|Walkover Loss|Chris Adcock [6]|Gabrielle Adcock|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||13|Sayaka Takahashi|none|21|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Sayaka Takahashi|none|16|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Sayaka Takahashi|none|12|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190406||21|Mayu Matsumoto |Wakana Nagahara|19|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||21|Mayu Matsumoto |Wakana Nagahara|11|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||17|Baek Ha Na|Kim Hye Rin|21|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190406||Walkover Win|Setyana Mapasa|Gronya Somerville|Walkover Loss|Gabriela Stoeva [7]|Stefani Stoeva|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Hafiz Faizal |Gloria Emanuelle Widjaja|16|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Hafiz Faizal |Gloria Emanuelle Widjaja|10|Lee Yang|Yang Ching Tun|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Busanan Ongbamrungphan|none|10|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Busanan Ongbamrungphan|none|7|Chloe Birch|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||22|Chayanit Chaladchalam|Phataimas Muenwong|20|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||16|Chayanit Chaladchalam|Phataimas Muenwong|21|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Chayanit Chaladchalam|Phataimas Muenwong|19|Vivian Hoo|Yap Cheng Wen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|19|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||24|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|26|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Wahyu Nayaka Arya Pangkaryanira|Ade Yusuf Santoso|8|Kim Astrup [5]|Anders Skaarup Rasmussen|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Kantaphon Wangcharoen|none|10|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Kantaphon Wangcharoen|none|15|Liew Daren|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Akane Yamaguchi |none|16|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Akane Yamaguchi |none|17|Soniia Cheah|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Tan Kian Meng|Lai Pei Jing|16|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Tan Kian Meng|Lai Pei Jing|15|Yuta Watanabe [3]|Arisa Higashino|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||20|Kento Momota |none|22|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Kento Momota |none|13|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Kento Momota |none|11|Jan O Jorgensen|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Chan Peng Soon |Goh Liu Ying|13|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Chan Peng Soon |Goh Liu Ying|19|Kohei Gondo|Ayane Kurihara|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Goh V Shem|Tan Wee Kiong|14|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Goh V Shem|Tan Wee Kiong|18|Tinn Isriyanet|Kittisak Namdash|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||13|Chen Xiaoxin|none|21|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Chen Xiaoxin|none|13|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Chen Xiaoxin|none|14|Kim Ga Eun|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||15|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Du Yue|Li Yinhui|11|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||23|Du Yue|Li Yinhui|21|Ayako Sakuramoto|Yukiko Takahata|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||22|Shi Yuqi |none|20|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Shi Yuqi |none|23|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Shi Yuqi |none|12|Sameer Verma|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Tontowi Ahmad|Winny Oktavina Kandow|15|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Tontowi Ahmad|Winny Oktavina Kandow|18|Do Tuan Duc|Pham Nhu Thao|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Takeshi Kamura |Keigo Sonoda|17|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Takeshi Kamura |Keigo Sonoda|18|Huang Kaixiang|Wang Zekang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Chen Long |none|13|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Chen Long |none|9|Hans-Kristian Solberg Vittinghus|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Tai Tzu Ying |none|14|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Tai Tzu Ying |none|13|Deng Joy Xuan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Marcus Ellis|Lauren Smith|15|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Marcus Ellis|Lauren Smith|13|Chen Tang Jie|Peck Yen Wei|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Liu Cheng|Zhang Nan|18|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||15|Liu Cheng|Zhang Nan|21|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Liu Cheng|Zhang Nan|14|Mohamad Arif Ab Latif Arif|Nur Mohd Azriyn Ayub Azriyn|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Mohammad Ahsan |Hendra Setiawan|16|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Mohammad Ahsan |Hendra Setiawan|19|Bodin Isara|Maneepong Jongjit|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Rasmus Gemke|none|19|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||24|Rasmus Gemke|none|22|Lee Hyun Il|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Chooi Kah Ming|Low Juan Shen|18|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||24|Chooi Kah Ming|Low Juan Shen|22|He Jiting|Tan Qiang|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Li Xuerui|none|6|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Li Xuerui|none|18|Cai Yanyan|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Anders Antonsen|none|17|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||16|Anders Antonsen|none|21|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Anders Antonsen|none|13|Huang Yuxiang|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Lu Ching Yao|Yang Po Han|13|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Lu Ching Yao|Yang Po Han|12|Phillip Chew|Ryan Chew|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||16|Misaki Matsutomo |Ayaka Takahashi|21|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Misaki Matsutomo |Ayaka Takahashi|17|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Misaki Matsutomo |Ayaka Takahashi|15|Chen Lu|Xu Ya|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||19|Li Junhui |Liu Yuchen|21|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Li Junhui |Liu Yuchen|14|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Li Junhui |Liu Yuchen|15|Berry Angriawan|Hardianto Hardianto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Nozomi Okuhara |none|15|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Nozomi Okuhara |none|16|Mia Blichfeldt|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||4|Puttita Supajirakul|Sapsiree Taerattanachai|1|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||Walkover Win|Puttita Supajirakul|Sapsiree Taerattanachai|Walkover Loss|Shiho Tanaka [6]|Koharu Yonemoto|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||18|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Kenta Nishimoto|none|13|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||23|Kenta Nishimoto|none|21|Anthony Sinisuka Ginting [7]|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Ricky Karandasuwardi|Pia Zebadiah Bernadet|18|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||13|Ricky Karandasuwardi|Pia Zebadiah Bernadet|21|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||27|Ricky Karandasuwardi|Pia Zebadiah Bernadet|25|Rodion Alimov|Alina Davletova|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||22|Pranaav Jerry Chopra|Reddy N. Sikki|20|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||24|Pranaav Jerry Chopra|Reddy N. Sikki|22|Sam Magee|Chloe Magee|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||16|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||23|Chang Ye Na|Jung Kyung Eun|21|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||22|Chang Ye Na|Jung Kyung Eun|20|Li Wenmei|Zheng Yu|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||19|Chen Yufei |none|21|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Chen Yufei |none|10|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Chen Yufei |none|13|Han Yue|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||Walkover Win|Ou Xuanyi|Feng Xueying|Walkover Loss|Chris Adcock [6]|Gabrielle Adcock|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Jonatan Christie|none|12|Brice Leverdez|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||13|Sayaka Takahashi|none|21|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Sayaka Takahashi|none|16|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Sayaka Takahashi|none|12|Yip Pui Yin|none|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|singles
+20190407||21|Mayu Matsumoto |Wakana Nagahara|19|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||21|Mayu Matsumoto |Wakana Nagahara|11|Anggia Shitta Awanda|Pia Zebadiah Bernadet|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||17|Baek Ha Na|Kim Hye Rin|21|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||22|Baek Ha Na|Kim Hye Rin|20|Ashwini Ponnappa|Reddy N. Sikki|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles
+20190407||Walkover Win|Setyana Mapasa|Gronya Somerville|Walkover Loss|Gabriela Stoeva [7]|Stefani Stoeva|F21EDFA6-0F3F-4B4A-833C-5C9F7400CF1B|doubles

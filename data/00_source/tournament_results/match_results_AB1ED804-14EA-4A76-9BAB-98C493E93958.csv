@@ -1,0 +1,713 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20170215|0:33|18|Szymon Maciag|Zuzanna Luban|21|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:33|21|Szymon Maciag|Zuzanna Luban|17|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:33|21|Szymon Maciag|Zuzanna Luban|16|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|12|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|16|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:18|21|Alexander Nikulin|Anastasia Shapovalova|13|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:18|21|Alexander Nikulin|Anastasia Shapovalova|7|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:34|19|Yevhen Kobzar|Mariia Stoliarenko|21|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:34|21|Yevhen Kobzar|Mariia Stoliarenko|10|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:34|22|Yevhen Kobzar|Mariia Stoliarenko|20|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170215|0:22|21|Bartosz Galazka|none|16|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Bartosz Galazka|none|13|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Jan Viktora|none|9|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Jan Viktora|none|12|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:37|21|Maciej Matusz|none|17|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:37|15|Maciej Matusz|none|21|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:37|26|Maciej Matusz|none|24|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Bogdan Deremeshko|none|12|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Bogdan Deremeshko|none|6|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:18|21|Anej Cizelj|none|15|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:18|21|Anej Cizelj|none|16|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:18|21|Tomáš Švejda|none|7|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:18|21|Tomáš Švejda|none|4|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Alexander Nikulin|none|11|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Alexander Nikulin|none|15|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Patryk Kordek|none|15|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Patryk Kordek|none|10|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Daniyil Bobro|none|12|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Daniyil Bobro|none|19|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Volodymyr Rozhkov|none|10|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Volodymyr Rozhkov|none|11|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:35|7|Szymon Maciag|none|21|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Jan Janoštík|none|11|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Jan Janoštík|none|6|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:24|21|Evgeny Chertilin|none|16|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:24|21|Evgeny Chertilin|none|13|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Jaka Ivančič|none|10|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Jaka Ivančič|none|18|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Artur Gwiazdowski|none|16|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Artur Gwiazdowski|none|6|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|22|Maksim Ovchinnikov|none|20|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Maksim Ovchinnikov|none|16|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Viliam Turcsanyi|none|6|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Viliam Turcsanyi|none|9|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:32|21|Tallulah Sharleen Van Coppenolle|none|19|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:32|21|Tallulah Sharleen Van Coppenolle|none|14|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Tereza Kobyláková|none|14|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Tereza Kobyláková|none|9|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Sofia Larsson|none|15|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Sofia Larsson|none|7|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Aleksandra Pajak|none|13|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Aleksandra Pajak|none|7|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:28|21|Aleksandra Radziszewska|none|17|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:28|17|Aleksandra Radziszewska|none|21|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:28|21|Aleksandra Radziszewska|none|10|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:24|21|Dominika Chojnacka|none|19|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:24|21|Dominika Chojnacka|none|18|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:42|16|Leila Ombodi|none|21|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:42|21|Leila Ombodi|none|17|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:42|21|Leila Ombodi|none|16|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Polina Tkach|none|16|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Polina Tkach|none|10|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Marie Studená|none|11|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:19|21|Marie Studená|none|17|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Viktoriia Kozyreva|none|16|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Viktoriia Kozyreva|none|17|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Szubert Karolina |none|10|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Szubert Karolina |none|19|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:39|23|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:39|12|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:39|21|Laura Bujak|none|15|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Jana Adamkova|none|11|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Jana Adamkova|none|16|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Ulyana Volskaya|none|16|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Ulyana Volskaya|none|10|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215||Walkover Win|Varvara Frolova|none|Walkover Loss|Julia Plawecka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|23|Mariia Stoliarenko|none|21|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Mariia Stoliarenko|none|18|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Olga Kulkova|none|12|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Olga Kulkova|none|11|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Kitti Szotak |none|7|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|22|Kitti Szotak |none|20|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:34|21|Julia Chmurovicova|none|15|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:34|16|Julia Chmurovicova|none|21|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:34|21|Julia Chmurovicova|none|17|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Anastasia Shapovalova|none|11|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Anastasia Shapovalova|none|18|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:15|21|Mia Tarcalova|none|10|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:15|21|Mia Tarcalova|none|3|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|18|Marusa Vračar|none|21|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:14|21|Yelizaveta Kaminskaya|none|10|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:14|21|Yelizaveta Kaminskaya|none|7|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:26|21|Anna Duda|none|13|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:26|21|Anna Duda|none|16|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215||Walkover Win|Valentýna Sonnková|none|Walkover Loss|Anastasiia Kurdyukova [5]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Marcelina Franczuk|none|16|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|22|Marcelina Franczuk|none|20|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:15|21|Hanna Bandarenka|none|12|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:15|21|Hanna Bandarenka|none|9|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:13|21|Georgii Karpov |none|6|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:13|21|Georgii Karpov |none|4|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:47|19|Jan Viktora|none|21|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:33|21|Maciej Matusz|none|23|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:33|21|Maciej Matusz|none|14|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:33|21|Maciej Matusz|none|12|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Bogdan Deremeshko|none|14|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Bogdan Deremeshko|none|18|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:29|21|Luka Ban |none|19|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:29|21|Luka Ban |none|18|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Alexander Nikulin|none|13|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Alexander Nikulin|none|9|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:38|24|Andrej Antoska |none|22|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:38|19|Andrej Antoska |none|21|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:38|21|Andrej Antoska |none|15|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:50|19|Mikolaj Piorkowski|none|21|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:40|21|Volodymyr Rozhkov|none|16|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:40|21|Volodymyr Rozhkov|none|19|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Jan Janoštík|none|7|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|26|Jan Janoštík|none|24|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Evgeny Chertilin|none|13|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Evgeny Chertilin|none|15|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:45|17|Lukasz Cimosz |none|21|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:45|22|Lukasz Cimosz |none|20|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:45|21|Lukasz Cimosz |none|19|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215||Walkover Win|Jaka Ivančič|none|Walkover Loss|Filip Grabowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|22|Jakub Horak |none|20|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Jakub Horak |none|11|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|22|Karol Budny|none|20|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Karol Budny|none|15|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:15|21|Sergej Lukic |none|5|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:15|21|Sergej Lukic |none|6|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:24|23|Marija Sudimac |none|21|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:24|21|Marija Sudimac |none|12|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|11|Tereza Kobyláková|none|21|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|21|Tereza Kobyláková|none|12|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|21|Tereza Kobyláková|none|13|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|17|Aleksandra Radziszewska|none|21|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|21|Aleksandra Radziszewska|none|17|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|21|Aleksandra Radziszewska|none|19|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:29|21|Leila Ombodi|none|18|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:29|21|Leila Ombodi|none|15|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Anastasiai Khomich |none|8|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Anastasiai Khomich |none|14|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Viktoriia Kozyreva|none|12|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Viktoriia Kozyreva|none|10|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Szubert Karolina |none|9|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:17|21|Szubert Karolina |none|15|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Jana Adamkova|none|19|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:23|21|Jana Adamkova|none|11|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Mariia Stoliarenko|none|19|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:21|21|Mariia Stoliarenko|none|13|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Kitti Szotak |none|19|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Kitti Szotak |none|13|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Anastasia Shapovalova|none|11|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Anastasia Shapovalova|none|15|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|21|Bára Hadáčková |none|17|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|19|Bára Hadáčková |none|21|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:36|21|Bára Hadáčková |none|13|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:41|17|Yelizaveta Kaminskaya|none|21|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:41|26|Yelizaveta Kaminskaya|none|24|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:41|21|Yelizaveta Kaminskaya|none|14|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|19|Anna Duda|none|21|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Anna Duda|none|3|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:30|21|Anna Duda|none|4|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Katarina Csonkova|none|15|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:20|21|Katarina Csonkova|none|14|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Hanna Bandarenka|none|18|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170215|0:22|21|Hanna Bandarenka|none|19|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:33|18|Szymon Maciag|Zuzanna Luban|21|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:33|21|Szymon Maciag|Zuzanna Luban|17|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:33|21|Szymon Maciag|Zuzanna Luban|16|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|12|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|16|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:18|21|Alexander Nikulin|Anastasia Shapovalova|13|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:18|21|Alexander Nikulin|Anastasia Shapovalova|7|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:34|19|Yevhen Kobzar|Mariia Stoliarenko|21|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:34|21|Yevhen Kobzar|Mariia Stoliarenko|10|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:34|22|Yevhen Kobzar|Mariia Stoliarenko|20|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170216|0:22|21|Bartosz Galazka|none|16|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Bartosz Galazka|none|13|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Jan Viktora|none|9|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Jan Viktora|none|12|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:37|21|Maciej Matusz|none|17|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:37|15|Maciej Matusz|none|21|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:37|26|Maciej Matusz|none|24|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Bogdan Deremeshko|none|12|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Bogdan Deremeshko|none|6|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:18|21|Anej Cizelj|none|15|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:18|21|Anej Cizelj|none|16|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:18|21|Tomáš Švejda|none|7|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:18|21|Tomáš Švejda|none|4|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Alexander Nikulin|none|11|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Alexander Nikulin|none|15|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Patryk Kordek|none|15|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Patryk Kordek|none|10|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Daniyil Bobro|none|12|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Daniyil Bobro|none|19|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Volodymyr Rozhkov|none|10|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Volodymyr Rozhkov|none|11|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:35|7|Szymon Maciag|none|21|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Jan Janoštík|none|11|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Jan Janoštík|none|6|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:24|21|Evgeny Chertilin|none|16|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:24|21|Evgeny Chertilin|none|13|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Jaka Ivančič|none|10|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Jaka Ivančič|none|18|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Artur Gwiazdowski|none|16|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Artur Gwiazdowski|none|6|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|22|Maksim Ovchinnikov|none|20|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Maksim Ovchinnikov|none|16|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Viliam Turcsanyi|none|6|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Viliam Turcsanyi|none|9|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:32|21|Tallulah Sharleen Van Coppenolle|none|19|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:32|21|Tallulah Sharleen Van Coppenolle|none|14|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Tereza Kobyláková|none|14|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Tereza Kobyláková|none|9|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Sofia Larsson|none|15|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Sofia Larsson|none|7|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Aleksandra Pajak|none|13|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Aleksandra Pajak|none|7|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:28|21|Aleksandra Radziszewska|none|17|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:28|17|Aleksandra Radziszewska|none|21|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:28|21|Aleksandra Radziszewska|none|10|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:24|21|Dominika Chojnacka|none|19|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:24|21|Dominika Chojnacka|none|18|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:42|16|Leila Ombodi|none|21|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:42|21|Leila Ombodi|none|17|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:42|21|Leila Ombodi|none|16|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Polina Tkach|none|16|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Polina Tkach|none|10|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Marie Studená|none|11|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:19|21|Marie Studená|none|17|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Viktoriia Kozyreva|none|16|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Viktoriia Kozyreva|none|17|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Szubert Karolina |none|10|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Szubert Karolina |none|19|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:39|23|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:39|12|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:39|21|Laura Bujak|none|15|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Jana Adamkova|none|11|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Jana Adamkova|none|16|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Ulyana Volskaya|none|16|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Ulyana Volskaya|none|10|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216||Walkover Win|Varvara Frolova|none|Walkover Loss|Julia Plawecka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|23|Mariia Stoliarenko|none|21|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Mariia Stoliarenko|none|18|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Olga Kulkova|none|12|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Olga Kulkova|none|11|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Kitti Szotak |none|7|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|22|Kitti Szotak |none|20|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:34|21|Julia Chmurovicova|none|15|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:34|16|Julia Chmurovicova|none|21|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:34|21|Julia Chmurovicova|none|17|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Anastasia Shapovalova|none|11|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Anastasia Shapovalova|none|18|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:15|21|Mia Tarcalova|none|10|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:15|21|Mia Tarcalova|none|3|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|18|Marusa Vračar|none|21|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:14|21|Yelizaveta Kaminskaya|none|10|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:14|21|Yelizaveta Kaminskaya|none|7|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:26|21|Anna Duda|none|13|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:26|21|Anna Duda|none|16|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216||Walkover Win|Valentýna Sonnková|none|Walkover Loss|Anastasiia Kurdyukova [5]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Marcelina Franczuk|none|16|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|22|Marcelina Franczuk|none|20|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:15|21|Hanna Bandarenka|none|12|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:15|21|Hanna Bandarenka|none|9|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:13|21|Georgii Karpov |none|6|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:13|21|Georgii Karpov |none|4|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:47|19|Jan Viktora|none|21|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:33|21|Maciej Matusz|none|23|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:33|21|Maciej Matusz|none|14|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:33|21|Maciej Matusz|none|12|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Bogdan Deremeshko|none|14|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Bogdan Deremeshko|none|18|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:29|21|Luka Ban |none|19|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:29|21|Luka Ban |none|18|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Alexander Nikulin|none|13|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Alexander Nikulin|none|9|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:38|24|Andrej Antoska |none|22|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:38|19|Andrej Antoska |none|21|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:38|21|Andrej Antoska |none|15|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:50|19|Mikolaj Piorkowski|none|21|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:40|21|Volodymyr Rozhkov|none|16|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:40|21|Volodymyr Rozhkov|none|19|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Jan Janoštík|none|7|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|26|Jan Janoštík|none|24|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Evgeny Chertilin|none|13|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Evgeny Chertilin|none|15|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:45|17|Lukasz Cimosz |none|21|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:45|22|Lukasz Cimosz |none|20|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:45|21|Lukasz Cimosz |none|19|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216||Walkover Win|Jaka Ivančič|none|Walkover Loss|Filip Grabowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|22|Jakub Horak |none|20|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Jakub Horak |none|11|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|22|Karol Budny|none|20|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Karol Budny|none|15|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:15|21|Sergej Lukic |none|5|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:15|21|Sergej Lukic |none|6|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:24|23|Marija Sudimac |none|21|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:24|21|Marija Sudimac |none|12|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|11|Tereza Kobyláková|none|21|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|21|Tereza Kobyláková|none|12|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|21|Tereza Kobyláková|none|13|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|17|Aleksandra Radziszewska|none|21|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|21|Aleksandra Radziszewska|none|17|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|21|Aleksandra Radziszewska|none|19|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:29|21|Leila Ombodi|none|18|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:29|21|Leila Ombodi|none|15|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Anastasiai Khomich |none|8|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Anastasiai Khomich |none|14|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Viktoriia Kozyreva|none|12|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Viktoriia Kozyreva|none|10|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Szubert Karolina |none|9|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:17|21|Szubert Karolina |none|15|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Jana Adamkova|none|19|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:23|21|Jana Adamkova|none|11|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Mariia Stoliarenko|none|19|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:21|21|Mariia Stoliarenko|none|13|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Kitti Szotak |none|19|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Kitti Szotak |none|13|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Anastasia Shapovalova|none|11|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Anastasia Shapovalova|none|15|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|21|Bára Hadáčková |none|17|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|19|Bára Hadáčková |none|21|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:36|21|Bára Hadáčková |none|13|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:41|17|Yelizaveta Kaminskaya|none|21|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:41|26|Yelizaveta Kaminskaya|none|24|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:41|21|Yelizaveta Kaminskaya|none|14|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|19|Anna Duda|none|21|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Anna Duda|none|3|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:30|21|Anna Duda|none|4|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Katarina Csonkova|none|15|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:20|21|Katarina Csonkova|none|14|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Hanna Bandarenka|none|18|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170216|0:22|21|Hanna Bandarenka|none|19|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:33|18|Szymon Maciag|Zuzanna Luban|21|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:33|21|Szymon Maciag|Zuzanna Luban|17|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:33|21|Szymon Maciag|Zuzanna Luban|16|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|12|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|16|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:18|21|Alexander Nikulin|Anastasia Shapovalova|13|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:18|21|Alexander Nikulin|Anastasia Shapovalova|7|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:34|19|Yevhen Kobzar|Mariia Stoliarenko|21|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:34|21|Yevhen Kobzar|Mariia Stoliarenko|10|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:34|22|Yevhen Kobzar|Mariia Stoliarenko|20|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170217|0:22|21|Bartosz Galazka|none|16|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Bartosz Galazka|none|13|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Jan Viktora|none|9|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Jan Viktora|none|12|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:37|21|Maciej Matusz|none|17|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:37|15|Maciej Matusz|none|21|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:37|26|Maciej Matusz|none|24|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Bogdan Deremeshko|none|12|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Bogdan Deremeshko|none|6|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:18|21|Anej Cizelj|none|15|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:18|21|Anej Cizelj|none|16|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:18|21|Tomáš Švejda|none|7|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:18|21|Tomáš Švejda|none|4|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Alexander Nikulin|none|11|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Alexander Nikulin|none|15|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Patryk Kordek|none|15|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Patryk Kordek|none|10|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Daniyil Bobro|none|12|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Daniyil Bobro|none|19|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Volodymyr Rozhkov|none|10|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Volodymyr Rozhkov|none|11|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:35|7|Szymon Maciag|none|21|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Jan Janoštík|none|11|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Jan Janoštík|none|6|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:24|21|Evgeny Chertilin|none|16|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:24|21|Evgeny Chertilin|none|13|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Jaka Ivančič|none|10|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Jaka Ivančič|none|18|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Artur Gwiazdowski|none|16|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Artur Gwiazdowski|none|6|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|22|Maksim Ovchinnikov|none|20|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Maksim Ovchinnikov|none|16|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Viliam Turcsanyi|none|6|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Viliam Turcsanyi|none|9|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:32|21|Tallulah Sharleen Van Coppenolle|none|19|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:32|21|Tallulah Sharleen Van Coppenolle|none|14|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Tereza Kobyláková|none|14|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Tereza Kobyláková|none|9|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Sofia Larsson|none|15|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Sofia Larsson|none|7|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Aleksandra Pajak|none|13|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Aleksandra Pajak|none|7|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:28|21|Aleksandra Radziszewska|none|17|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:28|17|Aleksandra Radziszewska|none|21|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:28|21|Aleksandra Radziszewska|none|10|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:24|21|Dominika Chojnacka|none|19|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:24|21|Dominika Chojnacka|none|18|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:42|16|Leila Ombodi|none|21|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:42|21|Leila Ombodi|none|17|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:42|21|Leila Ombodi|none|16|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Polina Tkach|none|16|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Polina Tkach|none|10|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Marie Studená|none|11|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:19|21|Marie Studená|none|17|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Viktoriia Kozyreva|none|16|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Viktoriia Kozyreva|none|17|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Szubert Karolina |none|10|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Szubert Karolina |none|19|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:39|23|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:39|12|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:39|21|Laura Bujak|none|15|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Jana Adamkova|none|11|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Jana Adamkova|none|16|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Ulyana Volskaya|none|16|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Ulyana Volskaya|none|10|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217||Walkover Win|Varvara Frolova|none|Walkover Loss|Julia Plawecka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|23|Mariia Stoliarenko|none|21|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Mariia Stoliarenko|none|18|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Olga Kulkova|none|12|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Olga Kulkova|none|11|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Kitti Szotak |none|7|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|22|Kitti Szotak |none|20|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:34|21|Julia Chmurovicova|none|15|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:34|16|Julia Chmurovicova|none|21|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:34|21|Julia Chmurovicova|none|17|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Anastasia Shapovalova|none|11|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Anastasia Shapovalova|none|18|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:15|21|Mia Tarcalova|none|10|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:15|21|Mia Tarcalova|none|3|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|18|Marusa Vračar|none|21|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:14|21|Yelizaveta Kaminskaya|none|10|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:14|21|Yelizaveta Kaminskaya|none|7|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:26|21|Anna Duda|none|13|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:26|21|Anna Duda|none|16|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217||Walkover Win|Valentýna Sonnková|none|Walkover Loss|Anastasiia Kurdyukova [5]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Marcelina Franczuk|none|16|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|22|Marcelina Franczuk|none|20|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:15|21|Hanna Bandarenka|none|12|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:15|21|Hanna Bandarenka|none|9|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:13|21|Georgii Karpov |none|6|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:13|21|Georgii Karpov |none|4|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:47|19|Jan Viktora|none|21|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:33|21|Maciej Matusz|none|23|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:33|21|Maciej Matusz|none|14|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:33|21|Maciej Matusz|none|12|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Bogdan Deremeshko|none|14|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Bogdan Deremeshko|none|18|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:29|21|Luka Ban |none|19|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:29|21|Luka Ban |none|18|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Alexander Nikulin|none|13|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Alexander Nikulin|none|9|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:38|24|Andrej Antoska |none|22|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:38|19|Andrej Antoska |none|21|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:38|21|Andrej Antoska |none|15|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:50|19|Mikolaj Piorkowski|none|21|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:40|21|Volodymyr Rozhkov|none|16|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:40|21|Volodymyr Rozhkov|none|19|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Jan Janoštík|none|7|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|26|Jan Janoštík|none|24|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Evgeny Chertilin|none|13|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Evgeny Chertilin|none|15|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:45|17|Lukasz Cimosz |none|21|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:45|22|Lukasz Cimosz |none|20|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:45|21|Lukasz Cimosz |none|19|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217||Walkover Win|Jaka Ivančič|none|Walkover Loss|Filip Grabowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|22|Jakub Horak |none|20|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Jakub Horak |none|11|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|22|Karol Budny|none|20|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Karol Budny|none|15|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:15|21|Sergej Lukic |none|5|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:15|21|Sergej Lukic |none|6|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:24|23|Marija Sudimac |none|21|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:24|21|Marija Sudimac |none|12|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|11|Tereza Kobyláková|none|21|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|21|Tereza Kobyláková|none|12|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|21|Tereza Kobyláková|none|13|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|17|Aleksandra Radziszewska|none|21|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|21|Aleksandra Radziszewska|none|17|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|21|Aleksandra Radziszewska|none|19|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:29|21|Leila Ombodi|none|18|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:29|21|Leila Ombodi|none|15|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Anastasiai Khomich |none|8|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Anastasiai Khomich |none|14|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Viktoriia Kozyreva|none|12|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Viktoriia Kozyreva|none|10|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Szubert Karolina |none|9|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:17|21|Szubert Karolina |none|15|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Jana Adamkova|none|19|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:23|21|Jana Adamkova|none|11|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Mariia Stoliarenko|none|19|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:21|21|Mariia Stoliarenko|none|13|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Kitti Szotak |none|19|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Kitti Szotak |none|13|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Anastasia Shapovalova|none|11|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Anastasia Shapovalova|none|15|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|21|Bára Hadáčková |none|17|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|19|Bára Hadáčková |none|21|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:36|21|Bára Hadáčková |none|13|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:41|17|Yelizaveta Kaminskaya|none|21|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:41|26|Yelizaveta Kaminskaya|none|24|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:41|21|Yelizaveta Kaminskaya|none|14|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|19|Anna Duda|none|21|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Anna Duda|none|3|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:30|21|Anna Duda|none|4|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Katarina Csonkova|none|15|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:20|21|Katarina Csonkova|none|14|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Hanna Bandarenka|none|18|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170217|0:22|21|Hanna Bandarenka|none|19|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:33|18|Szymon Maciag|Zuzanna Luban|21|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:33|21|Szymon Maciag|Zuzanna Luban|17|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:33|21|Szymon Maciag|Zuzanna Luban|16|Daniyil Bobro|Yana Sobko|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|12|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:20|21|Evgeny Chertilin|Viktoriia Kozyreva|16|Maksim Ovchinnikov|Ulyana Volskaya|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:18|21|Alexander Nikulin|Anastasia Shapovalova|13|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:18|21|Alexander Nikulin|Anastasia Shapovalova|7|Kacper Kopacz|Nina Zwan|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:34|19|Yevhen Kobzar|Mariia Stoliarenko|21|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:34|21|Yevhen Kobzar|Mariia Stoliarenko|10|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:34|22|Yevhen Kobzar|Mariia Stoliarenko|20|Viliam Turcsanyi|Katarina Csonkova|AB1ED804-14EA-4A76-9BAB-98C493E93958|doubles
+20170218|0:22|21|Bartosz Galazka|none|16|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Bartosz Galazka|none|13|Igor Kalinichenko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Jan Viktora|none|9|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Jan Viktora|none|12|Szymon Slepecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:37|21|Maciej Matusz|none|17|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:37|15|Maciej Matusz|none|21|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:37|26|Maciej Matusz|none|24|Blaž Smrkolj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Bogdan Deremeshko|none|12|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Bogdan Deremeshko|none|6|Mikolaj Szymanowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:18|21|Anej Cizelj|none|15|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:18|21|Anej Cizelj|none|16|Jakub Suszynski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:18|21|Tomáš Švejda|none|7|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:18|21|Tomáš Švejda|none|4|Kacper Kopacz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Alexander Nikulin|none|11|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Alexander Nikulin|none|15|Aleksander Dzwonnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Patryk Kordek|none|15|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Patryk Kordek|none|10|Ilya Larushyn|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Daniyil Bobro|none|12|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Daniyil Bobro|none|19|Andrzej Niczyporuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Volodymyr Rozhkov|none|10|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Volodymyr Rozhkov|none|11|Sebastian Bilbin|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:35|7|Szymon Maciag|none|21|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:35|21|Szymon Maciag|none|13|Peter Kovac|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Jan Janoštík|none|11|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Jan Janoštík|none|6|Adam Bibik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:24|21|Evgeny Chertilin|none|16|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:24|21|Evgeny Chertilin|none|13|Szymon Stokfisz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Jaka Ivančič|none|10|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Jaka Ivančič|none|18|Natan Hemer|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Artur Gwiazdowski|none|16|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Artur Gwiazdowski|none|6|Peter Dubecky|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|22|Maksim Ovchinnikov|none|20|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Maksim Ovchinnikov|none|16|Adrian Krawczyk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Viliam Turcsanyi|none|6|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Viliam Turcsanyi|none|9|Grzegorz Holub|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:32|21|Tallulah Sharleen Van Coppenolle|none|19|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:32|21|Tallulah Sharleen Van Coppenolle|none|14|Nike Brajkovič|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Tereza Kobyláková|none|14|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Tereza Kobyláková|none|9|Nina Zwan|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Sofia Larsson|none|15|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Sofia Larsson|none|7|Neza Frank|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Aleksandra Pajak|none|13|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Aleksandra Pajak|none|7|Alexandra Remenova [8]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:28|21|Aleksandra Radziszewska|none|17|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:28|17|Aleksandra Radziszewska|none|21|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:28|21|Aleksandra Radziszewska|none|10|Veranika Tarusava|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:24|21|Dominika Chojnacka|none|19|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:24|21|Dominika Chojnacka|none|18|Anastasiia Prokopovych|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:42|16|Leila Ombodi|none|21|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:42|21|Leila Ombodi|none|17|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:42|21|Leila Ombodi|none|16|Weronika Gorniak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Polina Tkach|none|16|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Polina Tkach|none|10|Aleksandra Sieprawska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Marie Studená|none|11|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:19|21|Marie Studená|none|17|Michalina Surowka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Viktoriia Kozyreva|none|16|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Viktoriia Kozyreva|none|17|Joanna Podedworny|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Szubert Karolina |none|10|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Szubert Karolina |none|19|Natalia Tomcova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:39|23|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:39|12|Laura Bujak|none|21|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:39|21|Laura Bujak|none|15|Polina Buhrova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Jana Adamkova|none|11|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Jana Adamkova|none|16|Arianna Biel|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Ulyana Volskaya|none|16|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Ulyana Volskaya|none|10|Weronika Niklas|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218||Walkover Win|Varvara Frolova|none|Walkover Loss|Julia Plawecka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|23|Mariia Stoliarenko|none|21|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Mariia Stoliarenko|none|18|Daria Zimnol|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Olga Kulkova|none|12|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Olga Kulkova|none|11|Yana Sobko|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Kitti Szotak |none|7|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|22|Kitti Szotak |none|20|Dominika Kwasnik|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:34|21|Julia Chmurovicova|none|15|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:34|16|Julia Chmurovicova|none|21|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:34|21|Julia Chmurovicova|none|17|Patrycja Kuszmar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Anastasia Shapovalova|none|11|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Anastasia Shapovalova|none|18|Paulina Hankiewicz|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:15|21|Mia Tarcalova|none|10|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:15|21|Mia Tarcalova|none|3|Anna Czuchra|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|18|Marusa Vračar|none|21|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Marusa Vračar|none|13|Zuzanna Luban|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:14|21|Yelizaveta Kaminskaya|none|10|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:14|21|Yelizaveta Kaminskaya|none|7|Julia Prokopczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:26|21|Anna Duda|none|13|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:26|21|Anna Duda|none|16|Mariia Golubeva|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218||Walkover Win|Valentýna Sonnková|none|Walkover Loss|Anastasiia Kurdyukova [5]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Katarina Csonkova|none|11|Eliza Kwiatkowska|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Marcelina Franczuk|none|16|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|22|Marcelina Franczuk|none|20|Clara Johanson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:15|21|Hanna Bandarenka|none|12|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:15|21|Hanna Bandarenka|none|9|Anna Radtke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:13|21|Georgii Karpov |none|6|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:13|21|Georgii Karpov |none|4|Bartosz Galazka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:47|19|Jan Viktora|none|21|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:47|21|Jan Viktora|none|15|Wiktor Trecki|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:33|21|Maciej Matusz|none|23|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:33|21|Maciej Matusz|none|14|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:33|21|Maciej Matusz|none|12|Miha Masten [7]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Bogdan Deremeshko|none|14|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Bogdan Deremeshko|none|18|Norbert Markowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:29|21|Luka Ban |none|19|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:29|21|Luka Ban |none|18|Tomáš Švejda|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Alexander Nikulin|none|13|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Alexander Nikulin|none|9|Yevhen Kobzar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:38|24|Andrej Antoska |none|22|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:38|19|Andrej Antoska |none|21|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:38|21|Andrej Antoska |none|15|Patryk Kordek|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:50|19|Mikolaj Piorkowski|none|21|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:50|21|Mikolaj Piorkowski|none|19|Daniyil Bobro|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:40|21|Volodymyr Rozhkov|none|16|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:40|21|Volodymyr Rozhkov|none|19|Szymon Maciag|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Jan Janoštík|none|7|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|26|Jan Janoštík|none|24|Josip Meglić [6]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Evgeny Chertilin|none|13|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Evgeny Chertilin|none|15|Kacper Linke|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:45|17|Lukasz Cimosz |none|21|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:45|22|Lukasz Cimosz |none|20|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:45|21|Lukasz Cimosz |none|19|Artur Gwiazdowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218||Walkover Win|Jaka Ivančič|none|Walkover Loss|Filip Grabowski|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|22|Jakub Horak |none|20|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Jakub Horak |none|11|Viliam Turcsanyi|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|22|Karol Budny|none|20|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Karol Budny|none|15|Maksim Ovchinnikov|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:15|21|Sergej Lukic |none|5|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:15|21|Sergej Lukic |none|6|Anej Cizelj|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:24|23|Marija Sudimac |none|21|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:24|21|Marija Sudimac |none|12|Tallulah Sharleen Van Coppenolle|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|11|Tereza Kobyláková|none|21|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|21|Tereza Kobyláková|none|12|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|21|Tereza Kobyláková|none|13|Sofia Larsson|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|17|Aleksandra Radziszewska|none|21|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|21|Aleksandra Radziszewska|none|17|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|21|Aleksandra Radziszewska|none|19|Aleksandra Pajak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:29|21|Leila Ombodi|none|18|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:29|21|Leila Ombodi|none|15|Dominika Chojnacka|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Anastasiai Khomich |none|8|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Anastasiai Khomich |none|14|Polina Tkach|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Viktoriia Kozyreva|none|12|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Viktoriia Kozyreva|none|10|Marie Studená|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Szubert Karolina |none|9|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:17|21|Szubert Karolina |none|15|Laura Bujak|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Jana Adamkova|none|19|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:23|21|Jana Adamkova|none|11|Ulyana Volskaya|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Mariia Stoliarenko|none|19|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:21|21|Mariia Stoliarenko|none|13|Varvara Frolova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Kitti Szotak |none|19|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Kitti Szotak |none|13|Olga Kulkova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Anastasia Shapovalova|none|11|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Anastasia Shapovalova|none|15|Julia Chmurovicova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|21|Bára Hadáčková |none|17|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|19|Bára Hadáčková |none|21|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:36|21|Bára Hadáčková |none|13|Mia Tarcalova|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:41|17|Yelizaveta Kaminskaya|none|21|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:41|26|Yelizaveta Kaminskaya|none|24|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:41|21|Yelizaveta Kaminskaya|none|14|Marusa Vračar|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|19|Anna Duda|none|21|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Anna Duda|none|3|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:30|21|Anna Duda|none|4|Valentýna Sonnková|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Katarina Csonkova|none|15|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:20|21|Katarina Csonkova|none|14|Marcelina Franczuk|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Hanna Bandarenka|none|18|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles
+20170218|0:22|21|Hanna Bandarenka|none|19|Inga Sadaić [2]|none|AB1ED804-14EA-4A76-9BAB-98C493E93958|singles

@@ -1,0 +1,739 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20141107|0:34|23|Silvan Furrer|Celine Dagelet|21|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:34|18|Silvan Furrer|Celine Dagelet|21|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:34|22|Silvan Furrer|Celine Dagelet|20|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:33|12|Michal Kikosicki|Karolina Wladzinska|21|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:33|21|Michal Kikosicki|Karolina Wladzinska|15|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:33|21|Michal Kikosicki|Karolina Wladzinska|14|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Radoslaw Wrobel|Izabela Pajek|10|Marek Kufa|Beata Fukalova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Radoslaw Wrobel|Izabela Pajek|15|Marek Kufa|Beata Fukalova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Filip Budzel|Ivana Zychova|17|Richard Smatlak|Lenka Drotarova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|22|Filip Budzel|Ivana Zychova|20|Richard Smatlak|Lenka Drotarova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Peter Hrncar|Katarina Vargova|18|Philip Birker|Carina Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Peter Hrncar|Katarina Vargova|12|Philip Birker|Carina Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:40|23|Mikhail Ghelashvili|Anastasia Redkina|25|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:40|21|Mikhail Ghelashvili|Anastasia Redkina|18|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:40|21|Mikhail Ghelashvili|Anastasia Redkina|13|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Adam Szolc|Aleksandra Goszczynska|15|Krystof Bumbalek|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Adam Szolc|Aleksandra Goszczynska|14|Krystof Bumbalek|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Vojtech Lapacek|Tereza Svabikova|14|Tymoteusz Malik|Wiktoria Adamek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Vojtech Lapacek|Tereza Svabikova|18|Tymoteusz Malik|Wiktoria Adamek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:42|21|Vojtech Brothanek|Ksenia Evgenova|13|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:42|17|Vojtech Brothanek|Ksenia Evgenova|21|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:42|21|Vojtech Brothanek|Ksenia Evgenova|16|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:30|27|Samuel Ivanka|Zuzana Palkova|25|Martin Kural|Lucie Borovska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:30|21|Samuel Ivanka|Zuzana Palkova|15|Martin Kural|Lucie Borovska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:24|21|Dean Brabec|Jana Slatinska|16|Jan Balucha|Lucia Grencikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:24|21|Dean Brabec|Jana Slatinska|14|Jan Balucha|Lucia Grencikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107||Walkover Win|Zsombor Dulcz|Violetta Papai|Walkover Loss|Bartolomiej Parysz|Daniela Bielinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:26|21|Patryk Jas|Kornelia Marczak|15|Matej Hubacek|Michaela Fuchsova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:26|21|Patryk Jas|Kornelia Marczak|13|Matej Hubacek|Michaela Fuchsova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:28|22|Petr Beran|Sabina Milova|20|Cyril Hohl|Chantal Von Rotz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:28|21|Petr Beran|Sabina Milova|16|Cyril Hohl|Chantal Von Rotz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Jan Vorlik|Berta Ausbergerova|9|Balazs Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Jan Vorlik|Berta Ausbergerova|17|Balazs Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Ondrej Kral|Veronika Dobiasova|17|Borna Drvodelic|Dora Drvodelic|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Ondrej Kral|Veronika Dobiasova|9|Borna Drvodelic|Dora Drvodelic|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:34|21|Krzysztof Jakowczuk |Magda Konieczna|14|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:34|14|Krzysztof Jakowczuk |Magda Konieczna|21|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:34|24|Krzysztof Jakowczuk |Magda Konieczna|22|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:27|21|Ondrej Klimes|Jana Panochova|18|Michal Kikosicki|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:27|21|Ondrej Klimes|Jana Panochova|19|Michal Kikosicki|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:37|21|Bohumil Kasela |Angelika Vargova|19|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:37|16|Bohumil Kasela |Angelika Vargova|21|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:37|21|Bohumil Kasela |Angelika Vargova|14|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|23|Filip Budzel|Ivana Zychova|21|Adam Horak|Tamara Prostinakova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|21|Filip Budzel|Ivana Zychova|15|Adam Horak|Tamara Prostinakova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:29|18|Michal Hubacek |Monika Svetnickova|21|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:29|21|Michal Hubacek |Monika Svetnickova|18|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:29|21|Michal Hubacek |Monika Svetnickova|13|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:45|23|Przemyslaw Szydlowski |Joanna Stanisz|21|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:45|21|Przemyslaw Szydlowski |Joanna Stanisz|23|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:45|21|Przemyslaw Szydlowski |Joanna Stanisz|13|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Vojtech Lapacek|Tereza Svabikova|9|Viktor Krupa|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Vojtech Lapacek|Tereza Svabikova|13|Viktor Krupa|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:22|21|Lukas Holub |Denisa Sikalova|12|Samuel Ivanka|Zuzana Palkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:22|21|Lukas Holub |Denisa Sikalova|13|Samuel Ivanka|Zuzana Palkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:26|21|Jan Somerlik|Dominika Budzelova|19|Dean Brabec|Jana Slatinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:26|21|Jan Somerlik|Dominika Budzelova|14|Dean Brabec|Jana Slatinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:18|21|Pawel Smilowski |Magdalena Swierczynska|4|Zsombor Dulcz|Violetta Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:18|21|Pawel Smilowski |Magdalena Swierczynska|7|Zsombor Dulcz|Violetta Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|15|Patryk Jas|Kornelia Marczak|21|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|21|Patryk Jas|Kornelia Marczak|17|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|21|Patryk Jas|Kornelia Marczak|11|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:30|22|Milan Dratva |Katarina Sariscanova|20|Petr Beran|Sabina Milova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:30|21|Milan Dratva |Katarina Sariscanova|12|Petr Beran|Sabina Milova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:38|18|Jan Vorlik|Berta Ausbergerova|21|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:38|21|Jan Vorlik|Berta Ausbergerova|19|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:38|21|Jan Vorlik|Berta Ausbergerova|19|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:17|21|Krzysztof Jakowczuk |Magda Konieczna|8|Ondrej Klimes|Jana Panochova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:17|21|Krzysztof Jakowczuk |Magda Konieczna|8|Ondrej Klimes|Jana Panochova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:27|21|Filip Budzel|Ivana Zychova|18|Bohumil Kasela [5/8]|Angelika Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:27|22|Filip Budzel|Ivana Zychova|20|Bohumil Kasela [5/8]|Angelika Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:28|21|Dragoslav Petrovic |none|15|Bence Pytel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|21|Dragoslav Petrovic |none|16|Bence Pytel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:23|21|Michal Hubacek |Monika Svetnickova|19|Mikhail Ghelashvili|Anastasia Redkina|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Michal Hubacek |Monika Svetnickova|8|Mikhail Ghelashvili|Anastasia Redkina|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:27|22|Przemyslaw Szydlowski |Joanna Stanisz|20|Vojtech Lapacek|Tereza Svabikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:27|21|Przemyslaw Szydlowski |Joanna Stanisz|19|Vojtech Lapacek|Tereza Svabikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Timon Schwarz|none|16|Radek Pistulka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Timon Schwarz|none|19|Radek Pistulka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:42|17|Christoph Muhri |none|21|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:42|21|Christoph Muhri |none|7|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:42|21|Christoph Muhri |none|15|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107||Walkover Win|Lukas Holub |Denisa Sikalova|Walkover Loss|Vojtech Brothanek|Ksenia Evgenova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|21|Pawel Smilowski |Magdalena Swierczynska|16|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|16|Pawel Smilowski |Magdalena Swierczynska|21|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|21|Pawel Smilowski |Magdalena Swierczynska|13|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:37|18|Milan Dratva |Katarina Sariscanova|21|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:37|21|Milan Dratva |Katarina Sariscanova|17|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:37|21|Milan Dratva |Katarina Sariscanova|15|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:19|21|Cristian Savin|none|17|Radoslaw Wrobel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:19|21|Cristian Savin|none|11|Radoslaw Wrobel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Jan Vorlik|Berta Ausbergerova|13|Ondrej Kral|Veronika Dobiasova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:22|21|Jan Vorlik|Berta Ausbergerova|19|Ondrej Kral|Veronika Dobiasova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Reka Madarasz|none|13|Lucja Trgovac|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:23|21|Reka Madarasz|none|8|Lucja Trgovac|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:40|21|Pavlina Krpatova|none|15|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:40|19|Pavlina Krpatova|none|21|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:40|21|Pavlina Krpatova|none|15|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:34|14|Michal Kikosicki|none|21|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:34|21|Michal Kikosicki|none|12|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:34|21|Michal Kikosicki|none|10|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:23|21|Krzysztof Jakowczuk |none|8|Flurin Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:23|21|Krzysztof Jakowczuk |none|16|Flurin Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Lenka Drotarova|none|10|Aleksandra Goszczynska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Lenka Drotarova|none|13|Aleksandra Goszczynska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:41|16|Anastasia Redkina|none|21|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:41|21|Anastasia Redkina|none|8|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:41|21|Anastasia Redkina|none|13|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:19|21|Karolina Wladzinska|none|7|Lucie Paurova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:19|21|Karolina Wladzinska|none|10|Lucie Paurova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|21|Carina Meinke|none|15|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|18|Carina Meinke|none|21|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|21|Carina Meinke|none|17|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Ondrej Klimes|none|13|Adam Szolc|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Ondrej Klimes|none|5|Adam Szolc|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Katarina Sariscanova|none|18|Jana Panochova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Katarina Sariscanova|none|18|Jana Panochova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|18|Sabina Milova|none|21|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|21|Sabina Milova|none|15|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|21|Sabina Milova|none|16|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Beata Fukalova|none|10|Violetta Papai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Beata Fukalova|none|16|Violetta Papai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:24|21|Tereza Svabikova|none|12|Daniela Bielinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:24|21|Tereza Svabikova|none|16|Daniela Bielinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:46|21|Dominika Budzelova|none|19|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:46|20|Dominika Budzelova|none|22|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:46|21|Dominika Budzelova|none|18|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|21|Wiktoria Adamek|none|16|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|8|Wiktoria Adamek|none|21|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|21|Wiktoria Adamek|none|19|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Sara Staskova|none|14|Lucie Borovska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Sara Staskova|none|17|Lucie Borovska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:27|22|Lucia Grencikova|none|20|Jana Slatinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:27|21|Lucia Grencikova|none|18|Jana Slatinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|21|Michaela Fuchsova|none|13|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|6|Michaela Fuchsova|none|21|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|21|Michaela Fuchsova|none|19|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:27|21|Wiktoria Dabczynska|none|15|Vlasta Phamova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:27|21|Wiktoria Dabczynska|none|16|Vlasta Phamova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107||Walkover Win|Ivana Zychova|none|Walkover Loss|Michaela Rajcova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:21|21|Michal Hubacek |none|14|Jakob Sorger|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:21|21|Michal Hubacek |none|12|Jakob Sorger|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Leon Seiwald |none|15|Robert Cybulski|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Leon Seiwald |none|10|Robert Cybulski|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Peter Hrncar|none|16|Michal Vasatko|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Peter Hrncar|none|15|Michal Vasatko|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Bernardo Atilano |none|13|Borna Drvodelic|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Bernardo Atilano |none|17|Borna Drvodelic|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Jan Somerlik|none|11|Silvan Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Jan Somerlik|none|13|Silvan Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Milan Dratva |none|3|Jakub Hurta|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Milan Dratva |none|9|Jakub Hurta|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Quentin Filliettaz|none|14|Martin Kural|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Quentin Filliettaz|none|12|Martin Kural|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Aleksandr Vasilkin |none|12|Richard Smatlak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Aleksandr Vasilkin |none|18|Richard Smatlak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:23|21|Matej Hubacek|none|12|Rafael Witzmann|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:23|21|Matej Hubacek|none|18|Rafael Witzmann|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|21|Jan Louda |none|14|Adam Horak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|21|Jan Louda |none|19|Adam Horak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|21|Oleksandr Shmundyak|none|8|Vojtech Lapacek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|21|Oleksandr Shmundyak|none|17|Vojtech Lapacek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|24|Filip Budzel|none|22|Jan Balucha|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:33|21|Filip Budzel|none|14|Jan Balucha|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:30|21|Christoph Syrch |none|15|Mikhail Ghelashvili|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:30|21|Christoph Syrch |none|17|Mikhail Ghelashvili|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Oleksandr Kolesnik |none|15|Philip Birker|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Oleksandr Kolesnik |none|19|Philip Birker|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:27|21|Jonas Schwarz|none|15|Tymoteusz Malik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:27|21|Jonas Schwarz|none|19|Tymoteusz Malik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:21|21|Benedikt Schaller |none|17|Dean Brabec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:21|21|Benedikt Schaller |none|8|Dean Brabec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|27|Julian Lehmann|none|25|Jan Vorlik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:25|21|Julian Lehmann|none|16|Jan Vorlik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:44|21|Pawel Smilowski |none|14|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:44|21|Pawel Smilowski |none|23|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:44|21|Pawel Smilowski |none|18|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|18|Patryk Jas|none|21|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|21|Patryk Jas|none|13|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:37|22|Patryk Jas|none|20|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Tamas Madarasz|none|13|Vojtech Brothanek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Tamas Madarasz|none|11|Vojtech Brothanek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Aleksander Jablonski |none|13|Marek Kufa|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:22|21|Aleksander Jablonski |none|13|Marek Kufa|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|6|Cristian Hartner|none|21|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|21|Cristian Hartner|none|16|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:28|21|Cristian Hartner|none|9|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:26|21|Duarte Nuno Anjo|none|11|Lukas Holub [9/16]|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:26|21|Duarte Nuno Anjo|none|16|Lukas Holub [9/16]|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:26|21|Petr Beran|none|14|Bohumil Kasela|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:26|21|Petr Beran|none|17|Bohumil Kasela|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:44|16|Mateusz Biernacki |none|21|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:44|21|Mateusz Biernacki |none|9|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:44|21|Mateusz Biernacki |none|16|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141107|0:20|21|Lenka Drotarova|Katarina Sariscanova|15|Lucie Borovska|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Lenka Drotarova|Katarina Sariscanova|16|Lucie Borovska|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:45|18|Sabina Milova|Ivana Zychova|21|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:45|21|Sabina Milova|Ivana Zychova|18|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:45|21|Sabina Milova|Ivana Zychova|19|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Dominika Budzelova|Michaela Zelinkova|12|Kornelia Marczak|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:23|21|Dominika Budzelova|Michaela Zelinkova|18|Kornelia Marczak|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Dora Drvodelic|Lucja Trgovac|18|Zuzana Palkova|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Dora Drvodelic|Lucja Trgovac|14|Zuzana Palkova|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Antonia Meinke|Carina Meinke|15|Wiktoria Adamek|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Antonia Meinke|Carina Meinke|15|Wiktoria Adamek|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Michaela Fuchsova|Tereza Svabikova|4|Tamara Prostinakova|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Michaela Fuchsova|Tereza Svabikova|18|Tamara Prostinakova|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Celine Dagelet|Chantal Von Rotz|10|Veronika Dobiasova|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Celine Dagelet|Chantal Von Rotz|11|Veronika Dobiasova|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|19|Lucia Grencikova|Angelika Vargova|21|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|21|Lucia Grencikova|Angelika Vargova|12|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:32|21|Lucia Grencikova|Angelika Vargova|15|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:28|21|Oleksandr Kolesnik|Oleksandr Shmundyak|18|Jan Balucha|Richard Smatlak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:28|21|Oleksandr Kolesnik|Oleksandr Shmundyak|17|Jan Balucha|Richard Smatlak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:18|21|Aleksander Jablonski |Pawel Smilowski|4|Samuel Ivanka|Viktor Krupa|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:18|21|Aleksander Jablonski |Pawel Smilowski|9|Samuel Ivanka|Viktor Krupa|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|21|Duarte Nuno Anjo |Bernardo Atilano|12|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|16|Duarte Nuno Anjo |Bernardo Atilano|21|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|21|Duarte Nuno Anjo |Bernardo Atilano|17|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:41|22|Cristian Hartner|Rafael Witzmann|20|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:41|18|Cristian Hartner|Rafael Witzmann|21|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:41|21|Cristian Hartner|Rafael Witzmann|16|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Jan Louda |Jan Somerlik|19|Robert Cybulski|Adam Szolc|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:25|21|Jan Louda |Jan Somerlik|8|Robert Cybulski|Adam Szolc|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Thibault Bernetti|Jonas Schwarz|13|Marek Kufa|Adam Sarec|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Thibault Bernetti|Jonas Schwarz|7|Marek Kufa|Adam Sarec|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:30|21|Ondrej Kral|Jaroslav Machal|15|Flurin Furrer|Timon Schwarz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:30|21|Ondrej Kral|Jaroslav Machal|19|Flurin Furrer|Timon Schwarz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:16|21|Jiri Bures|Radek Pistulka|10|Zsombor Dulcz|Balazs Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:16|21|Jiri Bures|Radek Pistulka|9|Zsombor Dulcz|Balazs Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|17|Mikhail Ghelashvili|Aleksandr Vasilkin|21|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|21|Mikhail Ghelashvili|Aleksandr Vasilkin|10|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:35|21|Mikhail Ghelashvili|Aleksandr Vasilkin|13|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:31|21|Filip Budzel|Lukas Holub|19|Jakob Sorger|Christoph Syrch|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:31|21|Filip Budzel|Lukas Holub|15|Jakob Sorger|Christoph Syrch|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:33|21|Patryk Jas |Michal Kikosicki|13|Dean Brabec|Jan Vorlik|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:33|25|Patryk Jas |Michal Kikosicki|23|Dean Brabec|Jan Vorlik|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Tymoteusz Malik|Radoslaw Wrobel|17|Krystof Bumbalek|David Stejskal|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Tymoteusz Malik|Radoslaw Wrobel|14|Krystof Bumbalek|David Stejskal|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Milan Dratva |Bohumil Kasela|9|Vojtech Brothanek|Ondrej Klimes|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:20|21|Milan Dratva |Bohumil Kasela|13|Vojtech Brothanek|Ondrej Klimes|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:17|21|Mateusz Biernacki |Przemyslaw Szydlowski|9|Martin Kural|Michal Vasatko|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141107|0:17|21|Mateusz Biernacki |Przemyslaw Szydlowski|8|Martin Kural|Michal Vasatko|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:34|23|Silvan Furrer|Celine Dagelet|21|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:34|18|Silvan Furrer|Celine Dagelet|21|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:34|22|Silvan Furrer|Celine Dagelet|20|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:33|12|Michal Kikosicki|Karolina Wladzinska|21|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:33|21|Michal Kikosicki|Karolina Wladzinska|15|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:33|21|Michal Kikosicki|Karolina Wladzinska|14|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Radoslaw Wrobel|Izabela Pajek|10|Marek Kufa|Beata Fukalova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Radoslaw Wrobel|Izabela Pajek|15|Marek Kufa|Beata Fukalova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Filip Budzel|Ivana Zychova|17|Richard Smatlak|Lenka Drotarova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|22|Filip Budzel|Ivana Zychova|20|Richard Smatlak|Lenka Drotarova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Peter Hrncar|Katarina Vargova|18|Philip Birker|Carina Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Peter Hrncar|Katarina Vargova|12|Philip Birker|Carina Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:40|23|Mikhail Ghelashvili|Anastasia Redkina|25|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:40|21|Mikhail Ghelashvili|Anastasia Redkina|18|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:40|21|Mikhail Ghelashvili|Anastasia Redkina|13|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Adam Szolc|Aleksandra Goszczynska|15|Krystof Bumbalek|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Adam Szolc|Aleksandra Goszczynska|14|Krystof Bumbalek|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Vojtech Lapacek|Tereza Svabikova|14|Tymoteusz Malik|Wiktoria Adamek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Vojtech Lapacek|Tereza Svabikova|18|Tymoteusz Malik|Wiktoria Adamek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:42|21|Vojtech Brothanek|Ksenia Evgenova|13|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:42|17|Vojtech Brothanek|Ksenia Evgenova|21|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:42|21|Vojtech Brothanek|Ksenia Evgenova|16|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:30|27|Samuel Ivanka|Zuzana Palkova|25|Martin Kural|Lucie Borovska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:30|21|Samuel Ivanka|Zuzana Palkova|15|Martin Kural|Lucie Borovska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:24|21|Dean Brabec|Jana Slatinska|16|Jan Balucha|Lucia Grencikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:24|21|Dean Brabec|Jana Slatinska|14|Jan Balucha|Lucia Grencikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108||Walkover Win|Zsombor Dulcz|Violetta Papai|Walkover Loss|Bartolomiej Parysz|Daniela Bielinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:26|21|Patryk Jas|Kornelia Marczak|15|Matej Hubacek|Michaela Fuchsova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:26|21|Patryk Jas|Kornelia Marczak|13|Matej Hubacek|Michaela Fuchsova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:28|22|Petr Beran|Sabina Milova|20|Cyril Hohl|Chantal Von Rotz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:28|21|Petr Beran|Sabina Milova|16|Cyril Hohl|Chantal Von Rotz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Jan Vorlik|Berta Ausbergerova|9|Balazs Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Jan Vorlik|Berta Ausbergerova|17|Balazs Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Ondrej Kral|Veronika Dobiasova|17|Borna Drvodelic|Dora Drvodelic|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Ondrej Kral|Veronika Dobiasova|9|Borna Drvodelic|Dora Drvodelic|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:34|21|Krzysztof Jakowczuk |Magda Konieczna|14|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:34|14|Krzysztof Jakowczuk |Magda Konieczna|21|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:34|24|Krzysztof Jakowczuk |Magda Konieczna|22|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:27|21|Ondrej Klimes|Jana Panochova|18|Michal Kikosicki|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:27|21|Ondrej Klimes|Jana Panochova|19|Michal Kikosicki|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:37|21|Bohumil Kasela |Angelika Vargova|19|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:37|16|Bohumil Kasela |Angelika Vargova|21|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:37|21|Bohumil Kasela |Angelika Vargova|14|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|23|Filip Budzel|Ivana Zychova|21|Adam Horak|Tamara Prostinakova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|21|Filip Budzel|Ivana Zychova|15|Adam Horak|Tamara Prostinakova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:29|18|Michal Hubacek |Monika Svetnickova|21|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:29|21|Michal Hubacek |Monika Svetnickova|18|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:29|21|Michal Hubacek |Monika Svetnickova|13|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:45|23|Przemyslaw Szydlowski |Joanna Stanisz|21|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:45|21|Przemyslaw Szydlowski |Joanna Stanisz|23|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:45|21|Przemyslaw Szydlowski |Joanna Stanisz|13|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Vojtech Lapacek|Tereza Svabikova|9|Viktor Krupa|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Vojtech Lapacek|Tereza Svabikova|13|Viktor Krupa|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:22|21|Lukas Holub |Denisa Sikalova|12|Samuel Ivanka|Zuzana Palkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:22|21|Lukas Holub |Denisa Sikalova|13|Samuel Ivanka|Zuzana Palkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:26|21|Jan Somerlik|Dominika Budzelova|19|Dean Brabec|Jana Slatinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:26|21|Jan Somerlik|Dominika Budzelova|14|Dean Brabec|Jana Slatinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:18|21|Pawel Smilowski |Magdalena Swierczynska|4|Zsombor Dulcz|Violetta Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:18|21|Pawel Smilowski |Magdalena Swierczynska|7|Zsombor Dulcz|Violetta Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|15|Patryk Jas|Kornelia Marczak|21|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|21|Patryk Jas|Kornelia Marczak|17|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|21|Patryk Jas|Kornelia Marczak|11|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:30|22|Milan Dratva |Katarina Sariscanova|20|Petr Beran|Sabina Milova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:30|21|Milan Dratva |Katarina Sariscanova|12|Petr Beran|Sabina Milova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:38|18|Jan Vorlik|Berta Ausbergerova|21|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:38|21|Jan Vorlik|Berta Ausbergerova|19|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:38|21|Jan Vorlik|Berta Ausbergerova|19|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:17|21|Krzysztof Jakowczuk |Magda Konieczna|8|Ondrej Klimes|Jana Panochova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:17|21|Krzysztof Jakowczuk |Magda Konieczna|8|Ondrej Klimes|Jana Panochova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:27|21|Filip Budzel|Ivana Zychova|18|Bohumil Kasela [5/8]|Angelika Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:27|22|Filip Budzel|Ivana Zychova|20|Bohumil Kasela [5/8]|Angelika Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:28|21|Dragoslav Petrovic |none|15|Bence Pytel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|21|Dragoslav Petrovic |none|16|Bence Pytel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:23|21|Michal Hubacek |Monika Svetnickova|19|Mikhail Ghelashvili|Anastasia Redkina|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Michal Hubacek |Monika Svetnickova|8|Mikhail Ghelashvili|Anastasia Redkina|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:27|22|Przemyslaw Szydlowski |Joanna Stanisz|20|Vojtech Lapacek|Tereza Svabikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:27|21|Przemyslaw Szydlowski |Joanna Stanisz|19|Vojtech Lapacek|Tereza Svabikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Timon Schwarz|none|16|Radek Pistulka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Timon Schwarz|none|19|Radek Pistulka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:42|17|Christoph Muhri |none|21|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:42|21|Christoph Muhri |none|7|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:42|21|Christoph Muhri |none|15|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108||Walkover Win|Lukas Holub |Denisa Sikalova|Walkover Loss|Vojtech Brothanek|Ksenia Evgenova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|21|Pawel Smilowski |Magdalena Swierczynska|16|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|16|Pawel Smilowski |Magdalena Swierczynska|21|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|21|Pawel Smilowski |Magdalena Swierczynska|13|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:37|18|Milan Dratva |Katarina Sariscanova|21|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:37|21|Milan Dratva |Katarina Sariscanova|17|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:37|21|Milan Dratva |Katarina Sariscanova|15|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:19|21|Cristian Savin|none|17|Radoslaw Wrobel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:19|21|Cristian Savin|none|11|Radoslaw Wrobel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Jan Vorlik|Berta Ausbergerova|13|Ondrej Kral|Veronika Dobiasova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:22|21|Jan Vorlik|Berta Ausbergerova|19|Ondrej Kral|Veronika Dobiasova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Reka Madarasz|none|13|Lucja Trgovac|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:23|21|Reka Madarasz|none|8|Lucja Trgovac|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:40|21|Pavlina Krpatova|none|15|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:40|19|Pavlina Krpatova|none|21|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:40|21|Pavlina Krpatova|none|15|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:34|14|Michal Kikosicki|none|21|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:34|21|Michal Kikosicki|none|12|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:34|21|Michal Kikosicki|none|10|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:23|21|Krzysztof Jakowczuk |none|8|Flurin Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:23|21|Krzysztof Jakowczuk |none|16|Flurin Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Lenka Drotarova|none|10|Aleksandra Goszczynska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Lenka Drotarova|none|13|Aleksandra Goszczynska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:41|16|Anastasia Redkina|none|21|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:41|21|Anastasia Redkina|none|8|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:41|21|Anastasia Redkina|none|13|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:19|21|Karolina Wladzinska|none|7|Lucie Paurova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:19|21|Karolina Wladzinska|none|10|Lucie Paurova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|21|Carina Meinke|none|15|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|18|Carina Meinke|none|21|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|21|Carina Meinke|none|17|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Ondrej Klimes|none|13|Adam Szolc|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Ondrej Klimes|none|5|Adam Szolc|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Katarina Sariscanova|none|18|Jana Panochova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Katarina Sariscanova|none|18|Jana Panochova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|18|Sabina Milova|none|21|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|21|Sabina Milova|none|15|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|21|Sabina Milova|none|16|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Beata Fukalova|none|10|Violetta Papai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Beata Fukalova|none|16|Violetta Papai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:24|21|Tereza Svabikova|none|12|Daniela Bielinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:24|21|Tereza Svabikova|none|16|Daniela Bielinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:46|21|Dominika Budzelova|none|19|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:46|20|Dominika Budzelova|none|22|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:46|21|Dominika Budzelova|none|18|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|21|Wiktoria Adamek|none|16|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|8|Wiktoria Adamek|none|21|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|21|Wiktoria Adamek|none|19|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Sara Staskova|none|14|Lucie Borovska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Sara Staskova|none|17|Lucie Borovska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:27|22|Lucia Grencikova|none|20|Jana Slatinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:27|21|Lucia Grencikova|none|18|Jana Slatinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|21|Michaela Fuchsova|none|13|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|6|Michaela Fuchsova|none|21|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|21|Michaela Fuchsova|none|19|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:27|21|Wiktoria Dabczynska|none|15|Vlasta Phamova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:27|21|Wiktoria Dabczynska|none|16|Vlasta Phamova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108||Walkover Win|Ivana Zychova|none|Walkover Loss|Michaela Rajcova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:21|21|Michal Hubacek |none|14|Jakob Sorger|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:21|21|Michal Hubacek |none|12|Jakob Sorger|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Leon Seiwald |none|15|Robert Cybulski|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Leon Seiwald |none|10|Robert Cybulski|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Peter Hrncar|none|16|Michal Vasatko|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Peter Hrncar|none|15|Michal Vasatko|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Bernardo Atilano |none|13|Borna Drvodelic|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Bernardo Atilano |none|17|Borna Drvodelic|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Jan Somerlik|none|11|Silvan Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Jan Somerlik|none|13|Silvan Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Milan Dratva |none|3|Jakub Hurta|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Milan Dratva |none|9|Jakub Hurta|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Quentin Filliettaz|none|14|Martin Kural|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Quentin Filliettaz|none|12|Martin Kural|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Aleksandr Vasilkin |none|12|Richard Smatlak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Aleksandr Vasilkin |none|18|Richard Smatlak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:23|21|Matej Hubacek|none|12|Rafael Witzmann|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:23|21|Matej Hubacek|none|18|Rafael Witzmann|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|21|Jan Louda |none|14|Adam Horak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|21|Jan Louda |none|19|Adam Horak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|21|Oleksandr Shmundyak|none|8|Vojtech Lapacek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|21|Oleksandr Shmundyak|none|17|Vojtech Lapacek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|24|Filip Budzel|none|22|Jan Balucha|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:33|21|Filip Budzel|none|14|Jan Balucha|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:30|21|Christoph Syrch |none|15|Mikhail Ghelashvili|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:30|21|Christoph Syrch |none|17|Mikhail Ghelashvili|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Oleksandr Kolesnik |none|15|Philip Birker|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Oleksandr Kolesnik |none|19|Philip Birker|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:27|21|Jonas Schwarz|none|15|Tymoteusz Malik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:27|21|Jonas Schwarz|none|19|Tymoteusz Malik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:21|21|Benedikt Schaller |none|17|Dean Brabec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:21|21|Benedikt Schaller |none|8|Dean Brabec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|27|Julian Lehmann|none|25|Jan Vorlik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:25|21|Julian Lehmann|none|16|Jan Vorlik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:44|21|Pawel Smilowski |none|14|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:44|21|Pawel Smilowski |none|23|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:44|21|Pawel Smilowski |none|18|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|18|Patryk Jas|none|21|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|21|Patryk Jas|none|13|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:37|22|Patryk Jas|none|20|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Tamas Madarasz|none|13|Vojtech Brothanek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Tamas Madarasz|none|11|Vojtech Brothanek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Aleksander Jablonski |none|13|Marek Kufa|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:22|21|Aleksander Jablonski |none|13|Marek Kufa|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|6|Cristian Hartner|none|21|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|21|Cristian Hartner|none|16|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:28|21|Cristian Hartner|none|9|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:26|21|Duarte Nuno Anjo|none|11|Lukas Holub [9/16]|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:26|21|Duarte Nuno Anjo|none|16|Lukas Holub [9/16]|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:26|21|Petr Beran|none|14|Bohumil Kasela|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:26|21|Petr Beran|none|17|Bohumil Kasela|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:44|16|Mateusz Biernacki |none|21|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:44|21|Mateusz Biernacki |none|9|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:44|21|Mateusz Biernacki |none|16|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141108|0:20|21|Lenka Drotarova|Katarina Sariscanova|15|Lucie Borovska|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Lenka Drotarova|Katarina Sariscanova|16|Lucie Borovska|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:45|18|Sabina Milova|Ivana Zychova|21|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:45|21|Sabina Milova|Ivana Zychova|18|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:45|21|Sabina Milova|Ivana Zychova|19|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Dominika Budzelova|Michaela Zelinkova|12|Kornelia Marczak|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:23|21|Dominika Budzelova|Michaela Zelinkova|18|Kornelia Marczak|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Dora Drvodelic|Lucja Trgovac|18|Zuzana Palkova|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Dora Drvodelic|Lucja Trgovac|14|Zuzana Palkova|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Antonia Meinke|Carina Meinke|15|Wiktoria Adamek|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Antonia Meinke|Carina Meinke|15|Wiktoria Adamek|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Michaela Fuchsova|Tereza Svabikova|4|Tamara Prostinakova|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Michaela Fuchsova|Tereza Svabikova|18|Tamara Prostinakova|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Celine Dagelet|Chantal Von Rotz|10|Veronika Dobiasova|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Celine Dagelet|Chantal Von Rotz|11|Veronika Dobiasova|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|19|Lucia Grencikova|Angelika Vargova|21|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|21|Lucia Grencikova|Angelika Vargova|12|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:32|21|Lucia Grencikova|Angelika Vargova|15|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:28|21|Oleksandr Kolesnik|Oleksandr Shmundyak|18|Jan Balucha|Richard Smatlak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:28|21|Oleksandr Kolesnik|Oleksandr Shmundyak|17|Jan Balucha|Richard Smatlak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:18|21|Aleksander Jablonski |Pawel Smilowski|4|Samuel Ivanka|Viktor Krupa|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:18|21|Aleksander Jablonski |Pawel Smilowski|9|Samuel Ivanka|Viktor Krupa|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|21|Duarte Nuno Anjo |Bernardo Atilano|12|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|16|Duarte Nuno Anjo |Bernardo Atilano|21|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|21|Duarte Nuno Anjo |Bernardo Atilano|17|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:41|22|Cristian Hartner|Rafael Witzmann|20|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:41|18|Cristian Hartner|Rafael Witzmann|21|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:41|21|Cristian Hartner|Rafael Witzmann|16|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Jan Louda |Jan Somerlik|19|Robert Cybulski|Adam Szolc|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:25|21|Jan Louda |Jan Somerlik|8|Robert Cybulski|Adam Szolc|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Thibault Bernetti|Jonas Schwarz|13|Marek Kufa|Adam Sarec|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Thibault Bernetti|Jonas Schwarz|7|Marek Kufa|Adam Sarec|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:30|21|Ondrej Kral|Jaroslav Machal|15|Flurin Furrer|Timon Schwarz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:30|21|Ondrej Kral|Jaroslav Machal|19|Flurin Furrer|Timon Schwarz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:16|21|Jiri Bures|Radek Pistulka|10|Zsombor Dulcz|Balazs Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:16|21|Jiri Bures|Radek Pistulka|9|Zsombor Dulcz|Balazs Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|17|Mikhail Ghelashvili|Aleksandr Vasilkin|21|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|21|Mikhail Ghelashvili|Aleksandr Vasilkin|10|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:35|21|Mikhail Ghelashvili|Aleksandr Vasilkin|13|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:31|21|Filip Budzel|Lukas Holub|19|Jakob Sorger|Christoph Syrch|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:31|21|Filip Budzel|Lukas Holub|15|Jakob Sorger|Christoph Syrch|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:33|21|Patryk Jas |Michal Kikosicki|13|Dean Brabec|Jan Vorlik|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:33|25|Patryk Jas |Michal Kikosicki|23|Dean Brabec|Jan Vorlik|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Tymoteusz Malik|Radoslaw Wrobel|17|Krystof Bumbalek|David Stejskal|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Tymoteusz Malik|Radoslaw Wrobel|14|Krystof Bumbalek|David Stejskal|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Milan Dratva |Bohumil Kasela|9|Vojtech Brothanek|Ondrej Klimes|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:20|21|Milan Dratva |Bohumil Kasela|13|Vojtech Brothanek|Ondrej Klimes|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:17|21|Mateusz Biernacki |Przemyslaw Szydlowski|9|Martin Kural|Michal Vasatko|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141108|0:17|21|Mateusz Biernacki |Przemyslaw Szydlowski|8|Martin Kural|Michal Vasatko|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:34|23|Silvan Furrer|Celine Dagelet|21|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:34|18|Silvan Furrer|Celine Dagelet|21|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:34|22|Silvan Furrer|Celine Dagelet|20|Tamas Madarasz|Reka Madarasz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:33|12|Michal Kikosicki|Karolina Wladzinska|21|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:33|21|Michal Kikosicki|Karolina Wladzinska|15|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:33|21|Michal Kikosicki|Karolina Wladzinska|14|Jan Fiala|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Radoslaw Wrobel|Izabela Pajek|10|Marek Kufa|Beata Fukalova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Radoslaw Wrobel|Izabela Pajek|15|Marek Kufa|Beata Fukalova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Filip Budzel|Ivana Zychova|17|Richard Smatlak|Lenka Drotarova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|22|Filip Budzel|Ivana Zychova|20|Richard Smatlak|Lenka Drotarova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Peter Hrncar|Katarina Vargova|18|Philip Birker|Carina Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Peter Hrncar|Katarina Vargova|12|Philip Birker|Carina Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:40|23|Mikhail Ghelashvili|Anastasia Redkina|25|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:40|21|Mikhail Ghelashvili|Anastasia Redkina|18|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:40|21|Mikhail Ghelashvili|Anastasia Redkina|13|Radek Pistulka|Vlasta Phamova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Adam Szolc|Aleksandra Goszczynska|15|Krystof Bumbalek|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Adam Szolc|Aleksandra Goszczynska|14|Krystof Bumbalek|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Vojtech Lapacek|Tereza Svabikova|14|Tymoteusz Malik|Wiktoria Adamek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Vojtech Lapacek|Tereza Svabikova|18|Tymoteusz Malik|Wiktoria Adamek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:42|21|Vojtech Brothanek|Ksenia Evgenova|13|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:42|17|Vojtech Brothanek|Ksenia Evgenova|21|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:42|21|Vojtech Brothanek|Ksenia Evgenova|16|Jakob Sorger|Antonia Meinke|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:30|27|Samuel Ivanka|Zuzana Palkova|25|Martin Kural|Lucie Borovska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:30|21|Samuel Ivanka|Zuzana Palkova|15|Martin Kural|Lucie Borovska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:24|21|Dean Brabec|Jana Slatinska|16|Jan Balucha|Lucia Grencikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:24|21|Dean Brabec|Jana Slatinska|14|Jan Balucha|Lucia Grencikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109||Walkover Win|Zsombor Dulcz|Violetta Papai|Walkover Loss|Bartolomiej Parysz|Daniela Bielinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:26|21|Patryk Jas|Kornelia Marczak|15|Matej Hubacek|Michaela Fuchsova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:26|21|Patryk Jas|Kornelia Marczak|13|Matej Hubacek|Michaela Fuchsova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:28|22|Petr Beran|Sabina Milova|20|Cyril Hohl|Chantal Von Rotz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:28|21|Petr Beran|Sabina Milova|16|Cyril Hohl|Chantal Von Rotz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Jan Vorlik|Berta Ausbergerova|9|Balazs Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Jan Vorlik|Berta Ausbergerova|17|Balazs Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Ondrej Kral|Veronika Dobiasova|17|Borna Drvodelic|Dora Drvodelic|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Ondrej Kral|Veronika Dobiasova|9|Borna Drvodelic|Dora Drvodelic|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:34|21|Krzysztof Jakowczuk |Magda Konieczna|14|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:34|14|Krzysztof Jakowczuk |Magda Konieczna|21|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:34|24|Krzysztof Jakowczuk |Magda Konieczna|22|Silvan Furrer|Celine Dagelet|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:27|21|Ondrej Klimes|Jana Panochova|18|Michal Kikosicki|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:27|21|Ondrej Klimes|Jana Panochova|19|Michal Kikosicki|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:37|21|Bohumil Kasela |Angelika Vargova|19|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:37|16|Bohumil Kasela |Angelika Vargova|21|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:37|21|Bohumil Kasela |Angelika Vargova|14|Radoslaw Wrobel|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|23|Filip Budzel|Ivana Zychova|21|Adam Horak|Tamara Prostinakova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|21|Filip Budzel|Ivana Zychova|15|Adam Horak|Tamara Prostinakova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:29|18|Michal Hubacek |Monika Svetnickova|21|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:29|21|Michal Hubacek |Monika Svetnickova|18|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:29|21|Michal Hubacek |Monika Svetnickova|13|Peter Hrncar|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:45|23|Przemyslaw Szydlowski |Joanna Stanisz|21|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:45|21|Przemyslaw Szydlowski |Joanna Stanisz|23|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:45|21|Przemyslaw Szydlowski |Joanna Stanisz|13|Adam Szolc|Aleksandra Goszczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Vojtech Lapacek|Tereza Svabikova|9|Viktor Krupa|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Vojtech Lapacek|Tereza Svabikova|13|Viktor Krupa|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:22|21|Lukas Holub |Denisa Sikalova|12|Samuel Ivanka|Zuzana Palkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:22|21|Lukas Holub |Denisa Sikalova|13|Samuel Ivanka|Zuzana Palkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:26|21|Jan Somerlik|Dominika Budzelova|19|Dean Brabec|Jana Slatinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:26|21|Jan Somerlik|Dominika Budzelova|14|Dean Brabec|Jana Slatinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:18|21|Pawel Smilowski |Magdalena Swierczynska|4|Zsombor Dulcz|Violetta Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:18|21|Pawel Smilowski |Magdalena Swierczynska|7|Zsombor Dulcz|Violetta Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|15|Patryk Jas|Kornelia Marczak|21|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|21|Patryk Jas|Kornelia Marczak|17|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|21|Patryk Jas|Kornelia Marczak|11|Robert Cybulski|Wiktoria Dabczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:30|22|Milan Dratva |Katarina Sariscanova|20|Petr Beran|Sabina Milova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:30|21|Milan Dratva |Katarina Sariscanova|12|Petr Beran|Sabina Milova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:38|18|Jan Vorlik|Berta Ausbergerova|21|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:38|21|Jan Vorlik|Berta Ausbergerova|19|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:38|21|Jan Vorlik|Berta Ausbergerova|19|Adam Sarec|Michaela Zelinkova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:17|21|Krzysztof Jakowczuk |Magda Konieczna|8|Ondrej Klimes|Jana Panochova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:17|21|Krzysztof Jakowczuk |Magda Konieczna|8|Ondrej Klimes|Jana Panochova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:27|21|Filip Budzel|Ivana Zychova|18|Bohumil Kasela [5/8]|Angelika Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:27|22|Filip Budzel|Ivana Zychova|20|Bohumil Kasela [5/8]|Angelika Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:28|21|Dragoslav Petrovic |none|15|Bence Pytel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|21|Dragoslav Petrovic |none|16|Bence Pytel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:23|21|Michal Hubacek |Monika Svetnickova|19|Mikhail Ghelashvili|Anastasia Redkina|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Michal Hubacek |Monika Svetnickova|8|Mikhail Ghelashvili|Anastasia Redkina|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:27|22|Przemyslaw Szydlowski |Joanna Stanisz|20|Vojtech Lapacek|Tereza Svabikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:27|21|Przemyslaw Szydlowski |Joanna Stanisz|19|Vojtech Lapacek|Tereza Svabikova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Timon Schwarz|none|16|Radek Pistulka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Timon Schwarz|none|19|Radek Pistulka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:42|17|Christoph Muhri |none|21|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:42|21|Christoph Muhri |none|7|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:42|21|Christoph Muhri |none|15|Balazs Szenjai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109||Walkover Win|Lukas Holub |Denisa Sikalova|Walkover Loss|Vojtech Brothanek|Ksenia Evgenova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|21|Pawel Smilowski |Magdalena Swierczynska|16|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|16|Pawel Smilowski |Magdalena Swierczynska|21|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|21|Pawel Smilowski |Magdalena Swierczynska|13|Jan Somerlik|Dominika Budzelova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:37|18|Milan Dratva |Katarina Sariscanova|21|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:37|21|Milan Dratva |Katarina Sariscanova|17|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:37|21|Milan Dratva |Katarina Sariscanova|15|Patryk Jas|Kornelia Marczak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:19|21|Cristian Savin|none|17|Radoslaw Wrobel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:19|21|Cristian Savin|none|11|Radoslaw Wrobel|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Jan Vorlik|Berta Ausbergerova|13|Ondrej Kral|Veronika Dobiasova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:22|21|Jan Vorlik|Berta Ausbergerova|19|Ondrej Kral|Veronika Dobiasova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Reka Madarasz|none|13|Lucja Trgovac|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:23|21|Reka Madarasz|none|8|Lucja Trgovac|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:40|21|Pavlina Krpatova|none|15|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:40|19|Pavlina Krpatova|none|21|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:40|21|Pavlina Krpatova|none|15|Aleksandra Paprzycka|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:34|14|Michal Kikosicki|none|21|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:34|21|Michal Kikosicki|none|12|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:34|21|Michal Kikosicki|none|10|David Stejskal|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:23|21|Krzysztof Jakowczuk |none|8|Flurin Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:23|21|Krzysztof Jakowczuk |none|16|Flurin Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Lenka Drotarova|none|10|Aleksandra Goszczynska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Lenka Drotarova|none|13|Aleksandra Goszczynska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:41|16|Anastasia Redkina|none|21|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:41|21|Anastasia Redkina|none|8|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:41|21|Anastasia Redkina|none|13|Anett Karsai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:19|21|Karolina Wladzinska|none|7|Lucie Paurova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:19|21|Karolina Wladzinska|none|10|Lucie Paurova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|21|Carina Meinke|none|15|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|18|Carina Meinke|none|21|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|21|Carina Meinke|none|17|Angelika Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Ondrej Klimes|none|13|Adam Szolc|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Ondrej Klimes|none|5|Adam Szolc|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Katarina Sariscanova|none|18|Jana Panochova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Katarina Sariscanova|none|18|Jana Panochova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|18|Sabina Milova|none|21|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|21|Sabina Milova|none|15|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|21|Sabina Milova|none|16|Zuzana Palkova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Beata Fukalova|none|10|Violetta Papai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Beata Fukalova|none|16|Violetta Papai|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:24|21|Tereza Svabikova|none|12|Daniela Bielinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:24|21|Tereza Svabikova|none|16|Daniela Bielinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:46|21|Dominika Budzelova|none|19|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:46|20|Dominika Budzelova|none|22|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:46|21|Dominika Budzelova|none|18|Katarina Vargova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|21|Wiktoria Adamek|none|16|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|8|Wiktoria Adamek|none|21|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|21|Wiktoria Adamek|none|19|Antonia Meinke|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Sara Staskova|none|14|Lucie Borovska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Sara Staskova|none|17|Lucie Borovska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:27|22|Lucia Grencikova|none|20|Jana Slatinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:27|21|Lucia Grencikova|none|18|Jana Slatinska|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|21|Michaela Fuchsova|none|13|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|6|Michaela Fuchsova|none|21|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|21|Michaela Fuchsova|none|19|Vivien Sandorhazi|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:27|21|Wiktoria Dabczynska|none|15|Vlasta Phamova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:27|21|Wiktoria Dabczynska|none|16|Vlasta Phamova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109||Walkover Win|Ivana Zychova|none|Walkover Loss|Michaela Rajcova|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:21|21|Michal Hubacek |none|14|Jakob Sorger|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:21|21|Michal Hubacek |none|12|Jakob Sorger|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Leon Seiwald |none|15|Robert Cybulski|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Leon Seiwald |none|10|Robert Cybulski|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Peter Hrncar|none|16|Michal Vasatko|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Peter Hrncar|none|15|Michal Vasatko|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Bernardo Atilano |none|13|Borna Drvodelic|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Bernardo Atilano |none|17|Borna Drvodelic|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Jan Somerlik|none|11|Silvan Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Jan Somerlik|none|13|Silvan Furrer|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Milan Dratva |none|3|Jakub Hurta|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Milan Dratva |none|9|Jakub Hurta|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Quentin Filliettaz|none|14|Martin Kural|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Quentin Filliettaz|none|12|Martin Kural|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Aleksandr Vasilkin |none|12|Richard Smatlak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Aleksandr Vasilkin |none|18|Richard Smatlak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:23|21|Matej Hubacek|none|12|Rafael Witzmann|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:23|21|Matej Hubacek|none|18|Rafael Witzmann|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|21|Jan Louda |none|14|Adam Horak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|21|Jan Louda |none|19|Adam Horak|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|21|Oleksandr Shmundyak|none|8|Vojtech Lapacek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|21|Oleksandr Shmundyak|none|17|Vojtech Lapacek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|24|Filip Budzel|none|22|Jan Balucha|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:33|21|Filip Budzel|none|14|Jan Balucha|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:30|21|Christoph Syrch |none|15|Mikhail Ghelashvili|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:30|21|Christoph Syrch |none|17|Mikhail Ghelashvili|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Oleksandr Kolesnik |none|15|Philip Birker|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Oleksandr Kolesnik |none|19|Philip Birker|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:27|21|Jonas Schwarz|none|15|Tymoteusz Malik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:27|21|Jonas Schwarz|none|19|Tymoteusz Malik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:21|21|Benedikt Schaller |none|17|Dean Brabec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:21|21|Benedikt Schaller |none|8|Dean Brabec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|27|Julian Lehmann|none|25|Jan Vorlik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:25|21|Julian Lehmann|none|16|Jan Vorlik|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:44|21|Pawel Smilowski |none|14|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:44|21|Pawel Smilowski |none|23|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:44|21|Pawel Smilowski |none|18|Ondrej Kral|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|18|Patryk Jas|none|21|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|21|Patryk Jas|none|13|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:37|22|Patryk Jas|none|20|Jan Fiala|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Tamas Madarasz|none|13|Vojtech Brothanek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Tamas Madarasz|none|11|Vojtech Brothanek|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Aleksander Jablonski |none|13|Marek Kufa|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:22|21|Aleksander Jablonski |none|13|Marek Kufa|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|6|Cristian Hartner|none|21|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|21|Cristian Hartner|none|16|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:28|21|Cristian Hartner|none|9|Jiri Bures|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:26|21|Duarte Nuno Anjo|none|11|Lukas Holub [9/16]|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:26|21|Duarte Nuno Anjo|none|16|Lukas Holub [9/16]|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:26|21|Petr Beran|none|14|Bohumil Kasela|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:26|21|Petr Beran|none|17|Bohumil Kasela|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:44|16|Mateusz Biernacki |none|21|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:44|21|Mateusz Biernacki |none|9|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:44|21|Mateusz Biernacki |none|16|Adam Sarec|none|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|singles
+20141109|0:20|21|Lenka Drotarova|Katarina Sariscanova|15|Lucie Borovska|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Lenka Drotarova|Katarina Sariscanova|16|Lucie Borovska|Pavlina Krpatova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:45|18|Sabina Milova|Ivana Zychova|21|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:45|21|Sabina Milova|Ivana Zychova|18|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:45|21|Sabina Milova|Ivana Zychova|19|Aleksandra Paprzycka|Magdalena Swierczynska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Dominika Budzelova|Michaela Zelinkova|12|Kornelia Marczak|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:23|21|Dominika Budzelova|Michaela Zelinkova|18|Kornelia Marczak|Karolina Wladzinska|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Dora Drvodelic|Lucja Trgovac|18|Zuzana Palkova|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Dora Drvodelic|Lucja Trgovac|14|Zuzana Palkova|Katarina Vargova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Antonia Meinke|Carina Meinke|15|Wiktoria Adamek|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Antonia Meinke|Carina Meinke|15|Wiktoria Adamek|Izabela Pajek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Michaela Fuchsova|Tereza Svabikova|4|Tamara Prostinakova|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Michaela Fuchsova|Tereza Svabikova|18|Tamara Prostinakova|Sara Staskova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Celine Dagelet|Chantal Von Rotz|10|Veronika Dobiasova|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Celine Dagelet|Chantal Von Rotz|11|Veronika Dobiasova|Lucie Paurova|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|19|Lucia Grencikova|Angelika Vargova|21|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|21|Lucia Grencikova|Angelika Vargova|12|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:32|21|Lucia Grencikova|Angelika Vargova|15|Violetta Papai|Vivien Sandorhazi|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:28|21|Oleksandr Kolesnik|Oleksandr Shmundyak|18|Jan Balucha|Richard Smatlak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:28|21|Oleksandr Kolesnik|Oleksandr Shmundyak|17|Jan Balucha|Richard Smatlak|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:18|21|Aleksander Jablonski |Pawel Smilowski|4|Samuel Ivanka|Viktor Krupa|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:18|21|Aleksander Jablonski |Pawel Smilowski|9|Samuel Ivanka|Viktor Krupa|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|21|Duarte Nuno Anjo |Bernardo Atilano|12|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|16|Duarte Nuno Anjo |Bernardo Atilano|21|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|21|Duarte Nuno Anjo |Bernardo Atilano|17|Petr Beran|Vojtech Lapacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:41|22|Cristian Hartner|Rafael Witzmann|20|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:41|18|Cristian Hartner|Rafael Witzmann|21|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:41|21|Cristian Hartner|Rafael Witzmann|16|Jan Fiala|Matej Hubacek|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Jan Louda |Jan Somerlik|19|Robert Cybulski|Adam Szolc|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:25|21|Jan Louda |Jan Somerlik|8|Robert Cybulski|Adam Szolc|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Thibault Bernetti|Jonas Schwarz|13|Marek Kufa|Adam Sarec|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Thibault Bernetti|Jonas Schwarz|7|Marek Kufa|Adam Sarec|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:30|21|Ondrej Kral|Jaroslav Machal|15|Flurin Furrer|Timon Schwarz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:30|21|Ondrej Kral|Jaroslav Machal|19|Flurin Furrer|Timon Schwarz|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:16|21|Jiri Bures|Radek Pistulka|10|Zsombor Dulcz|Balazs Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:16|21|Jiri Bures|Radek Pistulka|9|Zsombor Dulcz|Balazs Papai|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|17|Mikhail Ghelashvili|Aleksandr Vasilkin|21|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|21|Mikhail Ghelashvili|Aleksandr Vasilkin|10|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:35|21|Mikhail Ghelashvili|Aleksandr Vasilkin|13|Philip Birker [5/8]|Christoph Muhri|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:31|21|Filip Budzel|Lukas Holub|19|Jakob Sorger|Christoph Syrch|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:31|21|Filip Budzel|Lukas Holub|15|Jakob Sorger|Christoph Syrch|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:33|21|Patryk Jas |Michal Kikosicki|13|Dean Brabec|Jan Vorlik|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:33|25|Patryk Jas |Michal Kikosicki|23|Dean Brabec|Jan Vorlik|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Tymoteusz Malik|Radoslaw Wrobel|17|Krystof Bumbalek|David Stejskal|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Tymoteusz Malik|Radoslaw Wrobel|14|Krystof Bumbalek|David Stejskal|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Milan Dratva |Bohumil Kasela|9|Vojtech Brothanek|Ondrej Klimes|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:20|21|Milan Dratva |Bohumil Kasela|13|Vojtech Brothanek|Ondrej Klimes|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:38|21|Silvan Furrer|Julian Lehmann|19|Adam Horak|Peter Hrncar|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:17|21|Mateusz Biernacki |Przemyslaw Szydlowski|9|Martin Kural|Michal Vasatko|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles
+20141109|0:17|21|Mateusz Biernacki |Przemyslaw Szydlowski|8|Martin Kural|Michal Vasatko|D4DE5D86-B023-4C1C-B1C2-C95E5E8A7477|doubles

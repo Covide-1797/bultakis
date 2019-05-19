@@ -1,0 +1,537 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20181108|0:24|21|Aram Mahmoud|Amy Tan|16|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181108|0:24|21|Aram Mahmoud|Amy Tan|10|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181108||Walkover Win|Alexander Rydstrom|Alexander Svensson|Walkover Loss|John Nguyen|Amund Rikheim Huus|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181108||21|Jesper De Waal|none|8|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||21|Jesper De Waal|none|18|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:19|21|Mickey Lykkegren|none|9|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:19|21|Mickey Lykkegren|none|10|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:38|12|Andreas Fleischer|none|21|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:38|21|Andreas Fleischer|none|13|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:38|21|Andreas Fleischer|none|12|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:25|21|Torjus Flaatten|none|13|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:25|21|Torjus Flaatten|none|8|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:06|21|Jakob Godt|none|16|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:06|21|Jakob Godt|none|13|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|10|Danila Gataullin|none|21|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:35|21|Magnus Klinggaard|none|12|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:35|21|Magnus Klinggaard|none|18|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:30|21|Rasmus Kæseler|none|12|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:30|21|Rasmus Kæseler|none|11|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:18|21|Marcus Boman|none|6|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:18|21|Marcus Boman|none|16|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:36|27|Rik Hermans|none|25|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:36|21|Rik Hermans|none|17|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:43|22|Jorgen Rosenlund|none|24|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:43|21|Jorgen Rosenlund|none|11|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:43|21|Jorgen Rosenlund|none|18|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:32|21|Jonas Schwarz|none|16|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:32|24|Jonas Schwarz|none|22|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:28|21|Mads Emil Kristensen|none|13|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:28|21|Mads Emil Kristensen|none|12|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:21|21|Adrian Levin|none|8|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:21|21|Adrian Levin|none|16|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|21|Shaun Ekengren|none|13|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|19|Shaun Ekengren|none|21|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|21|Shaun Ekengren|none|11|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:35|21|Signe Schulz|none|7|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:35|19|Signe Schulz|none|21|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:35|21|Signe Schulz|none|9|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|21|Marie Mørk|none|19|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|16|Marie Mørk|none|21|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:40|21|Marie Mørk|none|17|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|24|Lidia Rainero|none|22|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|21|Lidia Rainero|none|17|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||Walkover Win|Liana Lencevica|none|Walkover Loss|Fiona Hallberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:22|21|Sarah Frederikke Vishart|none|18|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:22|21|Sarah Frederikke Vishart|none|15|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:42|15|Stine Andersen|none|21|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:42|21|Stine Andersen|none|17|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:42|21|Stine Andersen|none|18|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:31|21|Alexander Rydstrom|none|14|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:31|21|Alexander Rydstrom|none|16|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:24|21|August Bjorkler|none|17|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:24|21|August Bjorkler|none|12|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||Walkover Win|Alexander Svensson|none|Walkover Loss|Rasmus Careø Christensen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:41|12|Emma Hooper|none|21|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:41|21|Emma Hooper|none|16|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:41|22|Emma Hooper|none|20|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:38|21|Emilie Melgaard|none|16|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:38|14|Emilie Melgaard|none|21|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:38|21|Emilie Melgaard|none|9|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||Walkover Win|Jesper De Waal|none|Walkover Loss|Peter Roenn Stensaeth [1]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:18|21|Mickey Lykkegren|none|3|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:18|21|Mickey Lykkegren|none|6|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:32|21|Andreas Fleischer|none|18|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:32|22|Andreas Fleischer|none|20|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||21|Aram Mahmoud|none|13|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||21|Aram Mahmoud|none|12|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:51|19|Jakob Godt|none|21|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:51|21|Jakob Godt|none|13|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:51|21|Jakob Godt|none|12|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:48|21|Simon Sandholm|none|13|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:48|19|Simon Sandholm|none|21|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:48|21|Simon Sandholm|none|11|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||Walkover Win|Magnus Klinggaard|none|Walkover Loss|Christopher Kan [7]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||21|Rasmus Kæseler|none|12|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||21|Rasmus Kæseler|none|8|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:28|21|Jonas Jæger|none|13|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:28|21|Jonas Jæger|none|18|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:41|17|Mark Sames |none|21|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:41|21|Mark Sames |none|17|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:41|21|Mark Sames |none|13|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||Walkover Win|Jonas Schwarz|none|Walkover Loss|Peter Correl [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:39|11|Martin Bundgaard |none|21|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:39|21|Martin Bundgaard |none|10|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:39|21|Martin Bundgaard |none|9|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Shaun Ekengren|none|6|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Shaun Ekengren|none|17|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:48|21|Lilit Poghosyan |none|16|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:48|17|Lilit Poghosyan |none|21|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:48|21|Lilit Poghosyan |none|17|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:22|21|Salisa Chayruksa|none|17|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:22|21|Salisa Chayruksa|none|7|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:24|21|Helis Pajuste |none|13|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:24|21|Helis Pajuste |none|7|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:22|21|Miranda Johansson|none|16|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:22|21|Miranda Johansson|none|11|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Sarah Frederikke Vishart|none|10|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Sarah Frederikke Vishart|none|14|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Stine Andersen|none|13|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Stine Andersen|none|19|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:07|21|Mickey Lykkegren|none|12|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:07|21|Mickey Lykkegren|none|13|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:28|21|Alexander Rydstrom|none|16|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:28|21|Alexander Rydstrom|none|19|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|21|Mads Emil Kristensen|none|18|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|21|Mads Emil Kristensen|none|14|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108||Walkover Win|Alexander Svensson|none|Walkover Loss|Richard Kuhl [2]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:18|21|Amy Tan|none|7|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:18|21|Amy Tan|none|4|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Frederikke Lund |none|16|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|16|Frederikke Lund |none|21|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:20|21|Frederikke Lund |none|9|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:47|20|Aram Mahmoud|none|22|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:47|21|Aram Mahmoud|none|16|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:47|21|Aram Mahmoud|none|5|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|23|Simon Sandholm|none|21|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|21|Simon Sandholm|none|16|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|21|Rasmus Kæseler|none|12|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:33|21|Rasmus Kæseler|none|13|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:25|21|Jonas Jæger|none|15|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:25|21|Jonas Jæger|none|17|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:57|23|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:57|15|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:57|22|Jonas Schwarz|none|20|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:34|21|Mads Emil Kristensen|none|15|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:34|21|Mads Emil Kristensen|none|13|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:25|21|Shaun Ekengren|none|15|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181108|0:25|21|Shaun Ekengren|none|10|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:24|21|Aram Mahmoud|Amy Tan|16|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181109|0:24|21|Aram Mahmoud|Amy Tan|10|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181109||Walkover Win|Alexander Rydstrom|Alexander Svensson|Walkover Loss|John Nguyen|Amund Rikheim Huus|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181109||21|Jesper De Waal|none|8|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||21|Jesper De Waal|none|18|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:19|21|Mickey Lykkegren|none|9|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:19|21|Mickey Lykkegren|none|10|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:38|12|Andreas Fleischer|none|21|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:38|21|Andreas Fleischer|none|13|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:38|21|Andreas Fleischer|none|12|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:25|21|Torjus Flaatten|none|13|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:25|21|Torjus Flaatten|none|8|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:06|21|Jakob Godt|none|16|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:06|21|Jakob Godt|none|13|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|10|Danila Gataullin|none|21|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:35|21|Magnus Klinggaard|none|12|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:35|21|Magnus Klinggaard|none|18|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:30|21|Rasmus Kæseler|none|12|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:30|21|Rasmus Kæseler|none|11|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:18|21|Marcus Boman|none|6|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:18|21|Marcus Boman|none|16|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:36|27|Rik Hermans|none|25|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:36|21|Rik Hermans|none|17|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:43|22|Jorgen Rosenlund|none|24|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:43|21|Jorgen Rosenlund|none|11|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:43|21|Jorgen Rosenlund|none|18|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:32|21|Jonas Schwarz|none|16|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:32|24|Jonas Schwarz|none|22|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:28|21|Mads Emil Kristensen|none|13|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:28|21|Mads Emil Kristensen|none|12|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:21|21|Adrian Levin|none|8|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:21|21|Adrian Levin|none|16|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|21|Shaun Ekengren|none|13|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|19|Shaun Ekengren|none|21|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|21|Shaun Ekengren|none|11|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:35|21|Signe Schulz|none|7|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:35|19|Signe Schulz|none|21|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:35|21|Signe Schulz|none|9|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|21|Marie Mørk|none|19|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|16|Marie Mørk|none|21|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:40|21|Marie Mørk|none|17|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|24|Lidia Rainero|none|22|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|21|Lidia Rainero|none|17|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||Walkover Win|Liana Lencevica|none|Walkover Loss|Fiona Hallberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:22|21|Sarah Frederikke Vishart|none|18|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:22|21|Sarah Frederikke Vishart|none|15|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:42|15|Stine Andersen|none|21|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:42|21|Stine Andersen|none|17|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:42|21|Stine Andersen|none|18|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:31|21|Alexander Rydstrom|none|14|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:31|21|Alexander Rydstrom|none|16|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:24|21|August Bjorkler|none|17|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:24|21|August Bjorkler|none|12|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||Walkover Win|Alexander Svensson|none|Walkover Loss|Rasmus Careø Christensen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:41|12|Emma Hooper|none|21|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:41|21|Emma Hooper|none|16|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:41|22|Emma Hooper|none|20|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:38|21|Emilie Melgaard|none|16|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:38|14|Emilie Melgaard|none|21|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:38|21|Emilie Melgaard|none|9|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||Walkover Win|Jesper De Waal|none|Walkover Loss|Peter Roenn Stensaeth [1]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:18|21|Mickey Lykkegren|none|3|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:18|21|Mickey Lykkegren|none|6|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:32|21|Andreas Fleischer|none|18|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:32|22|Andreas Fleischer|none|20|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||21|Aram Mahmoud|none|13|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||21|Aram Mahmoud|none|12|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:51|19|Jakob Godt|none|21|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:51|21|Jakob Godt|none|13|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:51|21|Jakob Godt|none|12|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:48|21|Simon Sandholm|none|13|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:48|19|Simon Sandholm|none|21|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:48|21|Simon Sandholm|none|11|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||Walkover Win|Magnus Klinggaard|none|Walkover Loss|Christopher Kan [7]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||21|Rasmus Kæseler|none|12|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||21|Rasmus Kæseler|none|8|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:28|21|Jonas Jæger|none|13|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:28|21|Jonas Jæger|none|18|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:41|17|Mark Sames |none|21|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:41|21|Mark Sames |none|17|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:41|21|Mark Sames |none|13|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||Walkover Win|Jonas Schwarz|none|Walkover Loss|Peter Correl [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:39|11|Martin Bundgaard |none|21|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:39|21|Martin Bundgaard |none|10|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:39|21|Martin Bundgaard |none|9|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Shaun Ekengren|none|6|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Shaun Ekengren|none|17|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:48|21|Lilit Poghosyan |none|16|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:48|17|Lilit Poghosyan |none|21|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:48|21|Lilit Poghosyan |none|17|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:22|21|Salisa Chayruksa|none|17|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:22|21|Salisa Chayruksa|none|7|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:24|21|Helis Pajuste |none|13|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:24|21|Helis Pajuste |none|7|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:22|21|Miranda Johansson|none|16|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:22|21|Miranda Johansson|none|11|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Sarah Frederikke Vishart|none|10|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Sarah Frederikke Vishart|none|14|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Stine Andersen|none|13|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Stine Andersen|none|19|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:07|21|Mickey Lykkegren|none|12|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:07|21|Mickey Lykkegren|none|13|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:28|21|Alexander Rydstrom|none|16|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:28|21|Alexander Rydstrom|none|19|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|21|Mads Emil Kristensen|none|18|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|21|Mads Emil Kristensen|none|14|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109||Walkover Win|Alexander Svensson|none|Walkover Loss|Richard Kuhl [2]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:18|21|Amy Tan|none|7|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:18|21|Amy Tan|none|4|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Frederikke Lund |none|16|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|16|Frederikke Lund |none|21|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:20|21|Frederikke Lund |none|9|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:47|20|Aram Mahmoud|none|22|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:47|21|Aram Mahmoud|none|16|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:47|21|Aram Mahmoud|none|5|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|23|Simon Sandholm|none|21|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|21|Simon Sandholm|none|16|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|21|Rasmus Kæseler|none|12|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:33|21|Rasmus Kæseler|none|13|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:25|21|Jonas Jæger|none|15|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:25|21|Jonas Jæger|none|17|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:57|23|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:57|15|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:57|22|Jonas Schwarz|none|20|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:34|21|Mads Emil Kristensen|none|15|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:34|21|Mads Emil Kristensen|none|13|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:25|21|Shaun Ekengren|none|15|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181109|0:25|21|Shaun Ekengren|none|10|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:24|21|Aram Mahmoud|Amy Tan|16|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181110|0:24|21|Aram Mahmoud|Amy Tan|10|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181110||Walkover Win|Alexander Rydstrom|Alexander Svensson|Walkover Loss|John Nguyen|Amund Rikheim Huus|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181110||21|Jesper De Waal|none|8|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||21|Jesper De Waal|none|18|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:19|21|Mickey Lykkegren|none|9|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:19|21|Mickey Lykkegren|none|10|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:38|12|Andreas Fleischer|none|21|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:38|21|Andreas Fleischer|none|13|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:38|21|Andreas Fleischer|none|12|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:25|21|Torjus Flaatten|none|13|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:25|21|Torjus Flaatten|none|8|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:06|21|Jakob Godt|none|16|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:06|21|Jakob Godt|none|13|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|10|Danila Gataullin|none|21|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:35|21|Magnus Klinggaard|none|12|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:35|21|Magnus Klinggaard|none|18|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:30|21|Rasmus Kæseler|none|12|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:30|21|Rasmus Kæseler|none|11|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:18|21|Marcus Boman|none|6|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:18|21|Marcus Boman|none|16|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:36|27|Rik Hermans|none|25|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:36|21|Rik Hermans|none|17|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:43|22|Jorgen Rosenlund|none|24|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:43|21|Jorgen Rosenlund|none|11|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:43|21|Jorgen Rosenlund|none|18|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:32|21|Jonas Schwarz|none|16|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:32|24|Jonas Schwarz|none|22|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:28|21|Mads Emil Kristensen|none|13|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:28|21|Mads Emil Kristensen|none|12|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:21|21|Adrian Levin|none|8|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:21|21|Adrian Levin|none|16|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|21|Shaun Ekengren|none|13|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|19|Shaun Ekengren|none|21|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|21|Shaun Ekengren|none|11|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:35|21|Signe Schulz|none|7|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:35|19|Signe Schulz|none|21|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:35|21|Signe Schulz|none|9|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|21|Marie Mørk|none|19|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|16|Marie Mørk|none|21|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:40|21|Marie Mørk|none|17|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|24|Lidia Rainero|none|22|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|21|Lidia Rainero|none|17|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||Walkover Win|Liana Lencevica|none|Walkover Loss|Fiona Hallberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:22|21|Sarah Frederikke Vishart|none|18|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:22|21|Sarah Frederikke Vishart|none|15|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:42|15|Stine Andersen|none|21|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:42|21|Stine Andersen|none|17|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:42|21|Stine Andersen|none|18|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:31|21|Alexander Rydstrom|none|14|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:31|21|Alexander Rydstrom|none|16|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:24|21|August Bjorkler|none|17|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:24|21|August Bjorkler|none|12|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||Walkover Win|Alexander Svensson|none|Walkover Loss|Rasmus Careø Christensen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:41|12|Emma Hooper|none|21|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:41|21|Emma Hooper|none|16|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:41|22|Emma Hooper|none|20|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:38|21|Emilie Melgaard|none|16|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:38|14|Emilie Melgaard|none|21|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:38|21|Emilie Melgaard|none|9|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||Walkover Win|Jesper De Waal|none|Walkover Loss|Peter Roenn Stensaeth [1]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:18|21|Mickey Lykkegren|none|3|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:18|21|Mickey Lykkegren|none|6|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:32|21|Andreas Fleischer|none|18|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:32|22|Andreas Fleischer|none|20|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||21|Aram Mahmoud|none|13|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||21|Aram Mahmoud|none|12|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:51|19|Jakob Godt|none|21|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:51|21|Jakob Godt|none|13|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:51|21|Jakob Godt|none|12|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:48|21|Simon Sandholm|none|13|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:48|19|Simon Sandholm|none|21|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:48|21|Simon Sandholm|none|11|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||Walkover Win|Magnus Klinggaard|none|Walkover Loss|Christopher Kan [7]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||21|Rasmus Kæseler|none|12|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||21|Rasmus Kæseler|none|8|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:28|21|Jonas Jæger|none|13|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:28|21|Jonas Jæger|none|18|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:41|17|Mark Sames |none|21|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:41|21|Mark Sames |none|17|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:41|21|Mark Sames |none|13|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||Walkover Win|Jonas Schwarz|none|Walkover Loss|Peter Correl [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:39|11|Martin Bundgaard |none|21|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:39|21|Martin Bundgaard |none|10|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:39|21|Martin Bundgaard |none|9|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Shaun Ekengren|none|6|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Shaun Ekengren|none|17|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:48|21|Lilit Poghosyan |none|16|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:48|17|Lilit Poghosyan |none|21|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:48|21|Lilit Poghosyan |none|17|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:22|21|Salisa Chayruksa|none|17|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:22|21|Salisa Chayruksa|none|7|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:24|21|Helis Pajuste |none|13|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:24|21|Helis Pajuste |none|7|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:22|21|Miranda Johansson|none|16|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:22|21|Miranda Johansson|none|11|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Sarah Frederikke Vishart|none|10|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Sarah Frederikke Vishart|none|14|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Stine Andersen|none|13|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Stine Andersen|none|19|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:07|21|Mickey Lykkegren|none|12|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:07|21|Mickey Lykkegren|none|13|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:28|21|Alexander Rydstrom|none|16|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:28|21|Alexander Rydstrom|none|19|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|21|Mads Emil Kristensen|none|18|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|21|Mads Emil Kristensen|none|14|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110||Walkover Win|Alexander Svensson|none|Walkover Loss|Richard Kuhl [2]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:18|21|Amy Tan|none|7|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:18|21|Amy Tan|none|4|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Frederikke Lund |none|16|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|16|Frederikke Lund |none|21|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:20|21|Frederikke Lund |none|9|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:47|20|Aram Mahmoud|none|22|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:47|21|Aram Mahmoud|none|16|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:47|21|Aram Mahmoud|none|5|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|23|Simon Sandholm|none|21|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|21|Simon Sandholm|none|16|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|21|Rasmus Kæseler|none|12|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:33|21|Rasmus Kæseler|none|13|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:25|21|Jonas Jæger|none|15|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:25|21|Jonas Jæger|none|17|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:57|23|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:57|15|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:57|22|Jonas Schwarz|none|20|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:34|21|Mads Emil Kristensen|none|15|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:34|21|Mads Emil Kristensen|none|13|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:25|21|Shaun Ekengren|none|15|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181110|0:25|21|Shaun Ekengren|none|10|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:24|21|Aram Mahmoud|Amy Tan|16|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181111|0:24|21|Aram Mahmoud|Amy Tan|10|Erik Angervall|Emma Hooper|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181111||Walkover Win|Alexander Rydstrom|Alexander Svensson|Walkover Loss|John Nguyen|Amund Rikheim Huus|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|doubles
+20181111||21|Jesper De Waal|none|8|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||21|Jesper De Waal|none|18|Andis Berzins|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:19|21|Mickey Lykkegren|none|9|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:19|21|Mickey Lykkegren|none|10|Hannes Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:38|12|Andreas Fleischer|none|21|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:38|21|Andreas Fleischer|none|13|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:38|21|Andreas Fleischer|none|12|Alexander Landberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:25|21|Torjus Flaatten|none|13|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:25|21|Torjus Flaatten|none|8|Ludvig Petre Olsson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:06|21|Jakob Godt|none|16|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:06|21|Jakob Godt|none|13|Thomas Sibbald|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|10|Danila Gataullin|none|21|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|21|Danila Gataullin|none|19|Anton Tjulin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:35|21|Magnus Klinggaard|none|12|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:35|21|Magnus Klinggaard|none|18|Mattias Xu|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:30|21|Rasmus Kæseler|none|12|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:30|21|Rasmus Kæseler|none|11|Victor Zuhr|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:18|21|Marcus Boman|none|6|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:18|21|Marcus Boman|none|16|Matius Wijaya|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:24|21|Jonas Jæger|none|13|Max Gotfredsen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:36|27|Rik Hermans|none|25|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:36|21|Rik Hermans|none|17|Ludvig Smith-Meyer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:43|22|Jorgen Rosenlund|none|24|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:43|21|Jorgen Rosenlund|none|11|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:43|21|Jorgen Rosenlund|none|18|Emil Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:32|21|Jonas Schwarz|none|16|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:32|24|Jonas Schwarz|none|22|Mads Marum|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:28|21|Mads Emil Kristensen|none|13|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:28|21|Mads Emil Kristensen|none|12|Oskar Johansson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:21|21|Adrian Levin|none|8|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:21|21|Adrian Levin|none|16|Øystein Hovden Eimind|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|21|Shaun Ekengren|none|13|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|19|Shaun Ekengren|none|21|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|21|Shaun Ekengren|none|11|Nico Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:35|21|Signe Schulz|none|7|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:35|19|Signe Schulz|none|21|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:35|21|Signe Schulz|none|9|Elena-Alexandra Diordiev|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|21|Marie Mørk|none|19|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|16|Marie Mørk|none|21|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:40|21|Marie Mørk|none|17|Una Berga|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|24|Lidia Rainero|none|22|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|21|Lidia Rainero|none|17|Live Grønbech|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||Walkover Win|Liana Lencevica|none|Walkover Loss|Fiona Hallberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:30|21|Emilia Petersen Norberg|none|15|Malin Andersson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:22|21|Sarah Frederikke Vishart|none|18|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:22|21|Sarah Frederikke Vishart|none|15|Thea Kristina Johansen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:42|15|Stine Andersen|none|21|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:42|21|Stine Andersen|none|17|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:42|21|Stine Andersen|none|18|Natalia Mitchell|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:31|21|Alexander Rydstrom|none|14|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:31|21|Alexander Rydstrom|none|16|Mitchell Maynard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:24|21|August Bjorkler|none|17|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:24|21|August Bjorkler|none|12|Amund Rikheim Huus|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||Walkover Win|Alexander Svensson|none|Walkover Loss|Rasmus Careø Christensen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:41|12|Emma Hooper|none|21|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:41|21|Emma Hooper|none|16|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:41|22|Emma Hooper|none|20|Jenny Rajkumar|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:38|21|Emilie Melgaard|none|16|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:38|14|Emilie Melgaard|none|21|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:38|21|Emilie Melgaard|none|9|Alda Karen Jonsdottir|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||Walkover Win|Jesper De Waal|none|Walkover Loss|Peter Roenn Stensaeth [1]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:18|21|Mickey Lykkegren|none|3|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:18|21|Mickey Lykkegren|none|6|John Nguyen|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:32|21|Andreas Fleischer|none|18|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:32|22|Andreas Fleischer|none|20|Vegard Rikheim [5]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||21|Aram Mahmoud|none|13|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||21|Aram Mahmoud|none|12|Torjus Flaatten|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:51|19|Jakob Godt|none|21|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:51|21|Jakob Godt|none|13|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:51|21|Jakob Godt|none|12|Kaj Sjang Lü [3]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:48|21|Simon Sandholm|none|13|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:48|19|Simon Sandholm|none|21|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:48|21|Simon Sandholm|none|11|Danila Gataullin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||Walkover Win|Magnus Klinggaard|none|Walkover Loss|Christopher Kan [7]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||21|Rasmus Kæseler|none|12|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||21|Rasmus Kæseler|none|8|Marcus Boman|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:28|21|Jonas Jæger|none|13|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:28|21|Jonas Jæger|none|18|Rik Hermans|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:41|17|Mark Sames |none|21|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:41|21|Mark Sames |none|17|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:41|21|Mark Sames |none|13|Jorgen Rosenlund|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||Walkover Win|Jonas Schwarz|none|Walkover Loss|Peter Correl [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:39|11|Martin Bundgaard |none|21|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:39|21|Martin Bundgaard |none|10|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:39|21|Martin Bundgaard |none|9|Adrian Levin|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Shaun Ekengren|none|6|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Shaun Ekengren|none|17|Tobias Krømke|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:48|21|Lilit Poghosyan |none|16|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:48|17|Lilit Poghosyan |none|21|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:48|21|Lilit Poghosyan |none|17|Signe Schulz|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:22|21|Salisa Chayruksa|none|17|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:22|21|Salisa Chayruksa|none|7|Marie Mørk|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:24|21|Helis Pajuste |none|13|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:24|21|Helis Pajuste |none|7|Lidia Rainero|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:22|21|Miranda Johansson|none|16|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:22|21|Miranda Johansson|none|11|Liana Lencevica|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Sarah Frederikke Vishart|none|10|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Sarah Frederikke Vishart|none|14|Emilia Petersen Norberg|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Stine Andersen|none|13|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Stine Andersen|none|19|Bianka Bukoviczki [4]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:07|21|Mickey Lykkegren|none|12|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:07|21|Mickey Lykkegren|none|13|Jesper De Waal|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:28|21|Alexander Rydstrom|none|16|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:28|21|Alexander Rydstrom|none|19|Karel Eriksson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|21|Mads Emil Kristensen|none|18|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|21|Mads Emil Kristensen|none|14|August Bjorkler|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111||Walkover Win|Alexander Svensson|none|Walkover Loss|Richard Kuhl [2]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:18|21|Amy Tan|none|7|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:18|21|Amy Tan|none|4|Emma Hooper|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Frederikke Lund |none|16|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|16|Frederikke Lund |none|21|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:20|21|Frederikke Lund |none|9|Emilie Melgaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:47|20|Aram Mahmoud|none|22|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:47|21|Aram Mahmoud|none|16|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:47|21|Aram Mahmoud|none|5|Andreas Fleischer|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|23|Simon Sandholm|none|21|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|21|Simon Sandholm|none|16|Jakob Godt|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|21|Rasmus Kæseler|none|12|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:33|21|Rasmus Kæseler|none|13|Magnus Klinggaard|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:25|21|Jonas Jæger|none|15|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:25|21|Jonas Jæger|none|17|Mark Sames [6]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:57|23|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:57|15|Jonas Schwarz|none|21|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:57|22|Jonas Schwarz|none|20|Alexander Rydstrom|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:34|21|Mads Emil Kristensen|none|15|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:34|21|Mads Emil Kristensen|none|13|Martin Bundgaard [8]|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:25|21|Shaun Ekengren|none|15|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles
+20181111|0:25|21|Shaun Ekengren|none|10|Alexander Svensson|none|115D7C44-47FF-4C05-B9BE-EC7BC342C1CA|singles

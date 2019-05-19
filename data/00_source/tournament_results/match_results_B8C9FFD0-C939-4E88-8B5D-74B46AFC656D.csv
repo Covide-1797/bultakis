@@ -1,0 +1,772 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20170929|0:29|27|Peter Kovac|Natalia Tomcova|25|Michal Morávek|Kateřina Mikelová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:29|21|Peter Kovac|Natalia Tomcova|19|Michal Morávek|Kateřina Mikelová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Karol Budny|Zuzanna Jankowska|12|Zsombor Helybely|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Karol Budny|Zuzanna Jankowska|18|Zsombor Helybely|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:19|21|Andrei Don|Yana Sobko|8|Jaroslav Cisko|Simona Streharski|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:19|21|Andrei Don|Yana Sobko|13|Jaroslav Cisko|Simona Streharski|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Bartosz Galazka|Weronika Gorniak|13|Jaka Ivančič|Taja Pipan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Bartosz Galazka|Weronika Gorniak|18|Jaka Ivančič|Taja Pipan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Jan Viktora|Jana Adamkova|6|Vito Buchberger|Ira Misir|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Jan Viktora|Jana Adamkova|14|Vito Buchberger|Ira Misir|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929||Walkover Win|Lukáš Mádle|Soňa Hořínková|Walkover Loss|Michael Tomic|Anna-Sophie Zach|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:33|20|Erik Bartos|Alexandra Remenova|22|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:33|21|Erik Bartos|Alexandra Remenova|12|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:33|21|Erik Bartos|Alexandra Remenova|16|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|25|Andrej Antoska|Katarina Csonkova|23|Miha Masten|Marusa Vračar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Andrej Antoska|Katarina Csonkova|14|Miha Masten|Marusa Vračar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:18|21|Maciej Matusz|Paulina Hankiewicz|12|Georgios Tsiolis|Dimitra Kalomira Kroystalli|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:18|21|Maciej Matusz|Paulina Hankiewicz|8|Georgios Tsiolis|Dimitra Kalomira Kroystalli|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Václav Palán|Lucie Krpatová|17|Vsevolod Pchelintsev|Anastasiia Nefedova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Václav Palán|Lucie Krpatová|14|Vsevolod Pchelintsev|Anastasiia Nefedova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Filip Marek|Iva Foukalová|17|Borna Vadlja|Barbara Janičić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Filip Marek|Iva Foukalová|17|Borna Vadlja|Barbara Janičić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Patryk Kordek|Dominika Kwasnik|8|Jakub Matula|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Patryk Kordek|Dominika Kwasnik|10|Jakub Matula|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:23|21|Blaž Smrkolj|Nike Brajkovič|8|Tadeáš Brázda|Adela Chadimová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:23|21|Blaž Smrkolj|Nike Brajkovič|15|Tadeáš Brázda|Adela Chadimová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:43|15|Daniel Witzmann|Karoline Pottendorfer|21|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:43|21|Daniel Witzmann|Karoline Pottendorfer|18|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:43|21|Daniel Witzmann|Karoline Pottendorfer|18|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:21|21|Gabriel Fernandez|Amy Tan|7|Martin Dostál|Radka Šilhavá|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:21|21|Gabriel Fernandez|Amy Tan|14|Martin Dostál|Radka Šilhavá|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:23|21|Kateřina Zuzáková |none|11|Anna Bereczkei|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Kateřina Zuzáková |none|4|Anna Bereczkei|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Barbora Otáhalová|none|18|Frederika Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Barbora Otáhalová|none|11|Frederika Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Anastasiya Prozorova |none|5|Dunja Štrbenac|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Anastasiya Prozorova |none|11|Dunja Štrbenac|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:52|18|Urska Potočnik|none|21|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:52|21|Urska Potočnik|none|13|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:52|25|Urska Potočnik|none|23|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:20|21|Alesia Ershova|none|10|Julia Chmurovicova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:20|21|Alesia Ershova|none|14|Julia Chmurovicova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:51|19|Marie Růžičková|none|21|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:51|21|Marie Růžičková|none|8|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:51|21|Marie Růžičková|none|12|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Tereza Kobyláková |none|13|Martina Foltanova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Tereza Kobyláková |none|12|Martina Foltanova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Tallulah Sharleen Van Coppenolle|none|6|Neza Frank|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Tallulah Sharleen Van Coppenolle|none|12|Neza Frank|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Anna Duda |none|8|Anna Beko|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Anna Duda |none|8|Anna Beko|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Šárka Líbalová|none|11|Alzbeta Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Šárka Líbalová|none|9|Alzbeta Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Elena Filippova |none|10|Sunčica Sertić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Elena Filippova |none|8|Sunčica Sertić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:41|21|Weronika Gorniak|none|13|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:41|24|Weronika Gorniak|none|26|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:41|21|Weronika Gorniak|none|12|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Nela Němcová |none|7|Dimitra Kalomira Kroystalli|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Nela Němcová |none|11|Dimitra Kalomira Kroystalli|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:30|21|Jana Adamkova |none|18|Yelyzaveta Yakovlieva|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:30|21|Jana Adamkova |none|8|Yelyzaveta Yakovlieva|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:24|21|Kitti Szotak |none|5|Adela Chadimová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:24|21|Kitti Szotak |none|6|Adela Chadimová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Mia Tarcalova |none|7|Kateřina Valentová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Mia Tarcalova |none|15|Kateřina Valentová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:29|21|Dominika Kwasnik|none|14|Taja Pipan|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:29|21|Dominika Kwasnik|none|18|Taja Pipan|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|21|Karolina Szubert |none|14|Barbara Janičić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|21|Karolina Szubert |none|15|Barbara Janičić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Zuzanna Jankowska|none|19|Natalia Tomcova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Zuzanna Jankowska|none|15|Natalia Tomcova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:17|21|Kseniia Sidorova|none|6|Dasa Stoffekova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:17|21|Kseniia Sidorova|none|18|Dasa Stoffekova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Amy Tan |none|5|Zala Žuran|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Amy Tan |none|6|Zala Žuran|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:42|21|Ira Misir|none|15|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:42|18|Ira Misir|none|21|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:42|21|Ira Misir|none|13|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|23|Anastasiia Nefedova|none|21|Bernadett Konya|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|21|Anastasiia Nefedova|none|16|Bernadett Konya|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:46|21|Anastasiia Kosenchuk|none|16|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:46|17|Anastasiia Kosenchuk|none|21|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:46|21|Anastasiia Kosenchuk|none|16|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929||Walkover Win|Panna Pytel|none|Walkover Loss|Anna-Sophie Zach|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929||Walkover Win|Kateřina Mikelová|none|Walkover Loss|Rachael Woods [12]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929||Walkover Win|Valeriya Rudakova |none|Walkover Loss|Laura Csambal|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|25|Ema Staňková|none|23|Karoline Pottendorfer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Ema Staňková|none|12|Karoline Pottendorfer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Ania Setien|none|13|Laura Farkas|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Ania Setien|none|17|Laura Farkas|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Inga Sadaić |none|8|Nike Brajkovič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Inga Sadaić |none|17|Nike Brajkovič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:24|21|Katarina Csonkova|none|10|Radka Šilhavá|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:24|21|Katarina Csonkova|none|15|Radka Šilhavá|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:38|21|Grammatoula Sotiriou |none|11|Alexandra Remenova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:38|22|Grammatoula Sotiriou |none|20|Alexandra Remenova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:13|21|Nicolas Rudolf |none|1|Simon Uher|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:13|21|Nicolas Rudolf |none|2|Simon Uher|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:36|21|Bence Fazekas|none|19|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:36|10|Bence Fazekas|none|21|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:36|21|Bence Fazekas|none|18|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Jaka Ivančič|none|13|Georgios Orfeas Tsamousiadis [9]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Jaka Ivančič|none|17|Georgios Orfeas Tsamousiadis [9]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Samuel Cassar|none|13|Vratislav Erhart|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Samuel Cassar|none|19|Vratislav Erhart|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:42|21|Jakub Horak |none|18|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:42|18|Jakub Horak |none|21|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:42|21|Jakub Horak |none|13|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:33|21|Wiktor Trecki|none|14|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:33|18|Wiktor Trecki|none|21|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:33|21|Wiktor Trecki|none|16|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Jan Janoštík |none|7|Marcell Csobod|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:21|21|Jan Janoštík |none|16|Marcell Csobod|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|21|Blaž Smrkolj|none|15|Mikolaj Piorkowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|21|Blaž Smrkolj|none|17|Mikolaj Piorkowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Miguel San Luis |none|17|Artur Gwiazdowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Miguel San Luis |none|11|Artur Gwiazdowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:25|21|Ivan Skurikhin|none|7|Vito Buchberger|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:25|21|Ivan Skurikhin|none|11|Vito Buchberger|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:24|21|Josip Meglić |none|10|Michal Morávek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:24|21|Josip Meglić |none|9|Michal Morávek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:39|21|Michael Tomic|none|12|Mikolaj Szymanowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:39|21|Michael Tomic|none|16|Mikolaj Szymanowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:25|21|Maciej Matusz |none|7|Martin Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:25|21|Maciej Matusz |none|7|Martin Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929||Walkover Win|Radoslav Sirak|none|Walkover Loss|Kishan Hathi|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:44|17|Szymon Stokfisz |none|21|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:44|22|Szymon Stokfisz |none|20|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:44|21|Szymon Stokfisz |none|13|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Tobias Bäuerle|none|19|Peter Dubecky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Tobias Bäuerle|none|8|Peter Dubecky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:30|21|Yevhen Kobzar|none|17|Mark Abela|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:30|21|Yevhen Kobzar|none|16|Mark Abela|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Miha Masten |none|15|Daniel Witzmann|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Miha Masten |none|19|Daniel Witzmann|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929||Walkover Win|Tomáš Švejda|none|Walkover Loss|Gustav Andree|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Lukasz Cimosz |none|7|Lukáš Mádle|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Lukasz Cimosz |none|13|Lukáš Mádle|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|21|Tobias Rudolf|none|15|Marek Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:27|21|Tobias Rudolf|none|16|Marek Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Patryk Kordek |none|19|Gabriel Fernandez|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:26|21|Patryk Kordek |none|11|Gabriel Fernandez|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Lenny Sudarma|none|17|Zsombor Helybely|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Lenny Sudarma|none|11|Zsombor Helybely|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Andrej Antoska |none|13|Matyas Spiesz|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Andrej Antoska |none|14|Matyas Spiesz|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Erik Bartos|none|10|Jan Blažek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:23|21|Erik Bartos|none|10|Jan Blažek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:33|21|Jan Viktora |none|3|Igor Palovsky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:33|21|Jan Viktora |none|10|Igor Palovsky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:45|21|Karol Budny|none|16|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:45|8|Karol Budny|none|21|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:45|21|Karol Budny|none|12|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:32|21|Marek Aubus |none|13|Adrian Krawczyk|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:32|21|Marek Aubus |none|18|Adrian Krawczyk|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:31|21|Vsevolod Pchelintsev|none|11|Luca Froschauer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:31|21|Vsevolod Pchelintsev|none|13|Luca Froschauer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Bartosz Galazka |none|19|Borna Vadlja|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:22|21|Bartosz Galazka |none|12|Borna Vadlja|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Peter Kovac|none|19|Georgios Tsiolis|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:28|21|Peter Kovac|none|16|Georgios Tsiolis|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:25|21|Luka Ban |none|6|Filip Marek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:25|21|Luka Ban |none|10|Filip Marek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170929|0:30|21|Kateřina Mikelová|Nela Němcová|14|Leila Ombodi|Kitti Szotak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:30|21|Kateřina Mikelová|Nela Němcová|15|Leila Ombodi|Kitti Szotak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Barbara Janičić|Ira Misir|17|Neza Frank|Urska Potočnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Barbara Janičić|Ira Misir|18|Neza Frank|Urska Potočnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Anastasiia Nefedova|Kseniia Sidorova|12|Alzbeta Balintova|Frederika Balintova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Anastasiia Nefedova|Kseniia Sidorova|9|Alzbeta Balintova|Frederika Balintova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:29|21|Anna Duda |Karolina Szubert|11|Iva Foukalová|Šárka Líbalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:29|21|Anna Duda |Karolina Szubert|9|Iva Foukalová|Šárka Líbalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:47|21|Adela Chadimová|Barbora Otáhalová|16|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:47|11|Adela Chadimová|Barbora Otáhalová|21|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:47|25|Adela Chadimová|Barbora Otáhalová|23|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929||Walkover Win|Tereza Kobyláková|Valentýna Sonnková|Walkover Loss|Lena Kremmel|Anna-Sophie Zach|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Julia Chmurovicova|Alexandra Remenova|16|Anna Bereczkei|Panna Pytel|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Julia Chmurovicova|Alexandra Remenova|15|Anna Bereczkei|Panna Pytel|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Laura Bujak|Weronika Gorniak|19|Sunčica Sertić|Dunja Štrbenac|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Laura Bujak|Weronika Gorniak|12|Sunčica Sertić|Dunja Štrbenac|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Alesia Ershova|Elena Filippova|11|Laura Farkas|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Alesia Ershova|Elena Filippova|11|Laura Farkas|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:26|21|Katarina Csonkova |Mia Tarcalova|17|Radka Šilhavá|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:26|21|Katarina Csonkova |Mia Tarcalova|11|Radka Šilhavá|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929||Walkover Win|Taja Pipan|Marusa Vračar|Walkover Loss|Rachael Woods|Rebecca Woods|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Soňa Hořínková|Ema Staňková|16|Karoline Pottendorfer|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Soňa Hořínková|Ema Staňková|16|Karoline Pottendorfer|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Marie Růžičková|Tallulah Sharleen Van Coppenolle|4|Martina Foltanova|Viktoria Ziakova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Marie Růžičková|Tallulah Sharleen Van Coppenolle|9|Martina Foltanova|Viktoria Ziakova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:31|21|Lucie Krpatová |Kateřina Zuzáková|13|Paulina Hankiewicz|Dominika Kwasnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:31|21|Lucie Krpatová |Kateřina Zuzáková|17|Paulina Hankiewicz|Dominika Kwasnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Bartosz Galazka |Maciej Matusz|6|Bence Fazekas|Zsombor Helybely|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Bartosz Galazka |Maciej Matusz|7|Bence Fazekas|Zsombor Helybely|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:39|21|Nicolas Rudolf|Tobias Rudolf|10|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:39|19|Nicolas Rudolf|Tobias Rudolf|21|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:39|21|Nicolas Rudolf|Tobias Rudolf|16|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Lukasz Cimosz |Patryk Kordek|11|Lukáš Mádle|Filip Marek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Lukasz Cimosz |Patryk Kordek|13|Lukáš Mádle|Filip Marek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:26|21|Andrei Don|Yevhen Kobzar|14|Tadeáš Brázda|Martin Dostál|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:26|21|Andrei Don|Yevhen Kobzar|19|Tadeáš Brázda|Martin Dostál|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Luka Ban |Josip Meglić|14|Daniel Moder|Radoslav Sirak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Luka Ban |Josip Meglić|10|Daniel Moder|Radoslav Sirak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Erik Bartos|Peter Kovac|11|Gregor Alič|Jan Babnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Erik Bartos|Peter Kovac|17|Gregor Alič|Jan Babnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Vít Kulíšek |Václav Palán|6|Tobias Bäuerle|Johannes Mory|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Vít Kulíšek |Václav Palán|11|Tobias Bäuerle|Johannes Mory|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:46|21|Karol Budny|Mikolaj Piorkowski|13|Mark Abela|Samuel Cassar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:46|24|Karol Budny|Mikolaj Piorkowski|22|Mark Abela|Samuel Cassar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Volodymyr Koluzaiev|Ivan Skurikhin|10|Matus Orsag|Simon Uher|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Volodymyr Koluzaiev|Ivan Skurikhin|7|Matus Orsag|Simon Uher|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Jaka Ivančič |Miha Masten|14|Igor Palovsky|Patrik Papanek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Jaka Ivančič |Miha Masten|12|Igor Palovsky|Patrik Papanek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Gabriel Fernandez|Miguel San Luis|7|Marek Dostál|Jakub Reichman|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Gabriel Fernandez|Miguel San Luis|16|Marek Dostál|Jakub Reichman|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:31|21|Jan Janoštík |Tomáš Švejda|16|Lenny Sudarma|Michael Tomic|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:31|21|Jan Janoštík |Tomáš Švejda|13|Lenny Sudarma|Michael Tomic|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Adam Ehm|Michal Morávek|15|Jannik Auberger|Kai Niederhuber|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Adam Ehm|Michal Morávek|15|Jannik Auberger|Kai Niederhuber|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Szymon Stokfisz |Wiktor Trecki|16|Luka Črep|Borna Vadlja|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Szymon Stokfisz |Wiktor Trecki|8|Luka Črep|Borna Vadlja|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:21|21|Vsevolod Pchelintsev|Egor Velp|12|Peter Dubecky|Daniel Witzmann|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:21|21|Vsevolod Pchelintsev|Egor Velp|11|Peter Dubecky|Daniel Witzmann|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Andrej Antoska |Jakub Horak|7|Marcell Csobod|Matyas Spiesz|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Andrej Antoska |Jakub Horak|14|Marcell Csobod|Matyas Spiesz|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:32|21|Vratislav Erhart|Ema Staňková|18|Karol Budny|Zuzanna Jankowska|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:32|27|Vratislav Erhart|Ema Staňková|25|Karol Budny|Zuzanna Jankowska|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Vít Kulíšek |Valentýna Sonnková|16|Jan Viktora|Jana Adamkova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Vít Kulíšek |Valentýna Sonnková|15|Jan Viktora|Jana Adamkova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:21|21|Maciej Matusz|Paulina Hankiewicz|7|Gregor Alič|Spela Alič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:21|21|Maciej Matusz|Paulina Hankiewicz|10|Gregor Alič|Spela Alič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Patryk Kordek|Dominika Kwasnik|13|Jakub Reichman|Barbora Otáhalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:22|21|Patryk Kordek|Dominika Kwasnik|7|Jakub Reichman|Barbora Otáhalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Yevhen Kobzar |Mariia Stoliarenko|18|Blaž Smrkolj|Nike Brajkovič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:24|21|Yevhen Kobzar |Mariia Stoliarenko|17|Blaž Smrkolj|Nike Brajkovič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Adrian Krawczyk|Anastasiia Kosenchuk|14|Lukáš Mádle|Soňa Hořínková|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:27|21|Adrian Krawczyk|Anastasiia Kosenchuk|17|Lukáš Mádle|Soňa Hořínková|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:29|21|Josip Meglić |Inga Sadaić|12|Peter Kovac|Natalia Tomcova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:29|21|Josip Meglić |Inga Sadaić|17|Peter Kovac|Natalia Tomcova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Wiktor Trecki |Anna Duda|17|Andrei Don|Yana Sobko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Wiktor Trecki |Anna Duda|14|Andrei Don|Yana Sobko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Egor Velp|Alesia Ershova|16|Bartosz Galazka|Weronika Gorniak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:25|21|Egor Velp|Alesia Ershova|17|Bartosz Galazka|Weronika Gorniak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:46|21|Szymon Stokfisz |Laura Bujak|23|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:46|21|Szymon Stokfisz |Laura Bujak|16|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:46|24|Szymon Stokfisz |Laura Bujak|22|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:23|21|Andrej Antoska|Katarina Csonkova|14|Marcell Csobod|Anna Beko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:23|21|Andrej Antoska|Katarina Csonkova|7|Marcell Csobod|Anna Beko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:30|22|Tomáš Švejda |Kateřina Zuzáková|20|Václav Palán|Lucie Krpatová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:30|21|Tomáš Švejda |Kateřina Zuzáková|15|Václav Palán|Lucie Krpatová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Adam Ehm|Kateřina Valentová|10|Tobias Bäuerle|Sunčica Sertić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:20|21|Adam Ehm|Kateřina Valentová|9|Tobias Bäuerle|Sunčica Sertić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Jakub Horak |Mia Tarcalova|16|Gabriel Fernandez|Amy Tan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:28|21|Jakub Horak |Mia Tarcalova|17|Gabriel Fernandez|Amy Tan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:26|21|Jan Blažek|Nela Němcová|16|Daniel Witzmann|Karoline Pottendorfer|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:26|21|Jan Blažek|Nela Němcová|6|Daniel Witzmann|Karoline Pottendorfer|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:14|21|Lukasz Cimosz |Karolina Szubert|9|Filip Marek|Iva Foukalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170929|0:14|21|Lukasz Cimosz |Karolina Szubert|18|Filip Marek|Iva Foukalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:29|27|Peter Kovac|Natalia Tomcova|25|Michal Morávek|Kateřina Mikelová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:29|21|Peter Kovac|Natalia Tomcova|19|Michal Morávek|Kateřina Mikelová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Karol Budny|Zuzanna Jankowska|12|Zsombor Helybely|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Karol Budny|Zuzanna Jankowska|18|Zsombor Helybely|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:19|21|Andrei Don|Yana Sobko|8|Jaroslav Cisko|Simona Streharski|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:19|21|Andrei Don|Yana Sobko|13|Jaroslav Cisko|Simona Streharski|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Bartosz Galazka|Weronika Gorniak|13|Jaka Ivančič|Taja Pipan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Bartosz Galazka|Weronika Gorniak|18|Jaka Ivančič|Taja Pipan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Jan Viktora|Jana Adamkova|6|Vito Buchberger|Ira Misir|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Jan Viktora|Jana Adamkova|14|Vito Buchberger|Ira Misir|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930||Walkover Win|Lukáš Mádle|Soňa Hořínková|Walkover Loss|Michael Tomic|Anna-Sophie Zach|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:33|20|Erik Bartos|Alexandra Remenova|22|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:33|21|Erik Bartos|Alexandra Remenova|12|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:33|21|Erik Bartos|Alexandra Remenova|16|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|25|Andrej Antoska|Katarina Csonkova|23|Miha Masten|Marusa Vračar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Andrej Antoska|Katarina Csonkova|14|Miha Masten|Marusa Vračar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:18|21|Maciej Matusz|Paulina Hankiewicz|12|Georgios Tsiolis|Dimitra Kalomira Kroystalli|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:18|21|Maciej Matusz|Paulina Hankiewicz|8|Georgios Tsiolis|Dimitra Kalomira Kroystalli|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Václav Palán|Lucie Krpatová|17|Vsevolod Pchelintsev|Anastasiia Nefedova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Václav Palán|Lucie Krpatová|14|Vsevolod Pchelintsev|Anastasiia Nefedova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Filip Marek|Iva Foukalová|17|Borna Vadlja|Barbara Janičić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Filip Marek|Iva Foukalová|17|Borna Vadlja|Barbara Janičić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Patryk Kordek|Dominika Kwasnik|8|Jakub Matula|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Patryk Kordek|Dominika Kwasnik|10|Jakub Matula|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:23|21|Blaž Smrkolj|Nike Brajkovič|8|Tadeáš Brázda|Adela Chadimová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:23|21|Blaž Smrkolj|Nike Brajkovič|15|Tadeáš Brázda|Adela Chadimová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:43|15|Daniel Witzmann|Karoline Pottendorfer|21|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:43|21|Daniel Witzmann|Karoline Pottendorfer|18|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:43|21|Daniel Witzmann|Karoline Pottendorfer|18|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:21|21|Gabriel Fernandez|Amy Tan|7|Martin Dostál|Radka Šilhavá|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:21|21|Gabriel Fernandez|Amy Tan|14|Martin Dostál|Radka Šilhavá|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:23|21|Kateřina Zuzáková |none|11|Anna Bereczkei|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Kateřina Zuzáková |none|4|Anna Bereczkei|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Barbora Otáhalová|none|18|Frederika Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Barbora Otáhalová|none|11|Frederika Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Anastasiya Prozorova |none|5|Dunja Štrbenac|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Anastasiya Prozorova |none|11|Dunja Štrbenac|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:52|18|Urska Potočnik|none|21|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:52|21|Urska Potočnik|none|13|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:52|25|Urska Potočnik|none|23|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:20|21|Alesia Ershova|none|10|Julia Chmurovicova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:20|21|Alesia Ershova|none|14|Julia Chmurovicova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:51|19|Marie Růžičková|none|21|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:51|21|Marie Růžičková|none|8|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:51|21|Marie Růžičková|none|12|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Tereza Kobyláková |none|13|Martina Foltanova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Tereza Kobyláková |none|12|Martina Foltanova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Tallulah Sharleen Van Coppenolle|none|6|Neza Frank|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Tallulah Sharleen Van Coppenolle|none|12|Neza Frank|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Anna Duda |none|8|Anna Beko|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Anna Duda |none|8|Anna Beko|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Šárka Líbalová|none|11|Alzbeta Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Šárka Líbalová|none|9|Alzbeta Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Elena Filippova |none|10|Sunčica Sertić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Elena Filippova |none|8|Sunčica Sertić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:41|21|Weronika Gorniak|none|13|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:41|24|Weronika Gorniak|none|26|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:41|21|Weronika Gorniak|none|12|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Nela Němcová |none|7|Dimitra Kalomira Kroystalli|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Nela Němcová |none|11|Dimitra Kalomira Kroystalli|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:30|21|Jana Adamkova |none|18|Yelyzaveta Yakovlieva|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:30|21|Jana Adamkova |none|8|Yelyzaveta Yakovlieva|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:24|21|Kitti Szotak |none|5|Adela Chadimová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:24|21|Kitti Szotak |none|6|Adela Chadimová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Mia Tarcalova |none|7|Kateřina Valentová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Mia Tarcalova |none|15|Kateřina Valentová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:29|21|Dominika Kwasnik|none|14|Taja Pipan|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:29|21|Dominika Kwasnik|none|18|Taja Pipan|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|21|Karolina Szubert |none|14|Barbara Janičić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|21|Karolina Szubert |none|15|Barbara Janičić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Zuzanna Jankowska|none|19|Natalia Tomcova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Zuzanna Jankowska|none|15|Natalia Tomcova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:17|21|Kseniia Sidorova|none|6|Dasa Stoffekova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:17|21|Kseniia Sidorova|none|18|Dasa Stoffekova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Amy Tan |none|5|Zala Žuran|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Amy Tan |none|6|Zala Žuran|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:42|21|Ira Misir|none|15|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:42|18|Ira Misir|none|21|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:42|21|Ira Misir|none|13|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|23|Anastasiia Nefedova|none|21|Bernadett Konya|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|21|Anastasiia Nefedova|none|16|Bernadett Konya|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:46|21|Anastasiia Kosenchuk|none|16|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:46|17|Anastasiia Kosenchuk|none|21|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:46|21|Anastasiia Kosenchuk|none|16|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930||Walkover Win|Panna Pytel|none|Walkover Loss|Anna-Sophie Zach|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930||Walkover Win|Kateřina Mikelová|none|Walkover Loss|Rachael Woods [12]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930||Walkover Win|Valeriya Rudakova |none|Walkover Loss|Laura Csambal|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|25|Ema Staňková|none|23|Karoline Pottendorfer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Ema Staňková|none|12|Karoline Pottendorfer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Ania Setien|none|13|Laura Farkas|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Ania Setien|none|17|Laura Farkas|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Inga Sadaić |none|8|Nike Brajkovič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Inga Sadaić |none|17|Nike Brajkovič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:24|21|Katarina Csonkova|none|10|Radka Šilhavá|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:24|21|Katarina Csonkova|none|15|Radka Šilhavá|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:38|21|Grammatoula Sotiriou |none|11|Alexandra Remenova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:38|22|Grammatoula Sotiriou |none|20|Alexandra Remenova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:13|21|Nicolas Rudolf |none|1|Simon Uher|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:13|21|Nicolas Rudolf |none|2|Simon Uher|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:36|21|Bence Fazekas|none|19|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:36|10|Bence Fazekas|none|21|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:36|21|Bence Fazekas|none|18|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Jaka Ivančič|none|13|Georgios Orfeas Tsamousiadis [9]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Jaka Ivančič|none|17|Georgios Orfeas Tsamousiadis [9]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Samuel Cassar|none|13|Vratislav Erhart|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Samuel Cassar|none|19|Vratislav Erhart|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:42|21|Jakub Horak |none|18|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:42|18|Jakub Horak |none|21|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:42|21|Jakub Horak |none|13|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:33|21|Wiktor Trecki|none|14|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:33|18|Wiktor Trecki|none|21|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:33|21|Wiktor Trecki|none|16|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Jan Janoštík |none|7|Marcell Csobod|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:21|21|Jan Janoštík |none|16|Marcell Csobod|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|21|Blaž Smrkolj|none|15|Mikolaj Piorkowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|21|Blaž Smrkolj|none|17|Mikolaj Piorkowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Miguel San Luis |none|17|Artur Gwiazdowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Miguel San Luis |none|11|Artur Gwiazdowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:25|21|Ivan Skurikhin|none|7|Vito Buchberger|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:25|21|Ivan Skurikhin|none|11|Vito Buchberger|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:24|21|Josip Meglić |none|10|Michal Morávek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:24|21|Josip Meglić |none|9|Michal Morávek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:39|21|Michael Tomic|none|12|Mikolaj Szymanowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:39|21|Michael Tomic|none|16|Mikolaj Szymanowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:25|21|Maciej Matusz |none|7|Martin Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:25|21|Maciej Matusz |none|7|Martin Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930||Walkover Win|Radoslav Sirak|none|Walkover Loss|Kishan Hathi|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:44|17|Szymon Stokfisz |none|21|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:44|22|Szymon Stokfisz |none|20|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:44|21|Szymon Stokfisz |none|13|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Tobias Bäuerle|none|19|Peter Dubecky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Tobias Bäuerle|none|8|Peter Dubecky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:30|21|Yevhen Kobzar|none|17|Mark Abela|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:30|21|Yevhen Kobzar|none|16|Mark Abela|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Miha Masten |none|15|Daniel Witzmann|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Miha Masten |none|19|Daniel Witzmann|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930||Walkover Win|Tomáš Švejda|none|Walkover Loss|Gustav Andree|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Lukasz Cimosz |none|7|Lukáš Mádle|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Lukasz Cimosz |none|13|Lukáš Mádle|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|21|Tobias Rudolf|none|15|Marek Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:27|21|Tobias Rudolf|none|16|Marek Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Patryk Kordek |none|19|Gabriel Fernandez|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:26|21|Patryk Kordek |none|11|Gabriel Fernandez|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Lenny Sudarma|none|17|Zsombor Helybely|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Lenny Sudarma|none|11|Zsombor Helybely|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Andrej Antoska |none|13|Matyas Spiesz|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Andrej Antoska |none|14|Matyas Spiesz|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Erik Bartos|none|10|Jan Blažek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:23|21|Erik Bartos|none|10|Jan Blažek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:33|21|Jan Viktora |none|3|Igor Palovsky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:33|21|Jan Viktora |none|10|Igor Palovsky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:45|21|Karol Budny|none|16|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:45|8|Karol Budny|none|21|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:45|21|Karol Budny|none|12|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:32|21|Marek Aubus |none|13|Adrian Krawczyk|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:32|21|Marek Aubus |none|18|Adrian Krawczyk|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:31|21|Vsevolod Pchelintsev|none|11|Luca Froschauer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:31|21|Vsevolod Pchelintsev|none|13|Luca Froschauer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Bartosz Galazka |none|19|Borna Vadlja|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:22|21|Bartosz Galazka |none|12|Borna Vadlja|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Peter Kovac|none|19|Georgios Tsiolis|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:28|21|Peter Kovac|none|16|Georgios Tsiolis|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:25|21|Luka Ban |none|6|Filip Marek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:25|21|Luka Ban |none|10|Filip Marek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20170930|0:30|21|Kateřina Mikelová|Nela Němcová|14|Leila Ombodi|Kitti Szotak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:30|21|Kateřina Mikelová|Nela Němcová|15|Leila Ombodi|Kitti Szotak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Barbara Janičić|Ira Misir|17|Neza Frank|Urska Potočnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Barbara Janičić|Ira Misir|18|Neza Frank|Urska Potočnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Anastasiia Nefedova|Kseniia Sidorova|12|Alzbeta Balintova|Frederika Balintova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Anastasiia Nefedova|Kseniia Sidorova|9|Alzbeta Balintova|Frederika Balintova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:29|21|Anna Duda |Karolina Szubert|11|Iva Foukalová|Šárka Líbalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:29|21|Anna Duda |Karolina Szubert|9|Iva Foukalová|Šárka Líbalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:47|21|Adela Chadimová|Barbora Otáhalová|16|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:47|11|Adela Chadimová|Barbora Otáhalová|21|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:47|25|Adela Chadimová|Barbora Otáhalová|23|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930||Walkover Win|Tereza Kobyláková|Valentýna Sonnková|Walkover Loss|Lena Kremmel|Anna-Sophie Zach|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Julia Chmurovicova|Alexandra Remenova|16|Anna Bereczkei|Panna Pytel|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Julia Chmurovicova|Alexandra Remenova|15|Anna Bereczkei|Panna Pytel|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Laura Bujak|Weronika Gorniak|19|Sunčica Sertić|Dunja Štrbenac|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Laura Bujak|Weronika Gorniak|12|Sunčica Sertić|Dunja Štrbenac|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Alesia Ershova|Elena Filippova|11|Laura Farkas|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Alesia Ershova|Elena Filippova|11|Laura Farkas|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:26|21|Katarina Csonkova |Mia Tarcalova|17|Radka Šilhavá|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:26|21|Katarina Csonkova |Mia Tarcalova|11|Radka Šilhavá|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930||Walkover Win|Taja Pipan|Marusa Vračar|Walkover Loss|Rachael Woods|Rebecca Woods|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Soňa Hořínková|Ema Staňková|16|Karoline Pottendorfer|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Soňa Hořínková|Ema Staňková|16|Karoline Pottendorfer|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Marie Růžičková|Tallulah Sharleen Van Coppenolle|4|Martina Foltanova|Viktoria Ziakova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Marie Růžičková|Tallulah Sharleen Van Coppenolle|9|Martina Foltanova|Viktoria Ziakova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:31|21|Lucie Krpatová |Kateřina Zuzáková|13|Paulina Hankiewicz|Dominika Kwasnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:31|21|Lucie Krpatová |Kateřina Zuzáková|17|Paulina Hankiewicz|Dominika Kwasnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Bartosz Galazka |Maciej Matusz|6|Bence Fazekas|Zsombor Helybely|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Bartosz Galazka |Maciej Matusz|7|Bence Fazekas|Zsombor Helybely|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:39|21|Nicolas Rudolf|Tobias Rudolf|10|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:39|19|Nicolas Rudolf|Tobias Rudolf|21|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:39|21|Nicolas Rudolf|Tobias Rudolf|16|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Lukasz Cimosz |Patryk Kordek|11|Lukáš Mádle|Filip Marek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Lukasz Cimosz |Patryk Kordek|13|Lukáš Mádle|Filip Marek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:26|21|Andrei Don|Yevhen Kobzar|14|Tadeáš Brázda|Martin Dostál|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:26|21|Andrei Don|Yevhen Kobzar|19|Tadeáš Brázda|Martin Dostál|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Luka Ban |Josip Meglić|14|Daniel Moder|Radoslav Sirak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Luka Ban |Josip Meglić|10|Daniel Moder|Radoslav Sirak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Erik Bartos|Peter Kovac|11|Gregor Alič|Jan Babnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Erik Bartos|Peter Kovac|17|Gregor Alič|Jan Babnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Vít Kulíšek |Václav Palán|6|Tobias Bäuerle|Johannes Mory|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Vít Kulíšek |Václav Palán|11|Tobias Bäuerle|Johannes Mory|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:46|21|Karol Budny|Mikolaj Piorkowski|13|Mark Abela|Samuel Cassar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:46|24|Karol Budny|Mikolaj Piorkowski|22|Mark Abela|Samuel Cassar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Volodymyr Koluzaiev|Ivan Skurikhin|10|Matus Orsag|Simon Uher|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Volodymyr Koluzaiev|Ivan Skurikhin|7|Matus Orsag|Simon Uher|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Jaka Ivančič |Miha Masten|14|Igor Palovsky|Patrik Papanek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Jaka Ivančič |Miha Masten|12|Igor Palovsky|Patrik Papanek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Gabriel Fernandez|Miguel San Luis|7|Marek Dostál|Jakub Reichman|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Gabriel Fernandez|Miguel San Luis|16|Marek Dostál|Jakub Reichman|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:31|21|Jan Janoštík |Tomáš Švejda|16|Lenny Sudarma|Michael Tomic|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:31|21|Jan Janoštík |Tomáš Švejda|13|Lenny Sudarma|Michael Tomic|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Adam Ehm|Michal Morávek|15|Jannik Auberger|Kai Niederhuber|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Adam Ehm|Michal Morávek|15|Jannik Auberger|Kai Niederhuber|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Szymon Stokfisz |Wiktor Trecki|16|Luka Črep|Borna Vadlja|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Szymon Stokfisz |Wiktor Trecki|8|Luka Črep|Borna Vadlja|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:21|21|Vsevolod Pchelintsev|Egor Velp|12|Peter Dubecky|Daniel Witzmann|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:21|21|Vsevolod Pchelintsev|Egor Velp|11|Peter Dubecky|Daniel Witzmann|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Andrej Antoska |Jakub Horak|7|Marcell Csobod|Matyas Spiesz|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Andrej Antoska |Jakub Horak|14|Marcell Csobod|Matyas Spiesz|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:32|21|Vratislav Erhart|Ema Staňková|18|Karol Budny|Zuzanna Jankowska|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:32|27|Vratislav Erhart|Ema Staňková|25|Karol Budny|Zuzanna Jankowska|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Vít Kulíšek |Valentýna Sonnková|16|Jan Viktora|Jana Adamkova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Vít Kulíšek |Valentýna Sonnková|15|Jan Viktora|Jana Adamkova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:21|21|Maciej Matusz|Paulina Hankiewicz|7|Gregor Alič|Spela Alič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:21|21|Maciej Matusz|Paulina Hankiewicz|10|Gregor Alič|Spela Alič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Patryk Kordek|Dominika Kwasnik|13|Jakub Reichman|Barbora Otáhalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:22|21|Patryk Kordek|Dominika Kwasnik|7|Jakub Reichman|Barbora Otáhalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Yevhen Kobzar |Mariia Stoliarenko|18|Blaž Smrkolj|Nike Brajkovič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:24|21|Yevhen Kobzar |Mariia Stoliarenko|17|Blaž Smrkolj|Nike Brajkovič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Adrian Krawczyk|Anastasiia Kosenchuk|14|Lukáš Mádle|Soňa Hořínková|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:27|21|Adrian Krawczyk|Anastasiia Kosenchuk|17|Lukáš Mádle|Soňa Hořínková|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:29|21|Josip Meglić |Inga Sadaić|12|Peter Kovac|Natalia Tomcova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:29|21|Josip Meglić |Inga Sadaić|17|Peter Kovac|Natalia Tomcova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Wiktor Trecki |Anna Duda|17|Andrei Don|Yana Sobko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Wiktor Trecki |Anna Duda|14|Andrei Don|Yana Sobko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Egor Velp|Alesia Ershova|16|Bartosz Galazka|Weronika Gorniak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:25|21|Egor Velp|Alesia Ershova|17|Bartosz Galazka|Weronika Gorniak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:46|21|Szymon Stokfisz |Laura Bujak|23|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:46|21|Szymon Stokfisz |Laura Bujak|16|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:46|24|Szymon Stokfisz |Laura Bujak|22|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:23|21|Andrej Antoska|Katarina Csonkova|14|Marcell Csobod|Anna Beko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:23|21|Andrej Antoska|Katarina Csonkova|7|Marcell Csobod|Anna Beko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:30|22|Tomáš Švejda |Kateřina Zuzáková|20|Václav Palán|Lucie Krpatová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:30|21|Tomáš Švejda |Kateřina Zuzáková|15|Václav Palán|Lucie Krpatová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Adam Ehm|Kateřina Valentová|10|Tobias Bäuerle|Sunčica Sertić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:20|21|Adam Ehm|Kateřina Valentová|9|Tobias Bäuerle|Sunčica Sertić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Jakub Horak |Mia Tarcalova|16|Gabriel Fernandez|Amy Tan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:28|21|Jakub Horak |Mia Tarcalova|17|Gabriel Fernandez|Amy Tan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:26|21|Jan Blažek|Nela Němcová|16|Daniel Witzmann|Karoline Pottendorfer|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:26|21|Jan Blažek|Nela Němcová|6|Daniel Witzmann|Karoline Pottendorfer|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:14|21|Lukasz Cimosz |Karolina Szubert|9|Filip Marek|Iva Foukalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20170930|0:14|21|Lukasz Cimosz |Karolina Szubert|18|Filip Marek|Iva Foukalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:29|27|Peter Kovac|Natalia Tomcova|25|Michal Morávek|Kateřina Mikelová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:29|21|Peter Kovac|Natalia Tomcova|19|Michal Morávek|Kateřina Mikelová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Karol Budny|Zuzanna Jankowska|12|Zsombor Helybely|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Karol Budny|Zuzanna Jankowska|18|Zsombor Helybely|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:19|21|Andrei Don|Yana Sobko|8|Jaroslav Cisko|Simona Streharski|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:19|21|Andrei Don|Yana Sobko|13|Jaroslav Cisko|Simona Streharski|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Bartosz Galazka|Weronika Gorniak|13|Jaka Ivančič|Taja Pipan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Bartosz Galazka|Weronika Gorniak|18|Jaka Ivančič|Taja Pipan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Jan Viktora|Jana Adamkova|6|Vito Buchberger|Ira Misir|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Jan Viktora|Jana Adamkova|14|Vito Buchberger|Ira Misir|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001||Walkover Win|Lukáš Mádle|Soňa Hořínková|Walkover Loss|Michael Tomic|Anna-Sophie Zach|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:33|20|Erik Bartos|Alexandra Remenova|22|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:33|21|Erik Bartos|Alexandra Remenova|12|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:33|21|Erik Bartos|Alexandra Remenova|16|Ivan Skurikhin|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|25|Andrej Antoska|Katarina Csonkova|23|Miha Masten|Marusa Vračar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Andrej Antoska|Katarina Csonkova|14|Miha Masten|Marusa Vračar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:18|21|Maciej Matusz|Paulina Hankiewicz|12|Georgios Tsiolis|Dimitra Kalomira Kroystalli|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:18|21|Maciej Matusz|Paulina Hankiewicz|8|Georgios Tsiolis|Dimitra Kalomira Kroystalli|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Václav Palán|Lucie Krpatová|17|Vsevolod Pchelintsev|Anastasiia Nefedova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Václav Palán|Lucie Krpatová|14|Vsevolod Pchelintsev|Anastasiia Nefedova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Filip Marek|Iva Foukalová|17|Borna Vadlja|Barbara Janičić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Filip Marek|Iva Foukalová|17|Borna Vadlja|Barbara Janičić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Patryk Kordek|Dominika Kwasnik|8|Jakub Matula|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Patryk Kordek|Dominika Kwasnik|10|Jakub Matula|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:23|21|Blaž Smrkolj|Nike Brajkovič|8|Tadeáš Brázda|Adela Chadimová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:23|21|Blaž Smrkolj|Nike Brajkovič|15|Tadeáš Brázda|Adela Chadimová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:43|15|Daniel Witzmann|Karoline Pottendorfer|21|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:43|21|Daniel Witzmann|Karoline Pottendorfer|18|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:43|21|Daniel Witzmann|Karoline Pottendorfer|18|Matyas Spiesz|Laura Farkas|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:21|21|Gabriel Fernandez|Amy Tan|7|Martin Dostál|Radka Šilhavá|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:21|21|Gabriel Fernandez|Amy Tan|14|Martin Dostál|Radka Šilhavá|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:23|21|Kateřina Zuzáková |none|11|Anna Bereczkei|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Kateřina Zuzáková |none|4|Anna Bereczkei|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Barbora Otáhalová|none|18|Frederika Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Barbora Otáhalová|none|11|Frederika Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Anastasiya Prozorova |none|5|Dunja Štrbenac|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Anastasiya Prozorova |none|11|Dunja Štrbenac|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:52|18|Urska Potočnik|none|21|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:52|21|Urska Potočnik|none|13|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:52|25|Urska Potočnik|none|23|Viktoria Ziakova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:20|21|Alesia Ershova|none|10|Julia Chmurovicova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:20|21|Alesia Ershova|none|14|Julia Chmurovicova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:51|19|Marie Růžičková|none|21|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:51|21|Marie Růžičková|none|8|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:51|21|Marie Růžičková|none|12|Leila Ombodi [16]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Tereza Kobyláková |none|13|Martina Foltanova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Tereza Kobyláková |none|12|Martina Foltanova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Tallulah Sharleen Van Coppenolle|none|6|Neza Frank|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Tallulah Sharleen Van Coppenolle|none|12|Neza Frank|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Anna Duda |none|8|Anna Beko|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Anna Duda |none|8|Anna Beko|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Šárka Líbalová|none|11|Alzbeta Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Šárka Líbalová|none|9|Alzbeta Balintova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Elena Filippova |none|10|Sunčica Sertić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Elena Filippova |none|8|Sunčica Sertić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:41|21|Weronika Gorniak|none|13|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:41|24|Weronika Gorniak|none|26|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:41|21|Weronika Gorniak|none|12|Marusa Vračar|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Nela Němcová |none|7|Dimitra Kalomira Kroystalli|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Nela Němcová |none|11|Dimitra Kalomira Kroystalli|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:30|21|Jana Adamkova |none|18|Yelyzaveta Yakovlieva|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:30|21|Jana Adamkova |none|8|Yelyzaveta Yakovlieva|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:24|21|Kitti Szotak |none|5|Adela Chadimová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:24|21|Kitti Szotak |none|6|Adela Chadimová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Mia Tarcalova |none|7|Kateřina Valentová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Mia Tarcalova |none|15|Kateřina Valentová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:29|21|Dominika Kwasnik|none|14|Taja Pipan|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:29|21|Dominika Kwasnik|none|18|Taja Pipan|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|21|Karolina Szubert |none|14|Barbara Janičić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|21|Karolina Szubert |none|15|Barbara Janičić|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Zuzanna Jankowska|none|19|Natalia Tomcova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Zuzanna Jankowska|none|15|Natalia Tomcova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:17|21|Kseniia Sidorova|none|6|Dasa Stoffekova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:17|21|Kseniia Sidorova|none|18|Dasa Stoffekova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Amy Tan |none|5|Zala Žuran|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Amy Tan |none|6|Zala Žuran|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:42|21|Ira Misir|none|15|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:42|18|Ira Misir|none|21|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:42|21|Ira Misir|none|13|Iva Foukalová|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|23|Anastasiia Nefedova|none|21|Bernadett Konya|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|21|Anastasiia Nefedova|none|16|Bernadett Konya|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:46|21|Anastasiia Kosenchuk|none|16|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:46|17|Anastasiia Kosenchuk|none|21|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:46|21|Anastasiia Kosenchuk|none|16|Soňa Hořínková|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001||Walkover Win|Panna Pytel|none|Walkover Loss|Anna-Sophie Zach|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001||Walkover Win|Kateřina Mikelová|none|Walkover Loss|Rachael Woods [12]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001||Walkover Win|Valeriya Rudakova |none|Walkover Loss|Laura Csambal|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|25|Ema Staňková|none|23|Karoline Pottendorfer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Ema Staňková|none|12|Karoline Pottendorfer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Ania Setien|none|13|Laura Farkas|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Ania Setien|none|17|Laura Farkas|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Inga Sadaić |none|8|Nike Brajkovič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Inga Sadaić |none|17|Nike Brajkovič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:24|21|Katarina Csonkova|none|10|Radka Šilhavá|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:24|21|Katarina Csonkova|none|15|Radka Šilhavá|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:38|21|Grammatoula Sotiriou |none|11|Alexandra Remenova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:38|22|Grammatoula Sotiriou |none|20|Alexandra Remenova|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:13|21|Nicolas Rudolf |none|1|Simon Uher|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:13|21|Nicolas Rudolf |none|2|Simon Uher|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:36|21|Bence Fazekas|none|19|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:36|10|Bence Fazekas|none|21|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:36|21|Bence Fazekas|none|18|Johannes Mory|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Jaka Ivančič|none|13|Georgios Orfeas Tsamousiadis [9]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Jaka Ivančič|none|17|Georgios Orfeas Tsamousiadis [9]|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Samuel Cassar|none|13|Vratislav Erhart|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Samuel Cassar|none|19|Vratislav Erhart|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:42|21|Jakub Horak |none|18|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:42|18|Jakub Horak |none|21|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:42|21|Jakub Horak |none|13|Adam Ehm|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:33|21|Wiktor Trecki|none|14|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:33|18|Wiktor Trecki|none|21|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:33|21|Wiktor Trecki|none|16|Gregor Alič|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Jan Janoštík |none|7|Marcell Csobod|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:21|21|Jan Janoštík |none|16|Marcell Csobod|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|21|Blaž Smrkolj|none|15|Mikolaj Piorkowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|21|Blaž Smrkolj|none|17|Mikolaj Piorkowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Miguel San Luis |none|17|Artur Gwiazdowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Miguel San Luis |none|11|Artur Gwiazdowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:25|21|Ivan Skurikhin|none|7|Vito Buchberger|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:25|21|Ivan Skurikhin|none|11|Vito Buchberger|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:24|21|Josip Meglić |none|10|Michal Morávek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:24|21|Josip Meglić |none|9|Michal Morávek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:39|21|Michael Tomic|none|12|Mikolaj Szymanowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:39|21|Michael Tomic|none|16|Mikolaj Szymanowski|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:25|21|Maciej Matusz |none|7|Martin Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:25|21|Maciej Matusz |none|7|Martin Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001||Walkover Win|Radoslav Sirak|none|Walkover Loss|Kishan Hathi|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:44|17|Szymon Stokfisz |none|21|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:44|22|Szymon Stokfisz |none|20|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:44|21|Szymon Stokfisz |none|13|Andrei Don|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Tobias Bäuerle|none|19|Peter Dubecky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Tobias Bäuerle|none|8|Peter Dubecky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:30|21|Yevhen Kobzar|none|17|Mark Abela|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:30|21|Yevhen Kobzar|none|16|Mark Abela|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Miha Masten |none|15|Daniel Witzmann|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Miha Masten |none|19|Daniel Witzmann|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001||Walkover Win|Tomáš Švejda|none|Walkover Loss|Gustav Andree|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Lukasz Cimosz |none|7|Lukáš Mádle|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Lukasz Cimosz |none|13|Lukáš Mádle|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|21|Tobias Rudolf|none|15|Marek Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:27|21|Tobias Rudolf|none|16|Marek Dostál|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Patryk Kordek |none|19|Gabriel Fernandez|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:26|21|Patryk Kordek |none|11|Gabriel Fernandez|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Lenny Sudarma|none|17|Zsombor Helybely|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Lenny Sudarma|none|11|Zsombor Helybely|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Andrej Antoska |none|13|Matyas Spiesz|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Andrej Antoska |none|14|Matyas Spiesz|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Erik Bartos|none|10|Jan Blažek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:23|21|Erik Bartos|none|10|Jan Blažek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:33|21|Jan Viktora |none|3|Igor Palovsky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:33|21|Jan Viktora |none|10|Igor Palovsky|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:45|21|Karol Budny|none|16|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:45|8|Karol Budny|none|21|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:45|21|Karol Budny|none|12|Tadeáš Brázda|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:32|21|Marek Aubus |none|13|Adrian Krawczyk|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:32|21|Marek Aubus |none|18|Adrian Krawczyk|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:31|21|Vsevolod Pchelintsev|none|11|Luca Froschauer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:31|21|Vsevolod Pchelintsev|none|13|Luca Froschauer|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Bartosz Galazka |none|19|Borna Vadlja|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:22|21|Bartosz Galazka |none|12|Borna Vadlja|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Peter Kovac|none|19|Georgios Tsiolis|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:28|21|Peter Kovac|none|16|Georgios Tsiolis|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:25|21|Luka Ban |none|6|Filip Marek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:25|21|Luka Ban |none|10|Filip Marek|none|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|singles
+20171001|0:30|21|Kateřina Mikelová|Nela Němcová|14|Leila Ombodi|Kitti Szotak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:30|21|Kateřina Mikelová|Nela Němcová|15|Leila Ombodi|Kitti Szotak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Barbara Janičić|Ira Misir|17|Neza Frank|Urska Potočnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Barbara Janičić|Ira Misir|18|Neza Frank|Urska Potočnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Anastasiia Nefedova|Kseniia Sidorova|12|Alzbeta Balintova|Frederika Balintova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Anastasiia Nefedova|Kseniia Sidorova|9|Alzbeta Balintova|Frederika Balintova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:29|21|Anna Duda |Karolina Szubert|11|Iva Foukalová|Šárka Líbalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:29|21|Anna Duda |Karolina Szubert|9|Iva Foukalová|Šárka Líbalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:47|21|Adela Chadimová|Barbora Otáhalová|16|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:47|11|Adela Chadimová|Barbora Otáhalová|21|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:47|25|Adela Chadimová|Barbora Otáhalová|23|Dimitra Kalomira Kroystalli|Grammatoula Sotiriou|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001||Walkover Win|Tereza Kobyláková|Valentýna Sonnková|Walkover Loss|Lena Kremmel|Anna-Sophie Zach|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Julia Chmurovicova|Alexandra Remenova|16|Anna Bereczkei|Panna Pytel|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Julia Chmurovicova|Alexandra Remenova|15|Anna Bereczkei|Panna Pytel|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Laura Bujak|Weronika Gorniak|19|Sunčica Sertić|Dunja Štrbenac|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Laura Bujak|Weronika Gorniak|12|Sunčica Sertić|Dunja Štrbenac|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Alesia Ershova|Elena Filippova|11|Laura Farkas|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Alesia Ershova|Elena Filippova|11|Laura Farkas|Bernadett Konya|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:26|21|Katarina Csonkova |Mia Tarcalova|17|Radka Šilhavá|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:26|21|Katarina Csonkova |Mia Tarcalova|11|Radka Šilhavá|Marie Studená|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001||Walkover Win|Taja Pipan|Marusa Vračar|Walkover Loss|Rachael Woods|Rebecca Woods|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Soňa Hořínková|Ema Staňková|16|Karoline Pottendorfer|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Soňa Hořínková|Ema Staňková|16|Karoline Pottendorfer|Yelyzaveta Yakovlieva|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Marie Růžičková|Tallulah Sharleen Van Coppenolle|4|Martina Foltanova|Viktoria Ziakova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Marie Růžičková|Tallulah Sharleen Van Coppenolle|9|Martina Foltanova|Viktoria Ziakova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:31|21|Lucie Krpatová |Kateřina Zuzáková|13|Paulina Hankiewicz|Dominika Kwasnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:31|21|Lucie Krpatová |Kateřina Zuzáková|17|Paulina Hankiewicz|Dominika Kwasnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Bartosz Galazka |Maciej Matusz|6|Bence Fazekas|Zsombor Helybely|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Bartosz Galazka |Maciej Matusz|7|Bence Fazekas|Zsombor Helybely|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:39|21|Nicolas Rudolf|Tobias Rudolf|10|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:39|19|Nicolas Rudolf|Tobias Rudolf|21|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:39|21|Nicolas Rudolf|Tobias Rudolf|16|Georgios Orfeas Tsamousiadis|Georgios Tsiolis|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Lukasz Cimosz |Patryk Kordek|11|Lukáš Mádle|Filip Marek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Lukasz Cimosz |Patryk Kordek|13|Lukáš Mádle|Filip Marek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:26|21|Andrei Don|Yevhen Kobzar|14|Tadeáš Brázda|Martin Dostál|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:26|21|Andrei Don|Yevhen Kobzar|19|Tadeáš Brázda|Martin Dostál|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Luka Ban |Josip Meglić|14|Daniel Moder|Radoslav Sirak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Luka Ban |Josip Meglić|10|Daniel Moder|Radoslav Sirak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Erik Bartos|Peter Kovac|11|Gregor Alič|Jan Babnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Erik Bartos|Peter Kovac|17|Gregor Alič|Jan Babnik|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Vít Kulíšek |Václav Palán|6|Tobias Bäuerle|Johannes Mory|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Vít Kulíšek |Václav Palán|11|Tobias Bäuerle|Johannes Mory|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:46|21|Karol Budny|Mikolaj Piorkowski|13|Mark Abela|Samuel Cassar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:46|24|Karol Budny|Mikolaj Piorkowski|22|Mark Abela|Samuel Cassar|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Volodymyr Koluzaiev|Ivan Skurikhin|10|Matus Orsag|Simon Uher|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Volodymyr Koluzaiev|Ivan Skurikhin|7|Matus Orsag|Simon Uher|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Jaka Ivančič |Miha Masten|14|Igor Palovsky|Patrik Papanek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Jaka Ivančič |Miha Masten|12|Igor Palovsky|Patrik Papanek|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Gabriel Fernandez|Miguel San Luis|7|Marek Dostál|Jakub Reichman|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Gabriel Fernandez|Miguel San Luis|16|Marek Dostál|Jakub Reichman|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:31|21|Jan Janoštík |Tomáš Švejda|16|Lenny Sudarma|Michael Tomic|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:31|21|Jan Janoštík |Tomáš Švejda|13|Lenny Sudarma|Michael Tomic|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Adam Ehm|Michal Morávek|15|Jannik Auberger|Kai Niederhuber|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Adam Ehm|Michal Morávek|15|Jannik Auberger|Kai Niederhuber|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Szymon Stokfisz |Wiktor Trecki|16|Luka Črep|Borna Vadlja|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Szymon Stokfisz |Wiktor Trecki|8|Luka Črep|Borna Vadlja|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:21|21|Vsevolod Pchelintsev|Egor Velp|12|Peter Dubecky|Daniel Witzmann|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:21|21|Vsevolod Pchelintsev|Egor Velp|11|Peter Dubecky|Daniel Witzmann|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Andrej Antoska |Jakub Horak|7|Marcell Csobod|Matyas Spiesz|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Andrej Antoska |Jakub Horak|14|Marcell Csobod|Matyas Spiesz|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:32|21|Vratislav Erhart|Ema Staňková|18|Karol Budny|Zuzanna Jankowska|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:32|27|Vratislav Erhart|Ema Staňková|25|Karol Budny|Zuzanna Jankowska|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Vít Kulíšek |Valentýna Sonnková|16|Jan Viktora|Jana Adamkova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Vít Kulíšek |Valentýna Sonnková|15|Jan Viktora|Jana Adamkova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:21|21|Maciej Matusz|Paulina Hankiewicz|7|Gregor Alič|Spela Alič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:21|21|Maciej Matusz|Paulina Hankiewicz|10|Gregor Alič|Spela Alič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Patryk Kordek|Dominika Kwasnik|13|Jakub Reichman|Barbora Otáhalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:22|21|Patryk Kordek|Dominika Kwasnik|7|Jakub Reichman|Barbora Otáhalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Yevhen Kobzar |Mariia Stoliarenko|18|Blaž Smrkolj|Nike Brajkovič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:24|21|Yevhen Kobzar |Mariia Stoliarenko|17|Blaž Smrkolj|Nike Brajkovič|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Adrian Krawczyk|Anastasiia Kosenchuk|14|Lukáš Mádle|Soňa Hořínková|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:27|21|Adrian Krawczyk|Anastasiia Kosenchuk|17|Lukáš Mádle|Soňa Hořínková|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:29|21|Josip Meglić |Inga Sadaić|12|Peter Kovac|Natalia Tomcova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:29|21|Josip Meglić |Inga Sadaić|17|Peter Kovac|Natalia Tomcova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Wiktor Trecki |Anna Duda|17|Andrei Don|Yana Sobko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Wiktor Trecki |Anna Duda|14|Andrei Don|Yana Sobko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Egor Velp|Alesia Ershova|16|Bartosz Galazka|Weronika Gorniak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:25|21|Egor Velp|Alesia Ershova|17|Bartosz Galazka|Weronika Gorniak|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:46|21|Szymon Stokfisz |Laura Bujak|23|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:46|21|Szymon Stokfisz |Laura Bujak|16|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:46|24|Szymon Stokfisz |Laura Bujak|22|Erik Bartos|Alexandra Remenova|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:23|21|Andrej Antoska|Katarina Csonkova|14|Marcell Csobod|Anna Beko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:23|21|Andrej Antoska|Katarina Csonkova|7|Marcell Csobod|Anna Beko|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:30|22|Tomáš Švejda |Kateřina Zuzáková|20|Václav Palán|Lucie Krpatová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:30|21|Tomáš Švejda |Kateřina Zuzáková|15|Václav Palán|Lucie Krpatová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Adam Ehm|Kateřina Valentová|10|Tobias Bäuerle|Sunčica Sertić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:20|21|Adam Ehm|Kateřina Valentová|9|Tobias Bäuerle|Sunčica Sertić|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Jakub Horak |Mia Tarcalova|16|Gabriel Fernandez|Amy Tan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:28|21|Jakub Horak |Mia Tarcalova|17|Gabriel Fernandez|Amy Tan|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:26|21|Jan Blažek|Nela Němcová|16|Daniel Witzmann|Karoline Pottendorfer|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:26|21|Jan Blažek|Nela Němcová|6|Daniel Witzmann|Karoline Pottendorfer|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:14|21|Lukasz Cimosz |Karolina Szubert|9|Filip Marek|Iva Foukalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles
+20171001|0:14|21|Lukasz Cimosz |Karolina Szubert|18|Filip Marek|Iva Foukalová|B8C9FFD0-C939-4E88-8B5D-74B46AFC656D|doubles

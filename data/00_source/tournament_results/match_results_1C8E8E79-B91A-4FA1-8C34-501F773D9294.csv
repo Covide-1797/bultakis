@@ -1,0 +1,559 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20160628|0:51|21|Hung Shih Han|none|17|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:51|17|Hung Shih Han|none|21|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:51|21|Hung Shih Han|none|18|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|19|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|18|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:22|21|Lin Hsiang Ti|none|8|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:22|21|Lin Hsiang Ti|none|13|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:28|21|Gao Fangjie|none|8|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:28|21|Gao Fangjie|none|18|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:26|21|Shih Jyun Jhou|none|18|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:26|21|Shih Jyun Jhou|none|8|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:31|21|Lyddia Yi Yu Cheah|none|19|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:31|22|Lyddia Yi Yu Cheah|none|20|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:18|21|Su Yu Chen|none|4|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:18|21|Su Yu Chen|none|8|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:25|21|Wen Chi Hsu|none|12|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:25|21|Wen Chi Hsu|none|15|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:30|21|Kim Na Young|none|18|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:30|21|Kim Na Young|none|16|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:16|21|Chu Han Chou|none|8|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:16|21|Chu Han Chou|none|7|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:23|21|Chi Yu Lo|none|12|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:23|21|Chi Yu Lo|none|13|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:53|22|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|20|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:53|17|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|21|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:53|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|19|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:28|21|Tam Chun Hei|Ng Tsz Yau|15|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:28|21|Tam Chun Hei|Ng Tsz Yau|16|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:33|21|Bae Kwon Young|Deok Young Kim|19|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:33|21|Bae Kwon Young|Deok Young Kim|14|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:58|12|Chien Hui Yu|none|21|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:29|21|Lee Chak Wai|none|14|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:29|21|Lee Chak Wai|none|17|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:17|21|Teng Shih Hua|none|4|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:17|21|Teng Shih Hua|none|10|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:20|21|Hua Chun Liang|none|5|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:20|21|Hua Chun Liang|none|15|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|13|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|19|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:34|21|Hsueh Hsuan Yi|none|14|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:34|22|Hsueh Hsuan Yi|none|20|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:22|21|Li Ting Peng|none|13|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:22|21|Li Ting Peng|none|18|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:44|21|Shih Jyun Jhou|none|18|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:44|21|Shih Jyun Jhou|none|17|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:32|21|Gao Fangjie|none|15|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:32|21|Gao Fangjie|none|18|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:17|21|Chung Yonny|Tam Chun Hei|8|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:17|21|Chung Yonny|Tam Chun Hei|12|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:57|15|Kim Na Young|none|21|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:57|21|Kim Na Young|none|16|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:57|21|Kim Na Young|none|9|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:25|21|Bae Kwon Young|Deok Young Kim|18|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:25|21|Bae Kwon Young|Deok Young Kim|11|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:26|21|Khim Wah Lim|Jian Guo Ong|11|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:26|21|Khim Wah Lim|Jian Guo Ong|17|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:28|22|Hung Shih Han|none|20|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:28|21|Hung Shih Han|none|9|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:04|6|Chi-Lin Wang|Cheng Chi Ya|5|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:04|Walkover Win|Chi-Lin Wang|Cheng Chi Ya|Walkover Loss|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:28|21|Wen Chi Hsu|none|13|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:28|21|Wen Chi Hsu|none|11|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:20|21|Lu Chi Yuan|none|11|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:20|21|Lu Chi Yuan|none|9|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:29|22|Nur Mohd Azriyn Ayub|Jagdish Singh|20|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:29|21|Nur Mohd Azriyn Ayub|Jagdish Singh|15|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:26|21|Teck Han Tan|none|10|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:26|21|Teck Han Tan|none|16|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:38|21|Hsueh Hsuan Yi|none|12|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:38|21|Hsueh Hsuan Yi|none|16|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:23|21|Teng Shih Hua|none|6|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:23|21|Teng Shih Hua|none|10|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:26|21|Lu Ching Yao|Huang Mei Ching|10|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:26|26|Lu Ching Yao|Huang Mei Ching|24|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:50|20|Chi Yu Lo|none|22|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:50|21|Chi Yu Lo|none|17|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:50|21|Chi Yu Lo|none|10|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:47|21|Tam Chun Hei|Ng Tsz Yau|14|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:47|16|Tam Chun Hei|Ng Tsz Yau|21|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:47|21|Tam Chun Hei|Ng Tsz Yau|13|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|16|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|8|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160628|0:43|18|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:43|23|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:43|21|Shih Jyun Jhou|none|14|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:34|21|Kim Na Young|none|15|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:34|21|Kim Na Young|none|16|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:19|21|Hung Shih Han|none|11|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160628|0:19|21|Hung Shih Han|none|13|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:51|21|Hung Shih Han|none|17|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:51|17|Hung Shih Han|none|21|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:51|21|Hung Shih Han|none|18|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|19|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|18|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:22|21|Lin Hsiang Ti|none|8|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:22|21|Lin Hsiang Ti|none|13|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:28|21|Gao Fangjie|none|8|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:28|21|Gao Fangjie|none|18|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:26|21|Shih Jyun Jhou|none|18|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:26|21|Shih Jyun Jhou|none|8|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:31|21|Lyddia Yi Yu Cheah|none|19|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:31|22|Lyddia Yi Yu Cheah|none|20|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:18|21|Su Yu Chen|none|4|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:18|21|Su Yu Chen|none|8|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:25|21|Wen Chi Hsu|none|12|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:25|21|Wen Chi Hsu|none|15|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:30|21|Kim Na Young|none|18|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:30|21|Kim Na Young|none|16|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:16|21|Chu Han Chou|none|8|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:16|21|Chu Han Chou|none|7|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:23|21|Chi Yu Lo|none|12|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:23|21|Chi Yu Lo|none|13|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:53|22|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|20|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:53|17|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|21|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:53|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|19|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:28|21|Tam Chun Hei|Ng Tsz Yau|15|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:28|21|Tam Chun Hei|Ng Tsz Yau|16|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:33|21|Bae Kwon Young|Deok Young Kim|19|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:33|21|Bae Kwon Young|Deok Young Kim|14|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:58|12|Chien Hui Yu|none|21|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:29|21|Lee Chak Wai|none|14|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:29|21|Lee Chak Wai|none|17|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:17|21|Teng Shih Hua|none|4|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:17|21|Teng Shih Hua|none|10|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:20|21|Hua Chun Liang|none|5|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:20|21|Hua Chun Liang|none|15|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|13|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|19|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:34|21|Hsueh Hsuan Yi|none|14|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:34|22|Hsueh Hsuan Yi|none|20|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:22|21|Li Ting Peng|none|13|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:22|21|Li Ting Peng|none|18|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:44|21|Shih Jyun Jhou|none|18|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:44|21|Shih Jyun Jhou|none|17|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:32|21|Gao Fangjie|none|15|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:32|21|Gao Fangjie|none|18|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:17|21|Chung Yonny|Tam Chun Hei|8|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:17|21|Chung Yonny|Tam Chun Hei|12|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:57|15|Kim Na Young|none|21|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:57|21|Kim Na Young|none|16|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:57|21|Kim Na Young|none|9|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:25|21|Bae Kwon Young|Deok Young Kim|18|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:25|21|Bae Kwon Young|Deok Young Kim|11|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:26|21|Khim Wah Lim|Jian Guo Ong|11|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:26|21|Khim Wah Lim|Jian Guo Ong|17|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:28|22|Hung Shih Han|none|20|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:28|21|Hung Shih Han|none|9|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:04|6|Chi-Lin Wang|Cheng Chi Ya|5|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:04|Walkover Win|Chi-Lin Wang|Cheng Chi Ya|Walkover Loss|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:28|21|Wen Chi Hsu|none|13|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:28|21|Wen Chi Hsu|none|11|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:20|21|Lu Chi Yuan|none|11|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:20|21|Lu Chi Yuan|none|9|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:29|22|Nur Mohd Azriyn Ayub|Jagdish Singh|20|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:29|21|Nur Mohd Azriyn Ayub|Jagdish Singh|15|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:26|21|Teck Han Tan|none|10|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:26|21|Teck Han Tan|none|16|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:38|21|Hsueh Hsuan Yi|none|12|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:38|21|Hsueh Hsuan Yi|none|16|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:23|21|Teng Shih Hua|none|6|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:23|21|Teng Shih Hua|none|10|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:26|21|Lu Ching Yao|Huang Mei Ching|10|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:26|26|Lu Ching Yao|Huang Mei Ching|24|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:50|20|Chi Yu Lo|none|22|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:50|21|Chi Yu Lo|none|17|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:50|21|Chi Yu Lo|none|10|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:47|21|Tam Chun Hei|Ng Tsz Yau|14|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:47|16|Tam Chun Hei|Ng Tsz Yau|21|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:47|21|Tam Chun Hei|Ng Tsz Yau|13|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|16|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|8|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160629|0:43|18|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:43|23|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:43|21|Shih Jyun Jhou|none|14|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:34|21|Kim Na Young|none|15|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:34|21|Kim Na Young|none|16|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:19|21|Hung Shih Han|none|11|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160629|0:19|21|Hung Shih Han|none|13|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:51|21|Hung Shih Han|none|17|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:51|17|Hung Shih Han|none|21|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:51|21|Hung Shih Han|none|18|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|19|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|18|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:22|21|Lin Hsiang Ti|none|8|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:22|21|Lin Hsiang Ti|none|13|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:28|21|Gao Fangjie|none|8|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:28|21|Gao Fangjie|none|18|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:26|21|Shih Jyun Jhou|none|18|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:26|21|Shih Jyun Jhou|none|8|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:31|21|Lyddia Yi Yu Cheah|none|19|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:31|22|Lyddia Yi Yu Cheah|none|20|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:18|21|Su Yu Chen|none|4|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:18|21|Su Yu Chen|none|8|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:25|21|Wen Chi Hsu|none|12|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:25|21|Wen Chi Hsu|none|15|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:30|21|Kim Na Young|none|18|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:30|21|Kim Na Young|none|16|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:16|21|Chu Han Chou|none|8|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:16|21|Chu Han Chou|none|7|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:23|21|Chi Yu Lo|none|12|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:23|21|Chi Yu Lo|none|13|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:53|22|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|20|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:53|17|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|21|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:53|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|19|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:28|21|Tam Chun Hei|Ng Tsz Yau|15|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:28|21|Tam Chun Hei|Ng Tsz Yau|16|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:33|21|Bae Kwon Young|Deok Young Kim|19|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:33|21|Bae Kwon Young|Deok Young Kim|14|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:58|12|Chien Hui Yu|none|21|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:29|21|Lee Chak Wai|none|14|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:29|21|Lee Chak Wai|none|17|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:17|21|Teng Shih Hua|none|4|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:17|21|Teng Shih Hua|none|10|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:20|21|Hua Chun Liang|none|5|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:20|21|Hua Chun Liang|none|15|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|13|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|19|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:34|21|Hsueh Hsuan Yi|none|14|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:34|22|Hsueh Hsuan Yi|none|20|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:22|21|Li Ting Peng|none|13|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:22|21|Li Ting Peng|none|18|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:44|21|Shih Jyun Jhou|none|18|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:44|21|Shih Jyun Jhou|none|17|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:32|21|Gao Fangjie|none|15|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:32|21|Gao Fangjie|none|18|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:17|21|Chung Yonny|Tam Chun Hei|8|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:17|21|Chung Yonny|Tam Chun Hei|12|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:57|15|Kim Na Young|none|21|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:57|21|Kim Na Young|none|16|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:57|21|Kim Na Young|none|9|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:25|21|Bae Kwon Young|Deok Young Kim|18|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:25|21|Bae Kwon Young|Deok Young Kim|11|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:26|21|Khim Wah Lim|Jian Guo Ong|11|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:26|21|Khim Wah Lim|Jian Guo Ong|17|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:28|22|Hung Shih Han|none|20|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:28|21|Hung Shih Han|none|9|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:04|6|Chi-Lin Wang|Cheng Chi Ya|5|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:04|Walkover Win|Chi-Lin Wang|Cheng Chi Ya|Walkover Loss|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:28|21|Wen Chi Hsu|none|13|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:28|21|Wen Chi Hsu|none|11|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:20|21|Lu Chi Yuan|none|11|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:20|21|Lu Chi Yuan|none|9|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:29|22|Nur Mohd Azriyn Ayub|Jagdish Singh|20|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:29|21|Nur Mohd Azriyn Ayub|Jagdish Singh|15|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:26|21|Teck Han Tan|none|10|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:26|21|Teck Han Tan|none|16|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:38|21|Hsueh Hsuan Yi|none|12|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:38|21|Hsueh Hsuan Yi|none|16|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:23|21|Teng Shih Hua|none|6|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:23|21|Teng Shih Hua|none|10|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:26|21|Lu Ching Yao|Huang Mei Ching|10|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:26|26|Lu Ching Yao|Huang Mei Ching|24|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:50|20|Chi Yu Lo|none|22|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:50|21|Chi Yu Lo|none|17|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:50|21|Chi Yu Lo|none|10|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:47|21|Tam Chun Hei|Ng Tsz Yau|14|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:47|16|Tam Chun Hei|Ng Tsz Yau|21|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:47|21|Tam Chun Hei|Ng Tsz Yau|13|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|16|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|8|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160630|0:43|18|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:43|23|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:43|21|Shih Jyun Jhou|none|14|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:34|21|Kim Na Young|none|15|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:34|21|Kim Na Young|none|16|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:19|21|Hung Shih Han|none|11|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160630|0:19|21|Hung Shih Han|none|13|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:51|21|Hung Shih Han|none|17|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:51|17|Hung Shih Han|none|21|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:51|21|Hung Shih Han|none|18|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|19|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|18|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:22|21|Lin Hsiang Ti|none|8|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:22|21|Lin Hsiang Ti|none|13|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:28|21|Gao Fangjie|none|8|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:28|21|Gao Fangjie|none|18|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:26|21|Shih Jyun Jhou|none|18|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:26|21|Shih Jyun Jhou|none|8|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:31|21|Lyddia Yi Yu Cheah|none|19|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:31|22|Lyddia Yi Yu Cheah|none|20|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:18|21|Su Yu Chen|none|4|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:18|21|Su Yu Chen|none|8|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:25|21|Wen Chi Hsu|none|12|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:25|21|Wen Chi Hsu|none|15|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:30|21|Kim Na Young|none|18|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:30|21|Kim Na Young|none|16|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:16|21|Chu Han Chou|none|8|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:16|21|Chu Han Chou|none|7|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:23|21|Chi Yu Lo|none|12|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:23|21|Chi Yu Lo|none|13|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:53|22|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|20|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:53|17|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|21|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:53|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|19|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:28|21|Tam Chun Hei|Ng Tsz Yau|15|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:28|21|Tam Chun Hei|Ng Tsz Yau|16|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:33|21|Bae Kwon Young|Deok Young Kim|19|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:33|21|Bae Kwon Young|Deok Young Kim|14|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:58|12|Chien Hui Yu|none|21|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:29|21|Lee Chak Wai|none|14|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:29|21|Lee Chak Wai|none|17|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:17|21|Teng Shih Hua|none|4|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:17|21|Teng Shih Hua|none|10|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:20|21|Hua Chun Liang|none|5|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:20|21|Hua Chun Liang|none|15|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|13|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|19|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:34|21|Hsueh Hsuan Yi|none|14|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:34|22|Hsueh Hsuan Yi|none|20|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:22|21|Li Ting Peng|none|13|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:22|21|Li Ting Peng|none|18|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:44|21|Shih Jyun Jhou|none|18|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:44|21|Shih Jyun Jhou|none|17|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:32|21|Gao Fangjie|none|15|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:32|21|Gao Fangjie|none|18|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:17|21|Chung Yonny|Tam Chun Hei|8|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:17|21|Chung Yonny|Tam Chun Hei|12|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:57|15|Kim Na Young|none|21|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:57|21|Kim Na Young|none|16|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:57|21|Kim Na Young|none|9|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:25|21|Bae Kwon Young|Deok Young Kim|18|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:25|21|Bae Kwon Young|Deok Young Kim|11|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:26|21|Khim Wah Lim|Jian Guo Ong|11|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:26|21|Khim Wah Lim|Jian Guo Ong|17|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:28|22|Hung Shih Han|none|20|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:28|21|Hung Shih Han|none|9|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:04|6|Chi-Lin Wang|Cheng Chi Ya|5|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:04|Walkover Win|Chi-Lin Wang|Cheng Chi Ya|Walkover Loss|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:28|21|Wen Chi Hsu|none|13|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:28|21|Wen Chi Hsu|none|11|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:20|21|Lu Chi Yuan|none|11|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:20|21|Lu Chi Yuan|none|9|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:29|22|Nur Mohd Azriyn Ayub|Jagdish Singh|20|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:29|21|Nur Mohd Azriyn Ayub|Jagdish Singh|15|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:26|21|Teck Han Tan|none|10|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:26|21|Teck Han Tan|none|16|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:38|21|Hsueh Hsuan Yi|none|12|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:38|21|Hsueh Hsuan Yi|none|16|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:23|21|Teng Shih Hua|none|6|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:23|21|Teng Shih Hua|none|10|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:26|21|Lu Ching Yao|Huang Mei Ching|10|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:26|26|Lu Ching Yao|Huang Mei Ching|24|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:50|20|Chi Yu Lo|none|22|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:50|21|Chi Yu Lo|none|17|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:50|21|Chi Yu Lo|none|10|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:47|21|Tam Chun Hei|Ng Tsz Yau|14|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:47|16|Tam Chun Hei|Ng Tsz Yau|21|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:47|21|Tam Chun Hei|Ng Tsz Yau|13|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|16|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|8|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160701|0:43|18|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:43|23|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:43|21|Shih Jyun Jhou|none|14|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:34|21|Kim Na Young|none|15|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:34|21|Kim Na Young|none|16|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:19|21|Hung Shih Han|none|11|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160701|0:19|21|Hung Shih Han|none|13|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:51|21|Hung Shih Han|none|17|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:51|17|Hung Shih Han|none|21|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:51|21|Hung Shih Han|none|18|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|19|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|18|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:22|21|Lin Hsiang Ti|none|8|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:22|21|Lin Hsiang Ti|none|13|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:28|21|Gao Fangjie|none|8|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:28|21|Gao Fangjie|none|18|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:26|21|Shih Jyun Jhou|none|18|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:26|21|Shih Jyun Jhou|none|8|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:31|21|Lyddia Yi Yu Cheah|none|19|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:31|22|Lyddia Yi Yu Cheah|none|20|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:18|21|Su Yu Chen|none|4|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:18|21|Su Yu Chen|none|8|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:25|21|Wen Chi Hsu|none|12|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:25|21|Wen Chi Hsu|none|15|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:30|21|Kim Na Young|none|18|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:30|21|Kim Na Young|none|16|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:16|21|Chu Han Chou|none|8|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:16|21|Chu Han Chou|none|7|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:23|21|Chi Yu Lo|none|12|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:23|21|Chi Yu Lo|none|13|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:53|22|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|20|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:53|17|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|21|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:53|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|19|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:28|21|Tam Chun Hei|Ng Tsz Yau|15|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:28|21|Tam Chun Hei|Ng Tsz Yau|16|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:33|21|Bae Kwon Young|Deok Young Kim|19|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:33|21|Bae Kwon Young|Deok Young Kim|14|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:58|12|Chien Hui Yu|none|21|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:29|21|Lee Chak Wai|none|14|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:29|21|Lee Chak Wai|none|17|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:17|21|Teng Shih Hua|none|4|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:17|21|Teng Shih Hua|none|10|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:20|21|Hua Chun Liang|none|5|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:20|21|Hua Chun Liang|none|15|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|13|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|19|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:34|21|Hsueh Hsuan Yi|none|14|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:34|22|Hsueh Hsuan Yi|none|20|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:22|21|Li Ting Peng|none|13|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:22|21|Li Ting Peng|none|18|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:44|21|Shih Jyun Jhou|none|18|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:44|21|Shih Jyun Jhou|none|17|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:32|21|Gao Fangjie|none|15|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:32|21|Gao Fangjie|none|18|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:17|21|Chung Yonny|Tam Chun Hei|8|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:17|21|Chung Yonny|Tam Chun Hei|12|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:57|15|Kim Na Young|none|21|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:57|21|Kim Na Young|none|16|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:57|21|Kim Na Young|none|9|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:25|21|Bae Kwon Young|Deok Young Kim|18|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:25|21|Bae Kwon Young|Deok Young Kim|11|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:26|21|Khim Wah Lim|Jian Guo Ong|11|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:26|21|Khim Wah Lim|Jian Guo Ong|17|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:28|22|Hung Shih Han|none|20|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:28|21|Hung Shih Han|none|9|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:04|6|Chi-Lin Wang|Cheng Chi Ya|5|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:04|Walkover Win|Chi-Lin Wang|Cheng Chi Ya|Walkover Loss|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:28|21|Wen Chi Hsu|none|13|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:28|21|Wen Chi Hsu|none|11|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:20|21|Lu Chi Yuan|none|11|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:20|21|Lu Chi Yuan|none|9|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:29|22|Nur Mohd Azriyn Ayub|Jagdish Singh|20|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:29|21|Nur Mohd Azriyn Ayub|Jagdish Singh|15|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:26|21|Teck Han Tan|none|10|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:26|21|Teck Han Tan|none|16|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:38|21|Hsueh Hsuan Yi|none|12|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:38|21|Hsueh Hsuan Yi|none|16|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:23|21|Teng Shih Hua|none|6|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:23|21|Teng Shih Hua|none|10|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:26|21|Lu Ching Yao|Huang Mei Ching|10|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:26|26|Lu Ching Yao|Huang Mei Ching|24|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:50|20|Chi Yu Lo|none|22|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:50|21|Chi Yu Lo|none|17|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:50|21|Chi Yu Lo|none|10|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:47|21|Tam Chun Hei|Ng Tsz Yau|14|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:47|16|Tam Chun Hei|Ng Tsz Yau|21|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:47|21|Tam Chun Hei|Ng Tsz Yau|13|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|16|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|8|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160702|0:43|18|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:43|23|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:43|21|Shih Jyun Jhou|none|14|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:34|21|Kim Na Young|none|15|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:34|21|Kim Na Young|none|16|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:19|21|Hung Shih Han|none|11|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160702|0:19|21|Hung Shih Han|none|13|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:51|21|Hung Shih Han|none|17|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:51|17|Hung Shih Han|none|21|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:51|21|Hung Shih Han|none|18|Chasinee Korepap|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|19|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:26|21|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|18|Ho Wai Lun|Yeung Shing Choi|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:22|21|Lin Hsiang Ti|none|8|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:22|21|Lin Hsiang Ti|none|13|Weng Chi Ng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:28|21|Gao Fangjie|none|8|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:28|21|Gao Fangjie|none|18|Wan Yi Tang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:26|21|Shih Jyun Jhou|none|18|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:26|21|Shih Jyun Jhou|none|8|Tsang Wing Chiu Avery|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:31|21|Lyddia Yi Yu Cheah|none|19|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:31|22|Lyddia Yi Yu Cheah|none|20|Hsin Ping Chang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:18|21|Su Yu Chen|none|4|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:18|21|Su Yu Chen|none|8|Chi Leng Kuan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:25|21|Wen Chi Hsu|none|12|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:25|21|Wen Chi Hsu|none|15|Fan Ka Yan|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:30|21|Kim Na Young|none|18|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:30|21|Kim Na Young|none|16|Ting Yu Liang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:16|21|Chu Han Chou|none|8|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:16|21|Chu Han Chou|none|7|Pui Ngai Che|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:23|21|Chi Yu Lo|none|12|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:23|21|Chi Yu Lo|none|13|Pang Fong Pui|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:53|22|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|20|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:53|17|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|21|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:53|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|19|Jae Hwan Kim|Kim Ji Won|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:28|21|Tam Chun Hei|Ng Tsz Yau|15|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:28|21|Tam Chun Hei|Ng Tsz Yau|16|Chaloempon Charoenkitamorn|Chasinee Korepap|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:33|21|Bae Kwon Young|Deok Young Kim|19|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:33|21|Bae Kwon Young|Deok Young Kim|14|Hsu Jen Hao|Yuan Cheng Wu|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:58|12|Chien Hui Yu|none|21|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:58|21|Chien Hui Yu|none|18|Cheung Ying Mei|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:29|21|Lee Chak Wai|none|14|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:29|21|Lee Chak Wai|none|17|Qi Cong, Scott Tsang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:17|21|Teng Shih Hua|none|4|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:17|21|Teng Shih Hua|none|10|Gunzorig Enkhjargal|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:20|21|Hua Chun Liang|none|5|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:20|21|Hua Chun Liang|none|15|Chaiyasit Sukasem|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|13|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:25|21|Nur Mohd Azriyn Ayub|Jagdish Singh|19|Aji Firmansyah|Hiski Rumengan|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:34|21|Hsueh Hsuan Yi|none|14|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:34|22|Hsueh Hsuan Yi|none|20|Chan Yan Kit|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:22|21|Li Ting Peng|none|13|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:22|21|Li Ting Peng|none|18|Lin Hsiang Ti|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:44|21|Shih Jyun Jhou|none|18|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:44|21|Shih Jyun Jhou|none|17|Susanto Yulia Yosephin [4]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:32|21|Gao Fangjie|none|15|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:32|21|Gao Fangjie|none|18|Chen Shih Ying|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:17|21|Chung Yonny|Tam Chun Hei|8|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:17|21|Chung Yonny|Tam Chun Hei|12|Pui Ngai Che|Pang Fong Pui|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:57|15|Kim Na Young|none|21|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:57|21|Kim Na Young|none|16|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:57|21|Kim Na Young|none|9|Ling Fang Hu [3]|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:25|21|Bae Kwon Young|Deok Young Kim|18|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:25|21|Bae Kwon Young|Deok Young Kim|11|Tai An Khang [2]|Hong Kheng Yew|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:26|21|Khim Wah Lim|Jian Guo Ong|11|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:26|21|Khim Wah Lim|Jian Guo Ong|17|Muhd Yasrin S.Ruslan|Qi Cong, Scott Tsang|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:28|22|Hung Shih Han|none|20|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:28|21|Hung Shih Han|none|9|Su Yu Chen|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:04|6|Chi-Lin Wang|Cheng Chi Ya|5|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:04|Walkover Win|Chi-Lin Wang|Cheng Chi Ya|Walkover Loss|Solgyu Choi [1]|Chae Yoo Jung|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:28|21|Wen Chi Hsu|none|13|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:28|21|Wen Chi Hsu|none|11|Lyddia Yi Yu Cheah|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:20|21|Lu Chi Yuan|none|11|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:20|21|Lu Chi Yuan|none|9|Lam Hou Him|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:29|22|Nur Mohd Azriyn Ayub|Jagdish Singh|20|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:29|21|Nur Mohd Azriyn Ayub|Jagdish Singh|15|Chang Tak Ching [1]|Li Kuen Hon|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:26|21|Teck Han Tan|none|10|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:26|21|Teck Han Tan|none|16|Jimmy, Yu Lun Tay|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:38|21|Hsueh Hsuan Yi|none|12|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:38|21|Hsueh Hsuan Yi|none|16|Samuel Hsiao|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:23|21|Teng Shih Hua|none|6|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:23|21|Teng Shih Hua|none|10|Gyung Bo Ko|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:26|21|Lu Ching Yao|Huang Mei Ching|10|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:26|26|Lu Ching Yao|Huang Mei Ching|24|Tsai Cheng Ling|Lu Yi Chun|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:50|20|Chi Yu Lo|none|22|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:50|21|Chi Yu Lo|none|17|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:50|21|Chi Yu Lo|none|10|Noppanai Singrueang|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:47|21|Tam Chun Hei|Ng Tsz Yau|14|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:47|16|Tam Chun Hei|Ng Tsz Yau|21|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:47|21|Tam Chun Hei|Ng Tsz Yau|13|Deok Young Kim [2]|Hee Yong Kong|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:28|21|Gao Fangjie|none|11|I-Ting Lai|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|16|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:21|21|Nipitphon Phuangphuapet|Jongkolphan Kititharakul|8|Ho Wai Lun|Yuen Sin Ying|1C8E8E79-B91A-4FA1-8C34-501F773D9294|doubles
+20160703|0:43|18|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:43|23|Shih Jyun Jhou|none|21|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:43|21|Shih Jyun Jhou|none|14|Li Ting Peng|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:34|21|Kim Na Young|none|15|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:34|21|Kim Na Young|none|16|Wen Chi Hsu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:19|21|Hung Shih Han|none|11|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles
+20160703|0:19|21|Hung Shih Han|none|13|Chien Hui Yu|none|1C8E8E79-B91A-4FA1-8C34-501F773D9294|singles

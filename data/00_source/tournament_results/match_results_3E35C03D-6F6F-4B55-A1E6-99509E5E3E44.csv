@@ -1,0 +1,856 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20140328|0:16|21|Simon Skok|Ana Marija Setina|10|Fabio Caponio|Lucrezia Boccasile|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:16|21|Simon Skok|Ana Marija Setina|3|Fabio Caponio|Lucrezia Boccasile|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Sean Vendy|Lydia Powell|15|Sigurdur Sverrir Gunnarsson|Margret Johannsdottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Sean Vendy|Lydia Powell|19|Sigurdur Sverrir Gunnarsson|Margret Johannsdottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:18|21|Ricardo Silva|Sofia Setim|8|David Salutt|Greta Cavone|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:18|21|Ricardo Silva|Sofia Setim|11|David Salutt|Greta Cavone|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:34|21|Eidur Isak Broddason|Margret Finnbogadottir|17|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:34|19|Eidur Isak Broddason|Margret Finnbogadottir|21|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:34|21|Eidur Isak Broddason|Margret Finnbogadottir|12|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:19|21|Daniel Johannesson|Sigridur Arnadottir|18|Filip Budzel|Ivana Zychova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:19|21|Daniel Johannesson|Sigridur Arnadottir|14|Filip Budzel|Ivana Zychova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Kevin Strobl|Marah Punter|18|Leon Seiwald|Janine Lais|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Kevin Strobl|Marah Punter|18|Leon Seiwald|Janine Lais|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Martin Cerkovnik|Nastja Stovanje|11|Sturla Jørgensen|Elisa Wiborg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Martin Cerkovnik|Nastja Stovanje|18|Sturla Jørgensen|Elisa Wiborg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328||Walkover Win|Matthew Widdicombe|Jessica Hopton|Walkover Loss|Kamod Rashmitha Halambage|Thilini Promodika Hendahewa|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:24|21|Dragoslav Petrovic |none|17|Lukas Holub|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:24|21|Dragoslav Petrovic |none|13|Lukas Holub|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:35|19|Krzysztof Jakowczuk |none|21|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:35|21|Krzysztof Jakowczuk |none|13|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:35|21|Krzysztof Jakowczuk |none|13|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Manuel Vazquez |none|12|Ward Van Boven|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Manuel Vazquez |none|17|Ward Van Boven|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|21|Richard Schneeberger|none|16|Guillaume Bonnet|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|26|Richard Schneeberger|none|24|Guillaume Bonnet|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Vladimir Shishkov |none|13|Pablo Sanmartin|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Vladimir Shishkov |none|11|Pablo Sanmartin|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Blai Ramirez|none|15|Andraz Krapez [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Blai Ramirez|none|9|Andraz Krapez [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:17|21|Collins Valentine Filimon|none|13|Chiao-Yi Li|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:17|21|Collins Valentine Filimon|none|12|Chiao-Yi Li|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Vicent Riera|none|17|Christoph Syrch|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Vicent Riera|none|13|Christoph Syrch|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:25|21|Alex Vlaar |none|14|Jan Hubacek|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:25|21|Alex Vlaar |none|19|Jan Hubacek|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Bernardo Atilano|none|13|Pierrick Deschenaux|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Bernardo Atilano|none|10|Pierrick Deschenaux|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Magda Konieczna|none|17|Marta Molina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Magda Konieczna|none|18|Marta Molina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328||Walkover Win|Dorien Lups|none|Walkover Loss|Mahoor Shahzad|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Julian Lehmann|none|15|Rok Jercinovic|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Julian Lehmann|none|13|Rok Jercinovic|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:25|21|Daniela Conceição|none|13|Thea Johansen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:25|21|Daniela Conceição|none|19|Thea Johansen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Michael Giesinger|none|13|Adham Elgamal|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Michael Giesinger|none|11|Adham Elgamal|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Brais Alves|none|17|Helgi Gretar Gunnarsson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Brais Alves|none|11|Helgi Gretar Gunnarsson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:38|21|Jiri Louda|none|7|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:38|15|Jiri Louda|none|21|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:38|21|Jiri Louda|none|15|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:44|21|Zan Laznik |none|16|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:44|17|Zan Laznik |none|21|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:44|21|Zan Laznik |none|19|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Lydia Powell|none|14|Ann Knaepen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Lydia Powell|none|17|Ann Knaepen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:39|20|Flor Spanhove|none|22|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:39|21|Flor Spanhove|none|14|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:39|21|Flor Spanhove|none|7|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Miguel Rocha|none|16|Simon Skok|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Miguel Rocha|none|19|Simon Skok|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|21|Leon Seiwald|none|10|Dominik Bütikofer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|21|Leon Seiwald|none|17|Dominik Bütikofer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:46|22|Ângelo Silva|none|20|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:46|9|Ângelo Silva|none|21|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:46|21|Ângelo Silva|none|14|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Matthew Widdicombe|none|17|Lucas Fallais|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Matthew Widdicombe|none|13|Lucas Fallais|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:28|21|Matteo Bellucci|none|18|Thomas Baures|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:28|22|Matteo Bellucci|none|20|Thomas Baures|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|21|Wolfgang Gnedt |none|15|Martin Cerkovnik|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|21|Wolfgang Gnedt |none|15|Martin Cerkovnik|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Fran Galjer|none|15|Victor Alcaide|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Fran Galjer|none|19|Victor Alcaide|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Muhammed Ali Kurt |none|14|Daan Philips|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Muhammed Ali Kurt |none|15|Daan Philips|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Jessica Hopton|none|9|Dominika Kurzova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Jessica Hopton|none|15|Dominika Kurzova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Sara Hognadottir|none|9|Sixtine Roy|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Sara Hognadottir|none|15|Sixtine Roy|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Janine Lais|none|11|Virginie Lousberg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Janine Lais|none|12|Virginie Lousberg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Min Zhao|none|18|Nina Sorger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Min Zhao|none|10|Nina Sorger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Sigridur Arnadottir|none|18|Lidia Rainero|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Sigridur Arnadottir|none|18|Lidia Rainero|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328||Walkover Win|Giulia Fiorito|none|Walkover Loss|Thilini Promodika Hendahewa|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Rowan Scheurkogel|none|15|Daniel Johannesson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Rowan Scheurkogel|none|14|Daniel Johannesson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:32|21|Nika Arih|none|17|Presence Beelen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:32|21|Nika Arih|none|18|Presence Beelen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328||Walkover Win|Cecilija Barut|none|Walkover Loss|Chiara Piazza|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:44|17|Anna Mikhalkova|none|21|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:44|21|Anna Mikhalkova|none|11|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:44|21|Anna Mikhalkova|none|19|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Katarina Beton|none|19|Karin Maran|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:26|21|Katarina Beton|none|15|Karin Maran|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:16|21|Mila Ivanova|none|4|Antonia Meinke|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:16|21|Mila Ivanova|none|9|Antonia Meinke|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:43|6|Sofia Setim|none|21|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:43|22|Sofia Setim|none|20|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:43|21|Sofia Setim|none|10|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Margret Johannsdottir|none|6|Lucrezia Boccasile|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Margret Johannsdottir|none|10|Lucrezia Boccasile|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Simone Von Rotz|none|11|Lisa Iversen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Simone Von Rotz|none|7|Lisa Iversen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:56|25|Sean Vendy |none|23|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:56|19|Sean Vendy |none|21|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:56|21|Sean Vendy |none|17|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Nastja Stovanje|none|17|Eva Murio|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:20|21|Nastja Stovanje|none|16|Eva Murio|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328||Walkover Win|Ivana Zychova|none|Walkover Loss|Hannah Strobl|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Elisa Wiborg|none|13|Greta Cavone|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Elisa Wiborg|none|8|Greta Cavone|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Ruslan Sarsekenov |none|12|Philip Birker|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Ruslan Sarsekenov |none|10|Philip Birker|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:43|17|Magnus Christensen|none|21|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:43|22|Magnus Christensen|none|20|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:43|21|Magnus Christensen|none|16|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Luis Enrique Peñalver |none|13|Rover Babatido|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Luis Enrique Peñalver |none|13|Rover Babatido|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:33|21|Adam Mendrek |none|15|Duarte Nuno Anjo|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:33|21|Adam Mendrek |none|18|Duarte Nuno Anjo|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:03|8|Vincent Medina|none|3|Samuel Hsiao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:03|Walkover Win|Vincent Medina|none|Walkover Loss|Samuel Hsiao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:17|21|Alex Vlaar |Dorien Lups|10|Guillaume Bonnet|Virginie Lousberg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:17|21|Alex Vlaar |Dorien Lups|15|Guillaume Bonnet|Virginie Lousberg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:39|18|Ronja Stern|none|21|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:39|21|Ronja Stern|none|17|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:39|21|Ronja Stern|none|19|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Mark Brady|none|17|Mario Saunpere|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Mark Brady|none|15|Mario Saunpere|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Matthew Widdicombe|Jessica Hopton|9|Helgi Gretar Gunnarsson|Sara Hognadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:18|21|Matthew Widdicombe|Jessica Hopton|19|Helgi Gretar Gunnarsson|Sara Hognadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:18|21|Krzysztof Jakowczuk |Magda Konieczna|10|Fran Galjer|Maja Pavlinić|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:18|21|Krzysztof Jakowczuk |Magda Konieczna|14|Fran Galjer|Maja Pavlinić|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Bernardo Atilano|Daniela Conceição|16|Kevin Strobl|Marah Punter|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Bernardo Atilano|Daniela Conceição|14|Kevin Strobl|Marah Punter|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:21|21|Alejandro Gonzalez |Min Zhao|14|Rok Jercinovic|Katarina Beton|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:21|21|Alejandro Gonzalez |Min Zhao|14|Rok Jercinovic|Katarina Beton|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:19|21|Eidur Isak Broddason|Margret Finnbogadottir|15|Christoph Muhri|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:19|21|Eidur Isak Broddason|Margret Finnbogadottir|14|Christoph Muhri|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:30|21|Lukas Osele|Karin Maran|16|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:30|17|Lukas Osele|Karin Maran|21|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:30|21|Lukas Osele|Karin Maran|16|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:16|21|Zan Laznik |Nika Arih|12|Bruno Stegani|Camilla Taramelli|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:16|21|Zan Laznik |Nika Arih|7|Bruno Stegani|Camilla Taramelli|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:24|21|Ricardo Silva|Sofia Setim|16|Brais Alves|Elisa Borras|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:24|21|Ricardo Silva|Sofia Setim|16|Brais Alves|Elisa Borras|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:24|21|Andraz Krapez|Cecilija Barut|19|Jan Hubacek [3/4]|Dominika Kurzova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:24|21|Andraz Krapez|Cecilija Barut|17|Jan Hubacek [3/4]|Dominika Kurzova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:17|21|Sean Vendy|Lydia Powell|6|Richard Schneeberger|Antonia Meinke|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:17|21|Sean Vendy|Lydia Powell|16|Richard Schneeberger|Antonia Meinke|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Muhammed Ali Kurt |Aliye Demirbag|14|Andreas Stocker|Lisa Iversen|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Muhammed Ali Kurt |Aliye Demirbag|12|Andreas Stocker|Lisa Iversen|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:25|21|Simon Skok|Ana Marija Setina|10|Anders Leirud|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:25|27|Simon Skok|Ana Marija Setina|25|Anders Leirud|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:46|24|Rowan Scheurkogel|Ann Knaepen|22|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:46|18|Rowan Scheurkogel|Ann Knaepen|21|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:46|21|Rowan Scheurkogel|Ann Knaepen|19|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Martin Cerkovnik|Nastja Stovanje|18|Lucas Fallais|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Martin Cerkovnik|Nastja Stovanje|18|Lucas Fallais|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:21|21|Manuel Vazquez |none|15|Julian Lehmann|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Manuel Vazquez |none|16|Julian Lehmann|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Luis Enrique Peñalver |none|8|Magnus Christensen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Luis Enrique Peñalver |none|13|Magnus Christensen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|21|Leon Seiwald|none|13|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|12|Leon Seiwald|none|21|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|21|Leon Seiwald|none|16|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:24|21|Vladimir Shishkov |none|14|Flor Spanhove|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:24|21|Vladimir Shishkov |none|10|Flor Spanhove|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Maja Pavlinić |none|6|Daniela Conceição|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Maja Pavlinić |none|14|Daniela Conceição|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:28|21|Vladyslava Lesnaya |none|5|Katarina Beton|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:28|21|Vladyslava Lesnaya |none|16|Katarina Beton|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:35|24|Collins Valentine Filimon|none|22|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:35|11|Collins Valentine Filimon|none|21|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:35|21|Collins Valentine Filimon|none|17|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:27|21|Vincent Medina|none|19|Zan Laznik [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:27|21|Vincent Medina|none|16|Zan Laznik [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:40|21|Alex Vlaar |none|18|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:40|20|Alex Vlaar |none|22|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:40|21|Alex Vlaar |none|15|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Krzysztof Jakowczuk |none|9|Richard Schneeberger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Krzysztof Jakowczuk |none|10|Richard Schneeberger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:22|21|Muhammed Ali Kurt |none|10|Michael Giesinger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:22|21|Muhammed Ali Kurt |none|14|Michael Giesinger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:22|21|Miguel Rocha|none|14|Brais Alves|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:22|21|Miguel Rocha|none|11|Brais Alves|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:30|21|Sean Vendy |none|18|Mark Brady|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:30|22|Sean Vendy |none|20|Mark Brady|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:36|14|Dragoslav Petrovic |none|21|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:36|21|Dragoslav Petrovic |none|17|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:36|21|Dragoslav Petrovic |none|17|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:27|21|Ângelo Silva|none|19|Fran Galjer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:27|22|Ângelo Silva|none|20|Fran Galjer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:30|21|Wolfgang Gnedt |none|18|Jiri Louda|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:30|21|Wolfgang Gnedt |none|6|Jiri Louda|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Rowan Scheurkogel|none|11|Matteo Bellucci|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Rowan Scheurkogel|none|10|Matteo Bellucci|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:28|21|Adam Mendrek |none|12|Bernardo Atilano|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:28|21|Adam Mendrek |none|14|Bernardo Atilano|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|21|Jessica Hopton|none|4|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|20|Jessica Hopton|none|22|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:31|21|Jessica Hopton|none|10|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|16|Magda Konieczna|none|21|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|21|Magda Konieczna|none|10|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|21|Magda Konieczna|none|18|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Clara Azurmendi |none|19|Min Zhao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Clara Azurmendi |none|10|Min Zhao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Dorien Lups|none|14|Cecilija Barut|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:19|21|Dorien Lups|none|14|Cecilija Barut|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:48|21|Elizaveta Pyatina |none|19|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:48|17|Elizaveta Pyatina |none|21|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:48|21|Elizaveta Pyatina |none|18|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:29|24|Ronja Stern|none|22|Sara Hognadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:29|21|Ronja Stern|none|16|Sara Hognadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|19|Janine Lais|none|21|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|21|Janine Lais|none|14|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:42|21|Janine Lais|none|14|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Isabel Fernandez |none|10|Nastja Stovanje|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Isabel Fernandez |none|17|Nastja Stovanje|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:25|21|Lydia Powell|none|18|Anna Mikhalkova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:25|21|Lydia Powell|none|17|Anna Mikhalkova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:17|21|Maria Mitsova |none|8|Giulia Fiorito|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:17|21|Maria Mitsova |none|8|Giulia Fiorito|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Sofia Setim|none|12|Ivana Zychova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:21|21|Sofia Setim|none|12|Ivana Zychova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:24|21|Aliye Demirbag |none|12|Elisa Wiborg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:24|22|Aliye Demirbag |none|20|Elisa Wiborg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Margret Johannsdottir|none|6|Camilla Taramelli|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:18|21|Margret Johannsdottir|none|10|Camilla Taramelli|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Alida Chen |none|12|Simone Von Rotz|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:23|21|Alida Chen |none|9|Simone Von Rotz|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140328|0:22|21|Lukas Osele|Kevin Strobl|14|Philip Birker|Christoph Muhri|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:22|22|Lukas Osele|Kevin Strobl|20|Philip Birker|Christoph Muhri|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:17|21|Jan Hubacek|Jiri Louda|14|Rok Jercinovic|Miguel Rocha|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:17|21|Jan Hubacek|Jiri Louda|9|Rok Jercinovic|Miguel Rocha|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|14|Dominik Bütikofer |Julian Lehmann|21|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|21|Dominik Bütikofer |Julian Lehmann|15|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|21|Dominik Bütikofer |Julian Lehmann|9|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:31|23|Jed Arksey|Sean Vendy|21|Ricardo Silva|Ângelo Silva|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:31|21|Jed Arksey|Sean Vendy|15|Ricardo Silva|Ângelo Silva|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|21|Thomas Baures|Vincent Medina|15|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|19|Thomas Baures|Vincent Medina|21|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|21|Thomas Baures|Vincent Medina|18|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Rover Babatido|Rowan Scheurkogel|12|Alejandro Gonzalez|Blai Ramirez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Rover Babatido|Rowan Scheurkogel|18|Alejandro Gonzalez|Blai Ramirez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:19|21|Stijn De Langhe |Flor Spanhove|13|Eidur Isak Broddason|Helgi Gretar Gunnarsson|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:19|21|Stijn De Langhe |Flor Spanhove|13|Eidur Isak Broddason|Helgi Gretar Gunnarsson|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:17|21|Ruslan Sarsekenov|Mario Saunpere|13|Victor Alcaide|Manuel Vazquez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:17|21|Ruslan Sarsekenov|Mario Saunpere|16|Victor Alcaide|Manuel Vazquez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|25|Mark Brady|Matthew Widdicombe|23|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|16|Mark Brady|Matthew Widdicombe|21|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:37|21|Mark Brady|Matthew Widdicombe|18|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:22|21|Quentin Mejean|Tom Rodrigues|19|Daan Philips [5/8]|Ward Van Boven|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:22|21|Quentin Mejean|Tom Rodrigues|18|Daan Philips [5/8]|Ward Van Boven|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:41|14|Andraz Krapez |Zan Laznik|21|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:41|21|Andraz Krapez |Zan Laznik|16|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:41|21|Andraz Krapez |Zan Laznik|14|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Martin Cerkovnik|Simon Skok|15|David Salutt|Andreas Stocker|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Martin Cerkovnik|Simon Skok|15|David Salutt|Andreas Stocker|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:25|21|Guillaume Bonnet|Lucas Fallais|17|Matteo Bellucci|Samuel Hsiao|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:25|21|Guillaume Bonnet|Lucas Fallais|16|Matteo Bellucci|Samuel Hsiao|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:18|21|Suarez Javier |Luis Enrique Peñalver|6|Chiao-Yi Li|Richard Schneeberger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:18|21|Suarez Javier |Luis Enrique Peñalver|10|Chiao-Yi Li|Richard Schneeberger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:36|16|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|21|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:36|21|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|17|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:36|21|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|15|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:45|17|Pierrick Deschenaux |Joel König|21|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:45|21|Pierrick Deschenaux |Joel König|18|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:45|21|Pierrick Deschenaux |Joel König|17|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:22|21|Jessica Hopton|Lydia Powell|11|Maria Alonso|Eva Murio|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:22|21|Jessica Hopton|Lydia Powell|14|Maria Alonso|Eva Murio|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:22|21|Sara Hognadottir|Margret Johannsdottir|7|Thea Johansen|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:22|21|Sara Hognadottir|Margret Johannsdottir|14|Thea Johansen|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:34|21|Presence Beelen|Ann Knaepen|19|Céline Burkart|Simone Von Rotz|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:34|21|Presence Beelen|Ann Knaepen|15|Céline Burkart|Simone Von Rotz|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Elisa Borras|Marta Molina|14|Lucrezia Boccasile|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:20|21|Elisa Borras|Marta Molina|12|Lucrezia Boccasile|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:33|21|Sigridur Arnadottir|Margret Finnbogadottir|11|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:33|19|Sigridur Arnadottir|Margret Finnbogadottir|21|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:33|21|Sigridur Arnadottir|Margret Finnbogadottir|6|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Vladyslava Lesnaya|Anna Mikhalkova|13|Antonia Meinke|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140328|0:23|21|Vladyslava Lesnaya|Anna Mikhalkova|19|Antonia Meinke|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:16|21|Simon Skok|Ana Marija Setina|10|Fabio Caponio|Lucrezia Boccasile|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:16|21|Simon Skok|Ana Marija Setina|3|Fabio Caponio|Lucrezia Boccasile|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Sean Vendy|Lydia Powell|15|Sigurdur Sverrir Gunnarsson|Margret Johannsdottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Sean Vendy|Lydia Powell|19|Sigurdur Sverrir Gunnarsson|Margret Johannsdottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:18|21|Ricardo Silva|Sofia Setim|8|David Salutt|Greta Cavone|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:18|21|Ricardo Silva|Sofia Setim|11|David Salutt|Greta Cavone|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:34|21|Eidur Isak Broddason|Margret Finnbogadottir|17|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:34|19|Eidur Isak Broddason|Margret Finnbogadottir|21|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:34|21|Eidur Isak Broddason|Margret Finnbogadottir|12|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:19|21|Daniel Johannesson|Sigridur Arnadottir|18|Filip Budzel|Ivana Zychova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:19|21|Daniel Johannesson|Sigridur Arnadottir|14|Filip Budzel|Ivana Zychova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Kevin Strobl|Marah Punter|18|Leon Seiwald|Janine Lais|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Kevin Strobl|Marah Punter|18|Leon Seiwald|Janine Lais|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Martin Cerkovnik|Nastja Stovanje|11|Sturla Jørgensen|Elisa Wiborg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Martin Cerkovnik|Nastja Stovanje|18|Sturla Jørgensen|Elisa Wiborg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329||Walkover Win|Matthew Widdicombe|Jessica Hopton|Walkover Loss|Kamod Rashmitha Halambage|Thilini Promodika Hendahewa|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:24|21|Dragoslav Petrovic |none|17|Lukas Holub|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:24|21|Dragoslav Petrovic |none|13|Lukas Holub|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:35|19|Krzysztof Jakowczuk |none|21|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:35|21|Krzysztof Jakowczuk |none|13|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:35|21|Krzysztof Jakowczuk |none|13|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Manuel Vazquez |none|12|Ward Van Boven|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Manuel Vazquez |none|17|Ward Van Boven|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|21|Richard Schneeberger|none|16|Guillaume Bonnet|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|26|Richard Schneeberger|none|24|Guillaume Bonnet|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Vladimir Shishkov |none|13|Pablo Sanmartin|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Vladimir Shishkov |none|11|Pablo Sanmartin|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Blai Ramirez|none|15|Andraz Krapez [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Blai Ramirez|none|9|Andraz Krapez [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:17|21|Collins Valentine Filimon|none|13|Chiao-Yi Li|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:17|21|Collins Valentine Filimon|none|12|Chiao-Yi Li|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Vicent Riera|none|17|Christoph Syrch|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Vicent Riera|none|13|Christoph Syrch|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:25|21|Alex Vlaar |none|14|Jan Hubacek|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:25|21|Alex Vlaar |none|19|Jan Hubacek|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Bernardo Atilano|none|13|Pierrick Deschenaux|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Bernardo Atilano|none|10|Pierrick Deschenaux|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Magda Konieczna|none|17|Marta Molina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Magda Konieczna|none|18|Marta Molina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329||Walkover Win|Dorien Lups|none|Walkover Loss|Mahoor Shahzad|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Julian Lehmann|none|15|Rok Jercinovic|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Julian Lehmann|none|13|Rok Jercinovic|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:25|21|Daniela Conceição|none|13|Thea Johansen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:25|21|Daniela Conceição|none|19|Thea Johansen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Michael Giesinger|none|13|Adham Elgamal|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Michael Giesinger|none|11|Adham Elgamal|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Brais Alves|none|17|Helgi Gretar Gunnarsson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Brais Alves|none|11|Helgi Gretar Gunnarsson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:38|21|Jiri Louda|none|7|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:38|15|Jiri Louda|none|21|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:38|21|Jiri Louda|none|15|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:44|21|Zan Laznik |none|16|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:44|17|Zan Laznik |none|21|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:44|21|Zan Laznik |none|19|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Lydia Powell|none|14|Ann Knaepen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Lydia Powell|none|17|Ann Knaepen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:39|20|Flor Spanhove|none|22|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:39|21|Flor Spanhove|none|14|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:39|21|Flor Spanhove|none|7|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Miguel Rocha|none|16|Simon Skok|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Miguel Rocha|none|19|Simon Skok|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|21|Leon Seiwald|none|10|Dominik Bütikofer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|21|Leon Seiwald|none|17|Dominik Bütikofer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:46|22|Ângelo Silva|none|20|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:46|9|Ângelo Silva|none|21|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:46|21|Ângelo Silva|none|14|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Matthew Widdicombe|none|17|Lucas Fallais|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Matthew Widdicombe|none|13|Lucas Fallais|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:28|21|Matteo Bellucci|none|18|Thomas Baures|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:28|22|Matteo Bellucci|none|20|Thomas Baures|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|21|Wolfgang Gnedt |none|15|Martin Cerkovnik|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|21|Wolfgang Gnedt |none|15|Martin Cerkovnik|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Fran Galjer|none|15|Victor Alcaide|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Fran Galjer|none|19|Victor Alcaide|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Muhammed Ali Kurt |none|14|Daan Philips|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Muhammed Ali Kurt |none|15|Daan Philips|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Jessica Hopton|none|9|Dominika Kurzova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Jessica Hopton|none|15|Dominika Kurzova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Sara Hognadottir|none|9|Sixtine Roy|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Sara Hognadottir|none|15|Sixtine Roy|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Janine Lais|none|11|Virginie Lousberg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Janine Lais|none|12|Virginie Lousberg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Min Zhao|none|18|Nina Sorger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Min Zhao|none|10|Nina Sorger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Sigridur Arnadottir|none|18|Lidia Rainero|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Sigridur Arnadottir|none|18|Lidia Rainero|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329||Walkover Win|Giulia Fiorito|none|Walkover Loss|Thilini Promodika Hendahewa|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Rowan Scheurkogel|none|15|Daniel Johannesson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Rowan Scheurkogel|none|14|Daniel Johannesson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:32|21|Nika Arih|none|17|Presence Beelen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:32|21|Nika Arih|none|18|Presence Beelen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329||Walkover Win|Cecilija Barut|none|Walkover Loss|Chiara Piazza|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:44|17|Anna Mikhalkova|none|21|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:44|21|Anna Mikhalkova|none|11|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:44|21|Anna Mikhalkova|none|19|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Katarina Beton|none|19|Karin Maran|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:26|21|Katarina Beton|none|15|Karin Maran|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:16|21|Mila Ivanova|none|4|Antonia Meinke|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:16|21|Mila Ivanova|none|9|Antonia Meinke|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:43|6|Sofia Setim|none|21|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:43|22|Sofia Setim|none|20|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:43|21|Sofia Setim|none|10|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Margret Johannsdottir|none|6|Lucrezia Boccasile|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Margret Johannsdottir|none|10|Lucrezia Boccasile|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Simone Von Rotz|none|11|Lisa Iversen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Simone Von Rotz|none|7|Lisa Iversen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:56|25|Sean Vendy |none|23|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:56|19|Sean Vendy |none|21|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:56|21|Sean Vendy |none|17|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Nastja Stovanje|none|17|Eva Murio|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:20|21|Nastja Stovanje|none|16|Eva Murio|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329||Walkover Win|Ivana Zychova|none|Walkover Loss|Hannah Strobl|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Elisa Wiborg|none|13|Greta Cavone|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Elisa Wiborg|none|8|Greta Cavone|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Ruslan Sarsekenov |none|12|Philip Birker|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Ruslan Sarsekenov |none|10|Philip Birker|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:43|17|Magnus Christensen|none|21|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:43|22|Magnus Christensen|none|20|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:43|21|Magnus Christensen|none|16|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Luis Enrique Peñalver |none|13|Rover Babatido|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Luis Enrique Peñalver |none|13|Rover Babatido|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:33|21|Adam Mendrek |none|15|Duarte Nuno Anjo|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:33|21|Adam Mendrek |none|18|Duarte Nuno Anjo|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:03|8|Vincent Medina|none|3|Samuel Hsiao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:03|Walkover Win|Vincent Medina|none|Walkover Loss|Samuel Hsiao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:17|21|Alex Vlaar |Dorien Lups|10|Guillaume Bonnet|Virginie Lousberg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:17|21|Alex Vlaar |Dorien Lups|15|Guillaume Bonnet|Virginie Lousberg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:39|18|Ronja Stern|none|21|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:39|21|Ronja Stern|none|17|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:39|21|Ronja Stern|none|19|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Mark Brady|none|17|Mario Saunpere|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Mark Brady|none|15|Mario Saunpere|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Matthew Widdicombe|Jessica Hopton|9|Helgi Gretar Gunnarsson|Sara Hognadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:18|21|Matthew Widdicombe|Jessica Hopton|19|Helgi Gretar Gunnarsson|Sara Hognadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:18|21|Krzysztof Jakowczuk |Magda Konieczna|10|Fran Galjer|Maja Pavlinić|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:18|21|Krzysztof Jakowczuk |Magda Konieczna|14|Fran Galjer|Maja Pavlinić|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Bernardo Atilano|Daniela Conceição|16|Kevin Strobl|Marah Punter|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Bernardo Atilano|Daniela Conceição|14|Kevin Strobl|Marah Punter|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:21|21|Alejandro Gonzalez |Min Zhao|14|Rok Jercinovic|Katarina Beton|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:21|21|Alejandro Gonzalez |Min Zhao|14|Rok Jercinovic|Katarina Beton|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:19|21|Eidur Isak Broddason|Margret Finnbogadottir|15|Christoph Muhri|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:19|21|Eidur Isak Broddason|Margret Finnbogadottir|14|Christoph Muhri|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:30|21|Lukas Osele|Karin Maran|16|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:30|17|Lukas Osele|Karin Maran|21|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:30|21|Lukas Osele|Karin Maran|16|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:16|21|Zan Laznik |Nika Arih|12|Bruno Stegani|Camilla Taramelli|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:16|21|Zan Laznik |Nika Arih|7|Bruno Stegani|Camilla Taramelli|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:24|21|Ricardo Silva|Sofia Setim|16|Brais Alves|Elisa Borras|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:24|21|Ricardo Silva|Sofia Setim|16|Brais Alves|Elisa Borras|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:24|21|Andraz Krapez|Cecilija Barut|19|Jan Hubacek [3/4]|Dominika Kurzova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:24|21|Andraz Krapez|Cecilija Barut|17|Jan Hubacek [3/4]|Dominika Kurzova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:17|21|Sean Vendy|Lydia Powell|6|Richard Schneeberger|Antonia Meinke|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:17|21|Sean Vendy|Lydia Powell|16|Richard Schneeberger|Antonia Meinke|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Muhammed Ali Kurt |Aliye Demirbag|14|Andreas Stocker|Lisa Iversen|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Muhammed Ali Kurt |Aliye Demirbag|12|Andreas Stocker|Lisa Iversen|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:25|21|Simon Skok|Ana Marija Setina|10|Anders Leirud|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:25|27|Simon Skok|Ana Marija Setina|25|Anders Leirud|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:46|24|Rowan Scheurkogel|Ann Knaepen|22|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:46|18|Rowan Scheurkogel|Ann Knaepen|21|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:46|21|Rowan Scheurkogel|Ann Knaepen|19|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Martin Cerkovnik|Nastja Stovanje|18|Lucas Fallais|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Martin Cerkovnik|Nastja Stovanje|18|Lucas Fallais|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:21|21|Manuel Vazquez |none|15|Julian Lehmann|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Manuel Vazquez |none|16|Julian Lehmann|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Luis Enrique Peñalver |none|8|Magnus Christensen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Luis Enrique Peñalver |none|13|Magnus Christensen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|21|Leon Seiwald|none|13|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|12|Leon Seiwald|none|21|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|21|Leon Seiwald|none|16|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:24|21|Vladimir Shishkov |none|14|Flor Spanhove|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:24|21|Vladimir Shishkov |none|10|Flor Spanhove|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Maja Pavlinić |none|6|Daniela Conceição|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Maja Pavlinić |none|14|Daniela Conceição|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:28|21|Vladyslava Lesnaya |none|5|Katarina Beton|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:28|21|Vladyslava Lesnaya |none|16|Katarina Beton|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:35|24|Collins Valentine Filimon|none|22|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:35|11|Collins Valentine Filimon|none|21|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:35|21|Collins Valentine Filimon|none|17|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:27|21|Vincent Medina|none|19|Zan Laznik [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:27|21|Vincent Medina|none|16|Zan Laznik [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:40|21|Alex Vlaar |none|18|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:40|20|Alex Vlaar |none|22|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:40|21|Alex Vlaar |none|15|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Krzysztof Jakowczuk |none|9|Richard Schneeberger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Krzysztof Jakowczuk |none|10|Richard Schneeberger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:22|21|Muhammed Ali Kurt |none|10|Michael Giesinger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:22|21|Muhammed Ali Kurt |none|14|Michael Giesinger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:22|21|Miguel Rocha|none|14|Brais Alves|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:22|21|Miguel Rocha|none|11|Brais Alves|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:30|21|Sean Vendy |none|18|Mark Brady|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:30|22|Sean Vendy |none|20|Mark Brady|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:36|14|Dragoslav Petrovic |none|21|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:36|21|Dragoslav Petrovic |none|17|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:36|21|Dragoslav Petrovic |none|17|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:27|21|Ângelo Silva|none|19|Fran Galjer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:27|22|Ângelo Silva|none|20|Fran Galjer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:30|21|Wolfgang Gnedt |none|18|Jiri Louda|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:30|21|Wolfgang Gnedt |none|6|Jiri Louda|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Rowan Scheurkogel|none|11|Matteo Bellucci|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Rowan Scheurkogel|none|10|Matteo Bellucci|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:28|21|Adam Mendrek |none|12|Bernardo Atilano|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:28|21|Adam Mendrek |none|14|Bernardo Atilano|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|21|Jessica Hopton|none|4|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|20|Jessica Hopton|none|22|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:31|21|Jessica Hopton|none|10|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|16|Magda Konieczna|none|21|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|21|Magda Konieczna|none|10|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|21|Magda Konieczna|none|18|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Clara Azurmendi |none|19|Min Zhao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Clara Azurmendi |none|10|Min Zhao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Dorien Lups|none|14|Cecilija Barut|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:19|21|Dorien Lups|none|14|Cecilija Barut|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:48|21|Elizaveta Pyatina |none|19|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:48|17|Elizaveta Pyatina |none|21|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:48|21|Elizaveta Pyatina |none|18|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:29|24|Ronja Stern|none|22|Sara Hognadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:29|21|Ronja Stern|none|16|Sara Hognadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|19|Janine Lais|none|21|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|21|Janine Lais|none|14|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:42|21|Janine Lais|none|14|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Isabel Fernandez |none|10|Nastja Stovanje|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Isabel Fernandez |none|17|Nastja Stovanje|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:25|21|Lydia Powell|none|18|Anna Mikhalkova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:25|21|Lydia Powell|none|17|Anna Mikhalkova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:17|21|Maria Mitsova |none|8|Giulia Fiorito|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:17|21|Maria Mitsova |none|8|Giulia Fiorito|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Sofia Setim|none|12|Ivana Zychova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:21|21|Sofia Setim|none|12|Ivana Zychova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:24|21|Aliye Demirbag |none|12|Elisa Wiborg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:24|22|Aliye Demirbag |none|20|Elisa Wiborg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Margret Johannsdottir|none|6|Camilla Taramelli|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:18|21|Margret Johannsdottir|none|10|Camilla Taramelli|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Alida Chen |none|12|Simone Von Rotz|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:23|21|Alida Chen |none|9|Simone Von Rotz|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140329|0:22|21|Lukas Osele|Kevin Strobl|14|Philip Birker|Christoph Muhri|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:22|22|Lukas Osele|Kevin Strobl|20|Philip Birker|Christoph Muhri|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:17|21|Jan Hubacek|Jiri Louda|14|Rok Jercinovic|Miguel Rocha|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:17|21|Jan Hubacek|Jiri Louda|9|Rok Jercinovic|Miguel Rocha|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|14|Dominik Bütikofer |Julian Lehmann|21|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|21|Dominik Bütikofer |Julian Lehmann|15|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|21|Dominik Bütikofer |Julian Lehmann|9|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:31|23|Jed Arksey|Sean Vendy|21|Ricardo Silva|Ângelo Silva|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:31|21|Jed Arksey|Sean Vendy|15|Ricardo Silva|Ângelo Silva|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|21|Thomas Baures|Vincent Medina|15|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|19|Thomas Baures|Vincent Medina|21|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|21|Thomas Baures|Vincent Medina|18|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Rover Babatido|Rowan Scheurkogel|12|Alejandro Gonzalez|Blai Ramirez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Rover Babatido|Rowan Scheurkogel|18|Alejandro Gonzalez|Blai Ramirez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:19|21|Stijn De Langhe |Flor Spanhove|13|Eidur Isak Broddason|Helgi Gretar Gunnarsson|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:19|21|Stijn De Langhe |Flor Spanhove|13|Eidur Isak Broddason|Helgi Gretar Gunnarsson|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:17|21|Ruslan Sarsekenov|Mario Saunpere|13|Victor Alcaide|Manuel Vazquez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:17|21|Ruslan Sarsekenov|Mario Saunpere|16|Victor Alcaide|Manuel Vazquez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|25|Mark Brady|Matthew Widdicombe|23|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|16|Mark Brady|Matthew Widdicombe|21|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:37|21|Mark Brady|Matthew Widdicombe|18|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:22|21|Quentin Mejean|Tom Rodrigues|19|Daan Philips [5/8]|Ward Van Boven|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:22|21|Quentin Mejean|Tom Rodrigues|18|Daan Philips [5/8]|Ward Van Boven|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:41|14|Andraz Krapez |Zan Laznik|21|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:41|21|Andraz Krapez |Zan Laznik|16|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:41|21|Andraz Krapez |Zan Laznik|14|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Martin Cerkovnik|Simon Skok|15|David Salutt|Andreas Stocker|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Martin Cerkovnik|Simon Skok|15|David Salutt|Andreas Stocker|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:25|21|Guillaume Bonnet|Lucas Fallais|17|Matteo Bellucci|Samuel Hsiao|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:25|21|Guillaume Bonnet|Lucas Fallais|16|Matteo Bellucci|Samuel Hsiao|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:18|21|Suarez Javier |Luis Enrique Peñalver|6|Chiao-Yi Li|Richard Schneeberger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:18|21|Suarez Javier |Luis Enrique Peñalver|10|Chiao-Yi Li|Richard Schneeberger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:36|16|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|21|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:36|21|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|17|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:36|21|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|15|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:45|17|Pierrick Deschenaux |Joel König|21|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:45|21|Pierrick Deschenaux |Joel König|18|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:45|21|Pierrick Deschenaux |Joel König|17|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:22|21|Jessica Hopton|Lydia Powell|11|Maria Alonso|Eva Murio|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:22|21|Jessica Hopton|Lydia Powell|14|Maria Alonso|Eva Murio|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:22|21|Sara Hognadottir|Margret Johannsdottir|7|Thea Johansen|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:22|21|Sara Hognadottir|Margret Johannsdottir|14|Thea Johansen|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:34|21|Presence Beelen|Ann Knaepen|19|Céline Burkart|Simone Von Rotz|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:34|21|Presence Beelen|Ann Knaepen|15|Céline Burkart|Simone Von Rotz|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Elisa Borras|Marta Molina|14|Lucrezia Boccasile|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:20|21|Elisa Borras|Marta Molina|12|Lucrezia Boccasile|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:33|21|Sigridur Arnadottir|Margret Finnbogadottir|11|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:33|19|Sigridur Arnadottir|Margret Finnbogadottir|21|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:33|21|Sigridur Arnadottir|Margret Finnbogadottir|6|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Vladyslava Lesnaya|Anna Mikhalkova|13|Antonia Meinke|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140329|0:23|21|Vladyslava Lesnaya|Anna Mikhalkova|19|Antonia Meinke|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:16|21|Simon Skok|Ana Marija Setina|10|Fabio Caponio|Lucrezia Boccasile|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:16|21|Simon Skok|Ana Marija Setina|3|Fabio Caponio|Lucrezia Boccasile|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Sean Vendy|Lydia Powell|15|Sigurdur Sverrir Gunnarsson|Margret Johannsdottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Sean Vendy|Lydia Powell|19|Sigurdur Sverrir Gunnarsson|Margret Johannsdottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:18|21|Ricardo Silva|Sofia Setim|8|David Salutt|Greta Cavone|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:18|21|Ricardo Silva|Sofia Setim|11|David Salutt|Greta Cavone|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:34|21|Eidur Isak Broddason|Margret Finnbogadottir|17|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:34|19|Eidur Isak Broddason|Margret Finnbogadottir|21|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:34|21|Eidur Isak Broddason|Margret Finnbogadottir|12|Matteo Bellucci|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:19|21|Daniel Johannesson|Sigridur Arnadottir|18|Filip Budzel|Ivana Zychova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:19|21|Daniel Johannesson|Sigridur Arnadottir|14|Filip Budzel|Ivana Zychova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Kevin Strobl|Marah Punter|18|Leon Seiwald|Janine Lais|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Kevin Strobl|Marah Punter|18|Leon Seiwald|Janine Lais|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Martin Cerkovnik|Nastja Stovanje|11|Sturla Jørgensen|Elisa Wiborg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Martin Cerkovnik|Nastja Stovanje|18|Sturla Jørgensen|Elisa Wiborg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330||Walkover Win|Matthew Widdicombe|Jessica Hopton|Walkover Loss|Kamod Rashmitha Halambage|Thilini Promodika Hendahewa|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:24|21|Dragoslav Petrovic |none|17|Lukas Holub|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:24|21|Dragoslav Petrovic |none|13|Lukas Holub|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:35|19|Krzysztof Jakowczuk |none|21|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:35|21|Krzysztof Jakowczuk |none|13|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:35|21|Krzysztof Jakowczuk |none|13|Tom Rodrigues|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Manuel Vazquez |none|12|Ward Van Boven|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Manuel Vazquez |none|17|Ward Van Boven|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|21|Richard Schneeberger|none|16|Guillaume Bonnet|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|26|Richard Schneeberger|none|24|Guillaume Bonnet|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Vladimir Shishkov |none|13|Pablo Sanmartin|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Vladimir Shishkov |none|11|Pablo Sanmartin|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Blai Ramirez|none|15|Andraz Krapez [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Blai Ramirez|none|9|Andraz Krapez [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:17|21|Collins Valentine Filimon|none|13|Chiao-Yi Li|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:17|21|Collins Valentine Filimon|none|12|Chiao-Yi Li|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Vicent Riera|none|17|Christoph Syrch|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Vicent Riera|none|13|Christoph Syrch|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:25|21|Alex Vlaar |none|14|Jan Hubacek|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:25|21|Alex Vlaar |none|19|Jan Hubacek|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Bernardo Atilano|none|13|Pierrick Deschenaux|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Bernardo Atilano|none|10|Pierrick Deschenaux|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Magda Konieczna|none|17|Marta Molina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Magda Konieczna|none|18|Marta Molina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330||Walkover Win|Dorien Lups|none|Walkover Loss|Mahoor Shahzad|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Julian Lehmann|none|15|Rok Jercinovic|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Julian Lehmann|none|13|Rok Jercinovic|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:25|21|Daniela Conceição|none|13|Thea Johansen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:25|21|Daniela Conceição|none|19|Thea Johansen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Michael Giesinger|none|13|Adham Elgamal|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Michael Giesinger|none|11|Adham Elgamal|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Brais Alves|none|17|Helgi Gretar Gunnarsson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Brais Alves|none|11|Helgi Gretar Gunnarsson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:38|21|Jiri Louda|none|7|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:38|15|Jiri Louda|none|21|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:38|21|Jiri Louda|none|15|Christoph Muhri|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:44|21|Zan Laznik |none|16|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:44|17|Zan Laznik |none|21|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:44|21|Zan Laznik |none|19|Ricardo Silva|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Lydia Powell|none|14|Ann Knaepen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Lydia Powell|none|17|Ann Knaepen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:39|20|Flor Spanhove|none|22|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:39|21|Flor Spanhove|none|14|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:39|21|Flor Spanhove|none|7|Filip Budzel|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Miguel Rocha|none|16|Simon Skok|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Miguel Rocha|none|19|Simon Skok|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|21|Leon Seiwald|none|10|Dominik Bütikofer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|21|Leon Seiwald|none|17|Dominik Bütikofer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:46|22|Ângelo Silva|none|20|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:46|9|Ângelo Silva|none|21|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:46|21|Ângelo Silva|none|14|Joel König [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Matthew Widdicombe|none|17|Lucas Fallais|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Matthew Widdicombe|none|13|Lucas Fallais|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:28|21|Matteo Bellucci|none|18|Thomas Baures|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:28|22|Matteo Bellucci|none|20|Thomas Baures|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|21|Wolfgang Gnedt |none|15|Martin Cerkovnik|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|21|Wolfgang Gnedt |none|15|Martin Cerkovnik|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Fran Galjer|none|15|Victor Alcaide|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Fran Galjer|none|19|Victor Alcaide|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Muhammed Ali Kurt |none|14|Daan Philips|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Muhammed Ali Kurt |none|15|Daan Philips|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Jessica Hopton|none|9|Dominika Kurzova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Jessica Hopton|none|15|Dominika Kurzova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Sara Hognadottir|none|9|Sixtine Roy|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Sara Hognadottir|none|15|Sixtine Roy|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Janine Lais|none|11|Virginie Lousberg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Janine Lais|none|12|Virginie Lousberg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Min Zhao|none|18|Nina Sorger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Min Zhao|none|10|Nina Sorger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Sigridur Arnadottir|none|18|Lidia Rainero|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Sigridur Arnadottir|none|18|Lidia Rainero|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330||Walkover Win|Giulia Fiorito|none|Walkover Loss|Thilini Promodika Hendahewa|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Rowan Scheurkogel|none|15|Daniel Johannesson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Rowan Scheurkogel|none|14|Daniel Johannesson|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:32|21|Nika Arih|none|17|Presence Beelen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:32|21|Nika Arih|none|18|Presence Beelen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330||Walkover Win|Cecilija Barut|none|Walkover Loss|Chiara Piazza|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:44|17|Anna Mikhalkova|none|21|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:44|21|Anna Mikhalkova|none|11|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:44|21|Anna Mikhalkova|none|19|Margret Finnbogadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Katarina Beton|none|19|Karin Maran|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:26|21|Katarina Beton|none|15|Karin Maran|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:16|21|Mila Ivanova|none|4|Antonia Meinke|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:16|21|Mila Ivanova|none|9|Antonia Meinke|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:43|6|Sofia Setim|none|21|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:43|22|Sofia Setim|none|20|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:43|21|Sofia Setim|none|10|Ana Marija Setina|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Margret Johannsdottir|none|6|Lucrezia Boccasile|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Margret Johannsdottir|none|10|Lucrezia Boccasile|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Simone Von Rotz|none|11|Lisa Iversen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Simone Von Rotz|none|7|Lisa Iversen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:56|25|Sean Vendy |none|23|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:56|19|Sean Vendy |none|21|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:56|21|Sean Vendy |none|17|Stijn De Langhe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Nastja Stovanje|none|17|Eva Murio|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:20|21|Nastja Stovanje|none|16|Eva Murio|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330||Walkover Win|Ivana Zychova|none|Walkover Loss|Hannah Strobl|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Elisa Wiborg|none|13|Greta Cavone|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Elisa Wiborg|none|8|Greta Cavone|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Ruslan Sarsekenov |none|12|Philip Birker|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Ruslan Sarsekenov |none|10|Philip Birker|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:43|17|Magnus Christensen|none|21|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:43|22|Magnus Christensen|none|20|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:43|21|Magnus Christensen|none|16|Jed Arksey|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Luis Enrique Peñalver |none|13|Rover Babatido|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Luis Enrique Peñalver |none|13|Rover Babatido|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:33|21|Adam Mendrek |none|15|Duarte Nuno Anjo|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:33|21|Adam Mendrek |none|18|Duarte Nuno Anjo|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:03|8|Vincent Medina|none|3|Samuel Hsiao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:03|Walkover Win|Vincent Medina|none|Walkover Loss|Samuel Hsiao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:17|21|Alex Vlaar |Dorien Lups|10|Guillaume Bonnet|Virginie Lousberg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:17|21|Alex Vlaar |Dorien Lups|15|Guillaume Bonnet|Virginie Lousberg|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:39|18|Ronja Stern|none|21|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:39|21|Ronja Stern|none|17|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:39|21|Ronja Stern|none|19|Maria Alonso|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Mark Brady|none|17|Mario Saunpere|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Mark Brady|none|15|Mario Saunpere|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Matthew Widdicombe|Jessica Hopton|9|Helgi Gretar Gunnarsson|Sara Hognadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:18|21|Matthew Widdicombe|Jessica Hopton|19|Helgi Gretar Gunnarsson|Sara Hognadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:18|21|Krzysztof Jakowczuk |Magda Konieczna|10|Fran Galjer|Maja Pavlinić|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:18|21|Krzysztof Jakowczuk |Magda Konieczna|14|Fran Galjer|Maja Pavlinić|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Bernardo Atilano|Daniela Conceição|16|Kevin Strobl|Marah Punter|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Bernardo Atilano|Daniela Conceição|14|Kevin Strobl|Marah Punter|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:21|21|Alejandro Gonzalez |Min Zhao|14|Rok Jercinovic|Katarina Beton|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:21|21|Alejandro Gonzalez |Min Zhao|14|Rok Jercinovic|Katarina Beton|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:19|21|Eidur Isak Broddason|Margret Finnbogadottir|15|Christoph Muhri|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:19|21|Eidur Isak Broddason|Margret Finnbogadottir|14|Christoph Muhri|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:30|21|Lukas Osele|Karin Maran|16|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:30|17|Lukas Osele|Karin Maran|21|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:30|21|Lukas Osele|Karin Maran|16|Daniel Johannesson|Sigridur Arnadottir|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:16|21|Zan Laznik |Nika Arih|12|Bruno Stegani|Camilla Taramelli|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:16|21|Zan Laznik |Nika Arih|7|Bruno Stegani|Camilla Taramelli|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:24|21|Ricardo Silva|Sofia Setim|16|Brais Alves|Elisa Borras|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:24|21|Ricardo Silva|Sofia Setim|16|Brais Alves|Elisa Borras|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:24|21|Andraz Krapez|Cecilija Barut|19|Jan Hubacek [3/4]|Dominika Kurzova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:24|21|Andraz Krapez|Cecilija Barut|17|Jan Hubacek [3/4]|Dominika Kurzova|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:17|21|Sean Vendy|Lydia Powell|6|Richard Schneeberger|Antonia Meinke|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:17|21|Sean Vendy|Lydia Powell|16|Richard Schneeberger|Antonia Meinke|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Muhammed Ali Kurt |Aliye Demirbag|14|Andreas Stocker|Lisa Iversen|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Muhammed Ali Kurt |Aliye Demirbag|12|Andreas Stocker|Lisa Iversen|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:25|21|Simon Skok|Ana Marija Setina|10|Anders Leirud|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:25|27|Simon Skok|Ana Marija Setina|25|Anders Leirud|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:46|24|Rowan Scheurkogel|Ann Knaepen|22|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:46|18|Rowan Scheurkogel|Ann Knaepen|21|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:46|21|Rowan Scheurkogel|Ann Knaepen|19|Joel König [1]|Céline Burkart|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Martin Cerkovnik|Nastja Stovanje|18|Lucas Fallais|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Martin Cerkovnik|Nastja Stovanje|18|Lucas Fallais|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:21|21|Manuel Vazquez |none|15|Julian Lehmann|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Manuel Vazquez |none|16|Julian Lehmann|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Luis Enrique Peñalver |none|8|Magnus Christensen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Luis Enrique Peñalver |none|13|Magnus Christensen|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|21|Leon Seiwald|none|13|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|12|Leon Seiwald|none|21|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|21|Leon Seiwald|none|16|Ruslan Sarsekenov [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:24|21|Vladimir Shishkov |none|14|Flor Spanhove|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:24|21|Vladimir Shishkov |none|10|Flor Spanhove|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Maja Pavlinić |none|6|Daniela Conceição|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Maja Pavlinić |none|14|Daniela Conceição|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:28|21|Vladyslava Lesnaya |none|5|Katarina Beton|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:28|21|Vladyslava Lesnaya |none|16|Katarina Beton|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:35|24|Collins Valentine Filimon|none|22|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:35|11|Collins Valentine Filimon|none|21|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:35|21|Collins Valentine Filimon|none|17|Blai Ramirez|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:27|21|Vincent Medina|none|19|Zan Laznik [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:27|21|Vincent Medina|none|16|Zan Laznik [9/16]|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:40|21|Alex Vlaar |none|18|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:40|20|Alex Vlaar |none|22|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:40|21|Alex Vlaar |none|15|Vicent Riera|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Krzysztof Jakowczuk |none|9|Richard Schneeberger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Krzysztof Jakowczuk |none|10|Richard Schneeberger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:22|21|Muhammed Ali Kurt |none|10|Michael Giesinger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:22|21|Muhammed Ali Kurt |none|14|Michael Giesinger|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:22|21|Miguel Rocha|none|14|Brais Alves|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:22|21|Miguel Rocha|none|11|Brais Alves|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:30|21|Sean Vendy |none|18|Mark Brady|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:30|22|Sean Vendy |none|20|Mark Brady|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:36|14|Dragoslav Petrovic |none|21|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:36|21|Dragoslav Petrovic |none|17|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:36|21|Dragoslav Petrovic |none|17|Matthew Widdicombe|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:27|21|Ângelo Silva|none|19|Fran Galjer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:27|22|Ângelo Silva|none|20|Fran Galjer|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:30|21|Wolfgang Gnedt |none|18|Jiri Louda|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:30|21|Wolfgang Gnedt |none|6|Jiri Louda|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Rowan Scheurkogel|none|11|Matteo Bellucci|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Rowan Scheurkogel|none|10|Matteo Bellucci|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:28|21|Adam Mendrek |none|12|Bernardo Atilano|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:28|21|Adam Mendrek |none|14|Bernardo Atilano|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|21|Jessica Hopton|none|4|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|20|Jessica Hopton|none|22|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:31|21|Jessica Hopton|none|10|Marah Punter|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|16|Magda Konieczna|none|21|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|21|Magda Konieczna|none|10|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|21|Magda Konieczna|none|18|Nika Arih|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Clara Azurmendi |none|19|Min Zhao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Clara Azurmendi |none|10|Min Zhao|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Dorien Lups|none|14|Cecilija Barut|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:19|21|Dorien Lups|none|14|Cecilija Barut|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:48|21|Elizaveta Pyatina |none|19|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:48|17|Elizaveta Pyatina |none|21|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:48|21|Elizaveta Pyatina |none|18|Mila Ivanova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:29|24|Ronja Stern|none|22|Sara Hognadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:29|21|Ronja Stern|none|16|Sara Hognadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|19|Janine Lais|none|21|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|21|Janine Lais|none|14|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:42|21|Janine Lais|none|14|Sigridur Arnadottir|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Isabel Fernandez |none|10|Nastja Stovanje|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Isabel Fernandez |none|17|Nastja Stovanje|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:25|21|Lydia Powell|none|18|Anna Mikhalkova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:25|21|Lydia Powell|none|17|Anna Mikhalkova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:17|21|Maria Mitsova |none|8|Giulia Fiorito|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:17|21|Maria Mitsova |none|8|Giulia Fiorito|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Sofia Setim|none|12|Ivana Zychova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:21|21|Sofia Setim|none|12|Ivana Zychova|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:24|21|Aliye Demirbag |none|12|Elisa Wiborg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:24|22|Aliye Demirbag |none|20|Elisa Wiborg|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Margret Johannsdottir|none|6|Camilla Taramelli|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:18|21|Margret Johannsdottir|none|10|Camilla Taramelli|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Alida Chen |none|12|Simone Von Rotz|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:23|21|Alida Chen |none|9|Simone Von Rotz|none|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|singles
+20140330|0:22|21|Lukas Osele|Kevin Strobl|14|Philip Birker|Christoph Muhri|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:22|22|Lukas Osele|Kevin Strobl|20|Philip Birker|Christoph Muhri|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:17|21|Jan Hubacek|Jiri Louda|14|Rok Jercinovic|Miguel Rocha|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:17|21|Jan Hubacek|Jiri Louda|9|Rok Jercinovic|Miguel Rocha|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|14|Dominik Bütikofer |Julian Lehmann|21|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|21|Dominik Bütikofer |Julian Lehmann|15|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|21|Dominik Bütikofer |Julian Lehmann|9|Fredrik Kristensen|Anders Leirud|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:31|23|Jed Arksey|Sean Vendy|21|Ricardo Silva|Ângelo Silva|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:31|21|Jed Arksey|Sean Vendy|15|Ricardo Silva|Ângelo Silva|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|21|Thomas Baures|Vincent Medina|15|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|19|Thomas Baures|Vincent Medina|21|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|21|Thomas Baures|Vincent Medina|18|Wolfgang Gnedt [3/4]|Christoph Syrch|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Rover Babatido|Rowan Scheurkogel|12|Alejandro Gonzalez|Blai Ramirez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Rover Babatido|Rowan Scheurkogel|18|Alejandro Gonzalez|Blai Ramirez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:19|21|Stijn De Langhe |Flor Spanhove|13|Eidur Isak Broddason|Helgi Gretar Gunnarsson|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:19|21|Stijn De Langhe |Flor Spanhove|13|Eidur Isak Broddason|Helgi Gretar Gunnarsson|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:17|21|Ruslan Sarsekenov|Mario Saunpere|13|Victor Alcaide|Manuel Vazquez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:17|21|Ruslan Sarsekenov|Mario Saunpere|16|Victor Alcaide|Manuel Vazquez|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|25|Mark Brady|Matthew Widdicombe|23|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|16|Mark Brady|Matthew Widdicombe|21|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:37|21|Mark Brady|Matthew Widdicombe|18|Filip Budzel|Lukas Holub|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:22|21|Quentin Mejean|Tom Rodrigues|19|Daan Philips [5/8]|Ward Van Boven|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:22|21|Quentin Mejean|Tom Rodrigues|18|Daan Philips [5/8]|Ward Van Boven|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:41|14|Andraz Krapez |Zan Laznik|21|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:41|21|Andraz Krapez |Zan Laznik|16|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:41|21|Andraz Krapez |Zan Laznik|14|Duarte Nuno Anjo|Bernardo Atilano|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Martin Cerkovnik|Simon Skok|15|David Salutt|Andreas Stocker|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Martin Cerkovnik|Simon Skok|15|David Salutt|Andreas Stocker|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:25|21|Guillaume Bonnet|Lucas Fallais|17|Matteo Bellucci|Samuel Hsiao|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:25|21|Guillaume Bonnet|Lucas Fallais|16|Matteo Bellucci|Samuel Hsiao|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:18|21|Suarez Javier |Luis Enrique Peñalver|6|Chiao-Yi Li|Richard Schneeberger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:18|21|Suarez Javier |Luis Enrique Peñalver|10|Chiao-Yi Li|Richard Schneeberger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:36|16|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|21|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:36|21|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|17|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:36|21|Sigurdur Sverrir Gunnarsson|Daniel Johannesson|15|Fran Galjer|Dragoslav Petrovic|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:45|17|Pierrick Deschenaux |Joel König|21|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:45|21|Pierrick Deschenaux |Joel König|18|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:45|21|Pierrick Deschenaux |Joel König|17|Brais Alves|Pablo Sanmartin|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:22|21|Jessica Hopton|Lydia Powell|11|Maria Alonso|Eva Murio|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:22|21|Jessica Hopton|Lydia Powell|14|Maria Alonso|Eva Murio|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:22|21|Sara Hognadottir|Margret Johannsdottir|7|Thea Johansen|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:22|21|Sara Hognadottir|Margret Johannsdottir|14|Thea Johansen|Hege Rikheim|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:34|21|Presence Beelen|Ann Knaepen|19|Céline Burkart|Simone Von Rotz|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:34|21|Presence Beelen|Ann Knaepen|15|Céline Burkart|Simone Von Rotz|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Elisa Borras|Marta Molina|14|Lucrezia Boccasile|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:20|21|Elisa Borras|Marta Molina|12|Lucrezia Boccasile|Giulia Fiorito|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:33|21|Sigridur Arnadottir|Margret Finnbogadottir|11|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:33|19|Sigridur Arnadottir|Margret Finnbogadottir|21|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:33|21|Sigridur Arnadottir|Margret Finnbogadottir|6|Virginie Lousberg|Sixtine Roy|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Vladyslava Lesnaya|Anna Mikhalkova|13|Antonia Meinke|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles
+20140330|0:23|21|Vladyslava Lesnaya|Anna Mikhalkova|19|Antonia Meinke|Nina Sorger|3E35C03D-6F6F-4B55-A1E6-99509E5E3E44|doubles

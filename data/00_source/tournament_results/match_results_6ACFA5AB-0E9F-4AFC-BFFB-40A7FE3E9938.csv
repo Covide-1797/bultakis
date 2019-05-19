@@ -1,0 +1,835 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150113|0:17|21|Kok Pong Loke |none|10|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:17|21|Kok Pong Loke |none|12|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:32|21|Duck Young Kim|Go Ah Ra|15|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:32|21|Duck Young Kim|Go Ah Ra|14|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:29|16|Saputra Alvindo|none|21|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:29|21|Saputra Alvindo|none|9|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:29|21|Saputra Alvindo|none|14|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:37|11|Viky Anindita|none|21|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:37|21|Viky Anindita|none|7|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:37|21|Viky Anindita|none|11|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:26|21|Akbar Panji|Apriani Apriani|12|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:26|22|Akbar Panji|Apriani Apriani|20|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:25|21|Hendra Aprida Gunawan|Nadya Melati|13|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:25|21|Hendra Aprida Gunawan|Nadya Melati|15|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|17|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|14|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:44|20|Jun Bong Chan|Kim Ji Won|22|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:44|21|Jun Bong Chan|Kim Ji Won|13|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:44|22|Jun Bong Chan|Kim Ji Won|20|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:49|17|Ruselli Hartawan|none|21|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:49|21|Ruselli Hartawan|none|12|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:49|21|Ruselli Hartawan|none|18|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:26|21|Xiaoyu Liang|none|9|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:26|21|Xiaoyu Liang|none|10|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:26|21|Koh Eunbyeol|none|6|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:26|21|Koh Eunbyeol|none|14|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:37|21|Yen Mei Ho|none|15|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:37|21|Yen Mei Ho|none|18|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|1:02|18|Susanto Yulia Yosephin|none|21|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|1:02|22|Susanto Yulia Yosephin|none|20|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|1:02|21|Susanto Yulia Yosephin|none|19|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:55|22|Rusydina Antardayu Riodingin|none|20|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:55|9|Rusydina Antardayu Riodingin|none|21|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:55|21|Rusydina Antardayu Riodingin|none|14|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|22|Peiy Yee, Payee Lim|none|20|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Peiy Yee, Payee Lim|none|14|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:31|21|Kwan Ting Sean Lee|none|12|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:31|17|Kwan Ting Sean Lee|none|21|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:31|21|Kwan Ting Sean Lee|none|4|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|13|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|9|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:23|21|Khim Wah Lim|Meng Yean Lee|18|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:23|21|Khim Wah Lim|Meng Yean Lee|13|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:31|21|Wei Chen Liu |Yang Po Han|17|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:31|21|Wei Chen Liu |Yang Po Han|14|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:25|21|Lu Chi Yuan|none|13|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:25|21|Lu Chi Yuan|none|17|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Reksy Aureza Megananda |none|11|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Reksy Aureza Megananda |none|13|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:25|21|Cheng Po Wei|none|10|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:25|21|Cheng Po Wei|none|16|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|16|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|17|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:40|21|Kwang Hee Heo |none|8|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:40|10|Kwang Hee Heo |none|21|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:40|21|Kwang Hee Heo |none|10|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:55|21|Yu Ming, Adam Lau|none|13|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:55|18|Yu Ming, Adam Lau|none|21|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:55|21|Yu Ming, Adam Lau|none|19|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:25|21|Liang Jui Wei|Yu Chieh Cheng|17|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:25|21|Liang Jui Wei|Yu Chieh Cheng|12|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:35|21|Yu Leong, Alfred Lau|none|23|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:35|21|Yu Leong, Alfred Lau|none|14|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:35|11|Yu Leong, Alfred Lau|none|2|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:35|Walkover Win|Yu Leong, Alfred Lau|none|Walkover Loss|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:22|21|Muhammad Shakhier Ruhizad|none|12|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:22|21|Muhammad Shakhier Ruhizad|none|9|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Jun Bong Chan|Duck Young Kim|12|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:24|21|Jun Bong Chan|Duck Young Kim|11|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|17|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:40|12|Yong Kai Terry Hee|Hendra Wijaya|21|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|13|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|15|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|14|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:42|21|Akbar Panji|none|15|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:42|21|Akbar Panji|none|19|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:18|21|Jang Mi Lee|none|8|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:18|21|Jang Mi Lee|none|6|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:41|20|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:41|24|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:41|21|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|19|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:19|21|Jian Yi Lee|Zhen Ting Lim|16|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:19|21|Jian Yi Lee|Zhen Ting Lim|14|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:31|21|Wee Gieen Tan|Ee Yi Teo|19|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:31|21|Wee Gieen Tan|Ee Yi Teo|18|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:22|21|Yang Chih Chieh|none|17|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:22|21|Yang Chih Chieh|none|11|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:29|21|Lin Chia Hsuan |none|9|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:29|21|Lin Chia Hsuan |none|17|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:25|21|Rusydina Antardayu Riodingin|none|15|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:25|21|Rusydina Antardayu Riodingin|none|13|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:54|22|Hendra Aprida Gunawan|Nadya Melati|20|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:54|17|Hendra Aprida Gunawan|Nadya Melati|21|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:54|21|Hendra Aprida Gunawan|Nadya Melati|17|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:48|23|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:48|13|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:48|21|Saputra Alvindo|none|17|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Jun Bong Chan|Kim Ji Won|12|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:24|21|Jun Bong Chan|Kim Ji Won|10|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:30|21|Hsueh Hsuan Yi |none|11|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:30|21|Hsueh Hsuan Yi |none|14|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:51|9|Koh Eunbyeol|none|21|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:51|21|Koh Eunbyeol|none|13|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:51|21|Koh Eunbyeol|none|18|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:44|6|Ruselli Hartawan|none|21|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:44|22|Ruselli Hartawan|none|20|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:44|21|Ruselli Hartawan|none|15|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113||Walkover Win|Yang Chih Chieh|none|Walkover Loss|Nizar Muhammad|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:27|21|Muhammad Shakhier Ruhizad|none|17|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:27|21|Muhammad Shakhier Ruhizad|none|12|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:44|17|Wei Chen Liu |Yang Po Han|21|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:44|27|Wei Chen Liu |Yang Po Han|25|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:44|21|Wei Chen Liu |Yang Po Han|13|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:29|21|Kwan Ting Sean Lee|none|18|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:29|21|Kwan Ting Sean Lee|none|13|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:20|21|Hsieh Pei Chen|Wu Ti Jung|12|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:20|21|Hsieh Pei Chen|Wu Ti Jung|11|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:53|19|Reksy Aureza Megananda |none|21|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:53|21|Reksy Aureza Megananda |none|15|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:53|21|Reksy Aureza Megananda |none|9|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:24|21|Wee Gieen Tan|Ee Yi Teo|17|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:24|21|Wee Gieen Tan|Ee Yi Teo|14|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:48|18|Komala Dewi|Jenna Gozali|21|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:48|21|Komala Dewi|Jenna Gozali|11|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:48|21|Komala Dewi|Jenna Gozali|9|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:04|11|Lin Chia Hsuan |none|4|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:04|Walkover Win|Lin Chia Hsuan |none|Walkover Loss|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|11|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|8|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150113|0:29|21|Jang Mi Lee|none|15|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150113|0:29|21|Jang Mi Lee|none|12|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:17|21|Kok Pong Loke |none|10|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:17|21|Kok Pong Loke |none|12|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:32|21|Duck Young Kim|Go Ah Ra|15|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:32|21|Duck Young Kim|Go Ah Ra|14|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:29|16|Saputra Alvindo|none|21|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:29|21|Saputra Alvindo|none|9|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:29|21|Saputra Alvindo|none|14|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:37|11|Viky Anindita|none|21|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:37|21|Viky Anindita|none|7|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:37|21|Viky Anindita|none|11|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:26|21|Akbar Panji|Apriani Apriani|12|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:26|22|Akbar Panji|Apriani Apriani|20|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:25|21|Hendra Aprida Gunawan|Nadya Melati|13|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:25|21|Hendra Aprida Gunawan|Nadya Melati|15|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|17|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|14|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:44|20|Jun Bong Chan|Kim Ji Won|22|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:44|21|Jun Bong Chan|Kim Ji Won|13|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:44|22|Jun Bong Chan|Kim Ji Won|20|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:49|17|Ruselli Hartawan|none|21|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:49|21|Ruselli Hartawan|none|12|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:49|21|Ruselli Hartawan|none|18|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:26|21|Xiaoyu Liang|none|9|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:26|21|Xiaoyu Liang|none|10|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:26|21|Koh Eunbyeol|none|6|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:26|21|Koh Eunbyeol|none|14|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:37|21|Yen Mei Ho|none|15|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:37|21|Yen Mei Ho|none|18|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|1:02|18|Susanto Yulia Yosephin|none|21|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|1:02|22|Susanto Yulia Yosephin|none|20|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|1:02|21|Susanto Yulia Yosephin|none|19|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:55|22|Rusydina Antardayu Riodingin|none|20|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:55|9|Rusydina Antardayu Riodingin|none|21|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:55|21|Rusydina Antardayu Riodingin|none|14|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|22|Peiy Yee, Payee Lim|none|20|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Peiy Yee, Payee Lim|none|14|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:31|21|Kwan Ting Sean Lee|none|12|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:31|17|Kwan Ting Sean Lee|none|21|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:31|21|Kwan Ting Sean Lee|none|4|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|13|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|9|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:23|21|Khim Wah Lim|Meng Yean Lee|18|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:23|21|Khim Wah Lim|Meng Yean Lee|13|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:31|21|Wei Chen Liu |Yang Po Han|17|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:31|21|Wei Chen Liu |Yang Po Han|14|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:25|21|Lu Chi Yuan|none|13|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:25|21|Lu Chi Yuan|none|17|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Reksy Aureza Megananda |none|11|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Reksy Aureza Megananda |none|13|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:25|21|Cheng Po Wei|none|10|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:25|21|Cheng Po Wei|none|16|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|16|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|17|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:40|21|Kwang Hee Heo |none|8|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:40|10|Kwang Hee Heo |none|21|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:40|21|Kwang Hee Heo |none|10|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:55|21|Yu Ming, Adam Lau|none|13|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:55|18|Yu Ming, Adam Lau|none|21|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:55|21|Yu Ming, Adam Lau|none|19|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:25|21|Liang Jui Wei|Yu Chieh Cheng|17|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:25|21|Liang Jui Wei|Yu Chieh Cheng|12|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:35|21|Yu Leong, Alfred Lau|none|23|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:35|21|Yu Leong, Alfred Lau|none|14|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:35|11|Yu Leong, Alfred Lau|none|2|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:35|Walkover Win|Yu Leong, Alfred Lau|none|Walkover Loss|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:22|21|Muhammad Shakhier Ruhizad|none|12|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:22|21|Muhammad Shakhier Ruhizad|none|9|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Jun Bong Chan|Duck Young Kim|12|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:24|21|Jun Bong Chan|Duck Young Kim|11|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|17|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:40|12|Yong Kai Terry Hee|Hendra Wijaya|21|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|13|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|15|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|14|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:42|21|Akbar Panji|none|15|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:42|21|Akbar Panji|none|19|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:18|21|Jang Mi Lee|none|8|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:18|21|Jang Mi Lee|none|6|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:41|20|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:41|24|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:41|21|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|19|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:19|21|Jian Yi Lee|Zhen Ting Lim|16|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:19|21|Jian Yi Lee|Zhen Ting Lim|14|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:31|21|Wee Gieen Tan|Ee Yi Teo|19|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:31|21|Wee Gieen Tan|Ee Yi Teo|18|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:22|21|Yang Chih Chieh|none|17|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:22|21|Yang Chih Chieh|none|11|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:29|21|Lin Chia Hsuan |none|9|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:29|21|Lin Chia Hsuan |none|17|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:25|21|Rusydina Antardayu Riodingin|none|15|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:25|21|Rusydina Antardayu Riodingin|none|13|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:54|22|Hendra Aprida Gunawan|Nadya Melati|20|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:54|17|Hendra Aprida Gunawan|Nadya Melati|21|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:54|21|Hendra Aprida Gunawan|Nadya Melati|17|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:48|23|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:48|13|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:48|21|Saputra Alvindo|none|17|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Jun Bong Chan|Kim Ji Won|12|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:24|21|Jun Bong Chan|Kim Ji Won|10|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:30|21|Hsueh Hsuan Yi |none|11|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:30|21|Hsueh Hsuan Yi |none|14|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:51|9|Koh Eunbyeol|none|21|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:51|21|Koh Eunbyeol|none|13|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:51|21|Koh Eunbyeol|none|18|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:44|6|Ruselli Hartawan|none|21|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:44|22|Ruselli Hartawan|none|20|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:44|21|Ruselli Hartawan|none|15|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114||Walkover Win|Yang Chih Chieh|none|Walkover Loss|Nizar Muhammad|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:27|21|Muhammad Shakhier Ruhizad|none|17|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:27|21|Muhammad Shakhier Ruhizad|none|12|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:44|17|Wei Chen Liu |Yang Po Han|21|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:44|27|Wei Chen Liu |Yang Po Han|25|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:44|21|Wei Chen Liu |Yang Po Han|13|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:29|21|Kwan Ting Sean Lee|none|18|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:29|21|Kwan Ting Sean Lee|none|13|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:20|21|Hsieh Pei Chen|Wu Ti Jung|12|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:20|21|Hsieh Pei Chen|Wu Ti Jung|11|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:53|19|Reksy Aureza Megananda |none|21|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:53|21|Reksy Aureza Megananda |none|15|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:53|21|Reksy Aureza Megananda |none|9|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:24|21|Wee Gieen Tan|Ee Yi Teo|17|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:24|21|Wee Gieen Tan|Ee Yi Teo|14|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:48|18|Komala Dewi|Jenna Gozali|21|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:48|21|Komala Dewi|Jenna Gozali|11|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:48|21|Komala Dewi|Jenna Gozali|9|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:04|11|Lin Chia Hsuan |none|4|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:04|Walkover Win|Lin Chia Hsuan |none|Walkover Loss|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|11|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|8|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150114|0:29|21|Jang Mi Lee|none|15|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150114|0:29|21|Jang Mi Lee|none|12|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:17|21|Kok Pong Loke |none|10|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:17|21|Kok Pong Loke |none|12|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:32|21|Duck Young Kim|Go Ah Ra|15|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:32|21|Duck Young Kim|Go Ah Ra|14|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:29|16|Saputra Alvindo|none|21|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:29|21|Saputra Alvindo|none|9|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:29|21|Saputra Alvindo|none|14|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:37|11|Viky Anindita|none|21|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:37|21|Viky Anindita|none|7|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:37|21|Viky Anindita|none|11|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:26|21|Akbar Panji|Apriani Apriani|12|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:26|22|Akbar Panji|Apriani Apriani|20|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:25|21|Hendra Aprida Gunawan|Nadya Melati|13|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:25|21|Hendra Aprida Gunawan|Nadya Melati|15|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|17|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|14|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:44|20|Jun Bong Chan|Kim Ji Won|22|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:44|21|Jun Bong Chan|Kim Ji Won|13|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:44|22|Jun Bong Chan|Kim Ji Won|20|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:49|17|Ruselli Hartawan|none|21|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:49|21|Ruselli Hartawan|none|12|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:49|21|Ruselli Hartawan|none|18|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:26|21|Xiaoyu Liang|none|9|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:26|21|Xiaoyu Liang|none|10|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:26|21|Koh Eunbyeol|none|6|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:26|21|Koh Eunbyeol|none|14|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:37|21|Yen Mei Ho|none|15|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:37|21|Yen Mei Ho|none|18|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|1:02|18|Susanto Yulia Yosephin|none|21|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|1:02|22|Susanto Yulia Yosephin|none|20|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|1:02|21|Susanto Yulia Yosephin|none|19|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:55|22|Rusydina Antardayu Riodingin|none|20|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:55|9|Rusydina Antardayu Riodingin|none|21|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:55|21|Rusydina Antardayu Riodingin|none|14|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|22|Peiy Yee, Payee Lim|none|20|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Peiy Yee, Payee Lim|none|14|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:31|21|Kwan Ting Sean Lee|none|12|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:31|17|Kwan Ting Sean Lee|none|21|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:31|21|Kwan Ting Sean Lee|none|4|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|13|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|9|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:23|21|Khim Wah Lim|Meng Yean Lee|18|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:23|21|Khim Wah Lim|Meng Yean Lee|13|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:31|21|Wei Chen Liu |Yang Po Han|17|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:31|21|Wei Chen Liu |Yang Po Han|14|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:25|21|Lu Chi Yuan|none|13|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:25|21|Lu Chi Yuan|none|17|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Reksy Aureza Megananda |none|11|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Reksy Aureza Megananda |none|13|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:25|21|Cheng Po Wei|none|10|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:25|21|Cheng Po Wei|none|16|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|16|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|17|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:40|21|Kwang Hee Heo |none|8|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:40|10|Kwang Hee Heo |none|21|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:40|21|Kwang Hee Heo |none|10|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:55|21|Yu Ming, Adam Lau|none|13|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:55|18|Yu Ming, Adam Lau|none|21|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:55|21|Yu Ming, Adam Lau|none|19|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:25|21|Liang Jui Wei|Yu Chieh Cheng|17|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:25|21|Liang Jui Wei|Yu Chieh Cheng|12|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:35|21|Yu Leong, Alfred Lau|none|23|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:35|21|Yu Leong, Alfred Lau|none|14|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:35|11|Yu Leong, Alfred Lau|none|2|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:35|Walkover Win|Yu Leong, Alfred Lau|none|Walkover Loss|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:22|21|Muhammad Shakhier Ruhizad|none|12|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:22|21|Muhammad Shakhier Ruhizad|none|9|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Jun Bong Chan|Duck Young Kim|12|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:24|21|Jun Bong Chan|Duck Young Kim|11|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|17|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:40|12|Yong Kai Terry Hee|Hendra Wijaya|21|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|13|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|15|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|14|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:42|21|Akbar Panji|none|15|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:42|21|Akbar Panji|none|19|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:18|21|Jang Mi Lee|none|8|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:18|21|Jang Mi Lee|none|6|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:41|20|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:41|24|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:41|21|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|19|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:19|21|Jian Yi Lee|Zhen Ting Lim|16|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:19|21|Jian Yi Lee|Zhen Ting Lim|14|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:31|21|Wee Gieen Tan|Ee Yi Teo|19|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:31|21|Wee Gieen Tan|Ee Yi Teo|18|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:22|21|Yang Chih Chieh|none|17|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:22|21|Yang Chih Chieh|none|11|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:29|21|Lin Chia Hsuan |none|9|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:29|21|Lin Chia Hsuan |none|17|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:25|21|Rusydina Antardayu Riodingin|none|15|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:25|21|Rusydina Antardayu Riodingin|none|13|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:54|22|Hendra Aprida Gunawan|Nadya Melati|20|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:54|17|Hendra Aprida Gunawan|Nadya Melati|21|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:54|21|Hendra Aprida Gunawan|Nadya Melati|17|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:48|23|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:48|13|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:48|21|Saputra Alvindo|none|17|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Jun Bong Chan|Kim Ji Won|12|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:24|21|Jun Bong Chan|Kim Ji Won|10|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:30|21|Hsueh Hsuan Yi |none|11|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:30|21|Hsueh Hsuan Yi |none|14|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:51|9|Koh Eunbyeol|none|21|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:51|21|Koh Eunbyeol|none|13|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:51|21|Koh Eunbyeol|none|18|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:44|6|Ruselli Hartawan|none|21|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:44|22|Ruselli Hartawan|none|20|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:44|21|Ruselli Hartawan|none|15|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115||Walkover Win|Yang Chih Chieh|none|Walkover Loss|Nizar Muhammad|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:27|21|Muhammad Shakhier Ruhizad|none|17|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:27|21|Muhammad Shakhier Ruhizad|none|12|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:44|17|Wei Chen Liu |Yang Po Han|21|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:44|27|Wei Chen Liu |Yang Po Han|25|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:44|21|Wei Chen Liu |Yang Po Han|13|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:29|21|Kwan Ting Sean Lee|none|18|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:29|21|Kwan Ting Sean Lee|none|13|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:20|21|Hsieh Pei Chen|Wu Ti Jung|12|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:20|21|Hsieh Pei Chen|Wu Ti Jung|11|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:53|19|Reksy Aureza Megananda |none|21|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:53|21|Reksy Aureza Megananda |none|15|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:53|21|Reksy Aureza Megananda |none|9|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:24|21|Wee Gieen Tan|Ee Yi Teo|17|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:24|21|Wee Gieen Tan|Ee Yi Teo|14|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:48|18|Komala Dewi|Jenna Gozali|21|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:48|21|Komala Dewi|Jenna Gozali|11|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:48|21|Komala Dewi|Jenna Gozali|9|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:04|11|Lin Chia Hsuan |none|4|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:04|Walkover Win|Lin Chia Hsuan |none|Walkover Loss|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|11|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|8|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150115|0:29|21|Jang Mi Lee|none|15|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150115|0:29|21|Jang Mi Lee|none|12|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:17|21|Kok Pong Loke |none|10|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:17|21|Kok Pong Loke |none|12|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:32|21|Duck Young Kim|Go Ah Ra|15|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:32|21|Duck Young Kim|Go Ah Ra|14|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:29|16|Saputra Alvindo|none|21|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:29|21|Saputra Alvindo|none|9|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:29|21|Saputra Alvindo|none|14|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:37|11|Viky Anindita|none|21|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:37|21|Viky Anindita|none|7|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:37|21|Viky Anindita|none|11|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:26|21|Akbar Panji|Apriani Apriani|12|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:26|22|Akbar Panji|Apriani Apriani|20|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:25|21|Hendra Aprida Gunawan|Nadya Melati|13|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:25|21|Hendra Aprida Gunawan|Nadya Melati|15|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|17|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|14|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:44|20|Jun Bong Chan|Kim Ji Won|22|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:44|21|Jun Bong Chan|Kim Ji Won|13|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:44|22|Jun Bong Chan|Kim Ji Won|20|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:49|17|Ruselli Hartawan|none|21|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:49|21|Ruselli Hartawan|none|12|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:49|21|Ruselli Hartawan|none|18|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:26|21|Xiaoyu Liang|none|9|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:26|21|Xiaoyu Liang|none|10|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:26|21|Koh Eunbyeol|none|6|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:26|21|Koh Eunbyeol|none|14|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:37|21|Yen Mei Ho|none|15|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:37|21|Yen Mei Ho|none|18|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|1:02|18|Susanto Yulia Yosephin|none|21|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|1:02|22|Susanto Yulia Yosephin|none|20|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|1:02|21|Susanto Yulia Yosephin|none|19|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:55|22|Rusydina Antardayu Riodingin|none|20|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:55|9|Rusydina Antardayu Riodingin|none|21|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:55|21|Rusydina Antardayu Riodingin|none|14|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|22|Peiy Yee, Payee Lim|none|20|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Peiy Yee, Payee Lim|none|14|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:31|21|Kwan Ting Sean Lee|none|12|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:31|17|Kwan Ting Sean Lee|none|21|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:31|21|Kwan Ting Sean Lee|none|4|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|13|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|9|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:23|21|Khim Wah Lim|Meng Yean Lee|18|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:23|21|Khim Wah Lim|Meng Yean Lee|13|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:31|21|Wei Chen Liu |Yang Po Han|17|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:31|21|Wei Chen Liu |Yang Po Han|14|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:25|21|Lu Chi Yuan|none|13|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:25|21|Lu Chi Yuan|none|17|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Reksy Aureza Megananda |none|11|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Reksy Aureza Megananda |none|13|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:25|21|Cheng Po Wei|none|10|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:25|21|Cheng Po Wei|none|16|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|16|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|17|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:40|21|Kwang Hee Heo |none|8|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:40|10|Kwang Hee Heo |none|21|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:40|21|Kwang Hee Heo |none|10|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:55|21|Yu Ming, Adam Lau|none|13|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:55|18|Yu Ming, Adam Lau|none|21|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:55|21|Yu Ming, Adam Lau|none|19|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:25|21|Liang Jui Wei|Yu Chieh Cheng|17|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:25|21|Liang Jui Wei|Yu Chieh Cheng|12|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:35|21|Yu Leong, Alfred Lau|none|23|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:35|21|Yu Leong, Alfred Lau|none|14|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:35|11|Yu Leong, Alfred Lau|none|2|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:35|Walkover Win|Yu Leong, Alfred Lau|none|Walkover Loss|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:22|21|Muhammad Shakhier Ruhizad|none|12|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:22|21|Muhammad Shakhier Ruhizad|none|9|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Jun Bong Chan|Duck Young Kim|12|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:24|21|Jun Bong Chan|Duck Young Kim|11|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|17|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:40|12|Yong Kai Terry Hee|Hendra Wijaya|21|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|13|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|15|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|14|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:42|21|Akbar Panji|none|15|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:42|21|Akbar Panji|none|19|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:18|21|Jang Mi Lee|none|8|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:18|21|Jang Mi Lee|none|6|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:41|20|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:41|24|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:41|21|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|19|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:19|21|Jian Yi Lee|Zhen Ting Lim|16|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:19|21|Jian Yi Lee|Zhen Ting Lim|14|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:31|21|Wee Gieen Tan|Ee Yi Teo|19|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:31|21|Wee Gieen Tan|Ee Yi Teo|18|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:22|21|Yang Chih Chieh|none|17|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:22|21|Yang Chih Chieh|none|11|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:29|21|Lin Chia Hsuan |none|9|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:29|21|Lin Chia Hsuan |none|17|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:25|21|Rusydina Antardayu Riodingin|none|15|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:25|21|Rusydina Antardayu Riodingin|none|13|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:54|22|Hendra Aprida Gunawan|Nadya Melati|20|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:54|17|Hendra Aprida Gunawan|Nadya Melati|21|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:54|21|Hendra Aprida Gunawan|Nadya Melati|17|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:48|23|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:48|13|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:48|21|Saputra Alvindo|none|17|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Jun Bong Chan|Kim Ji Won|12|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:24|21|Jun Bong Chan|Kim Ji Won|10|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:30|21|Hsueh Hsuan Yi |none|11|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:30|21|Hsueh Hsuan Yi |none|14|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:51|9|Koh Eunbyeol|none|21|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:51|21|Koh Eunbyeol|none|13|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:51|21|Koh Eunbyeol|none|18|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:44|6|Ruselli Hartawan|none|21|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:44|22|Ruselli Hartawan|none|20|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:44|21|Ruselli Hartawan|none|15|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116||Walkover Win|Yang Chih Chieh|none|Walkover Loss|Nizar Muhammad|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:27|21|Muhammad Shakhier Ruhizad|none|17|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:27|21|Muhammad Shakhier Ruhizad|none|12|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:44|17|Wei Chen Liu |Yang Po Han|21|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:44|27|Wei Chen Liu |Yang Po Han|25|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:44|21|Wei Chen Liu |Yang Po Han|13|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:29|21|Kwan Ting Sean Lee|none|18|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:29|21|Kwan Ting Sean Lee|none|13|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:20|21|Hsieh Pei Chen|Wu Ti Jung|12|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:20|21|Hsieh Pei Chen|Wu Ti Jung|11|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:53|19|Reksy Aureza Megananda |none|21|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:53|21|Reksy Aureza Megananda |none|15|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:53|21|Reksy Aureza Megananda |none|9|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:24|21|Wee Gieen Tan|Ee Yi Teo|17|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:24|21|Wee Gieen Tan|Ee Yi Teo|14|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:48|18|Komala Dewi|Jenna Gozali|21|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:48|21|Komala Dewi|Jenna Gozali|11|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:48|21|Komala Dewi|Jenna Gozali|9|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:04|11|Lin Chia Hsuan |none|4|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:04|Walkover Win|Lin Chia Hsuan |none|Walkover Loss|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|11|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|8|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150116|0:29|21|Jang Mi Lee|none|15|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150116|0:29|21|Jang Mi Lee|none|12|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:17|21|Kok Pong Loke |none|10|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:17|21|Kok Pong Loke |none|12|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:32|21|Duck Young Kim|Go Ah Ra|15|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:32|21|Duck Young Kim|Go Ah Ra|14|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:29|16|Saputra Alvindo|none|21|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:29|21|Saputra Alvindo|none|9|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:29|21|Saputra Alvindo|none|14|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:37|11|Viky Anindita|none|21|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:37|21|Viky Anindita|none|7|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:37|21|Viky Anindita|none|11|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:26|21|Akbar Panji|Apriani Apriani|12|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:26|22|Akbar Panji|Apriani Apriani|20|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:25|21|Hendra Aprida Gunawan|Nadya Melati|13|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:25|21|Hendra Aprida Gunawan|Nadya Melati|15|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|17|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|14|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:44|20|Jun Bong Chan|Kim Ji Won|22|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:44|21|Jun Bong Chan|Kim Ji Won|13|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:44|22|Jun Bong Chan|Kim Ji Won|20|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:49|17|Ruselli Hartawan|none|21|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:49|21|Ruselli Hartawan|none|12|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:49|21|Ruselli Hartawan|none|18|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:26|21|Xiaoyu Liang|none|9|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:26|21|Xiaoyu Liang|none|10|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:26|21|Koh Eunbyeol|none|6|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:26|21|Koh Eunbyeol|none|14|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:37|21|Yen Mei Ho|none|15|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:37|21|Yen Mei Ho|none|18|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|1:02|18|Susanto Yulia Yosephin|none|21|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|1:02|22|Susanto Yulia Yosephin|none|20|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|1:02|21|Susanto Yulia Yosephin|none|19|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:55|22|Rusydina Antardayu Riodingin|none|20|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:55|9|Rusydina Antardayu Riodingin|none|21|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:55|21|Rusydina Antardayu Riodingin|none|14|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|22|Peiy Yee, Payee Lim|none|20|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Peiy Yee, Payee Lim|none|14|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:31|21|Kwan Ting Sean Lee|none|12|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:31|17|Kwan Ting Sean Lee|none|21|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:31|21|Kwan Ting Sean Lee|none|4|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|13|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|9|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:23|21|Khim Wah Lim|Meng Yean Lee|18|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:23|21|Khim Wah Lim|Meng Yean Lee|13|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:31|21|Wei Chen Liu |Yang Po Han|17|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:31|21|Wei Chen Liu |Yang Po Han|14|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:25|21|Lu Chi Yuan|none|13|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:25|21|Lu Chi Yuan|none|17|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Reksy Aureza Megananda |none|11|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Reksy Aureza Megananda |none|13|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:25|21|Cheng Po Wei|none|10|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:25|21|Cheng Po Wei|none|16|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|16|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|17|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:40|21|Kwang Hee Heo |none|8|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:40|10|Kwang Hee Heo |none|21|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:40|21|Kwang Hee Heo |none|10|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:55|21|Yu Ming, Adam Lau|none|13|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:55|18|Yu Ming, Adam Lau|none|21|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:55|21|Yu Ming, Adam Lau|none|19|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:25|21|Liang Jui Wei|Yu Chieh Cheng|17|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:25|21|Liang Jui Wei|Yu Chieh Cheng|12|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:35|21|Yu Leong, Alfred Lau|none|23|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:35|21|Yu Leong, Alfred Lau|none|14|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:35|11|Yu Leong, Alfred Lau|none|2|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:35|Walkover Win|Yu Leong, Alfred Lau|none|Walkover Loss|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:22|21|Muhammad Shakhier Ruhizad|none|12|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:22|21|Muhammad Shakhier Ruhizad|none|9|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Jun Bong Chan|Duck Young Kim|12|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:24|21|Jun Bong Chan|Duck Young Kim|11|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|17|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:40|12|Yong Kai Terry Hee|Hendra Wijaya|21|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|13|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|15|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|14|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:42|21|Akbar Panji|none|15|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:42|21|Akbar Panji|none|19|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:18|21|Jang Mi Lee|none|8|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:18|21|Jang Mi Lee|none|6|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:41|20|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:41|24|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:41|21|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|19|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:19|21|Jian Yi Lee|Zhen Ting Lim|16|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:19|21|Jian Yi Lee|Zhen Ting Lim|14|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:31|21|Wee Gieen Tan|Ee Yi Teo|19|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:31|21|Wee Gieen Tan|Ee Yi Teo|18|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:22|21|Yang Chih Chieh|none|17|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:22|21|Yang Chih Chieh|none|11|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:29|21|Lin Chia Hsuan |none|9|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:29|21|Lin Chia Hsuan |none|17|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:25|21|Rusydina Antardayu Riodingin|none|15|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:25|21|Rusydina Antardayu Riodingin|none|13|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:54|22|Hendra Aprida Gunawan|Nadya Melati|20|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:54|17|Hendra Aprida Gunawan|Nadya Melati|21|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:54|21|Hendra Aprida Gunawan|Nadya Melati|17|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:48|23|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:48|13|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:48|21|Saputra Alvindo|none|17|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Jun Bong Chan|Kim Ji Won|12|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:24|21|Jun Bong Chan|Kim Ji Won|10|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:30|21|Hsueh Hsuan Yi |none|11|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:30|21|Hsueh Hsuan Yi |none|14|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:51|9|Koh Eunbyeol|none|21|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:51|21|Koh Eunbyeol|none|13|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:51|21|Koh Eunbyeol|none|18|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:44|6|Ruselli Hartawan|none|21|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:44|22|Ruselli Hartawan|none|20|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:44|21|Ruselli Hartawan|none|15|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117||Walkover Win|Yang Chih Chieh|none|Walkover Loss|Nizar Muhammad|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:27|21|Muhammad Shakhier Ruhizad|none|17|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:27|21|Muhammad Shakhier Ruhizad|none|12|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:44|17|Wei Chen Liu |Yang Po Han|21|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:44|27|Wei Chen Liu |Yang Po Han|25|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:44|21|Wei Chen Liu |Yang Po Han|13|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:29|21|Kwan Ting Sean Lee|none|18|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:29|21|Kwan Ting Sean Lee|none|13|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:20|21|Hsieh Pei Chen|Wu Ti Jung|12|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:20|21|Hsieh Pei Chen|Wu Ti Jung|11|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:53|19|Reksy Aureza Megananda |none|21|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:53|21|Reksy Aureza Megananda |none|15|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:53|21|Reksy Aureza Megananda |none|9|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:24|21|Wee Gieen Tan|Ee Yi Teo|17|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:24|21|Wee Gieen Tan|Ee Yi Teo|14|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:48|18|Komala Dewi|Jenna Gozali|21|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:48|21|Komala Dewi|Jenna Gozali|11|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:48|21|Komala Dewi|Jenna Gozali|9|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:04|11|Lin Chia Hsuan |none|4|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:04|Walkover Win|Lin Chia Hsuan |none|Walkover Loss|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|11|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|8|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150117|0:29|21|Jang Mi Lee|none|15|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150117|0:29|21|Jang Mi Lee|none|12|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:17|21|Kok Pong Loke |none|10|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:17|21|Kok Pong Loke |none|12|Jian Yi Lee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:32|21|Duck Young Kim|Go Ah Ra|15|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:32|21|Duck Young Kim|Go Ah Ra|14|Takuto Inoue|Ayane Kurihara|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:29|16|Saputra Alvindo|none|21|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:29|21|Saputra Alvindo|none|9|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:29|21|Saputra Alvindo|none|14|Zhen Ting Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:37|11|Viky Anindita|none|21|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:37|21|Viky Anindita|none|7|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:37|21|Viky Anindita|none|11|Kay Ee Yeoh|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:26|21|Akbar Panji|Apriani Apriani|12|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:26|22|Akbar Panji|Apriani Apriani|20|Khek Wei Chua|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:25|21|Hendra Aprida Gunawan|Nadya Melati|13|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:25|21|Hendra Aprida Gunawan|Nadya Melati|15|Wee Gieen Tan|Yen Wei Peck|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|17|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:21|21|Yonathan Suryatama Dasuki|Dian Fitriani|14|Lu Chia Pin|Szu Yu Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:44|20|Jun Bong Chan|Kim Ji Won|22|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:44|21|Jun Bong Chan|Kim Ji Won|13|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:44|22|Jun Bong Chan|Kim Ji Won|20|Andrei Adistia|Jenna Gozali|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:49|17|Ruselli Hartawan|none|21|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:49|21|Ruselli Hartawan|none|12|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:49|21|Ruselli Hartawan|none|18|Chiew Sien Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:26|21|Xiaoyu Liang|none|9|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:26|21|Xiaoyu Liang|none|10|Jauza Fadhila Sugiarto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:26|21|Koh Eunbyeol|none|6|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:26|21|Koh Eunbyeol|none|14|Yin Fun Lim [4]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:37|21|Yen Mei Ho|none|15|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:37|21|Yen Mei Ho|none|18|Febby Angguni|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|1:02|18|Susanto Yulia Yosephin|none|21|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|1:02|22|Susanto Yulia Yosephin|none|20|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|1:02|21|Susanto Yulia Yosephin|none|19|Chiang Mei Hui|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:55|22|Rusydina Antardayu Riodingin|none|20|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:55|9|Rusydina Antardayu Riodingin|none|21|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:55|21|Rusydina Antardayu Riodingin|none|14|Chochuwong Pornpawee|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|22|Peiy Yee, Payee Lim|none|20|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Peiy Yee, Payee Lim|none|14|Julia Pei Xian Wong|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:31|21|Kwan Ting Sean Lee|none|12|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:31|17|Kwan Ting Sean Lee|none|21|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:31|21|Kwan Ting Sean Lee|none|4|Gaurav Venkat|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|13|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:19|21|Kean Hean Loh|Yi Ling Elaine Chua|9|Hsiao-Lin Wu|Hsieh Pei Chen|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:23|21|Khim Wah Lim|Meng Yean Lee|18|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:23|21|Khim Wah Lim|Meng Yean Lee|13|Jian Yi Lee|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:31|21|Wei Chen Liu |Yang Po Han|17|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:31|21|Wei Chen Liu |Yang Po Han|14|Di Hua Ng|Man Chun Woon|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:25|21|Lu Chi Yuan|none|13|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:25|21|Lu Chi Yuan|none|17|Ikmal Hussain Jaafar|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Reksy Aureza Megananda |none|11|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Reksy Aureza Megananda |none|13|Zulhelmi Zulkiffli|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:25|21|Cheng Po Wei|none|10|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:25|21|Cheng Po Wei|none|16|Fang Yang Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|16|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:28|21|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|17|Asuro Rizko|Ellen Frederika Setiawan|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:40|21|Kwang Hee Heo |none|8|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:40|10|Kwang Hee Heo |none|21|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:40|21|Kwang Hee Heo |none|10|Vincent Cheng Wei Phuah|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:55|21|Yu Ming, Adam Lau|none|13|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:55|18|Yu Ming, Adam Lau|none|21|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:55|21|Yu Ming, Adam Lau|none|19|Andrew Susanto|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:25|21|Liang Jui Wei|Yu Chieh Cheng|17|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:25|21|Liang Jui Wei|Yu Chieh Cheng|12|Ardiansyah|Devi Tika Permatasari|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:35|21|Yu Leong, Alfred Lau|none|23|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:35|21|Yu Leong, Alfred Lau|none|14|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:35|11|Yu Leong, Alfred Lau|none|2|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:35|Walkover Win|Yu Leong, Alfred Lau|none|Walkover Loss|Beng Hong Kuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:22|21|Muhammad Shakhier Ruhizad|none|12|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:22|21|Muhammad Shakhier Ruhizad|none|9|Januari Ari|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Jun Bong Chan|Duck Young Kim|12|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:24|21|Jun Bong Chan|Duck Young Kim|11|Yan Sheng Lee|Woon Fui Lin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|17|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:40|12|Yong Kai Terry Hee|Hendra Wijaya|21|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:40|21|Yong Kai Terry Hee|Hendra Wijaya|13|Tai An Khang|Hong Kheng Yew|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|15|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:22|21|Yonathan Suryatama Dasuki|Didit Juang|14|Yeet Siang Lin|Guan Ming Wong|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:42|21|Akbar Panji|none|15|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:42|21|Akbar Panji|none|19|Kanta Tsuneyama|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:18|21|Jang Mi Lee|none|8|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:18|21|Jang Mi Lee|none|6|Peiy Zhean Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:41|20|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:41|24|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|22|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:41|21|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|19|Kwan Ting Sean Lee|Kean Yew Loh|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:19|21|Jian Yi Lee|Zhen Ting Lim|16|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:19|21|Jian Yi Lee|Zhen Ting Lim|14|Viky Anindita|Setiawan Hidayat|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:31|21|Wee Gieen Tan|Ee Yi Teo|19|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:31|21|Wee Gieen Tan|Ee Yi Teo|18|Lee Chun Hei Reginald|Yeung Shing Choi|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:22|21|Yang Chih Chieh|none|17|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:22|21|Yang Chih Chieh|none|11|Shahzan Shah Misfahul|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:29|21|Lin Chia Hsuan |none|9|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:29|21|Lin Chia Hsuan |none|17|Krishna Kumar S|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:31|21|Duck Young Kim|Go Ah Ra|19|Kean Hean Loh|Yi Ling Elaine Chua|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:24|21|Khim Wah Lim|Meng Yean Lee|14|Liang Jui Wei|Yu Chieh Cheng|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:25|21|Rusydina Antardayu Riodingin|none|15|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:25|21|Rusydina Antardayu Riodingin|none|13|Peiy Yee, Payee Lim|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:54|22|Hendra Aprida Gunawan|Nadya Melati|20|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:54|17|Hendra Aprida Gunawan|Nadya Melati|21|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:54|21|Hendra Aprida Gunawan|Nadya Melati|17|Akbar Panji|Apriani Apriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:48|23|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:48|13|Saputra Alvindo|none|21|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:48|21|Saputra Alvindo|none|17|Yu Ming, Adam Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Jun Bong Chan|Kim Ji Won|12|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:24|21|Jun Bong Chan|Kim Ji Won|10|Yonathan Suryatama Dasuki|Dian Fitriani|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:30|21|Hsueh Hsuan Yi |none|11|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:30|21|Hsueh Hsuan Yi |none|14|Viky Anindita|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:51|9|Koh Eunbyeol|none|21|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:51|21|Koh Eunbyeol|none|13|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:51|21|Koh Eunbyeol|none|18|Yen Mei Ho|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:44|6|Ruselli Hartawan|none|21|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:44|22|Ruselli Hartawan|none|20|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:44|21|Ruselli Hartawan|none|15|Xiaoyu Liang|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118||Walkover Win|Yang Chih Chieh|none|Walkover Loss|Nizar Muhammad|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:27|21|Muhammad Shakhier Ruhizad|none|17|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:27|21|Muhammad Shakhier Ruhizad|none|12|Yu Leong, Alfred Lau|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Kwang Hee Heo |none|13|Cheng Po Wei|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:44|17|Wei Chen Liu |Yang Po Han|21|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:44|27|Wei Chen Liu |Yang Po Han|25|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:44|21|Wei Chen Liu |Yang Po Han|13|Yonathan Suryatama Dasuki|Didit Juang|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:29|21|Kwan Ting Sean Lee|none|18|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:29|21|Kwan Ting Sean Lee|none|13|Kok Pong Loke [8]|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:20|21|Hsieh Pei Chen|Wu Ti Jung|12|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:20|21|Hsieh Pei Chen|Wu Ti Jung|11|Peiy Yee, Payee Lim|Peiy Zhean Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:53|19|Reksy Aureza Megananda |none|21|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:53|21|Reksy Aureza Megananda |none|15|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:53|21|Reksy Aureza Megananda |none|9|Akbar Panji|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:24|21|Wee Gieen Tan|Ee Yi Teo|17|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:24|21|Wee Gieen Tan|Ee Yi Teo|14|Mohd Razif Abdul Latif|Mohd Zakry Abdul Latif|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:48|18|Komala Dewi|Jenna Gozali|21|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:48|21|Komala Dewi|Jenna Gozali|11|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:48|21|Komala Dewi|Jenna Gozali|9|Erica Pei Shan Khoo|Zhen Yap|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:04|11|Lin Chia Hsuan |none|4|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:04|Walkover Win|Lin Chia Hsuan |none|Walkover Loss|Lu Chi Yuan|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|11|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:16|21|Yong Kai Terry Hee|Hendra Wijaya|8|Jian Yi Lee|Zhen Ting Lim|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:30|21|Jun Bong Chan|Duck Young Kim|12|Darren Isaac Devadass|Muhammad Amzzar Zainuddin|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|doubles
+20150118|0:29|21|Jang Mi Lee|none|15|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles
+20150118|0:29|21|Jang Mi Lee|none|12|Susanto Yulia Yosephin|none|6ACFA5AB-0E9F-4AFC-BFFB-40A7FE3E9938|singles

@@ -1,0 +1,605 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20151112|0:40|20|Karel Eriksson|Thea Kristina Johansen|22|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:40|21|Karel Eriksson|Thea Kristina Johansen|18|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:40|21|Karel Eriksson|Thea Kristina Johansen|9|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:20|21|Asuro Rizko|Anna Paavola|15|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:20|21|Asuro Rizko|Anna Paavola|12|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:16|21|Magnus Christensen|Marie Christensen|18|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:16|21|Magnus Christensen|Marie Christensen|16|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:16|21|Justin Teeuwen|Cheryl Seinen|11|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:16|21|Justin Teeuwen|Cheryl Seinen|8|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:21|21|Jin Junyu|none|10|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:21|21|Jin Junyu|none|13|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Maciej Ociepa|none|6|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Maciej Ociepa|none|10|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:48|23|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:48|14|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:48|21|Torjus Flaatten|none|17|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:19|21|Shaun Ekengren|none|8|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:19|21|Shaun Ekengren|none|15|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:18|21|Andy Tsai|none|6|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:18|21|Andy Tsai|none|7|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:35|21|Rowan Scheurkogel|none|18|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:35|21|Rowan Scheurkogel|none|16|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Jakob Godt Hansen|none|17|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Jakob Godt Hansen|none|16|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:19|21|Patrick Bjerregaard|none|8|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:19|21|Patrick Bjerregaard|none|9|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:24|21|Karel Eriksson|none|11|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:24|21|Karel Eriksson|none|12|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:17|21|Przemyslaw Szydlowski|none|9|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:17|21|Przemyslaw Szydlowski|none|10|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Romain Eudeline|none|7|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Romain Eudeline|none|11|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:29|21|Kian Andersen|none|16|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:29|21|Kian Andersen|none|14|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|David Peng|none|8|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|David Peng|none|14|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:34|16|Kristine Haakonseth|none|21|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:34|21|Kristine Haakonseth|none|12|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:34|21|Kristine Haakonseth|none|15|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:13|21|Rachael Darragh|none|7|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:13|21|Rachael Darragh|none|8|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Frida Lindstrom|none|13|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Frida Lindstrom|none|3|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112||Walkover Win|Vilde Espeseth|none|Walkover Loss|Sara Boyle [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:21|21|Jekaterina Romanova|none|12|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:21|21|Jekaterina Romanova|none|14|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:17|21|Clara Nistad|none|7|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:17|21|Clara Nistad|none|5|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:50|16|Anne Klyve|none|21|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:50|30|Anne Klyve|none|28|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:50|21|Anne Klyve|none|18|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|23|Elisa Wiborg|none|21|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Elisa Wiborg|none|11|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Marlene Wåland|none|16|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Marlene Wåland|none|14|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|21|Madeleine Persson|none|13|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|23|Madeleine Persson|none|21|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:22|21|Charlotte Leinan|none|10|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:22|21|Charlotte Leinan|none|15|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:36|21|Linn Lilian Stenrud|none|17|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:36|22|Linn Lilian Stenrud|none|20|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:18|21|Alex Luong|Thai To|12|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:18|21|Alex Luong|Thai To|14|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:23|21|Mika Kongas |none|17|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|Mika Kongas |none|19|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|22|Mateusz Biernacki|none|20|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Mateusz Biernacki|none|19|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:49|21|Andy Tsai|none|17|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:49|19|Andy Tsai|none|21|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:49|21|Andy Tsai|none|18|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Victor Svendsen |none|11|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Victor Svendsen |none|15|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|Jakob Godt Hansen|none|13|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|Jakob Godt Hansen|none|12|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:41|19|Jin Junyu|none|21|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:41|21|Jin Junyu|none|10|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:41|21|Jin Junyu|none|19|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:26|21|Douglas Lidman |none|19|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:26|21|Douglas Lidman |none|16|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112||Walkover Win|Shaun Ekengren|none|Walkover Loss|Stijn De Langhe [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:24|21|Patrick Bjerregaard|none|15|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:24|21|Patrick Bjerregaard|none|9|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Joshua Eipe |none|7|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Joshua Eipe |none|6|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:35|21|Karan Rajan Rajarajan|none|18|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:35|24|Karan Rajan Rajarajan|none|22|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:45|15|Romain Eudeline|none|21|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Carl Christian Hem|none|5|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Carl Christian Hem|none|12|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:26|21|Kian Andersen|none|14|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:26|21|Kian Andersen|none|13|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:22|21|David Peng|none|14|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:22|21|David Peng|none|9|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|Adam Khan |none|15|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|Adam Khan |none|14|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112||Walkover Win|Kristine Haakonseth|none|Walkover Loss|Berfin Aslan [1]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|21|Rachael Darragh|none|17|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|21|Rachael Darragh|none|15|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:45|15|Vilde Espeseth|none|21|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:41|21|Julie Rechnagel Christensen|none|18|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:41|16|Julie Rechnagel Christensen|none|21|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:41|21|Julie Rechnagel Christensen|none|15|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:21|21|Karolina Gajos|none|14|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:21|21|Karolina Gajos|none|15|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:50|18|Marlene Wåland|none|21|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:50|21|Marlene Wåland|none|15|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:50|21|Marlene Wåland|none|19|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Madeleine Persson|none|9|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Madeleine Persson|none|17|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112||Walkover Win|Linn Lilian Stenrud|none|Walkover Loss|Lovisa Johansson [2]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:39|18|Jakob Burestedt |Shaun Ekengren|21|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:39|21|Jakob Burestedt |Shaun Ekengren|15|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:39|21|Jakob Burestedt |Shaun Ekengren|10|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112||Walkover Win|Justin Teeuwen|Cheryl Seinen|Walkover Loss|Mika Kongas [2]|Riikka Sinkko|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:17|21|Asuro Rizko|Anna Paavola|10|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:17|21|Asuro Rizko|Anna Paavola|8|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112||Walkover Win|Karel Eriksson|Thea Kristina Johansen|Walkover Loss|Mikkel Kaersgaard Henriksen [1]|Louise Eriksson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:25|21|Andy Tsai|none|12|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:25|21|Andy Tsai|none|11|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:20|21|Felix Nandin|Rebecca Johnsson|12|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:20|23|Felix Nandin|Rebecca Johnsson|21|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151112|0:31|21|Douglas Lidman |none|17|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:31|21|Douglas Lidman |none|13|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|21|Romain Eudeline|none|19|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|21|Romain Eudeline|none|15|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|21|Victor Svendsen |none|13|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:27|21|Victor Svendsen |none|12|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:36|21|Adam Khan |none|16|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:36|21|Adam Khan |none|17|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Mika Kongas |none|14|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:30|21|Mika Kongas |none|19|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:37|21|Patrick Bjerregaard|none|14|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:37|22|Patrick Bjerregaard|none|20|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|Kian Andersen|none|8|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151112|0:23|21|Kian Andersen|none|11|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:40|20|Karel Eriksson|Thea Kristina Johansen|22|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:40|21|Karel Eriksson|Thea Kristina Johansen|18|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:40|21|Karel Eriksson|Thea Kristina Johansen|9|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:20|21|Asuro Rizko|Anna Paavola|15|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:20|21|Asuro Rizko|Anna Paavola|12|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:16|21|Magnus Christensen|Marie Christensen|18|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:16|21|Magnus Christensen|Marie Christensen|16|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:16|21|Justin Teeuwen|Cheryl Seinen|11|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:16|21|Justin Teeuwen|Cheryl Seinen|8|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:21|21|Jin Junyu|none|10|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:21|21|Jin Junyu|none|13|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Maciej Ociepa|none|6|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Maciej Ociepa|none|10|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:48|23|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:48|14|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:48|21|Torjus Flaatten|none|17|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:19|21|Shaun Ekengren|none|8|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:19|21|Shaun Ekengren|none|15|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:18|21|Andy Tsai|none|6|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:18|21|Andy Tsai|none|7|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:35|21|Rowan Scheurkogel|none|18|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:35|21|Rowan Scheurkogel|none|16|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Jakob Godt Hansen|none|17|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Jakob Godt Hansen|none|16|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:19|21|Patrick Bjerregaard|none|8|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:19|21|Patrick Bjerregaard|none|9|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:24|21|Karel Eriksson|none|11|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:24|21|Karel Eriksson|none|12|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:17|21|Przemyslaw Szydlowski|none|9|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:17|21|Przemyslaw Szydlowski|none|10|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Romain Eudeline|none|7|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Romain Eudeline|none|11|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:29|21|Kian Andersen|none|16|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:29|21|Kian Andersen|none|14|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|David Peng|none|8|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|David Peng|none|14|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:34|16|Kristine Haakonseth|none|21|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:34|21|Kristine Haakonseth|none|12|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:34|21|Kristine Haakonseth|none|15|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:13|21|Rachael Darragh|none|7|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:13|21|Rachael Darragh|none|8|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Frida Lindstrom|none|13|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Frida Lindstrom|none|3|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113||Walkover Win|Vilde Espeseth|none|Walkover Loss|Sara Boyle [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:21|21|Jekaterina Romanova|none|12|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:21|21|Jekaterina Romanova|none|14|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:17|21|Clara Nistad|none|7|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:17|21|Clara Nistad|none|5|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:50|16|Anne Klyve|none|21|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:50|30|Anne Klyve|none|28|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:50|21|Anne Klyve|none|18|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|23|Elisa Wiborg|none|21|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Elisa Wiborg|none|11|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Marlene Wåland|none|16|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Marlene Wåland|none|14|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|21|Madeleine Persson|none|13|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|23|Madeleine Persson|none|21|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:22|21|Charlotte Leinan|none|10|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:22|21|Charlotte Leinan|none|15|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:36|21|Linn Lilian Stenrud|none|17|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:36|22|Linn Lilian Stenrud|none|20|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:18|21|Alex Luong|Thai To|12|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:18|21|Alex Luong|Thai To|14|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:23|21|Mika Kongas |none|17|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|Mika Kongas |none|19|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|22|Mateusz Biernacki|none|20|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Mateusz Biernacki|none|19|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:49|21|Andy Tsai|none|17|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:49|19|Andy Tsai|none|21|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:49|21|Andy Tsai|none|18|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Victor Svendsen |none|11|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Victor Svendsen |none|15|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|Jakob Godt Hansen|none|13|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|Jakob Godt Hansen|none|12|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:41|19|Jin Junyu|none|21|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:41|21|Jin Junyu|none|10|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:41|21|Jin Junyu|none|19|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:26|21|Douglas Lidman |none|19|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:26|21|Douglas Lidman |none|16|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113||Walkover Win|Shaun Ekengren|none|Walkover Loss|Stijn De Langhe [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:24|21|Patrick Bjerregaard|none|15|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:24|21|Patrick Bjerregaard|none|9|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Joshua Eipe |none|7|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Joshua Eipe |none|6|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:35|21|Karan Rajan Rajarajan|none|18|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:35|24|Karan Rajan Rajarajan|none|22|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:45|15|Romain Eudeline|none|21|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Carl Christian Hem|none|5|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Carl Christian Hem|none|12|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:26|21|Kian Andersen|none|14|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:26|21|Kian Andersen|none|13|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:22|21|David Peng|none|14|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:22|21|David Peng|none|9|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|Adam Khan |none|15|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|Adam Khan |none|14|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113||Walkover Win|Kristine Haakonseth|none|Walkover Loss|Berfin Aslan [1]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|21|Rachael Darragh|none|17|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|21|Rachael Darragh|none|15|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:45|15|Vilde Espeseth|none|21|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:41|21|Julie Rechnagel Christensen|none|18|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:41|16|Julie Rechnagel Christensen|none|21|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:41|21|Julie Rechnagel Christensen|none|15|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:21|21|Karolina Gajos|none|14|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:21|21|Karolina Gajos|none|15|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:50|18|Marlene Wåland|none|21|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:50|21|Marlene Wåland|none|15|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:50|21|Marlene Wåland|none|19|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Madeleine Persson|none|9|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Madeleine Persson|none|17|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113||Walkover Win|Linn Lilian Stenrud|none|Walkover Loss|Lovisa Johansson [2]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:39|18|Jakob Burestedt |Shaun Ekengren|21|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:39|21|Jakob Burestedt |Shaun Ekengren|15|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:39|21|Jakob Burestedt |Shaun Ekengren|10|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113||Walkover Win|Justin Teeuwen|Cheryl Seinen|Walkover Loss|Mika Kongas [2]|Riikka Sinkko|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:17|21|Asuro Rizko|Anna Paavola|10|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:17|21|Asuro Rizko|Anna Paavola|8|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113||Walkover Win|Karel Eriksson|Thea Kristina Johansen|Walkover Loss|Mikkel Kaersgaard Henriksen [1]|Louise Eriksson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:25|21|Andy Tsai|none|12|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:25|21|Andy Tsai|none|11|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:20|21|Felix Nandin|Rebecca Johnsson|12|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:20|23|Felix Nandin|Rebecca Johnsson|21|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151113|0:31|21|Douglas Lidman |none|17|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:31|21|Douglas Lidman |none|13|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|21|Romain Eudeline|none|19|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|21|Romain Eudeline|none|15|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|21|Victor Svendsen |none|13|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:27|21|Victor Svendsen |none|12|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:36|21|Adam Khan |none|16|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:36|21|Adam Khan |none|17|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Mika Kongas |none|14|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:30|21|Mika Kongas |none|19|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:37|21|Patrick Bjerregaard|none|14|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:37|22|Patrick Bjerregaard|none|20|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|Kian Andersen|none|8|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151113|0:23|21|Kian Andersen|none|11|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:40|20|Karel Eriksson|Thea Kristina Johansen|22|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:40|21|Karel Eriksson|Thea Kristina Johansen|18|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:40|21|Karel Eriksson|Thea Kristina Johansen|9|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:20|21|Asuro Rizko|Anna Paavola|15|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:20|21|Asuro Rizko|Anna Paavola|12|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:16|21|Magnus Christensen|Marie Christensen|18|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:16|21|Magnus Christensen|Marie Christensen|16|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:16|21|Justin Teeuwen|Cheryl Seinen|11|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:16|21|Justin Teeuwen|Cheryl Seinen|8|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:21|21|Jin Junyu|none|10|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:21|21|Jin Junyu|none|13|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Maciej Ociepa|none|6|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Maciej Ociepa|none|10|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:48|23|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:48|14|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:48|21|Torjus Flaatten|none|17|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:19|21|Shaun Ekengren|none|8|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:19|21|Shaun Ekengren|none|15|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:18|21|Andy Tsai|none|6|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:18|21|Andy Tsai|none|7|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:35|21|Rowan Scheurkogel|none|18|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:35|21|Rowan Scheurkogel|none|16|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Jakob Godt Hansen|none|17|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Jakob Godt Hansen|none|16|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:19|21|Patrick Bjerregaard|none|8|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:19|21|Patrick Bjerregaard|none|9|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:24|21|Karel Eriksson|none|11|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:24|21|Karel Eriksson|none|12|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:17|21|Przemyslaw Szydlowski|none|9|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:17|21|Przemyslaw Szydlowski|none|10|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Romain Eudeline|none|7|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Romain Eudeline|none|11|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:29|21|Kian Andersen|none|16|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:29|21|Kian Andersen|none|14|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|David Peng|none|8|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|David Peng|none|14|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:34|16|Kristine Haakonseth|none|21|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:34|21|Kristine Haakonseth|none|12|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:34|21|Kristine Haakonseth|none|15|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:13|21|Rachael Darragh|none|7|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:13|21|Rachael Darragh|none|8|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Frida Lindstrom|none|13|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Frida Lindstrom|none|3|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114||Walkover Win|Vilde Espeseth|none|Walkover Loss|Sara Boyle [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:21|21|Jekaterina Romanova|none|12|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:21|21|Jekaterina Romanova|none|14|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:17|21|Clara Nistad|none|7|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:17|21|Clara Nistad|none|5|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:50|16|Anne Klyve|none|21|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:50|30|Anne Klyve|none|28|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:50|21|Anne Klyve|none|18|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|23|Elisa Wiborg|none|21|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Elisa Wiborg|none|11|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Marlene Wåland|none|16|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Marlene Wåland|none|14|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|21|Madeleine Persson|none|13|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|23|Madeleine Persson|none|21|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:22|21|Charlotte Leinan|none|10|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:22|21|Charlotte Leinan|none|15|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:36|21|Linn Lilian Stenrud|none|17|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:36|22|Linn Lilian Stenrud|none|20|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:18|21|Alex Luong|Thai To|12|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:18|21|Alex Luong|Thai To|14|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:23|21|Mika Kongas |none|17|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|Mika Kongas |none|19|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|22|Mateusz Biernacki|none|20|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Mateusz Biernacki|none|19|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:49|21|Andy Tsai|none|17|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:49|19|Andy Tsai|none|21|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:49|21|Andy Tsai|none|18|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Victor Svendsen |none|11|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Victor Svendsen |none|15|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|Jakob Godt Hansen|none|13|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|Jakob Godt Hansen|none|12|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:41|19|Jin Junyu|none|21|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:41|21|Jin Junyu|none|10|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:41|21|Jin Junyu|none|19|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:26|21|Douglas Lidman |none|19|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:26|21|Douglas Lidman |none|16|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114||Walkover Win|Shaun Ekengren|none|Walkover Loss|Stijn De Langhe [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:24|21|Patrick Bjerregaard|none|15|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:24|21|Patrick Bjerregaard|none|9|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Joshua Eipe |none|7|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Joshua Eipe |none|6|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:35|21|Karan Rajan Rajarajan|none|18|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:35|24|Karan Rajan Rajarajan|none|22|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:45|15|Romain Eudeline|none|21|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Carl Christian Hem|none|5|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Carl Christian Hem|none|12|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:26|21|Kian Andersen|none|14|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:26|21|Kian Andersen|none|13|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:22|21|David Peng|none|14|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:22|21|David Peng|none|9|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|Adam Khan |none|15|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|Adam Khan |none|14|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114||Walkover Win|Kristine Haakonseth|none|Walkover Loss|Berfin Aslan [1]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|21|Rachael Darragh|none|17|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|21|Rachael Darragh|none|15|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:45|15|Vilde Espeseth|none|21|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:41|21|Julie Rechnagel Christensen|none|18|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:41|16|Julie Rechnagel Christensen|none|21|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:41|21|Julie Rechnagel Christensen|none|15|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:21|21|Karolina Gajos|none|14|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:21|21|Karolina Gajos|none|15|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:50|18|Marlene Wåland|none|21|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:50|21|Marlene Wåland|none|15|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:50|21|Marlene Wåland|none|19|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Madeleine Persson|none|9|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Madeleine Persson|none|17|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114||Walkover Win|Linn Lilian Stenrud|none|Walkover Loss|Lovisa Johansson [2]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:39|18|Jakob Burestedt |Shaun Ekengren|21|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:39|21|Jakob Burestedt |Shaun Ekengren|15|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:39|21|Jakob Burestedt |Shaun Ekengren|10|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114||Walkover Win|Justin Teeuwen|Cheryl Seinen|Walkover Loss|Mika Kongas [2]|Riikka Sinkko|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:17|21|Asuro Rizko|Anna Paavola|10|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:17|21|Asuro Rizko|Anna Paavola|8|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114||Walkover Win|Karel Eriksson|Thea Kristina Johansen|Walkover Loss|Mikkel Kaersgaard Henriksen [1]|Louise Eriksson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:25|21|Andy Tsai|none|12|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:25|21|Andy Tsai|none|11|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:20|21|Felix Nandin|Rebecca Johnsson|12|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:20|23|Felix Nandin|Rebecca Johnsson|21|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151114|0:31|21|Douglas Lidman |none|17|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:31|21|Douglas Lidman |none|13|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|21|Romain Eudeline|none|19|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|21|Romain Eudeline|none|15|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|21|Victor Svendsen |none|13|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:27|21|Victor Svendsen |none|12|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:36|21|Adam Khan |none|16|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:36|21|Adam Khan |none|17|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Mika Kongas |none|14|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:30|21|Mika Kongas |none|19|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:37|21|Patrick Bjerregaard|none|14|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:37|22|Patrick Bjerregaard|none|20|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|Kian Andersen|none|8|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151114|0:23|21|Kian Andersen|none|11|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:40|20|Karel Eriksson|Thea Kristina Johansen|22|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:40|21|Karel Eriksson|Thea Kristina Johansen|18|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:40|21|Karel Eriksson|Thea Kristina Johansen|9|Jorgen Rosenlund|Jeanette Svendsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:17|21|Felix Nandin|Rebecca Johnsson|14|Toheed Annad Saeed|Frida Sotnes Hamang|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:20|21|Asuro Rizko|Anna Paavola|15|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:20|21|Asuro Rizko|Anna Paavola|12|Jesper Kristensen|Helene Sogaard|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:16|21|Magnus Christensen|Marie Christensen|18|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:16|21|Magnus Christensen|Marie Christensen|16|Martin Forssberg|Madeleine Persson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:16|21|Justin Teeuwen|Cheryl Seinen|11|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:16|21|Justin Teeuwen|Cheryl Seinen|8|Karl Ødegård|Christiane Dahl Nielsen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:21|21|Jin Junyu|none|10|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:21|21|Jin Junyu|none|13|Mads Marum|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Maciej Ociepa|none|6|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Maciej Ociepa|none|10|Tobias Krømke|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:48|23|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:48|14|Torjus Flaatten|none|21|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:48|21|Torjus Flaatten|none|17|Andreas Hoffmann|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:19|21|Shaun Ekengren|none|8|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:19|21|Shaun Ekengren|none|15|Nikolay Avenstrup|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:18|21|Andy Tsai|none|6|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:18|21|Andy Tsai|none|7|Thomas Berge|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:35|21|Rowan Scheurkogel|none|18|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:35|21|Rowan Scheurkogel|none|16|Marcin Nowak|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Jakob Godt Hansen|none|17|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Jakob Godt Hansen|none|16|Vegard Rikheim|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:19|21|Patrick Bjerregaard|none|8|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:19|21|Patrick Bjerregaard|none|9|Felix Nandin|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:24|21|Karel Eriksson|none|11|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:24|21|Karel Eriksson|none|12|Ole Herman Imset|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:17|21|Przemyslaw Szydlowski|none|9|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:17|21|Przemyslaw Szydlowski|none|10|Christoffer Kanck Ripegutu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Romain Eudeline|none|7|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Romain Eudeline|none|11|Karl Ødegård|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:15|21|Carl Christian Hem|none|10|Johannes Orri Olafsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:29|21|Kian Andersen|none|16|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:29|21|Kian Andersen|none|14|Mattias Xu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|David Peng|none|8|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|David Peng|none|14|Carl Christian Møller|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:34|16|Kristine Haakonseth|none|21|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:34|21|Kristine Haakonseth|none|12|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:34|21|Kristine Haakonseth|none|15|Emilie Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:13|21|Rachael Darragh|none|7|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:13|21|Rachael Darragh|none|8|Marit Ulmo|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Frida Lindstrom|none|13|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Frida Lindstrom|none|3|Ida Høyland|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115||Walkover Win|Vilde Espeseth|none|Walkover Loss|Sara Boyle [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:21|21|Jekaterina Romanova|none|12|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:21|21|Jekaterina Romanova|none|14|Christiane Dahl Nielsen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Julie Rechnagel Christensen|none|12|Marie Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:17|21|Clara Nistad|none|7|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:17|21|Clara Nistad|none|5|Frida Sotnes Hamang|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:18|21|Karolina Gajos|none|10|Cecilie Li|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:50|16|Anne Klyve|none|21|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:50|30|Anne Klyve|none|28|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:50|21|Anne Klyve|none|18|Thea Kristina Johansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|23|Elisa Wiborg|none|21|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Elisa Wiborg|none|11|Linda Marie Danielsson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Marlene Wåland|none|16|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Marlene Wåland|none|14|Veronika Koldova [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|21|Madeleine Persson|none|13|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|23|Madeleine Persson|none|21|Irina Eklund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:22|21|Charlotte Leinan|none|10|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:22|21|Charlotte Leinan|none|15|Liana Lencevica|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:36|21|Linn Lilian Stenrud|none|17|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:36|22|Linn Lilian Stenrud|none|20|Anna Paavola|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:18|21|Alex Luong|Thai To|12|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:18|21|Alex Luong|Thai To|14|Nikolay Avenstrup|Christoffer Kanck Ripegutu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:18|21|Jin Junyu|Douglas Lidman|10|Toheed Annad Saeed|Mattias Xu|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:23|21|Mika Kongas |none|17|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|Mika Kongas |none|19|Tom Andersson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|22|Mateusz Biernacki|none|20|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Mateusz Biernacki|none|19|Torjus Flaatten|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:49|21|Andy Tsai|none|17|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:49|19|Andy Tsai|none|21|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:49|21|Andy Tsai|none|18|Peter Roenn Stensaeth|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Victor Svendsen |none|11|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Victor Svendsen |none|15|Rowan Scheurkogel|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|Jakob Godt Hansen|none|13|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|Jakob Godt Hansen|none|12|Jorgen Rosenlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:41|19|Jin Junyu|none|21|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:41|21|Jin Junyu|none|10|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:41|21|Jin Junyu|none|19|Oskar Westerlund|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:26|21|Douglas Lidman |none|19|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:26|21|Douglas Lidman |none|16|Maciej Ociepa|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115||Walkover Win|Shaun Ekengren|none|Walkover Loss|Stijn De Langhe [3]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:24|21|Patrick Bjerregaard|none|15|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:24|21|Patrick Bjerregaard|none|9|Magnus Christensen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Joshua Eipe |none|7|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Joshua Eipe |none|6|Karel Eriksson|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:35|21|Karan Rajan Rajarajan|none|18|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:35|24|Karan Rajan Rajarajan|none|22|Przemyslaw Szydlowski|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:45|15|Romain Eudeline|none|21|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:45|21|Romain Eudeline|none|12|Krzysztof Jakowczuk [4]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Carl Christian Hem|none|5|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Carl Christian Hem|none|12|Toheed Annad Saeed|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:26|21|Kian Andersen|none|14|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:26|21|Kian Andersen|none|13|Robert Mann [5]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:22|21|David Peng|none|14|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:22|21|David Peng|none|9|Jakob Burestedt|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|Adam Khan |none|15|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|Adam Khan |none|14|Martin Forssberg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115||Walkover Win|Kristine Haakonseth|none|Walkover Loss|Berfin Aslan [1]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|21|Rachael Darragh|none|17|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|21|Rachael Darragh|none|15|Frida Lindstrom|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:45|15|Vilde Espeseth|none|21|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:45|24|Vilde Espeseth|none|22|Jekaterina Romanova|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:41|21|Julie Rechnagel Christensen|none|18|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:41|16|Julie Rechnagel Christensen|none|21|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:41|21|Julie Rechnagel Christensen|none|15|Clara Nistad|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:21|21|Karolina Gajos|none|14|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:21|21|Karolina Gajos|none|15|Anne Klyve|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:50|18|Marlene Wåland|none|21|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:50|21|Marlene Wåland|none|15|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:50|21|Marlene Wåland|none|19|Elisa Wiborg|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Madeleine Persson|none|9|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Madeleine Persson|none|17|Charlotte Leinan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115||Walkover Win|Linn Lilian Stenrud|none|Walkover Loss|Lovisa Johansson [2]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:39|18|Jakob Burestedt |Shaun Ekengren|21|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:39|21|Jakob Burestedt |Shaun Ekengren|15|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:39|21|Jakob Burestedt |Shaun Ekengren|10|Alex Luong|Thai To|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:25|21|Jin Junyu|Douglas Lidman|7|Ole Herman Imset|Johannes Orri Olafsson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115||Walkover Win|Justin Teeuwen|Cheryl Seinen|Walkover Loss|Mika Kongas [2]|Riikka Sinkko|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:17|21|Asuro Rizko|Anna Paavola|10|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:17|21|Asuro Rizko|Anna Paavola|8|Magnus Christensen|Marie Christensen|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115||Walkover Win|Karel Eriksson|Thea Kristina Johansen|Walkover Loss|Mikkel Kaersgaard Henriksen [1]|Louise Eriksson|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:25|21|Andy Tsai|none|12|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:25|21|Andy Tsai|none|11|Shaun Ekengren|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:20|21|Felix Nandin|Rebecca Johnsson|12|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:20|23|Felix Nandin|Rebecca Johnsson|21|Mads Marum|Marlene Wåland|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|doubles
+20151115|0:31|21|Douglas Lidman |none|17|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:31|21|Douglas Lidman |none|13|Mateusz Biernacki|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|21|Romain Eudeline|none|19|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|21|Romain Eudeline|none|15|Karan Rajan Rajarajan|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|21|Victor Svendsen |none|13|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:27|21|Victor Svendsen |none|12|Jakob Godt Hansen|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:36|21|Adam Khan |none|16|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:36|21|Adam Khan |none|17|David Peng|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Mika Kongas |none|14|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:30|21|Mika Kongas |none|19|Jin Junyu|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:37|21|Patrick Bjerregaard|none|14|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:37|22|Patrick Bjerregaard|none|20|Joshua Eipe [8]|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|Kian Andersen|none|8|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles
+20151115|0:23|21|Kian Andersen|none|11|Carl Christian Hem|none|7FEE9BC4-65E2-4C59-B5C6-6278BB1EE4D4|singles

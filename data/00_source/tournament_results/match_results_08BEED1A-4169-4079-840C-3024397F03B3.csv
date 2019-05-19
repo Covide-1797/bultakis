@@ -1,0 +1,677 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20181217|0:37|22|Mehmet Akarsu|Betul Baskan|20|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:37|10|Mehmet Akarsu|Betul Baskan|21|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:37|21|Mehmet Akarsu|Betul Baskan|12|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:17|21|Hilmican Şimşek|Ceren Ozdemir|10|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:17|21|Hilmican Şimşek|Ceren Ozdemir|12|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:24|21|Erenturk Özder|Zeynep Özgen|15|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:24|21|Erenturk Özder|Zeynep Özgen|16|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|9|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|7|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|15|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|6|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:20|21|Semih Baha Basakin |Ece Sare Basakin|11|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:20|21|Semih Baha Basakin |Ece Sare Basakin|9|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|16|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|10|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:28|21|Emre Sonmez|Zehra Erdem|7|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:28|21|Emre Sonmez|Zehra Erdem|16|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:23|21|Bugrahan Perk|none|7|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Bugrahan Perk|none|18|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Ivan Panev|none|12|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Ivan Panev|none|13|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:21|21|Frederik Æbleøe Christesen |none|8|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:21|21|Frederik Æbleøe Christesen |none|17|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:38|18|Phillipe Charron|none|21|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:38|21|Phillipe Charron|none|13|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:38|21|Phillipe Charron|none|14|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:17|21|Haktan Doğan|none|8|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:17|21|Haktan Doğan|none|7|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Ahmetcan Oruc|none|15|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Ahmetcan Oruc|none|7|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:58|16|Abdurasul Khadjaev|none|21|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Yazgan Calisir|none|11|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Yazgan Calisir|none|9|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Iliyan Stoynov|none|10|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Iliyan Stoynov|none|11|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:30|21|Camilo Borst |none|17|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:30|21|Camilo Borst |none|16|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:52|22|Alexander Æbeløe Christensen|none|20|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:52|11|Alexander Æbeløe Christensen|none|21|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:52|21|Alexander Æbeløe Christensen|none|18|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:20|21|Enis Sesalan |none|10|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:20|21|Enis Sesalan |none|6|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Amrullo Bakhshullaev|none|18|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Amrullo Bakhshullaev|none|13|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:15|21|Dmitrii Riabov |none|11|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:15|21|Dmitrii Riabov |none|10|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:13|21|Christian Adinata|none|10|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:13|21|Christian Adinata|none|8|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:22|21|Tayfun Tasdemir|none|15|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:22|21|Tayfun Tasdemir|none|12|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:46|21|Azra Kurutan|none|16|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:46|19|Azra Kurutan|none|21|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:46|21|Azra Kurutan|none|17|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Katrin Neudolt|none|10|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Katrin Neudolt|none|14|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Annalena Diks |none|14|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Annalena Diks |none|15|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:36|21|Naime Yilmaz|none|18|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:36|18|Naime Yilmaz|none|21|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:36|22|Naime Yilmaz|none|20|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Betul Soner|none|19|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Betul Soner|none|9|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:25|21|Basak Kilic|none|19|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:25|21|Basak Kilic|none|14|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:21|21|Viktoriia Kozyreva |none|12|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:21|21|Viktoriia Kozyreva |none|9|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:42|21|Mariia Sukhova|none|13|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:42|18|Mariia Sukhova|none|21|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:42|21|Mariia Sukhova|none|19|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Ayca Özgür|none|9|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Ayca Özgür|none|15|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:43|14|Ece Sare Basakin|none|21|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:43|21|Ece Sare Basakin|none|19|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:43|21|Ece Sare Basakin|none|18|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Bahar Yavru|none|8|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Bahar Yavru|none|12|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:22|21|Aysegul Yemişen|none|13|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:22|21|Aysegul Yemişen|none|14|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:15|21|Li Yun |none|7|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:15|21|Li Yun |none|12|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:51|18|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:51|21|Edanur Koybasi|none|17|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:51|23|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:18|21|Busra Unlu |none|3|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:18|21|Busra Unlu |none|9|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|13|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|12|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:44|16|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:36|19|Lennart Konder|Moritz Rappen|21|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:36|21|Lennart Konder|Moritz Rappen|18|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:36|22|Lennart Konder|Moritz Rappen|20|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:19|21|Stanislav Proskura|Mikhail Shepyrev|11|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:19|21|Stanislav Proskura|Mikhail Shepyrev|14|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|8|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|15|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:18|21|Leo Rolly Carnando|Daniel Marthin|3|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:18|21|Leo Rolly Carnando|Daniel Marthin|8|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:19|21|Betul Soner |Naime Yilmaz|15|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:19|21|Betul Soner |Naime Yilmaz|13|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:17|21|Zeynep Akdeniz|Selen Özdemİr|5|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:17|21|Zeynep Akdeniz|Selen Özdemİr|10|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:36|8|Hatice Derya Abali|Nurgul Aktekin|21|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:36|21|Hatice Derya Abali|Nurgul Aktekin|17|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:36|21|Hatice Derya Abali|Nurgul Aktekin|18|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:29|22|Hilmican Şimşek|Ceren Ozdemir|20|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:29|27|Hilmican Şimşek|Ceren Ozdemir|25|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|16|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|14|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|18|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|23|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|13|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:24|21|Ivan Panev|none|19|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Ivan Panev|none|14|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:27|21|Phillipe Charron|none|15|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:27|21|Phillipe Charron|none|13|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:20|21|Emre Sonmez|Zehra Erdem|13|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:20|21|Emre Sonmez|Zehra Erdem|18|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:53|21|Haktan Doğan|none|17|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:53|18|Haktan Doğan|none|21|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:53|21|Haktan Doğan|none|14|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:31|21|Yazgan Calisir|none|11|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:31|21|Yazgan Calisir|none|19|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:25|21|Iliyan Stoynov|none|13|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:25|21|Iliyan Stoynov|none|17|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:29|21|Enis Sesalan |none|13|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:29|21|Enis Sesalan |none|16|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Christian Adinata|none|13|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Christian Adinata|none|11|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:20|21|Naime Yilmaz|none|15|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:20|21|Naime Yilmaz|none|11|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Betul Soner|none|7|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Betul Soner|none|13|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:17|21|Viktoriia Kozyreva |none|14|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:17|21|Viktoriia Kozyreva |none|11|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:37|21|Ayca Özgür|none|15|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:37|19|Ayca Özgür|none|21|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:37|21|Ayca Özgür|none|10|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:30|21|Dmitrii Riabov |none|11|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:30|21|Dmitrii Riabov |none|13|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Katrin Neudolt|none|12|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:23|21|Katrin Neudolt|none|16|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Yasnita Enggira Setiawan |none|9|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Yasnita Enggira Setiawan |none|11|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:21|21|Busra Unlu |none|9|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:21|21|Busra Unlu |none|12|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181217|0:24|21|Berkay Cicen |Tayfun Tasdemir|17|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:24|21|Berkay Cicen |Tayfun Tasdemir|16|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:28|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|12|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:28|23|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:52|19|Stanislav Proskura|Mikhail Shepyrev|21|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:52|21|Stanislav Proskura|Mikhail Shepyrev|17|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:52|21|Stanislav Proskura|Mikhail Shepyrev|14|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:15|21|Leo Rolly Carnando|Daniel Marthin|5|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:15|21|Leo Rolly Carnando|Daniel Marthin|11|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:29|10|Zeynep Akdeniz|Selen Özdemİr|21|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:25|21|Ceyda Çakir|Cagla Özayyildiz|16|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181217|0:25|21|Ceyda Çakir|Cagla Özayyildiz|10|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:37|22|Mehmet Akarsu|Betul Baskan|20|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:37|10|Mehmet Akarsu|Betul Baskan|21|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:37|21|Mehmet Akarsu|Betul Baskan|12|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:17|21|Hilmican Şimşek|Ceren Ozdemir|10|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:17|21|Hilmican Şimşek|Ceren Ozdemir|12|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:24|21|Erenturk Özder|Zeynep Özgen|15|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:24|21|Erenturk Özder|Zeynep Özgen|16|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|9|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|7|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|15|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|6|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:20|21|Semih Baha Basakin |Ece Sare Basakin|11|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:20|21|Semih Baha Basakin |Ece Sare Basakin|9|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|16|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|10|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:28|21|Emre Sonmez|Zehra Erdem|7|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:28|21|Emre Sonmez|Zehra Erdem|16|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:23|21|Bugrahan Perk|none|7|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Bugrahan Perk|none|18|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Ivan Panev|none|12|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Ivan Panev|none|13|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:21|21|Frederik Æbleøe Christesen |none|8|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:21|21|Frederik Æbleøe Christesen |none|17|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:38|18|Phillipe Charron|none|21|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:38|21|Phillipe Charron|none|13|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:38|21|Phillipe Charron|none|14|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:17|21|Haktan Doğan|none|8|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:17|21|Haktan Doğan|none|7|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Ahmetcan Oruc|none|15|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Ahmetcan Oruc|none|7|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:58|16|Abdurasul Khadjaev|none|21|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Yazgan Calisir|none|11|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Yazgan Calisir|none|9|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Iliyan Stoynov|none|10|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Iliyan Stoynov|none|11|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:30|21|Camilo Borst |none|17|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:30|21|Camilo Borst |none|16|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:52|22|Alexander Æbeløe Christensen|none|20|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:52|11|Alexander Æbeløe Christensen|none|21|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:52|21|Alexander Æbeløe Christensen|none|18|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:20|21|Enis Sesalan |none|10|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:20|21|Enis Sesalan |none|6|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Amrullo Bakhshullaev|none|18|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Amrullo Bakhshullaev|none|13|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:15|21|Dmitrii Riabov |none|11|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:15|21|Dmitrii Riabov |none|10|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:13|21|Christian Adinata|none|10|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:13|21|Christian Adinata|none|8|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:22|21|Tayfun Tasdemir|none|15|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:22|21|Tayfun Tasdemir|none|12|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:46|21|Azra Kurutan|none|16|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:46|19|Azra Kurutan|none|21|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:46|21|Azra Kurutan|none|17|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Katrin Neudolt|none|10|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Katrin Neudolt|none|14|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Annalena Diks |none|14|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Annalena Diks |none|15|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:36|21|Naime Yilmaz|none|18|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:36|18|Naime Yilmaz|none|21|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:36|22|Naime Yilmaz|none|20|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Betul Soner|none|19|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Betul Soner|none|9|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:25|21|Basak Kilic|none|19|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:25|21|Basak Kilic|none|14|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:21|21|Viktoriia Kozyreva |none|12|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:21|21|Viktoriia Kozyreva |none|9|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:42|21|Mariia Sukhova|none|13|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:42|18|Mariia Sukhova|none|21|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:42|21|Mariia Sukhova|none|19|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Ayca Özgür|none|9|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Ayca Özgür|none|15|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:43|14|Ece Sare Basakin|none|21|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:43|21|Ece Sare Basakin|none|19|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:43|21|Ece Sare Basakin|none|18|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Bahar Yavru|none|8|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Bahar Yavru|none|12|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:22|21|Aysegul Yemişen|none|13|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:22|21|Aysegul Yemişen|none|14|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:15|21|Li Yun |none|7|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:15|21|Li Yun |none|12|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:51|18|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:51|21|Edanur Koybasi|none|17|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:51|23|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:18|21|Busra Unlu |none|3|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:18|21|Busra Unlu |none|9|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|13|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|12|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:44|16|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:36|19|Lennart Konder|Moritz Rappen|21|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:36|21|Lennart Konder|Moritz Rappen|18|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:36|22|Lennart Konder|Moritz Rappen|20|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:19|21|Stanislav Proskura|Mikhail Shepyrev|11|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:19|21|Stanislav Proskura|Mikhail Shepyrev|14|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|8|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|15|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:18|21|Leo Rolly Carnando|Daniel Marthin|3|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:18|21|Leo Rolly Carnando|Daniel Marthin|8|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:19|21|Betul Soner |Naime Yilmaz|15|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:19|21|Betul Soner |Naime Yilmaz|13|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:17|21|Zeynep Akdeniz|Selen Özdemİr|5|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:17|21|Zeynep Akdeniz|Selen Özdemİr|10|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:36|8|Hatice Derya Abali|Nurgul Aktekin|21|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:36|21|Hatice Derya Abali|Nurgul Aktekin|17|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:36|21|Hatice Derya Abali|Nurgul Aktekin|18|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:29|22|Hilmican Şimşek|Ceren Ozdemir|20|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:29|27|Hilmican Şimşek|Ceren Ozdemir|25|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|16|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|14|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|18|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|23|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|13|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:24|21|Ivan Panev|none|19|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Ivan Panev|none|14|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:27|21|Phillipe Charron|none|15|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:27|21|Phillipe Charron|none|13|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:20|21|Emre Sonmez|Zehra Erdem|13|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:20|21|Emre Sonmez|Zehra Erdem|18|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:53|21|Haktan Doğan|none|17|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:53|18|Haktan Doğan|none|21|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:53|21|Haktan Doğan|none|14|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:31|21|Yazgan Calisir|none|11|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:31|21|Yazgan Calisir|none|19|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:25|21|Iliyan Stoynov|none|13|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:25|21|Iliyan Stoynov|none|17|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:29|21|Enis Sesalan |none|13|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:29|21|Enis Sesalan |none|16|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Christian Adinata|none|13|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Christian Adinata|none|11|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:20|21|Naime Yilmaz|none|15|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:20|21|Naime Yilmaz|none|11|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Betul Soner|none|7|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Betul Soner|none|13|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:17|21|Viktoriia Kozyreva |none|14|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:17|21|Viktoriia Kozyreva |none|11|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:37|21|Ayca Özgür|none|15|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:37|19|Ayca Özgür|none|21|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:37|21|Ayca Özgür|none|10|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:30|21|Dmitrii Riabov |none|11|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:30|21|Dmitrii Riabov |none|13|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Katrin Neudolt|none|12|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:23|21|Katrin Neudolt|none|16|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Yasnita Enggira Setiawan |none|9|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Yasnita Enggira Setiawan |none|11|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:21|21|Busra Unlu |none|9|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:21|21|Busra Unlu |none|12|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181218|0:24|21|Berkay Cicen |Tayfun Tasdemir|17|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:24|21|Berkay Cicen |Tayfun Tasdemir|16|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:28|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|12|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:28|23|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:52|19|Stanislav Proskura|Mikhail Shepyrev|21|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:52|21|Stanislav Proskura|Mikhail Shepyrev|17|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:52|21|Stanislav Proskura|Mikhail Shepyrev|14|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:15|21|Leo Rolly Carnando|Daniel Marthin|5|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:15|21|Leo Rolly Carnando|Daniel Marthin|11|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:29|10|Zeynep Akdeniz|Selen Özdemİr|21|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:25|21|Ceyda Çakir|Cagla Özayyildiz|16|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181218|0:25|21|Ceyda Çakir|Cagla Özayyildiz|10|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:37|22|Mehmet Akarsu|Betul Baskan|20|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:37|10|Mehmet Akarsu|Betul Baskan|21|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:37|21|Mehmet Akarsu|Betul Baskan|12|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:17|21|Hilmican Şimşek|Ceren Ozdemir|10|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:17|21|Hilmican Şimşek|Ceren Ozdemir|12|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:24|21|Erenturk Özder|Zeynep Özgen|15|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:24|21|Erenturk Özder|Zeynep Özgen|16|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|9|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|7|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|15|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|6|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:20|21|Semih Baha Basakin |Ece Sare Basakin|11|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:20|21|Semih Baha Basakin |Ece Sare Basakin|9|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|16|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|10|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:28|21|Emre Sonmez|Zehra Erdem|7|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:28|21|Emre Sonmez|Zehra Erdem|16|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:23|21|Bugrahan Perk|none|7|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Bugrahan Perk|none|18|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Ivan Panev|none|12|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Ivan Panev|none|13|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:21|21|Frederik Æbleøe Christesen |none|8|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:21|21|Frederik Æbleøe Christesen |none|17|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:38|18|Phillipe Charron|none|21|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:38|21|Phillipe Charron|none|13|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:38|21|Phillipe Charron|none|14|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:17|21|Haktan Doğan|none|8|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:17|21|Haktan Doğan|none|7|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Ahmetcan Oruc|none|15|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Ahmetcan Oruc|none|7|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:58|16|Abdurasul Khadjaev|none|21|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Yazgan Calisir|none|11|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Yazgan Calisir|none|9|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Iliyan Stoynov|none|10|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Iliyan Stoynov|none|11|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:30|21|Camilo Borst |none|17|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:30|21|Camilo Borst |none|16|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:52|22|Alexander Æbeløe Christensen|none|20|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:52|11|Alexander Æbeløe Christensen|none|21|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:52|21|Alexander Æbeløe Christensen|none|18|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:20|21|Enis Sesalan |none|10|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:20|21|Enis Sesalan |none|6|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Amrullo Bakhshullaev|none|18|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Amrullo Bakhshullaev|none|13|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:15|21|Dmitrii Riabov |none|11|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:15|21|Dmitrii Riabov |none|10|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:13|21|Christian Adinata|none|10|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:13|21|Christian Adinata|none|8|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:22|21|Tayfun Tasdemir|none|15|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:22|21|Tayfun Tasdemir|none|12|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:46|21|Azra Kurutan|none|16|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:46|19|Azra Kurutan|none|21|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:46|21|Azra Kurutan|none|17|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Katrin Neudolt|none|10|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Katrin Neudolt|none|14|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Annalena Diks |none|14|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Annalena Diks |none|15|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:36|21|Naime Yilmaz|none|18|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:36|18|Naime Yilmaz|none|21|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:36|22|Naime Yilmaz|none|20|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Betul Soner|none|19|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Betul Soner|none|9|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:25|21|Basak Kilic|none|19|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:25|21|Basak Kilic|none|14|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:21|21|Viktoriia Kozyreva |none|12|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:21|21|Viktoriia Kozyreva |none|9|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:42|21|Mariia Sukhova|none|13|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:42|18|Mariia Sukhova|none|21|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:42|21|Mariia Sukhova|none|19|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Ayca Özgür|none|9|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Ayca Özgür|none|15|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:43|14|Ece Sare Basakin|none|21|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:43|21|Ece Sare Basakin|none|19|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:43|21|Ece Sare Basakin|none|18|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Bahar Yavru|none|8|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Bahar Yavru|none|12|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:22|21|Aysegul Yemişen|none|13|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:22|21|Aysegul Yemişen|none|14|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:15|21|Li Yun |none|7|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:15|21|Li Yun |none|12|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:51|18|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:51|21|Edanur Koybasi|none|17|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:51|23|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:18|21|Busra Unlu |none|3|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:18|21|Busra Unlu |none|9|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|13|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|12|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:44|16|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:36|19|Lennart Konder|Moritz Rappen|21|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:36|21|Lennart Konder|Moritz Rappen|18|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:36|22|Lennart Konder|Moritz Rappen|20|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:19|21|Stanislav Proskura|Mikhail Shepyrev|11|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:19|21|Stanislav Proskura|Mikhail Shepyrev|14|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|8|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|15|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:18|21|Leo Rolly Carnando|Daniel Marthin|3|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:18|21|Leo Rolly Carnando|Daniel Marthin|8|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:19|21|Betul Soner |Naime Yilmaz|15|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:19|21|Betul Soner |Naime Yilmaz|13|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:17|21|Zeynep Akdeniz|Selen Özdemİr|5|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:17|21|Zeynep Akdeniz|Selen Özdemİr|10|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:36|8|Hatice Derya Abali|Nurgul Aktekin|21|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:36|21|Hatice Derya Abali|Nurgul Aktekin|17|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:36|21|Hatice Derya Abali|Nurgul Aktekin|18|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:29|22|Hilmican Şimşek|Ceren Ozdemir|20|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:29|27|Hilmican Şimşek|Ceren Ozdemir|25|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|16|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|14|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|18|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|23|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|13|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:24|21|Ivan Panev|none|19|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Ivan Panev|none|14|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:27|21|Phillipe Charron|none|15|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:27|21|Phillipe Charron|none|13|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:20|21|Emre Sonmez|Zehra Erdem|13|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:20|21|Emre Sonmez|Zehra Erdem|18|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:53|21|Haktan Doğan|none|17|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:53|18|Haktan Doğan|none|21|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:53|21|Haktan Doğan|none|14|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:31|21|Yazgan Calisir|none|11|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:31|21|Yazgan Calisir|none|19|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:25|21|Iliyan Stoynov|none|13|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:25|21|Iliyan Stoynov|none|17|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:29|21|Enis Sesalan |none|13|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:29|21|Enis Sesalan |none|16|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Christian Adinata|none|13|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Christian Adinata|none|11|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:20|21|Naime Yilmaz|none|15|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:20|21|Naime Yilmaz|none|11|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Betul Soner|none|7|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Betul Soner|none|13|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:17|21|Viktoriia Kozyreva |none|14|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:17|21|Viktoriia Kozyreva |none|11|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:37|21|Ayca Özgür|none|15|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:37|19|Ayca Özgür|none|21|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:37|21|Ayca Özgür|none|10|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:30|21|Dmitrii Riabov |none|11|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:30|21|Dmitrii Riabov |none|13|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Katrin Neudolt|none|12|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:23|21|Katrin Neudolt|none|16|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Yasnita Enggira Setiawan |none|9|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Yasnita Enggira Setiawan |none|11|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:21|21|Busra Unlu |none|9|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:21|21|Busra Unlu |none|12|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181219|0:24|21|Berkay Cicen |Tayfun Tasdemir|17|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:24|21|Berkay Cicen |Tayfun Tasdemir|16|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:28|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|12|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:28|23|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:52|19|Stanislav Proskura|Mikhail Shepyrev|21|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:52|21|Stanislav Proskura|Mikhail Shepyrev|17|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:52|21|Stanislav Proskura|Mikhail Shepyrev|14|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:15|21|Leo Rolly Carnando|Daniel Marthin|5|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:15|21|Leo Rolly Carnando|Daniel Marthin|11|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:29|10|Zeynep Akdeniz|Selen Özdemİr|21|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:25|21|Ceyda Çakir|Cagla Özayyildiz|16|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181219|0:25|21|Ceyda Çakir|Cagla Özayyildiz|10|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:37|22|Mehmet Akarsu|Betul Baskan|20|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:37|10|Mehmet Akarsu|Betul Baskan|21|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:37|21|Mehmet Akarsu|Betul Baskan|12|Abdurasul Khadjaev|Gulassar Bokieva|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:17|21|Hilmican Şimşek|Ceren Ozdemir|10|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:17|21|Hilmican Şimşek|Ceren Ozdemir|12|Ali Bugra Akdogan|Ozlem Başaran|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:24|21|Erenturk Özder|Zeynep Özgen|15|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:24|21|Erenturk Özder|Zeynep Özgen|16|Mesut Sezer [3]|Edanur Koybasi|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|9|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:17|21|Bahadir Kaan Kola|Fatma Nur Yavuz|7|Orcun Ozturk|Ayca Özgür|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|15|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:18|21|Mert Tunco|Ilayda Nur Ozelgul|6|Peyo Boichinov|Tanya Ivanova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:20|21|Semih Baha Basakin |Ece Sare Basakin|11|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:20|21|Semih Baha Basakin |Ece Sare Basakin|9|Nurullah Saraç|Basak Kilic|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|16|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:23|21|Faruk Mehmet Yilmaz|Yasemen Bektaş|10|Moritz Rappen|Alicia Molitor|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:28|21|Emre Sonmez|Zehra Erdem|7|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:28|21|Emre Sonmez|Zehra Erdem|16|Amrullo Bakhshullaev [2]|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:23|21|Bugrahan Perk|none|7|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Bugrahan Perk|none|18|Lennart Konder|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Ivan Panev|none|12|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Ivan Panev|none|13|Nikita Lemeshko|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:21|21|Frederik Æbleøe Christesen |none|8|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:21|21|Frederik Æbleøe Christesen |none|17|Okan Gultekin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:38|18|Phillipe Charron|none|21|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:38|21|Phillipe Charron|none|13|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:38|21|Phillipe Charron|none|14|Hasan Motaghi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:17|21|Haktan Doğan|none|8|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:17|21|Haktan Doğan|none|7|Ibrahim Eksi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Ahmetcan Oruc|none|15|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Ahmetcan Oruc|none|7|Ali Hosseinkhani|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:58|16|Abdurasul Khadjaev|none|21|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:58|21|Abdurasul Khadjaev|none|15|Oleksandr Kolesnik [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Yazgan Calisir|none|11|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Yazgan Calisir|none|9|Mehdi Ansari|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Iliyan Stoynov|none|10|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Iliyan Stoynov|none|11|Omer Faruk Bektas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:30|21|Camilo Borst |none|17|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:30|21|Camilo Borst |none|16|Petros Tentas|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:52|22|Alexander Æbeløe Christensen|none|20|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:52|11|Alexander Æbeløe Christensen|none|21|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:52|21|Alexander Æbeløe Christensen|none|18|Artem Tkachuk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:20|21|Enis Sesalan |none|10|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:20|21|Enis Sesalan |none|6|Maxime Tétreault|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Amrullo Bakhshullaev|none|18|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Amrullo Bakhshullaev|none|13|Baris Ozkan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:15|21|Dmitrii Riabov |none|11|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:15|21|Dmitrii Riabov |none|10|Mark Abela|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:13|21|Christian Adinata|none|10|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:13|21|Christian Adinata|none|8|Mattias Sonderskov|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:22|21|Tayfun Tasdemir|none|15|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:22|21|Tayfun Tasdemir|none|12|Selcuk Tan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:46|21|Azra Kurutan|none|16|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:46|19|Azra Kurutan|none|21|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:46|21|Azra Kurutan|none|17|Cagla Özayyildiz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Katrin Neudolt|none|10|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Katrin Neudolt|none|14|Sevval Buse Alsoy|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Annalena Diks |none|14|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Annalena Diks |none|15|Arzu Delibalta|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:36|21|Naime Yilmaz|none|18|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:36|18|Naime Yilmaz|none|21|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:36|22|Naime Yilmaz|none|20|Alisa Shvetcova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Betul Soner|none|19|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Betul Soner|none|9|Maryana Viarbitskaya [3]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:25|21|Basak Kilic|none|19|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:25|21|Basak Kilic|none|14|Amalie A. Frihagen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:21|21|Viktoriia Kozyreva |none|12|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:21|21|Viktoriia Kozyreva |none|9|Cansu Erçetin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:42|21|Mariia Sukhova|none|13|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:42|18|Mariia Sukhova|none|21|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:42|21|Mariia Sukhova|none|19|Zeynep Akdeniz|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Ayca Özgür|none|9|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Ayca Özgür|none|15|Victoriia Grigoreva|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:43|14|Ece Sare Basakin|none|21|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:43|21|Ece Sare Basakin|none|19|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:43|21|Ece Sare Basakin|none|18|Busra Yalçinkaya [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Bahar Yavru|none|8|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Bahar Yavru|none|12|Sevinch Sodikova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:27|21|Yasnita Enggira Setiawan |none|12|Ceren Ozdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:22|21|Aysegul Yemişen|none|13|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:22|21|Aysegul Yemişen|none|14|Berfin Aslan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:15|21|Li Yun |none|7|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:15|21|Li Yun |none|12|Gizem Ayna|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:51|18|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:51|21|Edanur Koybasi|none|17|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:51|23|Edanur Koybasi|none|21|Claudia Leal|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:18|21|Busra Unlu |none|3|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:18|21|Busra Unlu |none|9|Azime Serttaş|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|13|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:18|21|Omer Faruk Bektas|Burak Furkan Demir|12|Amer Awad|Ali Neamah|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:44|16|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:44|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|15|Hasan Berkay Günbaz|Yunus Emre Karakaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:36|19|Lennart Konder|Moritz Rappen|21|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:36|21|Lennart Konder|Moritz Rappen|18|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:36|22|Lennart Konder|Moritz Rappen|20|Sezgin Kelebek|Selcuk Tan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:19|21|Stanislav Proskura|Mikhail Shepyrev|11|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:19|21|Stanislav Proskura|Mikhail Shepyrev|14|Muhammed Can Hacioğlu|Gokhan Zembilci|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|8|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:22|21|Yazgan Calisir|Bahadir Kaan Kola|15|Mehmet Salih Oz|Arda Semercioglu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:18|21|Leo Rolly Carnando|Daniel Marthin|3|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:18|21|Leo Rolly Carnando|Daniel Marthin|8|Mete Kaan Uçan|Serkan Ugurlu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:19|21|Betul Soner |Naime Yilmaz|15|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:19|21|Betul Soner |Naime Yilmaz|13|Gizem Ayna|Ayca Hava|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:17|21|Zeynep Akdeniz|Selen Özdemİr|5|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:17|21|Zeynep Akdeniz|Selen Özdemİr|10|Kevser Sule Karademir|Tuba Koyuncu|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:36|8|Hatice Derya Abali|Nurgul Aktekin|21|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:36|21|Hatice Derya Abali|Nurgul Aktekin|17|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:36|21|Hatice Derya Abali|Nurgul Aktekin|18|Gulassar Bokieva|Sevinch Sodikova|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:26|21|Ceyda Çakir|Cagla Özayyildiz|17|Senem Guleroglu [2]|Tuba Gunes|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:29|22|Hilmican Şimşek|Ceren Ozdemir|20|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:29|27|Hilmican Şimşek|Ceren Ozdemir|25|Mehmet Akarsu|Betul Baskan|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|16|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:26|21|Bahadir Kaan Kola|Fatma Nur Yavuz|14|Erenturk Özder|Zeynep Özgen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|18|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|23|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:41|21|Mert Tunco|Ilayda Nur Ozelgul|13|Semih Baha Basakin [4]|Ece Sare Basakin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:24|21|Ivan Panev|none|19|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Ivan Panev|none|14|Bugrahan Perk|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:27|21|Phillipe Charron|none|15|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:27|21|Phillipe Charron|none|13|Frederik Æbleøe Christesen [8]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:20|21|Emre Sonmez|Zehra Erdem|13|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:20|21|Emre Sonmez|Zehra Erdem|18|Faruk Mehmet Yilmaz|Yasemen Bektaş|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:53|21|Haktan Doğan|none|17|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:53|18|Haktan Doğan|none|21|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:53|21|Haktan Doğan|none|14|Ahmetcan Oruc|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:31|21|Yazgan Calisir|none|11|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:31|21|Yazgan Calisir|none|19|Abdurasul Khadjaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:25|21|Iliyan Stoynov|none|13|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:25|21|Iliyan Stoynov|none|17|Camilo Borst [7]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:29|21|Enis Sesalan |none|13|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:29|21|Enis Sesalan |none|16|Alexander Æbeløe Christensen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Christian Adinata|none|13|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Christian Adinata|none|11|Tayfun Tasdemir|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:20|21|Naime Yilmaz|none|15|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:20|21|Naime Yilmaz|none|11|Annalena Diks [6]|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Betul Soner|none|7|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Betul Soner|none|13|Basak Kilic|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:17|21|Viktoriia Kozyreva |none|14|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:17|21|Viktoriia Kozyreva |none|11|Mariia Sukhova|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:37|21|Ayca Özgür|none|15|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:37|19|Ayca Özgür|none|21|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:37|21|Ayca Özgür|none|10|Ece Sare Basakin|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:30|21|Dmitrii Riabov |none|11|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:30|21|Dmitrii Riabov |none|13|Amrullo Bakhshullaev|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Katrin Neudolt|none|12|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:23|21|Katrin Neudolt|none|16|Azra Kurutan|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Yasnita Enggira Setiawan |none|9|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Yasnita Enggira Setiawan |none|11|Bahar Yavru|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:19|21|Li Yun |none|9|Aysegul Yemişen|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:21|21|Busra Unlu |none|9|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:21|21|Busra Unlu |none|12|Edanur Koybasi|none|08BEED1A-4169-4079-840C-3024397F03B3|singles
+20181220|0:24|21|Berkay Cicen |Tayfun Tasdemir|17|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:24|21|Berkay Cicen |Tayfun Tasdemir|16|Omer Faruk Bektas|Burak Furkan Demir|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:28|21|Semih Baha Basakin|Faruk Mehmet Yilmaz|12|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:28|23|Semih Baha Basakin|Faruk Mehmet Yilmaz|21|Lennart Konder|Moritz Rappen|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:52|19|Stanislav Proskura|Mikhail Shepyrev|21|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:52|21|Stanislav Proskura|Mikhail Shepyrev|17|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:52|21|Stanislav Proskura|Mikhail Shepyrev|14|Yazgan Calisir|Bahadir Kaan Kola|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:15|21|Leo Rolly Carnando|Daniel Marthin|5|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:15|21|Leo Rolly Carnando|Daniel Marthin|11|Umit Basaran [2]|Ramazan Tekdemİr|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:29|10|Zeynep Akdeniz|Selen Özdemİr|21|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:29|21|Zeynep Akdeniz|Selen Özdemİr|13|Betul Soner [1]|Naime Yilmaz|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:25|21|Ceyda Çakir|Cagla Özayyildiz|16|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles
+20181220|0:25|21|Ceyda Çakir|Cagla Özayyildiz|10|Hatice Derya Abali|Nurgul Aktekin|08BEED1A-4169-4079-840C-3024397F03B3|doubles

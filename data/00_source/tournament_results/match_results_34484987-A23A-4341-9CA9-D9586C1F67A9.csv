@@ -1,0 +1,641 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150603|0:39|21|Donatas Narvilas |Gerda Voitechovskaja|19|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:39|13|Donatas Narvilas |Gerda Voitechovskaja|21|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:39|24|Donatas Narvilas |Gerda Voitechovskaja|22|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:18|21|Pawel Smilowski|Magdalena Swierczynska|14|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:18|21|Pawel Smilowski|Magdalena Swierczynska|15|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:23|21|Thom Gicquel|Vimala Heriau|10|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:23|21|Thom Gicquel|Vimala Heriau|12|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:21|21|Mario Saunpere |Kati-Kreet Marran|18|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:21|21|Mario Saunpere |Kati-Kreet Marran|19|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603||Walkover Win|Arnaud Merkle|none|Walkover Loss|Kristaps Janis Gulbis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|17|Mikk Ounmaa|none|21|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|21|Mikk Ounmaa|none|18|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|21|Mikk Ounmaa|none|9|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Vladzislav Kushnir|none|12|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Vladzislav Kushnir|none|13|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603||Walkover Win|Rokas Minderis|none|Walkover Loss|Michal Walentek|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:20|21|Petri Hautala|none|11|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:20|21|Petri Hautala|none|12|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:14|21|Peter Roenn Stensaeth|none|7|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:14|21|Peter Roenn Stensaeth|none|6|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Thomas Baures|none|7|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Thomas Baures|none|13|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:34|25|Pawel Smilowski|none|27|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:34|21|Pawel Smilowski|none|7|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:34|21|Pawel Smilowski|none|11|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:26|21|Patryk Szymoniak|none|12|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:26|21|Patryk Szymoniak|none|14|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:30|21|Magnus Christensen|none|10|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:30|12|Magnus Christensen|none|21|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:30|21|Magnus Christensen|none|14|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:35|21|Pierrick Cajot|none|14|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:35|21|Pierrick Cajot|none|19|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:49|19|Torjus Flaatten|none|21|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:49|21|Torjus Flaatten|none|16|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:49|21|Torjus Flaatten|none|10|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|21|Khaitmurat Kulmatov|none|12|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|16|Khaitmurat Kulmatov|none|21|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|21|Khaitmurat Kulmatov|none|17|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|21|Karolis Eimutaitis|none|19|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|21|Karolis Eimutaitis|none|16|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603||Walkover Win|Dzmitry Saidakou|none|Walkover Loss|Karl Kert|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:26|21|Vincent Espen|none|12|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:26|21|Vincent Espen|none|18|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:37|14|Tanel Namm|none|21|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:37|21|Tanel Namm|none|18|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:37|21|Tanel Namm|none|15|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:44|17|Zietek Dominik|none|21|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:44|21|Zietek Dominik|none|10|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:44|22|Zietek Dominik|none|20|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:17|21|Matthew Widdicombe|none|10|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:17|21|Matthew Widdicombe|none|6|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:28|21|Pawel Smilowski|Magdalena Swierczynska|9|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:28|21|Pawel Smilowski|Magdalena Swierczynska|13|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|12|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|15|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:22|21|Veronika Sorokina|none|16|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:22|21|Veronika Sorokina|none|13|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:26|21|Linnea Vainula|none|19|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:26|21|Linnea Vainula|none|17|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Thom Gicquel|Vimala Heriau|19|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:24|21|Thom Gicquel|Vimala Heriau|10|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:20|21|Janowska Karolina|none|10|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:20|21|Janowska Karolina|none|13|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:39|15|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:39|23|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:39|21|Veronika Koldova|none|13|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Elisa Wiborg|none|17|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Elisa Wiborg|none|12|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:22|21|Aleksander Jablonski|Pawel Smilowski|16|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:22|21|Aleksander Jablonski|Pawel Smilowski|13|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:29|21|Margot Lambert|none|13|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:29|24|Margot Lambert|none|22|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Diana Stognija|none|6|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Diana Stognija|none|12|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:21|21|Noora Ahola|none|14|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:21|21|Noora Ahola|none|12|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:31|21|Vimala Heriau|none|12|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:31|21|Vimala Heriau|none|19|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Krestina Silich|none|9|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Krestina Silich|none|4|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:44|23|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:44|12|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:44|21|Piotr Wasiluk |none|14|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:35|21|Mateusz Biernacki|none|13|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:35|21|Mateusz Biernacki|none|17|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:47|12|Arnaud Merkle|none|21|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:47|21|Arnaud Merkle|none|19|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:47|21|Arnaud Merkle|none|17|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:27|21|Thomas Baures|none|10|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:27|21|Thomas Baures|none|15|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:33|17|Bernardo Atilano|none|21|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:33|24|Bernardo Atilano|none|22|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:33|21|Bernardo Atilano|none|15|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:17|21|Petri Hautala|none|6|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:17|21|Petri Hautala|none|10|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603||Walkover Win|Patryk Szymoniak|none|Walkover Loss|Jimmy Noblecourt [8]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:40|18|Torjus Flaatten|none|21|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:40|21|Torjus Flaatten|none|12|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:40|21|Torjus Flaatten|none|19|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Pierrick Cajot|none|9|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Pierrick Cajot|none|11|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:22|21|Toma Junior Popov |none|12|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:22|21|Toma Junior Popov |none|6|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:58|17|Khaitmurat Kulmatov|none|21|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:58|21|Khaitmurat Kulmatov|none|17|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:58|21|Khaitmurat Kulmatov|none|19|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:23|21|Mario Saunpere |none|13|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:23|21|Mario Saunpere |none|16|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|17|Vincent Espen|none|21|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|21|Vincent Espen|none|19|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|21|Vincent Espen|none|13|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:33|21|Artur Niyazov |none|6|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:33|10|Artur Niyazov |none|21|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:33|21|Artur Niyazov |none|7|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:29|24|Krzysztof Jakowczuk|none|22|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:29|21|Krzysztof Jakowczuk|none|11|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:21|21|Margot Lambert|none|5|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:21|21|Margot Lambert|none|7|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:23|21|Janowska Karolina|none|16|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:23|21|Janowska Karolina|none|10|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Vimala Heriau|none|13|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Vimala Heriau|none|19|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|22|Manon Krieger |none|20|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|23|Manon Krieger |none|21|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|19|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|14|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:45|14|Veronika Koldova|none|21|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|21|Veronika Koldova|none|19|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:45|21|Veronika Koldova|none|16|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:28|21|Gerda Voitechovskaja |none|10|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:28|21|Gerda Voitechovskaja |none|19|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:19|21|Aleksander Jablonski|Pawel Smilowski|15|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:19|21|Aleksander Jablonski|Pawel Smilowski|6|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150603|0:52|21|Vincent Espen|none|17|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:52|21|Vincent Espen|none|23|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:52|21|Vincent Espen|none|15|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:31|21|Toma Junior Popov |none|12|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:31|21|Toma Junior Popov |none|17|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|24|Krzysztof Jakowczuk|none|22|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:32|22|Krzysztof Jakowczuk|none|20|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:35|19|Petri Hautala|none|21|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:35|21|Petri Hautala|none|10|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:35|22|Petri Hautala|none|20|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:29|21|Piotr Wasiluk |none|15|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:29|21|Piotr Wasiluk |none|18|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603||Walkover Win|Thomas Baures|none|Walkover Loss|Arnaud Merkle|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:21|21|Bernardo Atilano|none|14|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:21|21|Bernardo Atilano|none|15|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Pierrick Cajot|none|8|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150603|0:24|21|Pierrick Cajot|none|15|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:39|21|Donatas Narvilas |Gerda Voitechovskaja|19|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:39|13|Donatas Narvilas |Gerda Voitechovskaja|21|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:39|24|Donatas Narvilas |Gerda Voitechovskaja|22|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:18|21|Pawel Smilowski|Magdalena Swierczynska|14|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:18|21|Pawel Smilowski|Magdalena Swierczynska|15|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:23|21|Thom Gicquel|Vimala Heriau|10|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:23|21|Thom Gicquel|Vimala Heriau|12|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:21|21|Mario Saunpere |Kati-Kreet Marran|18|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:21|21|Mario Saunpere |Kati-Kreet Marran|19|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604||Walkover Win|Arnaud Merkle|none|Walkover Loss|Kristaps Janis Gulbis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|17|Mikk Ounmaa|none|21|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|21|Mikk Ounmaa|none|18|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|21|Mikk Ounmaa|none|9|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Vladzislav Kushnir|none|12|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Vladzislav Kushnir|none|13|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604||Walkover Win|Rokas Minderis|none|Walkover Loss|Michal Walentek|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:20|21|Petri Hautala|none|11|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:20|21|Petri Hautala|none|12|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:14|21|Peter Roenn Stensaeth|none|7|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:14|21|Peter Roenn Stensaeth|none|6|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Thomas Baures|none|7|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Thomas Baures|none|13|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:34|25|Pawel Smilowski|none|27|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:34|21|Pawel Smilowski|none|7|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:34|21|Pawel Smilowski|none|11|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:26|21|Patryk Szymoniak|none|12|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:26|21|Patryk Szymoniak|none|14|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:30|21|Magnus Christensen|none|10|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:30|12|Magnus Christensen|none|21|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:30|21|Magnus Christensen|none|14|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:35|21|Pierrick Cajot|none|14|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:35|21|Pierrick Cajot|none|19|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:49|19|Torjus Flaatten|none|21|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:49|21|Torjus Flaatten|none|16|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:49|21|Torjus Flaatten|none|10|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|21|Khaitmurat Kulmatov|none|12|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|16|Khaitmurat Kulmatov|none|21|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|21|Khaitmurat Kulmatov|none|17|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|21|Karolis Eimutaitis|none|19|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|21|Karolis Eimutaitis|none|16|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604||Walkover Win|Dzmitry Saidakou|none|Walkover Loss|Karl Kert|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:26|21|Vincent Espen|none|12|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:26|21|Vincent Espen|none|18|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:37|14|Tanel Namm|none|21|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:37|21|Tanel Namm|none|18|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:37|21|Tanel Namm|none|15|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:44|17|Zietek Dominik|none|21|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:44|21|Zietek Dominik|none|10|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:44|22|Zietek Dominik|none|20|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:17|21|Matthew Widdicombe|none|10|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:17|21|Matthew Widdicombe|none|6|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:28|21|Pawel Smilowski|Magdalena Swierczynska|9|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:28|21|Pawel Smilowski|Magdalena Swierczynska|13|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|12|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|15|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:22|21|Veronika Sorokina|none|16|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:22|21|Veronika Sorokina|none|13|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:26|21|Linnea Vainula|none|19|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:26|21|Linnea Vainula|none|17|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Thom Gicquel|Vimala Heriau|19|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:24|21|Thom Gicquel|Vimala Heriau|10|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:20|21|Janowska Karolina|none|10|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:20|21|Janowska Karolina|none|13|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:39|15|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:39|23|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:39|21|Veronika Koldova|none|13|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Elisa Wiborg|none|17|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Elisa Wiborg|none|12|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:22|21|Aleksander Jablonski|Pawel Smilowski|16|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:22|21|Aleksander Jablonski|Pawel Smilowski|13|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:29|21|Margot Lambert|none|13|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:29|24|Margot Lambert|none|22|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Diana Stognija|none|6|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Diana Stognija|none|12|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:21|21|Noora Ahola|none|14|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:21|21|Noora Ahola|none|12|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:31|21|Vimala Heriau|none|12|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:31|21|Vimala Heriau|none|19|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Krestina Silich|none|9|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Krestina Silich|none|4|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:44|23|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:44|12|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:44|21|Piotr Wasiluk |none|14|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:35|21|Mateusz Biernacki|none|13|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:35|21|Mateusz Biernacki|none|17|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:47|12|Arnaud Merkle|none|21|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:47|21|Arnaud Merkle|none|19|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:47|21|Arnaud Merkle|none|17|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:27|21|Thomas Baures|none|10|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:27|21|Thomas Baures|none|15|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:33|17|Bernardo Atilano|none|21|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:33|24|Bernardo Atilano|none|22|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:33|21|Bernardo Atilano|none|15|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:17|21|Petri Hautala|none|6|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:17|21|Petri Hautala|none|10|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604||Walkover Win|Patryk Szymoniak|none|Walkover Loss|Jimmy Noblecourt [8]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:40|18|Torjus Flaatten|none|21|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:40|21|Torjus Flaatten|none|12|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:40|21|Torjus Flaatten|none|19|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Pierrick Cajot|none|9|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Pierrick Cajot|none|11|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:22|21|Toma Junior Popov |none|12|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:22|21|Toma Junior Popov |none|6|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:58|17|Khaitmurat Kulmatov|none|21|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:58|21|Khaitmurat Kulmatov|none|17|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:58|21|Khaitmurat Kulmatov|none|19|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:23|21|Mario Saunpere |none|13|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:23|21|Mario Saunpere |none|16|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|17|Vincent Espen|none|21|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|21|Vincent Espen|none|19|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|21|Vincent Espen|none|13|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:33|21|Artur Niyazov |none|6|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:33|10|Artur Niyazov |none|21|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:33|21|Artur Niyazov |none|7|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:29|24|Krzysztof Jakowczuk|none|22|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:29|21|Krzysztof Jakowczuk|none|11|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:21|21|Margot Lambert|none|5|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:21|21|Margot Lambert|none|7|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:23|21|Janowska Karolina|none|16|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:23|21|Janowska Karolina|none|10|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Vimala Heriau|none|13|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Vimala Heriau|none|19|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|22|Manon Krieger |none|20|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|23|Manon Krieger |none|21|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|19|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|14|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:45|14|Veronika Koldova|none|21|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|21|Veronika Koldova|none|19|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:45|21|Veronika Koldova|none|16|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:28|21|Gerda Voitechovskaja |none|10|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:28|21|Gerda Voitechovskaja |none|19|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:19|21|Aleksander Jablonski|Pawel Smilowski|15|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:19|21|Aleksander Jablonski|Pawel Smilowski|6|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150604|0:52|21|Vincent Espen|none|17|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:52|21|Vincent Espen|none|23|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:52|21|Vincent Espen|none|15|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:31|21|Toma Junior Popov |none|12|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:31|21|Toma Junior Popov |none|17|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|24|Krzysztof Jakowczuk|none|22|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:32|22|Krzysztof Jakowczuk|none|20|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:35|19|Petri Hautala|none|21|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:35|21|Petri Hautala|none|10|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:35|22|Petri Hautala|none|20|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:29|21|Piotr Wasiluk |none|15|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:29|21|Piotr Wasiluk |none|18|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604||Walkover Win|Thomas Baures|none|Walkover Loss|Arnaud Merkle|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:21|21|Bernardo Atilano|none|14|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:21|21|Bernardo Atilano|none|15|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Pierrick Cajot|none|8|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150604|0:24|21|Pierrick Cajot|none|15|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:39|21|Donatas Narvilas |Gerda Voitechovskaja|19|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:39|13|Donatas Narvilas |Gerda Voitechovskaja|21|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:39|24|Donatas Narvilas |Gerda Voitechovskaja|22|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:18|21|Pawel Smilowski|Magdalena Swierczynska|14|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:18|21|Pawel Smilowski|Magdalena Swierczynska|15|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:23|21|Thom Gicquel|Vimala Heriau|10|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:23|21|Thom Gicquel|Vimala Heriau|12|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:21|21|Mario Saunpere |Kati-Kreet Marran|18|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:21|21|Mario Saunpere |Kati-Kreet Marran|19|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605||Walkover Win|Arnaud Merkle|none|Walkover Loss|Kristaps Janis Gulbis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|17|Mikk Ounmaa|none|21|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|21|Mikk Ounmaa|none|18|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|21|Mikk Ounmaa|none|9|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Vladzislav Kushnir|none|12|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Vladzislav Kushnir|none|13|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605||Walkover Win|Rokas Minderis|none|Walkover Loss|Michal Walentek|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:20|21|Petri Hautala|none|11|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:20|21|Petri Hautala|none|12|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:14|21|Peter Roenn Stensaeth|none|7|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:14|21|Peter Roenn Stensaeth|none|6|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Thomas Baures|none|7|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Thomas Baures|none|13|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:34|25|Pawel Smilowski|none|27|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:34|21|Pawel Smilowski|none|7|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:34|21|Pawel Smilowski|none|11|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:26|21|Patryk Szymoniak|none|12|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:26|21|Patryk Szymoniak|none|14|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:30|21|Magnus Christensen|none|10|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:30|12|Magnus Christensen|none|21|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:30|21|Magnus Christensen|none|14|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:35|21|Pierrick Cajot|none|14|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:35|21|Pierrick Cajot|none|19|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:49|19|Torjus Flaatten|none|21|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:49|21|Torjus Flaatten|none|16|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:49|21|Torjus Flaatten|none|10|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|21|Khaitmurat Kulmatov|none|12|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|16|Khaitmurat Kulmatov|none|21|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|21|Khaitmurat Kulmatov|none|17|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|21|Karolis Eimutaitis|none|19|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|21|Karolis Eimutaitis|none|16|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605||Walkover Win|Dzmitry Saidakou|none|Walkover Loss|Karl Kert|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:26|21|Vincent Espen|none|12|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:26|21|Vincent Espen|none|18|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:37|14|Tanel Namm|none|21|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:37|21|Tanel Namm|none|18|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:37|21|Tanel Namm|none|15|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:44|17|Zietek Dominik|none|21|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:44|21|Zietek Dominik|none|10|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:44|22|Zietek Dominik|none|20|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:17|21|Matthew Widdicombe|none|10|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:17|21|Matthew Widdicombe|none|6|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:28|21|Pawel Smilowski|Magdalena Swierczynska|9|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:28|21|Pawel Smilowski|Magdalena Swierczynska|13|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|12|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|15|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:22|21|Veronika Sorokina|none|16|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:22|21|Veronika Sorokina|none|13|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:26|21|Linnea Vainula|none|19|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:26|21|Linnea Vainula|none|17|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Thom Gicquel|Vimala Heriau|19|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:24|21|Thom Gicquel|Vimala Heriau|10|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:20|21|Janowska Karolina|none|10|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:20|21|Janowska Karolina|none|13|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:39|15|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:39|23|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:39|21|Veronika Koldova|none|13|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Elisa Wiborg|none|17|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Elisa Wiborg|none|12|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:22|21|Aleksander Jablonski|Pawel Smilowski|16|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:22|21|Aleksander Jablonski|Pawel Smilowski|13|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:29|21|Margot Lambert|none|13|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:29|24|Margot Lambert|none|22|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Diana Stognija|none|6|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Diana Stognija|none|12|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:21|21|Noora Ahola|none|14|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:21|21|Noora Ahola|none|12|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:31|21|Vimala Heriau|none|12|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:31|21|Vimala Heriau|none|19|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Krestina Silich|none|9|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Krestina Silich|none|4|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:44|23|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:44|12|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:44|21|Piotr Wasiluk |none|14|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:35|21|Mateusz Biernacki|none|13|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:35|21|Mateusz Biernacki|none|17|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:47|12|Arnaud Merkle|none|21|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:47|21|Arnaud Merkle|none|19|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:47|21|Arnaud Merkle|none|17|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:27|21|Thomas Baures|none|10|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:27|21|Thomas Baures|none|15|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:33|17|Bernardo Atilano|none|21|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:33|24|Bernardo Atilano|none|22|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:33|21|Bernardo Atilano|none|15|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:17|21|Petri Hautala|none|6|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:17|21|Petri Hautala|none|10|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605||Walkover Win|Patryk Szymoniak|none|Walkover Loss|Jimmy Noblecourt [8]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:40|18|Torjus Flaatten|none|21|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:40|21|Torjus Flaatten|none|12|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:40|21|Torjus Flaatten|none|19|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Pierrick Cajot|none|9|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Pierrick Cajot|none|11|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:22|21|Toma Junior Popov |none|12|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:22|21|Toma Junior Popov |none|6|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:58|17|Khaitmurat Kulmatov|none|21|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:58|21|Khaitmurat Kulmatov|none|17|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:58|21|Khaitmurat Kulmatov|none|19|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:23|21|Mario Saunpere |none|13|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:23|21|Mario Saunpere |none|16|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|17|Vincent Espen|none|21|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|21|Vincent Espen|none|19|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|21|Vincent Espen|none|13|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:33|21|Artur Niyazov |none|6|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:33|10|Artur Niyazov |none|21|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:33|21|Artur Niyazov |none|7|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:29|24|Krzysztof Jakowczuk|none|22|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:29|21|Krzysztof Jakowczuk|none|11|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:21|21|Margot Lambert|none|5|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:21|21|Margot Lambert|none|7|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:23|21|Janowska Karolina|none|16|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:23|21|Janowska Karolina|none|10|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Vimala Heriau|none|13|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Vimala Heriau|none|19|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|22|Manon Krieger |none|20|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|23|Manon Krieger |none|21|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|19|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|14|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:45|14|Veronika Koldova|none|21|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|21|Veronika Koldova|none|19|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:45|21|Veronika Koldova|none|16|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:28|21|Gerda Voitechovskaja |none|10|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:28|21|Gerda Voitechovskaja |none|19|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:19|21|Aleksander Jablonski|Pawel Smilowski|15|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:19|21|Aleksander Jablonski|Pawel Smilowski|6|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150605|0:52|21|Vincent Espen|none|17|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:52|21|Vincent Espen|none|23|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:52|21|Vincent Espen|none|15|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:31|21|Toma Junior Popov |none|12|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:31|21|Toma Junior Popov |none|17|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|24|Krzysztof Jakowczuk|none|22|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:32|22|Krzysztof Jakowczuk|none|20|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:35|19|Petri Hautala|none|21|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:35|21|Petri Hautala|none|10|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:35|22|Petri Hautala|none|20|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:29|21|Piotr Wasiluk |none|15|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:29|21|Piotr Wasiluk |none|18|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605||Walkover Win|Thomas Baures|none|Walkover Loss|Arnaud Merkle|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:21|21|Bernardo Atilano|none|14|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:21|21|Bernardo Atilano|none|15|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Pierrick Cajot|none|8|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150605|0:24|21|Pierrick Cajot|none|15|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:39|21|Donatas Narvilas |Gerda Voitechovskaja|19|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:39|13|Donatas Narvilas |Gerda Voitechovskaja|21|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:39|24|Donatas Narvilas |Gerda Voitechovskaja|22|Thomas Baures|Margot Lambert|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:18|21|Pawel Smilowski|Magdalena Swierczynska|14|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:18|21|Pawel Smilowski|Magdalena Swierczynska|15|Benedikt Schaller|Ronja Stern|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:23|21|Thom Gicquel|Vimala Heriau|10|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:23|21|Thom Gicquel|Vimala Heriau|12|Kirill Ermakov|Anastasia Dobrinina|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:21|21|Mario Saunpere |Kati-Kreet Marran|18|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:21|21|Mario Saunpere |Kati-Kreet Marran|19|Toms Preinbergs|Ieva Pope|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:05|21|Daniel Chislov|none|18|Sander Merits|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606||Walkover Win|Arnaud Merkle|none|Walkover Loss|Kristaps Janis Gulbis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|17|Mikk Ounmaa|none|21|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|21|Mikk Ounmaa|none|18|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|21|Mikk Ounmaa|none|9|Saulius Saltmeris|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Vladzislav Kushnir|none|12|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Vladzislav Kushnir|none|13|Kristaps Kalnins|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606||Walkover Win|Rokas Minderis|none|Walkover Loss|Michal Walentek|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:20|21|Petri Hautala|none|11|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:20|21|Petri Hautala|none|12|Paulius Bertasius|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:14|21|Peter Roenn Stensaeth|none|7|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:14|21|Peter Roenn Stensaeth|none|6|Thom Gicquel|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Thomas Baures|none|7|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Thomas Baures|none|13|Aleksander Jablonski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:34|25|Pawel Smilowski|none|27|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:34|21|Pawel Smilowski|none|7|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:34|21|Pawel Smilowski|none|11|Mark Sames|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:26|21|Patryk Szymoniak|none|12|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:26|21|Patryk Szymoniak|none|14|Leo Rossi|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:30|21|Magnus Christensen|none|10|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:30|12|Magnus Christensen|none|21|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:30|21|Magnus Christensen|none|14|Mantas Satrauskas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:35|21|Pierrick Cajot|none|14|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:35|21|Pierrick Cajot|none|19|Niks Podosinoviks|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:49|19|Torjus Flaatten|none|21|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:49|21|Torjus Flaatten|none|16|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:49|21|Torjus Flaatten|none|10|Kazimieras Dauskurtas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|21|Khaitmurat Kulmatov|none|12|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|16|Khaitmurat Kulmatov|none|21|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|21|Khaitmurat Kulmatov|none|17|Jorgen Rosenlund|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|21|Karolis Eimutaitis|none|19|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|21|Karolis Eimutaitis|none|16|Reinis Krauklis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606||Walkover Win|Dzmitry Saidakou|none|Walkover Loss|Karl Kert|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:26|21|Vincent Espen|none|12|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:26|21|Vincent Espen|none|18|Kirill Ermakov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:37|14|Tanel Namm|none|21|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:37|21|Tanel Namm|none|18|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:37|21|Tanel Namm|none|15|Ignas Reznikas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:44|17|Zietek Dominik|none|21|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:44|21|Zietek Dominik|none|10|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:44|22|Zietek Dominik|none|20|Livins Edijs|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:17|21|Matthew Widdicombe|none|10|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:17|21|Matthew Widdicombe|none|6|Karl-Rasmus Pungas|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:28|21|Pawel Smilowski|Magdalena Swierczynska|9|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:28|21|Pawel Smilowski|Magdalena Swierczynska|13|Donatas Narvilas [1]|Gerda Voitechovskaja|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|12|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:20|21|Mateusz Biernacki|Krzysztof Jakowczuk|15|Saulius Saltmeris|Mantas Satrauskas|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:22|21|Veronika Sorokina|none|16|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:22|21|Veronika Sorokina|none|13|Vytaute Fomkinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:26|21|Linnea Vainula|none|19|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:26|21|Linnea Vainula|none|17|Helis Pajuste|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Thom Gicquel|Vimala Heriau|19|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:24|21|Thom Gicquel|Vimala Heriau|10|Mario Saunpere [2]|Kati-Kreet Marran|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:20|21|Janowska Karolina|none|10|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:20|21|Janowska Karolina|none|13|Mari Ann Karjus|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:39|15|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:39|23|Veronika Koldova|none|21|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:39|21|Veronika Koldova|none|13|Aija Pope|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Elisa Wiborg|none|17|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Elisa Wiborg|none|12|Elizabet Berzanskyte|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:22|21|Aleksander Jablonski|Pawel Smilowski|16|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:22|21|Aleksander Jablonski|Pawel Smilowski|13|Kristaps Kalnins|Niks Podosinoviks|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:29|21|Margot Lambert|none|13|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:29|24|Margot Lambert|none|22|Daria Dzhedzhla|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Diana Stognija|none|6|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Diana Stognija|none|12|Gabriele Paskeviciute|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:30|21|Katia Normand|none|18|Ronja Stern|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:21|21|Noora Ahola|none|14|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:21|21|Noora Ahola|none|12|Elzbieta Bajorinaite|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:31|21|Vimala Heriau|none|12|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:31|21|Vimala Heriau|none|19|Margrét Johannsdottir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Krestina Silich|none|9|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Krestina Silich|none|4|Olga Mihailova|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:44|23|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:44|12|Piotr Wasiluk |none|21|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:44|21|Piotr Wasiluk |none|14|Vladzislav Kushnir|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:35|21|Mateusz Biernacki|none|13|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:35|21|Mateusz Biernacki|none|17|Peter Roenn Stensaeth|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:47|12|Arnaud Merkle|none|21|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:47|21|Arnaud Merkle|none|19|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:47|21|Arnaud Merkle|none|17|Daniel Chislov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:27|21|Thomas Baures|none|10|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:27|21|Thomas Baures|none|15|Bedrich Valenta [7]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:33|17|Bernardo Atilano|none|21|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:33|24|Bernardo Atilano|none|22|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:33|21|Bernardo Atilano|none|15|Mikk Ounmaa|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:23|21|Pawel Smilowski|none|19|Mihkel Laanes [4]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:17|21|Petri Hautala|none|6|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:17|21|Petri Hautala|none|10|Rokas Minderis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606||Walkover Win|Patryk Szymoniak|none|Walkover Loss|Jimmy Noblecourt [8]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:40|18|Torjus Flaatten|none|21|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:40|21|Torjus Flaatten|none|12|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:40|21|Torjus Flaatten|none|19|Vladimir Nikulov [5]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Pierrick Cajot|none|9|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Pierrick Cajot|none|11|Magnus Christensen|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:22|21|Toma Junior Popov |none|12|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:22|21|Toma Junior Popov |none|6|Karolis Eimutaitis|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:58|17|Khaitmurat Kulmatov|none|21|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:58|21|Khaitmurat Kulmatov|none|17|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:58|21|Khaitmurat Kulmatov|none|19|Benedikt Schaller|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:23|21|Mario Saunpere |none|13|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:23|21|Mario Saunpere |none|16|Dzmitry Saidakou|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|17|Vincent Espen|none|21|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|21|Vincent Espen|none|19|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|21|Vincent Espen|none|13|Tanel Namm|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:33|21|Artur Niyazov |none|6|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:33|10|Artur Niyazov |none|21|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:33|21|Artur Niyazov |none|7|Matthew Widdicombe|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:29|24|Krzysztof Jakowczuk|none|22|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:29|21|Krzysztof Jakowczuk|none|11|Zietek Dominik|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:21|21|Margot Lambert|none|5|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:21|21|Margot Lambert|none|7|Liana Lencevica|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:23|21|Janowska Karolina|none|16|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:23|21|Janowska Karolina|none|10|Megumi Sonoda [1]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Vimala Heriau|none|13|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Vimala Heriau|none|19|Noora Ahola|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Helena Cable |none|11|Diana Stognija|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Veronika Sorokina|none|5|Linnea Vainula|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|22|Manon Krieger |none|20|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|23|Manon Krieger |none|21|Katia Normand|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|19|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:23|21|Mateusz Biernacki|Krzysztof Jakowczuk|14|Paulius Bertasius|Karolis Eimutaitis|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:45|14|Veronika Koldova|none|21|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|21|Veronika Koldova|none|19|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:45|21|Veronika Koldova|none|16|Elisa Wiborg|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:28|21|Gerda Voitechovskaja |none|10|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:28|21|Gerda Voitechovskaja |none|19|Krestina Silich|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:19|21|Aleksander Jablonski|Pawel Smilowski|15|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:19|21|Aleksander Jablonski|Pawel Smilowski|6|Gedmantas Cepkauskas|Mark Sames|34484987-A23A-4341-9CA9-D9586C1F67A9|doubles
+20150606|0:52|21|Vincent Espen|none|17|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:52|21|Vincent Espen|none|23|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:52|21|Vincent Espen|none|15|Mario Saunpere [6]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:31|21|Toma Junior Popov |none|12|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:31|21|Toma Junior Popov |none|17|Khaitmurat Kulmatov|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|24|Krzysztof Jakowczuk|none|22|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:32|22|Krzysztof Jakowczuk|none|20|Artur Niyazov [2]|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:35|19|Petri Hautala|none|21|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:35|21|Petri Hautala|none|10|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:35|22|Petri Hautala|none|20|Patryk Szymoniak|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:29|21|Piotr Wasiluk |none|15|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:29|21|Piotr Wasiluk |none|18|Mateusz Biernacki|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606||Walkover Win|Thomas Baures|none|Walkover Loss|Arnaud Merkle|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:21|21|Bernardo Atilano|none|14|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:21|21|Bernardo Atilano|none|15|Pawel Smilowski|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Pierrick Cajot|none|8|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles
+20150606|0:24|21|Pierrick Cajot|none|15|Torjus Flaatten|none|34484987-A23A-4341-9CA9-D9586C1F67A9|singles

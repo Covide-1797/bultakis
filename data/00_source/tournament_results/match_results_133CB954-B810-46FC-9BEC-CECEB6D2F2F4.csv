@@ -1,0 +1,425 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150709|0:30|21|Nikita Agalakov|Liana Lencevica|19|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:30|21|Nikita Agalakov|Liana Lencevica|9|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:20|21|Rodion Alimov |Alina Davletova|13|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:20|21|Rodion Alimov |Alina Davletova|5|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:25|21|Georgii Karpov|Anastasia Medvedeva|16|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:25|21|Georgii Karpov|Anastasia Medvedeva|17|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|16|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|13|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:30|21|Sahil Sipani|Anoushka Parikh|19|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:30|21|Sahil Sipani|Anoushka Parikh|16|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:40|21|Egor Okolov|Sabina Alieva|11|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:40|14|Egor Okolov|Sabina Alieva|21|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:40|21|Egor Okolov|Sabina Alieva|14|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:43|13|Nikita Lemeshko|Anastasia Semyonova|21|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:43|22|Nikita Lemeshko|Anastasia Semyonova|20|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:43|21|Nikita Lemeshko|Anastasia Semyonova|17|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:35|21|Venediktov Ilya|none|19|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:35|8|Venediktov Ilya|none|21|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:35|21|Venediktov Ilya|none|13|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:35|21|Nikita Fedotovskikh|Lela Minadze|19|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:35|15|Nikita Fedotovskikh|Lela Minadze|21|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:35|21|Nikita Fedotovskikh|Lela Minadze|17|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:25|21|Georgii Karpov|none|18|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:25|21|Georgii Karpov|none|13|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Sahil Sipani|none|11|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Sahil Sipani|none|12|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Mikhail Ghelashvili|none|8|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Mikhail Ghelashvili|none|10|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:27|22|Nikita Fedotovskikh|none|20|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:27|21|Nikita Fedotovskikh|none|17|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:36|16|Anastasiia Borovkova|none|21|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:27|21|Anastasia Semyonova|none|12|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:27|23|Anastasia Semyonova|none|21|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:48|21|Anoushka Parikh|none|16|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:48|19|Anoushka Parikh|none|21|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:48|21|Anoushka Parikh|none|12|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:23|21|Ekaterina Kadochnikova|none|12|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:23|21|Ekaterina Kadochnikova|none|16|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:44|22|Lela Minadze|none|20|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:44|14|Lela Minadze|none|21|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:44|21|Lela Minadze|none|19|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:24|21|Ella Soderstrom|none|14|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:24|21|Ella Soderstrom|none|18|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Yulia Vasilyeva|none|12|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Yulia Vasilyeva|none|13|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Alina Romanko|none|19|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Alina Romanko|none|9|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709||11|Mariya Malygina|none|6|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709||Walkover Win|Mariya Malygina|none|Walkover Loss|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:25|21|Vera Morozova|none|10|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:25|21|Vera Morozova|none|15|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:29|21|Ekaterina Riazantseva|none|19|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:29|21|Ekaterina Riazantseva|none|16|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:21|21|Wolfgang Gnedt |none|8|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:21|21|Wolfgang Gnedt |none|10|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:24|21|Mikhail Lavrikov|none|10|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:24|21|Mikhail Lavrikov|none|18|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:33|21|Pavel Kotsarenko |none|19|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:33|21|Pavel Kotsarenko |none|16|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Dmitrii Klimenko|none|11|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Dmitrii Klimenko|none|12|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:24|21|Sahil Sipani|none|9|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:24|21|Sahil Sipani|none|16|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Pachaarapol Nipornram |none|16|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Pachaarapol Nipornram |none|11|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:33|7|Nikita Fedotovskikh|none|21|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:33|21|Nikita Fedotovskikh|none|19|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:33|21|Nikita Fedotovskikh|none|17|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:18|21|Rodion Alimov |none|6|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:18|21|Rodion Alimov |none|18|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:21|21|Supamart Mingchua |none|11|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:21|21|Supamart Mingchua |none|9|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:27|21|Sabina Alieva|none|13|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:27|21|Sabina Alieva|none|19|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:21|21|Pattarasuda Chaiwan |none|7|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:21|21|Pattarasuda Chaiwan |none|16|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Lela Minadze|none|16|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:22|21|Lela Minadze|none|10|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:50|21|Ella Soderstrom|none|23|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:50|21|Ella Soderstrom|none|13|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:50|24|Ella Soderstrom|none|22|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:18|21|Ruethaichanok Laisuan |none|9|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:18|21|Ruethaichanok Laisuan |none|10|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:52|21|Mariya Malygina|none|15|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:52|21|Mariya Malygina|none|23|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:52|22|Mariya Malygina|none|20|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Alina Davletova |none|6|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:19|21|Alina Davletova |none|13|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150709|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|8|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|12|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|18|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|19|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:47|12|Anna Bazunova|Indira Shakirova|21|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:24|21|Lela Minadze|Anastasiia Sharapova|19|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:24|21|Lela Minadze|Anastasiia Sharapova|11|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:44|18|Sabina Alieva|Vera Morozova|21|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:44|21|Sabina Alieva|Vera Morozova|8|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:44|21|Sabina Alieva|Vera Morozova|16|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:21|21|Alina Davletova|Olga Rogova|10|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150709|0:21|21|Alina Davletova|Olga Rogova|8|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:30|21|Nikita Agalakov|Liana Lencevica|19|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:30|21|Nikita Agalakov|Liana Lencevica|9|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:20|21|Rodion Alimov |Alina Davletova|13|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:20|21|Rodion Alimov |Alina Davletova|5|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:25|21|Georgii Karpov|Anastasia Medvedeva|16|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:25|21|Georgii Karpov|Anastasia Medvedeva|17|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|16|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|13|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:30|21|Sahil Sipani|Anoushka Parikh|19|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:30|21|Sahil Sipani|Anoushka Parikh|16|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:40|21|Egor Okolov|Sabina Alieva|11|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:40|14|Egor Okolov|Sabina Alieva|21|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:40|21|Egor Okolov|Sabina Alieva|14|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:43|13|Nikita Lemeshko|Anastasia Semyonova|21|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:43|22|Nikita Lemeshko|Anastasia Semyonova|20|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:43|21|Nikita Lemeshko|Anastasia Semyonova|17|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:35|21|Venediktov Ilya|none|19|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:35|8|Venediktov Ilya|none|21|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:35|21|Venediktov Ilya|none|13|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:35|21|Nikita Fedotovskikh|Lela Minadze|19|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:35|15|Nikita Fedotovskikh|Lela Minadze|21|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:35|21|Nikita Fedotovskikh|Lela Minadze|17|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:25|21|Georgii Karpov|none|18|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:25|21|Georgii Karpov|none|13|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Sahil Sipani|none|11|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Sahil Sipani|none|12|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Mikhail Ghelashvili|none|8|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Mikhail Ghelashvili|none|10|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:27|22|Nikita Fedotovskikh|none|20|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:27|21|Nikita Fedotovskikh|none|17|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:36|16|Anastasiia Borovkova|none|21|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:27|21|Anastasia Semyonova|none|12|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:27|23|Anastasia Semyonova|none|21|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:48|21|Anoushka Parikh|none|16|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:48|19|Anoushka Parikh|none|21|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:48|21|Anoushka Parikh|none|12|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:23|21|Ekaterina Kadochnikova|none|12|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:23|21|Ekaterina Kadochnikova|none|16|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:44|22|Lela Minadze|none|20|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:44|14|Lela Minadze|none|21|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:44|21|Lela Minadze|none|19|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:24|21|Ella Soderstrom|none|14|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:24|21|Ella Soderstrom|none|18|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Yulia Vasilyeva|none|12|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Yulia Vasilyeva|none|13|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Alina Romanko|none|19|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Alina Romanko|none|9|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710||11|Mariya Malygina|none|6|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710||Walkover Win|Mariya Malygina|none|Walkover Loss|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:25|21|Vera Morozova|none|10|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:25|21|Vera Morozova|none|15|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:29|21|Ekaterina Riazantseva|none|19|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:29|21|Ekaterina Riazantseva|none|16|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:21|21|Wolfgang Gnedt |none|8|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:21|21|Wolfgang Gnedt |none|10|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:24|21|Mikhail Lavrikov|none|10|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:24|21|Mikhail Lavrikov|none|18|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:33|21|Pavel Kotsarenko |none|19|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:33|21|Pavel Kotsarenko |none|16|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Dmitrii Klimenko|none|11|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Dmitrii Klimenko|none|12|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:24|21|Sahil Sipani|none|9|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:24|21|Sahil Sipani|none|16|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Pachaarapol Nipornram |none|16|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Pachaarapol Nipornram |none|11|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:33|7|Nikita Fedotovskikh|none|21|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:33|21|Nikita Fedotovskikh|none|19|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:33|21|Nikita Fedotovskikh|none|17|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:18|21|Rodion Alimov |none|6|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:18|21|Rodion Alimov |none|18|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:21|21|Supamart Mingchua |none|11|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:21|21|Supamart Mingchua |none|9|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:27|21|Sabina Alieva|none|13|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:27|21|Sabina Alieva|none|19|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:21|21|Pattarasuda Chaiwan |none|7|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:21|21|Pattarasuda Chaiwan |none|16|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Lela Minadze|none|16|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:22|21|Lela Minadze|none|10|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:50|21|Ella Soderstrom|none|23|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:50|21|Ella Soderstrom|none|13|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:50|24|Ella Soderstrom|none|22|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:18|21|Ruethaichanok Laisuan |none|9|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:18|21|Ruethaichanok Laisuan |none|10|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:52|21|Mariya Malygina|none|15|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:52|21|Mariya Malygina|none|23|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:52|22|Mariya Malygina|none|20|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Alina Davletova |none|6|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:19|21|Alina Davletova |none|13|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150710|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|8|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|12|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|18|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|19|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:47|12|Anna Bazunova|Indira Shakirova|21|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:24|21|Lela Minadze|Anastasiia Sharapova|19|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:24|21|Lela Minadze|Anastasiia Sharapova|11|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:44|18|Sabina Alieva|Vera Morozova|21|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:44|21|Sabina Alieva|Vera Morozova|8|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:44|21|Sabina Alieva|Vera Morozova|16|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:21|21|Alina Davletova|Olga Rogova|10|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150710|0:21|21|Alina Davletova|Olga Rogova|8|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:30|21|Nikita Agalakov|Liana Lencevica|19|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:30|21|Nikita Agalakov|Liana Lencevica|9|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:20|21|Rodion Alimov |Alina Davletova|13|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:20|21|Rodion Alimov |Alina Davletova|5|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:25|21|Georgii Karpov|Anastasia Medvedeva|16|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:25|21|Georgii Karpov|Anastasia Medvedeva|17|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|16|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|13|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:30|21|Sahil Sipani|Anoushka Parikh|19|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:30|21|Sahil Sipani|Anoushka Parikh|16|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:40|21|Egor Okolov|Sabina Alieva|11|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:40|14|Egor Okolov|Sabina Alieva|21|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:40|21|Egor Okolov|Sabina Alieva|14|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:43|13|Nikita Lemeshko|Anastasia Semyonova|21|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:43|22|Nikita Lemeshko|Anastasia Semyonova|20|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:43|21|Nikita Lemeshko|Anastasia Semyonova|17|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:35|21|Venediktov Ilya|none|19|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:35|8|Venediktov Ilya|none|21|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:35|21|Venediktov Ilya|none|13|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:35|21|Nikita Fedotovskikh|Lela Minadze|19|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:35|15|Nikita Fedotovskikh|Lela Minadze|21|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:35|21|Nikita Fedotovskikh|Lela Minadze|17|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:25|21|Georgii Karpov|none|18|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:25|21|Georgii Karpov|none|13|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Sahil Sipani|none|11|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Sahil Sipani|none|12|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Mikhail Ghelashvili|none|8|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Mikhail Ghelashvili|none|10|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:27|22|Nikita Fedotovskikh|none|20|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:27|21|Nikita Fedotovskikh|none|17|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:36|16|Anastasiia Borovkova|none|21|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:27|21|Anastasia Semyonova|none|12|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:27|23|Anastasia Semyonova|none|21|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:48|21|Anoushka Parikh|none|16|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:48|19|Anoushka Parikh|none|21|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:48|21|Anoushka Parikh|none|12|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:23|21|Ekaterina Kadochnikova|none|12|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:23|21|Ekaterina Kadochnikova|none|16|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:44|22|Lela Minadze|none|20|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:44|14|Lela Minadze|none|21|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:44|21|Lela Minadze|none|19|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:24|21|Ella Soderstrom|none|14|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:24|21|Ella Soderstrom|none|18|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Yulia Vasilyeva|none|12|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Yulia Vasilyeva|none|13|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Alina Romanko|none|19|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Alina Romanko|none|9|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711||11|Mariya Malygina|none|6|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711||Walkover Win|Mariya Malygina|none|Walkover Loss|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:25|21|Vera Morozova|none|10|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:25|21|Vera Morozova|none|15|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:29|21|Ekaterina Riazantseva|none|19|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:29|21|Ekaterina Riazantseva|none|16|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:21|21|Wolfgang Gnedt |none|8|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:21|21|Wolfgang Gnedt |none|10|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:24|21|Mikhail Lavrikov|none|10|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:24|21|Mikhail Lavrikov|none|18|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:33|21|Pavel Kotsarenko |none|19|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:33|21|Pavel Kotsarenko |none|16|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Dmitrii Klimenko|none|11|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Dmitrii Klimenko|none|12|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:24|21|Sahil Sipani|none|9|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:24|21|Sahil Sipani|none|16|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Pachaarapol Nipornram |none|16|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Pachaarapol Nipornram |none|11|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:33|7|Nikita Fedotovskikh|none|21|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:33|21|Nikita Fedotovskikh|none|19|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:33|21|Nikita Fedotovskikh|none|17|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:18|21|Rodion Alimov |none|6|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:18|21|Rodion Alimov |none|18|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:21|21|Supamart Mingchua |none|11|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:21|21|Supamart Mingchua |none|9|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:27|21|Sabina Alieva|none|13|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:27|21|Sabina Alieva|none|19|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:21|21|Pattarasuda Chaiwan |none|7|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:21|21|Pattarasuda Chaiwan |none|16|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Lela Minadze|none|16|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:22|21|Lela Minadze|none|10|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:50|21|Ella Soderstrom|none|23|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:50|21|Ella Soderstrom|none|13|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:50|24|Ella Soderstrom|none|22|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:18|21|Ruethaichanok Laisuan |none|9|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:18|21|Ruethaichanok Laisuan |none|10|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:52|21|Mariya Malygina|none|15|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:52|21|Mariya Malygina|none|23|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:52|22|Mariya Malygina|none|20|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Alina Davletova |none|6|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:19|21|Alina Davletova |none|13|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150711|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|8|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|12|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|18|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|19|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:47|12|Anna Bazunova|Indira Shakirova|21|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:24|21|Lela Minadze|Anastasiia Sharapova|19|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:24|21|Lela Minadze|Anastasiia Sharapova|11|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:44|18|Sabina Alieva|Vera Morozova|21|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:44|21|Sabina Alieva|Vera Morozova|8|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:44|21|Sabina Alieva|Vera Morozova|16|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:21|21|Alina Davletova|Olga Rogova|10|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150711|0:21|21|Alina Davletova|Olga Rogova|8|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:30|21|Nikita Agalakov|Liana Lencevica|19|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:30|21|Nikita Agalakov|Liana Lencevica|9|Kirill Timofeev|Daria Radchenko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:20|21|Rodion Alimov |Alina Davletova|13|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:20|21|Rodion Alimov |Alina Davletova|5|Egor Kholkin|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:25|21|Georgii Karpov|Anastasia Medvedeva|16|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:25|21|Georgii Karpov|Anastasia Medvedeva|17|Alexander Loginov [3]|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|16|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:25|21|Mikhail Lavrikov|Ekaterina Riazantseva|13|Ivan Khaimenok|Sofia Kornienko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:30|21|Sahil Sipani|Anoushka Parikh|19|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:30|21|Sahil Sipani|Anoushka Parikh|16|Vladimir Shipilenko [4]|Valeriia Makkoveeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:40|21|Egor Okolov|Sabina Alieva|11|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:40|14|Egor Okolov|Sabina Alieva|21|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:40|21|Egor Okolov|Sabina Alieva|14|Victor Kokhanov|Anastasiia Sharapova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:43|13|Nikita Lemeshko|Anastasia Semyonova|21|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:43|22|Nikita Lemeshko|Anastasia Semyonova|20|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:43|21|Nikita Lemeshko|Anastasia Semyonova|17|Mikhail Ghelashvili [2]|Anastasia Redkina|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:35|21|Venediktov Ilya|none|19|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:35|8|Venediktov Ilya|none|21|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:35|21|Venediktov Ilya|none|13|Kunlavut Vitidsarn|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:35|21|Nikita Fedotovskikh|Lela Minadze|19|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:35|15|Nikita Fedotovskikh|Lela Minadze|21|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:35|21|Nikita Fedotovskikh|Lela Minadze|17|Nikita Agalakov|Liana Lencevica|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:25|21|Georgii Karpov|none|18|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:25|21|Georgii Karpov|none|13|Victor Kokhanov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Sahil Sipani|none|11|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Sahil Sipani|none|12|Alexander Loginov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Mikhail Ghelashvili|none|8|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Mikhail Ghelashvili|none|10|Egor Kholkin|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:30|21|Nikita Lemeshko|none|16|Kirill Timofeev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:27|22|Nikita Fedotovskikh|none|20|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:27|21|Nikita Fedotovskikh|none|17|Vladimir Shipilenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:36|16|Anastasiia Borovkova|none|21|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:36|21|Anastasiia Borovkova|none|14|Anastasiia Kurdyukova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:27|21|Anastasia Semyonova|none|12|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:27|23|Anastasia Semyonova|none|21|Sofia Kornienko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:48|21|Anoushka Parikh|none|16|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:48|19|Anoushka Parikh|none|21|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:48|21|Anoushka Parikh|none|12|Anastasia Medvedeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:23|21|Ekaterina Kadochnikova|none|12|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:23|21|Ekaterina Kadochnikova|none|16|Anastasiia Sharapova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:44|22|Lela Minadze|none|20|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:44|14|Lela Minadze|none|21|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:44|21|Lela Minadze|none|19|Jekaterina Romanova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:24|21|Ella Soderstrom|none|14|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:24|21|Ella Soderstrom|none|18|Anna Bazunova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Yulia Vasilyeva|none|12|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Yulia Vasilyeva|none|13|Liana Lencevica|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Alina Romanko|none|19|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Alina Romanko|none|9|Indira Shakirova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712||11|Mariya Malygina|none|6|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712||Walkover Win|Mariya Malygina|none|Walkover Loss|Anastasia Redkina|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:25|21|Vera Morozova|none|10|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:25|21|Vera Morozova|none|15|Valeriia Makkoveeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:29|21|Ekaterina Riazantseva|none|19|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:29|21|Ekaterina Riazantseva|none|16|Daria Radchenko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:21|21|Wolfgang Gnedt |none|8|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:21|21|Wolfgang Gnedt |none|10|Vasiliy Dmitriev|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:24|21|Mikhail Lavrikov|none|10|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:24|21|Mikhail Lavrikov|none|18|Ivan Khaimenok|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:33|21|Pavel Kotsarenko |none|19|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:33|21|Pavel Kotsarenko |none|16|Georgii Karpov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Dmitrii Klimenko|none|11|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Dmitrii Klimenko|none|12|Venediktov Ilya|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:24|21|Sahil Sipani|none|9|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:24|21|Sahil Sipani|none|16|Nikita Agalakov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Pachaarapol Nipornram |none|16|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Pachaarapol Nipornram |none|11|Nikita Lemeshko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:33|7|Nikita Fedotovskikh|none|21|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:33|21|Nikita Fedotovskikh|none|19|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:33|21|Nikita Fedotovskikh|none|17|Egor Okolov|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:18|21|Rodion Alimov |none|6|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:18|21|Rodion Alimov |none|18|Mikhail Ghelashvili|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:21|21|Supamart Mingchua |none|11|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:21|21|Supamart Mingchua |none|9|Anastasiia Borovkova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:27|21|Sabina Alieva|none|13|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:27|21|Sabina Alieva|none|19|Anastasia Semyonova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:21|21|Pattarasuda Chaiwan |none|7|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:21|21|Pattarasuda Chaiwan |none|16|Anoushka Parikh|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Lela Minadze|none|16|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:22|21|Lela Minadze|none|10|Ekaterina Kadochnikova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:50|21|Ella Soderstrom|none|23|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:50|21|Ella Soderstrom|none|13|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:50|24|Ella Soderstrom|none|22|Yulia Vasilyeva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:18|21|Ruethaichanok Laisuan |none|9|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:18|21|Ruethaichanok Laisuan |none|10|Alina Romanko|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:52|21|Mariya Malygina|none|15|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:52|21|Mariya Malygina|none|23|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:52|22|Mariya Malygina|none|20|Vera Morozova|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Alina Davletova |none|6|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:19|21|Alina Davletova |none|13|Ekaterina Riazantseva|none|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|singles
+20150712|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|8|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:23|21|Pachaarapol Nipornram|Kunlavut Vitidsarn|12|Victor Kokhanov|Nikita Lemeshko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|18|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:29|21|Anastasia Semyonova|Yulia Vasilyeva|19|Mariya Malygina|Alina Romanko|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:47|12|Anna Bazunova|Indira Shakirova|21|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:47|21|Anna Bazunova|Indira Shakirova|18|Liana Lencevica|Jekaterina Romanova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:24|21|Lela Minadze|Anastasiia Sharapova|19|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:24|21|Lela Minadze|Anastasiia Sharapova|11|Sofia Kornienko|Ekaterina Riazantseva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:44|18|Sabina Alieva|Vera Morozova|21|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:44|21|Sabina Alieva|Vera Morozova|8|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:44|21|Sabina Alieva|Vera Morozova|16|Anastasiia Borovkova|Anastasiia Kurdyukova|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:21|21|Alina Davletova|Olga Rogova|10|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles
+20150712|0:21|21|Alina Davletova|Olga Rogova|8|Ekaterina Kadochnikova|Anastasia Medvedeva|133CB954-B810-46FC-9BEC-CECEB6D2F2F4|doubles

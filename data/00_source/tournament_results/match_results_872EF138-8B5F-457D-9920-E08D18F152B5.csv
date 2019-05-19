@@ -1,0 +1,943 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20141104|0:23|21|Ra Min Young|Ko Hye Ryeon|9|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:23|21|Ra Min Young|Ko Hye Ryeon|15|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:29|21|Chang Yu Chen|none|16|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:29|21|Chang Yu Chen|none|15|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:03|1|Shin Kyung Deok|none|0|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:03|Walkover Win|Shin Kyung Deok|none|Walkover Loss|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:38|21|Kim Soo Jin |none|13|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:38|21|Kim Soo Jin |none|15|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:18|21|Tsang Wing Chiu |none|3|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:18|21|Tsang Wing Chiu |none|5|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|1:00|21|Sarita Suwannakitborihan|none|15|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|1:00|18|Sarita Suwannakitborihan|none|21|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|1:00|21|Sarita Suwannakitborihan|none|19|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Lee Haeng Ham|Song Chang Yeop|11|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Lee Haeng Ham|Song Chang Yeop|14|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Lee Chak Wai|none|18|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Lee Chak Wai|none|15|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:35|21|Chan Hung Yung|none|16|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:35|21|Chan Hung Yung|none|9|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:40|16|Kim Ki Hoon|Eom Ah Young|21|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:40|21|Kim Ki Hoon|Eom Ah Young|18|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:40|21|Kim Ki Hoon|Eom Ah Young|16|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:25|21|Oh Sang Ho|none|14|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Oh Sang Ho|none|18|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Ho Wai Lun |Yuen Sin Ying|13|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:25|21|Ho Wai Lun |Yuen Sin Ying|10|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:17|21|Lee Sang Min|none|13|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:17|21|Lee Sang Min|none|9|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:15|21|Jun Joo I|none|8|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:15|21|Jun Joo I|none|7|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:05|1|Kim Seung Min|none|1|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:05|Walkover Win|Kim Seung Min|none|Walkover Loss|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Song Min Jin|none|9|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Song Min Jin|none|11|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:02|Walkover Win|Park Won Jin|none|Walkover Loss|Lee Yoon Kyu|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:29|21|Yang Ran Sun|none|16|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:29|21|Yang Ran Sun|none|13|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Taiki Shimada|Yoshinori Takeuchi|19|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:25|21|Taiki Shimada|Yoshinori Takeuchi|12|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:25|21|Naoko Fukuman|Kurumi Yonao|6|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:25|21|Naoko Fukuman|Kurumi Yonao|7|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:40|17|Kim Jun Soo|Kim Kyung Tae|21|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:40|21|Kim Jun Soo|Kim Kyung Tae|16|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:40|21|Kim Jun Soo|Kim Kyung Tae|15|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:15|21|Kim Dae Eun|Choi Hye In|7|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:15|21|Kim Dae Eun|Choi Hye In|8|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Choi Young Woo|none|11|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Choi Young Woo|none|9|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:22|21|Chang Tak Ching|Tsang Wing Chiu|13|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:22|21|Chang Tak Ching|Tsang Wing Chiu|16|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:33|21|Byun Jung Soo|none|15|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:33|21|Byun Jung Soo|none|11|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Lim Su Min|none|12|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Lim Su Min|none|9|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:55|21|Eom Ah Young|Park Ah Young|18|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:55|20|Eom Ah Young|Park Ah Young|22|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:55|21|Eom Ah Young|Park Ah Young|12|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:25|21|Choi Myung Jin|none|18|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Choi Myung Jin|none|14|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Jang Seung Hoon|Ko Hyun Jung|18|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:25|21|Jang Seung Hoon|Ko Hyun Jung|8|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:20|21|Hong Su Ho|none|16|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:20|21|Hong Su Ho|none|18|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:17|21|Jung Woo Jin|none|9|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:17|21|Jung Woo Jin|none|17|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:03|1|Wei Jian Ai |Shinan Liu|0|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:03|Walkover Win|Wei Jian Ai |Shinan Liu|Walkover Loss|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:15|21|Lee Jang Won|none|6|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:15|21|Lee Jang Won|none|3|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:46|21|Son Seong Hyun|none|12|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:46|13|Son Seong Hyun|none|21|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:46|21|Son Seong Hyun|none|14|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:38|19|Lee Hyun Deok|none|21|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:38|21|Lee Hyun Deok|none|18|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:38|21|Lee Hyun Deok|none|12|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:26|21|Kong Hee Yong |Seong Seung Yeon|11|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:26|21|Kong Hee Yong |Seong Seung Yeon|16|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|13|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|18|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:20|21|Yeung Shing Choi |Chan Hung Yung|19|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:20|14|Yeung Shing Choi |Chan Hung Yung|21|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:20|21|Yeung Shing Choi |Chan Hung Yung|14|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:32|21|Choi Yoo Ri|Ra Young Ju|11|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:32|21|Choi Yoo Ri|Ra Young Ju|19|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:00|14|Kim Joo Wan|none|21|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|1:00|21|Kim Joo Wan|none|17|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|1:00|21|Kim Joo Wan|none|16|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:31|21|Lee Ja Yeong|Park Min Ji|14|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:31|21|Lee Ja Yeong|Park Min Ji|15|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:20|21|Kim Seung Pyo|Ra Min Young|14|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:20|21|Kim Seung Pyo|Ra Min Young|6|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|4|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|9|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:45|21|Sung Shuo Yun|Yu Chien Hui|14|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:45|19|Sung Shuo Yun|Yu Chien Hui|21|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:45|21|Sung Shuo Yun|Yu Chien Hui|19|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:22|21|Jung Suk Hoon|Kim Ki Hoon|17|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:22|21|Jung Suk Hoon|Kim Ki Hoon|16|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:01|14|Yang Ran Sun|none|21|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|1:01|21|Yang Ran Sun|none|13|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|1:01|21|Yang Ran Sun|none|19|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Oh Sang Ho|none|11|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Oh Sang Ho|none|9|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:29|21|Kong Hee Yong |Seong Seung Yeon|16|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:29|22|Kong Hee Yong |Seong Seung Yeon|20|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:05|21|Kim Jun Soo|Kim Kyung Tae|23|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:05|21|Kim Jun Soo|Kim Kyung Tae|10|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|1:05|21|Kim Jun Soo|Kim Kyung Tae|12|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:32|21|Son Seong Hyun|none|12|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:32|21|Son Seong Hyun|none|13|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|15|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|19|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:58|21|Kim Joo Wan|none|14|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:58|19|Kim Joo Wan|none|21|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:58|21|Kim Joo Wan|none|13|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:39|21|Chiang Kai Hsin |Hung Shih Han|18|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:39|21|Chiang Kai Hsin |Hung Shih Han|19|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:23|21|Lee Chak Wai|none|13|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:23|21|Lee Chak Wai|none|18|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:55|21|Jang Seung Hoon|Kim Seung Min|17|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:55|23|Jang Seung Hoon|Kim Seung Min|25|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:55|21|Jang Seung Hoon|Kim Seung Min|16|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:20|21|Lim Su Min|none|8|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:20|21|Lim Su Min|none|11|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Byun Jung Soo|none|12|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:25|21|Byun Jung Soo|none|11|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:34|21|Yeung Shing Choi |Chan Hung Yung|18|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:34|21|Yeung Shing Choi |Chan Hung Yung|17|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:21|21|Kim Seung Min|none|3|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:21|21|Kim Seung Min|none|10|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:27|21|Kim Dae Eun|Choi Hye In|11|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:27|21|Kim Dae Eun|Choi Hye In|14|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Song Min Jin|none|14|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Song Min Jin|none|13|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:26|21|Choi Young Woo|none|10|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:26|21|Choi Young Woo|none|12|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Jun Joo I|none|14|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Jun Joo I|none|9|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:24|21|Sarita Suwannakitborihan|none|10|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:24|21|Sarita Suwannakitborihan|none|16|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141104|0:30|21|Naoko Fukuman|Kurumi Yonao|12|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Naoko Fukuman|Kurumi Yonao|6|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Taiki Shimada|Yoshinori Takeuchi|17|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Taiki Shimada|Yoshinori Takeuchi|19|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Jung Suk Hoon|Kim Ki Hoon|16|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:30|21|Jung Suk Hoon|Kim Ki Hoon|17|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:39|16|Jang Seung Hoon|Ko Hyun Jung|21|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:39|21|Jang Seung Hoon|Ko Hyun Jung|8|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:39|21|Jang Seung Hoon|Ko Hyun Jung|19|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|10|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141104|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|17|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:23|21|Ra Min Young|Ko Hye Ryeon|9|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:23|21|Ra Min Young|Ko Hye Ryeon|15|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:29|21|Chang Yu Chen|none|16|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:29|21|Chang Yu Chen|none|15|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:03|1|Shin Kyung Deok|none|0|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:03|Walkover Win|Shin Kyung Deok|none|Walkover Loss|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:38|21|Kim Soo Jin |none|13|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:38|21|Kim Soo Jin |none|15|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:18|21|Tsang Wing Chiu |none|3|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:18|21|Tsang Wing Chiu |none|5|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|1:00|21|Sarita Suwannakitborihan|none|15|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|1:00|18|Sarita Suwannakitborihan|none|21|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|1:00|21|Sarita Suwannakitborihan|none|19|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Lee Haeng Ham|Song Chang Yeop|11|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Lee Haeng Ham|Song Chang Yeop|14|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Lee Chak Wai|none|18|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Lee Chak Wai|none|15|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:35|21|Chan Hung Yung|none|16|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:35|21|Chan Hung Yung|none|9|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:40|16|Kim Ki Hoon|Eom Ah Young|21|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:40|21|Kim Ki Hoon|Eom Ah Young|18|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:40|21|Kim Ki Hoon|Eom Ah Young|16|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:25|21|Oh Sang Ho|none|14|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Oh Sang Ho|none|18|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Ho Wai Lun |Yuen Sin Ying|13|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:25|21|Ho Wai Lun |Yuen Sin Ying|10|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:17|21|Lee Sang Min|none|13|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:17|21|Lee Sang Min|none|9|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:15|21|Jun Joo I|none|8|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:15|21|Jun Joo I|none|7|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:05|1|Kim Seung Min|none|1|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:05|Walkover Win|Kim Seung Min|none|Walkover Loss|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Song Min Jin|none|9|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Song Min Jin|none|11|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:02|Walkover Win|Park Won Jin|none|Walkover Loss|Lee Yoon Kyu|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:29|21|Yang Ran Sun|none|16|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:29|21|Yang Ran Sun|none|13|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Taiki Shimada|Yoshinori Takeuchi|19|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:25|21|Taiki Shimada|Yoshinori Takeuchi|12|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:25|21|Naoko Fukuman|Kurumi Yonao|6|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:25|21|Naoko Fukuman|Kurumi Yonao|7|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:40|17|Kim Jun Soo|Kim Kyung Tae|21|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:40|21|Kim Jun Soo|Kim Kyung Tae|16|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:40|21|Kim Jun Soo|Kim Kyung Tae|15|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:15|21|Kim Dae Eun|Choi Hye In|7|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:15|21|Kim Dae Eun|Choi Hye In|8|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Choi Young Woo|none|11|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Choi Young Woo|none|9|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:22|21|Chang Tak Ching|Tsang Wing Chiu|13|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:22|21|Chang Tak Ching|Tsang Wing Chiu|16|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:33|21|Byun Jung Soo|none|15|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:33|21|Byun Jung Soo|none|11|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Lim Su Min|none|12|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Lim Su Min|none|9|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:55|21|Eom Ah Young|Park Ah Young|18|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:55|20|Eom Ah Young|Park Ah Young|22|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:55|21|Eom Ah Young|Park Ah Young|12|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:25|21|Choi Myung Jin|none|18|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Choi Myung Jin|none|14|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Jang Seung Hoon|Ko Hyun Jung|18|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:25|21|Jang Seung Hoon|Ko Hyun Jung|8|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:20|21|Hong Su Ho|none|16|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:20|21|Hong Su Ho|none|18|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:17|21|Jung Woo Jin|none|9|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:17|21|Jung Woo Jin|none|17|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:03|1|Wei Jian Ai |Shinan Liu|0|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:03|Walkover Win|Wei Jian Ai |Shinan Liu|Walkover Loss|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:15|21|Lee Jang Won|none|6|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:15|21|Lee Jang Won|none|3|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:46|21|Son Seong Hyun|none|12|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:46|13|Son Seong Hyun|none|21|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:46|21|Son Seong Hyun|none|14|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:38|19|Lee Hyun Deok|none|21|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:38|21|Lee Hyun Deok|none|18|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:38|21|Lee Hyun Deok|none|12|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:26|21|Kong Hee Yong |Seong Seung Yeon|11|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:26|21|Kong Hee Yong |Seong Seung Yeon|16|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|13|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|18|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:20|21|Yeung Shing Choi |Chan Hung Yung|19|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:20|14|Yeung Shing Choi |Chan Hung Yung|21|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:20|21|Yeung Shing Choi |Chan Hung Yung|14|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:32|21|Choi Yoo Ri|Ra Young Ju|11|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:32|21|Choi Yoo Ri|Ra Young Ju|19|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:00|14|Kim Joo Wan|none|21|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|1:00|21|Kim Joo Wan|none|17|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|1:00|21|Kim Joo Wan|none|16|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:31|21|Lee Ja Yeong|Park Min Ji|14|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:31|21|Lee Ja Yeong|Park Min Ji|15|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:20|21|Kim Seung Pyo|Ra Min Young|14|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:20|21|Kim Seung Pyo|Ra Min Young|6|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|4|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|9|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:45|21|Sung Shuo Yun|Yu Chien Hui|14|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:45|19|Sung Shuo Yun|Yu Chien Hui|21|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:45|21|Sung Shuo Yun|Yu Chien Hui|19|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:22|21|Jung Suk Hoon|Kim Ki Hoon|17|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:22|21|Jung Suk Hoon|Kim Ki Hoon|16|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:01|14|Yang Ran Sun|none|21|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|1:01|21|Yang Ran Sun|none|13|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|1:01|21|Yang Ran Sun|none|19|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Oh Sang Ho|none|11|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Oh Sang Ho|none|9|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:29|21|Kong Hee Yong |Seong Seung Yeon|16|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:29|22|Kong Hee Yong |Seong Seung Yeon|20|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:05|21|Kim Jun Soo|Kim Kyung Tae|23|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:05|21|Kim Jun Soo|Kim Kyung Tae|10|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|1:05|21|Kim Jun Soo|Kim Kyung Tae|12|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:32|21|Son Seong Hyun|none|12|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:32|21|Son Seong Hyun|none|13|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|15|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|19|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:58|21|Kim Joo Wan|none|14|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:58|19|Kim Joo Wan|none|21|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:58|21|Kim Joo Wan|none|13|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:39|21|Chiang Kai Hsin |Hung Shih Han|18|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:39|21|Chiang Kai Hsin |Hung Shih Han|19|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:23|21|Lee Chak Wai|none|13|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:23|21|Lee Chak Wai|none|18|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:55|21|Jang Seung Hoon|Kim Seung Min|17|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:55|23|Jang Seung Hoon|Kim Seung Min|25|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:55|21|Jang Seung Hoon|Kim Seung Min|16|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:20|21|Lim Su Min|none|8|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:20|21|Lim Su Min|none|11|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Byun Jung Soo|none|12|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:25|21|Byun Jung Soo|none|11|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:34|21|Yeung Shing Choi |Chan Hung Yung|18|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:34|21|Yeung Shing Choi |Chan Hung Yung|17|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:21|21|Kim Seung Min|none|3|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:21|21|Kim Seung Min|none|10|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:27|21|Kim Dae Eun|Choi Hye In|11|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:27|21|Kim Dae Eun|Choi Hye In|14|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Song Min Jin|none|14|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Song Min Jin|none|13|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:26|21|Choi Young Woo|none|10|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:26|21|Choi Young Woo|none|12|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Jun Joo I|none|14|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Jun Joo I|none|9|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:24|21|Sarita Suwannakitborihan|none|10|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:24|21|Sarita Suwannakitborihan|none|16|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141105|0:30|21|Naoko Fukuman|Kurumi Yonao|12|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Naoko Fukuman|Kurumi Yonao|6|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Taiki Shimada|Yoshinori Takeuchi|17|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Taiki Shimada|Yoshinori Takeuchi|19|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Jung Suk Hoon|Kim Ki Hoon|16|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:30|21|Jung Suk Hoon|Kim Ki Hoon|17|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:39|16|Jang Seung Hoon|Ko Hyun Jung|21|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:39|21|Jang Seung Hoon|Ko Hyun Jung|8|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:39|21|Jang Seung Hoon|Ko Hyun Jung|19|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|10|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141105|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|17|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:23|21|Ra Min Young|Ko Hye Ryeon|9|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:23|21|Ra Min Young|Ko Hye Ryeon|15|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:29|21|Chang Yu Chen|none|16|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:29|21|Chang Yu Chen|none|15|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:03|1|Shin Kyung Deok|none|0|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:03|Walkover Win|Shin Kyung Deok|none|Walkover Loss|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:38|21|Kim Soo Jin |none|13|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:38|21|Kim Soo Jin |none|15|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:18|21|Tsang Wing Chiu |none|3|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:18|21|Tsang Wing Chiu |none|5|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|1:00|21|Sarita Suwannakitborihan|none|15|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|1:00|18|Sarita Suwannakitborihan|none|21|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|1:00|21|Sarita Suwannakitborihan|none|19|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Lee Haeng Ham|Song Chang Yeop|11|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Lee Haeng Ham|Song Chang Yeop|14|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Lee Chak Wai|none|18|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Lee Chak Wai|none|15|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:35|21|Chan Hung Yung|none|16|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:35|21|Chan Hung Yung|none|9|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:40|16|Kim Ki Hoon|Eom Ah Young|21|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:40|21|Kim Ki Hoon|Eom Ah Young|18|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:40|21|Kim Ki Hoon|Eom Ah Young|16|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:25|21|Oh Sang Ho|none|14|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Oh Sang Ho|none|18|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Ho Wai Lun |Yuen Sin Ying|13|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:25|21|Ho Wai Lun |Yuen Sin Ying|10|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:17|21|Lee Sang Min|none|13|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:17|21|Lee Sang Min|none|9|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:15|21|Jun Joo I|none|8|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:15|21|Jun Joo I|none|7|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:05|1|Kim Seung Min|none|1|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:05|Walkover Win|Kim Seung Min|none|Walkover Loss|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Song Min Jin|none|9|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Song Min Jin|none|11|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:02|Walkover Win|Park Won Jin|none|Walkover Loss|Lee Yoon Kyu|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:29|21|Yang Ran Sun|none|16|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:29|21|Yang Ran Sun|none|13|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Taiki Shimada|Yoshinori Takeuchi|19|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:25|21|Taiki Shimada|Yoshinori Takeuchi|12|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:25|21|Naoko Fukuman|Kurumi Yonao|6|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:25|21|Naoko Fukuman|Kurumi Yonao|7|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:40|17|Kim Jun Soo|Kim Kyung Tae|21|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:40|21|Kim Jun Soo|Kim Kyung Tae|16|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:40|21|Kim Jun Soo|Kim Kyung Tae|15|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:15|21|Kim Dae Eun|Choi Hye In|7|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:15|21|Kim Dae Eun|Choi Hye In|8|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Choi Young Woo|none|11|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Choi Young Woo|none|9|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:22|21|Chang Tak Ching|Tsang Wing Chiu|13|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:22|21|Chang Tak Ching|Tsang Wing Chiu|16|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:33|21|Byun Jung Soo|none|15|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:33|21|Byun Jung Soo|none|11|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Lim Su Min|none|12|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Lim Su Min|none|9|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:55|21|Eom Ah Young|Park Ah Young|18|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:55|20|Eom Ah Young|Park Ah Young|22|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:55|21|Eom Ah Young|Park Ah Young|12|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:25|21|Choi Myung Jin|none|18|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Choi Myung Jin|none|14|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Jang Seung Hoon|Ko Hyun Jung|18|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:25|21|Jang Seung Hoon|Ko Hyun Jung|8|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:20|21|Hong Su Ho|none|16|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:20|21|Hong Su Ho|none|18|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:17|21|Jung Woo Jin|none|9|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:17|21|Jung Woo Jin|none|17|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:03|1|Wei Jian Ai |Shinan Liu|0|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:03|Walkover Win|Wei Jian Ai |Shinan Liu|Walkover Loss|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:15|21|Lee Jang Won|none|6|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:15|21|Lee Jang Won|none|3|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:46|21|Son Seong Hyun|none|12|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:46|13|Son Seong Hyun|none|21|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:46|21|Son Seong Hyun|none|14|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:38|19|Lee Hyun Deok|none|21|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:38|21|Lee Hyun Deok|none|18|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:38|21|Lee Hyun Deok|none|12|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:26|21|Kong Hee Yong |Seong Seung Yeon|11|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:26|21|Kong Hee Yong |Seong Seung Yeon|16|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|13|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|18|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:20|21|Yeung Shing Choi |Chan Hung Yung|19|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:20|14|Yeung Shing Choi |Chan Hung Yung|21|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:20|21|Yeung Shing Choi |Chan Hung Yung|14|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:32|21|Choi Yoo Ri|Ra Young Ju|11|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:32|21|Choi Yoo Ri|Ra Young Ju|19|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:00|14|Kim Joo Wan|none|21|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|1:00|21|Kim Joo Wan|none|17|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|1:00|21|Kim Joo Wan|none|16|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:31|21|Lee Ja Yeong|Park Min Ji|14|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:31|21|Lee Ja Yeong|Park Min Ji|15|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:20|21|Kim Seung Pyo|Ra Min Young|14|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:20|21|Kim Seung Pyo|Ra Min Young|6|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|4|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|9|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:45|21|Sung Shuo Yun|Yu Chien Hui|14|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:45|19|Sung Shuo Yun|Yu Chien Hui|21|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:45|21|Sung Shuo Yun|Yu Chien Hui|19|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:22|21|Jung Suk Hoon|Kim Ki Hoon|17|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:22|21|Jung Suk Hoon|Kim Ki Hoon|16|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:01|14|Yang Ran Sun|none|21|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|1:01|21|Yang Ran Sun|none|13|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|1:01|21|Yang Ran Sun|none|19|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Oh Sang Ho|none|11|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Oh Sang Ho|none|9|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:29|21|Kong Hee Yong |Seong Seung Yeon|16|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:29|22|Kong Hee Yong |Seong Seung Yeon|20|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:05|21|Kim Jun Soo|Kim Kyung Tae|23|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:05|21|Kim Jun Soo|Kim Kyung Tae|10|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|1:05|21|Kim Jun Soo|Kim Kyung Tae|12|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:32|21|Son Seong Hyun|none|12|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:32|21|Son Seong Hyun|none|13|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|15|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|19|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:58|21|Kim Joo Wan|none|14|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:58|19|Kim Joo Wan|none|21|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:58|21|Kim Joo Wan|none|13|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:39|21|Chiang Kai Hsin |Hung Shih Han|18|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:39|21|Chiang Kai Hsin |Hung Shih Han|19|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:23|21|Lee Chak Wai|none|13|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:23|21|Lee Chak Wai|none|18|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:55|21|Jang Seung Hoon|Kim Seung Min|17|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:55|23|Jang Seung Hoon|Kim Seung Min|25|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:55|21|Jang Seung Hoon|Kim Seung Min|16|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:20|21|Lim Su Min|none|8|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:20|21|Lim Su Min|none|11|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Byun Jung Soo|none|12|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:25|21|Byun Jung Soo|none|11|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:34|21|Yeung Shing Choi |Chan Hung Yung|18|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:34|21|Yeung Shing Choi |Chan Hung Yung|17|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:21|21|Kim Seung Min|none|3|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:21|21|Kim Seung Min|none|10|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:27|21|Kim Dae Eun|Choi Hye In|11|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:27|21|Kim Dae Eun|Choi Hye In|14|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Song Min Jin|none|14|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Song Min Jin|none|13|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:26|21|Choi Young Woo|none|10|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:26|21|Choi Young Woo|none|12|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Jun Joo I|none|14|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Jun Joo I|none|9|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:24|21|Sarita Suwannakitborihan|none|10|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:24|21|Sarita Suwannakitborihan|none|16|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141106|0:30|21|Naoko Fukuman|Kurumi Yonao|12|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Naoko Fukuman|Kurumi Yonao|6|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Taiki Shimada|Yoshinori Takeuchi|17|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Taiki Shimada|Yoshinori Takeuchi|19|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Jung Suk Hoon|Kim Ki Hoon|16|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:30|21|Jung Suk Hoon|Kim Ki Hoon|17|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:39|16|Jang Seung Hoon|Ko Hyun Jung|21|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:39|21|Jang Seung Hoon|Ko Hyun Jung|8|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:39|21|Jang Seung Hoon|Ko Hyun Jung|19|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|10|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141106|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|17|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:23|21|Ra Min Young|Ko Hye Ryeon|9|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:23|21|Ra Min Young|Ko Hye Ryeon|15|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:29|21|Chang Yu Chen|none|16|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:29|21|Chang Yu Chen|none|15|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:03|1|Shin Kyung Deok|none|0|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:03|Walkover Win|Shin Kyung Deok|none|Walkover Loss|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:38|21|Kim Soo Jin |none|13|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:38|21|Kim Soo Jin |none|15|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:18|21|Tsang Wing Chiu |none|3|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:18|21|Tsang Wing Chiu |none|5|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|1:00|21|Sarita Suwannakitborihan|none|15|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|1:00|18|Sarita Suwannakitborihan|none|21|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|1:00|21|Sarita Suwannakitborihan|none|19|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Lee Haeng Ham|Song Chang Yeop|11|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Lee Haeng Ham|Song Chang Yeop|14|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Lee Chak Wai|none|18|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Lee Chak Wai|none|15|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:35|21|Chan Hung Yung|none|16|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:35|21|Chan Hung Yung|none|9|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:40|16|Kim Ki Hoon|Eom Ah Young|21|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:40|21|Kim Ki Hoon|Eom Ah Young|18|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:40|21|Kim Ki Hoon|Eom Ah Young|16|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:25|21|Oh Sang Ho|none|14|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Oh Sang Ho|none|18|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Ho Wai Lun |Yuen Sin Ying|13|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:25|21|Ho Wai Lun |Yuen Sin Ying|10|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:17|21|Lee Sang Min|none|13|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:17|21|Lee Sang Min|none|9|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:15|21|Jun Joo I|none|8|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:15|21|Jun Joo I|none|7|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:05|1|Kim Seung Min|none|1|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:05|Walkover Win|Kim Seung Min|none|Walkover Loss|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Song Min Jin|none|9|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Song Min Jin|none|11|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:02|Walkover Win|Park Won Jin|none|Walkover Loss|Lee Yoon Kyu|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:29|21|Yang Ran Sun|none|16|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:29|21|Yang Ran Sun|none|13|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Taiki Shimada|Yoshinori Takeuchi|19|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:25|21|Taiki Shimada|Yoshinori Takeuchi|12|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:25|21|Naoko Fukuman|Kurumi Yonao|6|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:25|21|Naoko Fukuman|Kurumi Yonao|7|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:40|17|Kim Jun Soo|Kim Kyung Tae|21|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:40|21|Kim Jun Soo|Kim Kyung Tae|16|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:40|21|Kim Jun Soo|Kim Kyung Tae|15|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:15|21|Kim Dae Eun|Choi Hye In|7|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:15|21|Kim Dae Eun|Choi Hye In|8|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Choi Young Woo|none|11|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Choi Young Woo|none|9|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:22|21|Chang Tak Ching|Tsang Wing Chiu|13|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:22|21|Chang Tak Ching|Tsang Wing Chiu|16|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:33|21|Byun Jung Soo|none|15|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:33|21|Byun Jung Soo|none|11|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Lim Su Min|none|12|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Lim Su Min|none|9|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:55|21|Eom Ah Young|Park Ah Young|18|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:55|20|Eom Ah Young|Park Ah Young|22|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:55|21|Eom Ah Young|Park Ah Young|12|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:25|21|Choi Myung Jin|none|18|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Choi Myung Jin|none|14|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Jang Seung Hoon|Ko Hyun Jung|18|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:25|21|Jang Seung Hoon|Ko Hyun Jung|8|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:20|21|Hong Su Ho|none|16|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:20|21|Hong Su Ho|none|18|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:17|21|Jung Woo Jin|none|9|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:17|21|Jung Woo Jin|none|17|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:03|1|Wei Jian Ai |Shinan Liu|0|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:03|Walkover Win|Wei Jian Ai |Shinan Liu|Walkover Loss|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:15|21|Lee Jang Won|none|6|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:15|21|Lee Jang Won|none|3|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:46|21|Son Seong Hyun|none|12|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:46|13|Son Seong Hyun|none|21|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:46|21|Son Seong Hyun|none|14|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:38|19|Lee Hyun Deok|none|21|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:38|21|Lee Hyun Deok|none|18|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:38|21|Lee Hyun Deok|none|12|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:26|21|Kong Hee Yong |Seong Seung Yeon|11|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:26|21|Kong Hee Yong |Seong Seung Yeon|16|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|13|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|18|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:20|21|Yeung Shing Choi |Chan Hung Yung|19|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:20|14|Yeung Shing Choi |Chan Hung Yung|21|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:20|21|Yeung Shing Choi |Chan Hung Yung|14|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:32|21|Choi Yoo Ri|Ra Young Ju|11|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:32|21|Choi Yoo Ri|Ra Young Ju|19|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:00|14|Kim Joo Wan|none|21|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|1:00|21|Kim Joo Wan|none|17|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|1:00|21|Kim Joo Wan|none|16|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:31|21|Lee Ja Yeong|Park Min Ji|14|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:31|21|Lee Ja Yeong|Park Min Ji|15|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:20|21|Kim Seung Pyo|Ra Min Young|14|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:20|21|Kim Seung Pyo|Ra Min Young|6|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|4|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|9|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:45|21|Sung Shuo Yun|Yu Chien Hui|14|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:45|19|Sung Shuo Yun|Yu Chien Hui|21|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:45|21|Sung Shuo Yun|Yu Chien Hui|19|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:22|21|Jung Suk Hoon|Kim Ki Hoon|17|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:22|21|Jung Suk Hoon|Kim Ki Hoon|16|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:01|14|Yang Ran Sun|none|21|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|1:01|21|Yang Ran Sun|none|13|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|1:01|21|Yang Ran Sun|none|19|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Oh Sang Ho|none|11|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Oh Sang Ho|none|9|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:29|21|Kong Hee Yong |Seong Seung Yeon|16|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:29|22|Kong Hee Yong |Seong Seung Yeon|20|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:05|21|Kim Jun Soo|Kim Kyung Tae|23|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:05|21|Kim Jun Soo|Kim Kyung Tae|10|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|1:05|21|Kim Jun Soo|Kim Kyung Tae|12|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:32|21|Son Seong Hyun|none|12|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:32|21|Son Seong Hyun|none|13|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|15|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|19|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:58|21|Kim Joo Wan|none|14|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:58|19|Kim Joo Wan|none|21|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:58|21|Kim Joo Wan|none|13|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:39|21|Chiang Kai Hsin |Hung Shih Han|18|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:39|21|Chiang Kai Hsin |Hung Shih Han|19|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:23|21|Lee Chak Wai|none|13|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:23|21|Lee Chak Wai|none|18|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:55|21|Jang Seung Hoon|Kim Seung Min|17|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:55|23|Jang Seung Hoon|Kim Seung Min|25|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:55|21|Jang Seung Hoon|Kim Seung Min|16|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:20|21|Lim Su Min|none|8|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:20|21|Lim Su Min|none|11|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Byun Jung Soo|none|12|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:25|21|Byun Jung Soo|none|11|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:34|21|Yeung Shing Choi |Chan Hung Yung|18|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:34|21|Yeung Shing Choi |Chan Hung Yung|17|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:21|21|Kim Seung Min|none|3|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:21|21|Kim Seung Min|none|10|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:27|21|Kim Dae Eun|Choi Hye In|11|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:27|21|Kim Dae Eun|Choi Hye In|14|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Song Min Jin|none|14|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Song Min Jin|none|13|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:26|21|Choi Young Woo|none|10|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:26|21|Choi Young Woo|none|12|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Jun Joo I|none|14|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Jun Joo I|none|9|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:24|21|Sarita Suwannakitborihan|none|10|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:24|21|Sarita Suwannakitborihan|none|16|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141107|0:30|21|Naoko Fukuman|Kurumi Yonao|12|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Naoko Fukuman|Kurumi Yonao|6|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Taiki Shimada|Yoshinori Takeuchi|17|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Taiki Shimada|Yoshinori Takeuchi|19|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Jung Suk Hoon|Kim Ki Hoon|16|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:30|21|Jung Suk Hoon|Kim Ki Hoon|17|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:39|16|Jang Seung Hoon|Ko Hyun Jung|21|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:39|21|Jang Seung Hoon|Ko Hyun Jung|8|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:39|21|Jang Seung Hoon|Ko Hyun Jung|19|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|10|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141107|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|17|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:23|21|Ra Min Young|Ko Hye Ryeon|9|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:23|21|Ra Min Young|Ko Hye Ryeon|15|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:29|21|Chang Yu Chen|none|16|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:29|21|Chang Yu Chen|none|15|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:03|1|Shin Kyung Deok|none|0|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:03|Walkover Win|Shin Kyung Deok|none|Walkover Loss|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:38|21|Kim Soo Jin |none|13|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:38|21|Kim Soo Jin |none|15|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:18|21|Tsang Wing Chiu |none|3|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:18|21|Tsang Wing Chiu |none|5|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|1:00|21|Sarita Suwannakitborihan|none|15|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|1:00|18|Sarita Suwannakitborihan|none|21|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|1:00|21|Sarita Suwannakitborihan|none|19|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Lee Haeng Ham|Song Chang Yeop|11|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Lee Haeng Ham|Song Chang Yeop|14|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Lee Chak Wai|none|18|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Lee Chak Wai|none|15|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:35|21|Chan Hung Yung|none|16|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:35|21|Chan Hung Yung|none|9|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:40|16|Kim Ki Hoon|Eom Ah Young|21|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:40|21|Kim Ki Hoon|Eom Ah Young|18|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:40|21|Kim Ki Hoon|Eom Ah Young|16|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:25|21|Oh Sang Ho|none|14|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Oh Sang Ho|none|18|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Ho Wai Lun |Yuen Sin Ying|13|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:25|21|Ho Wai Lun |Yuen Sin Ying|10|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:17|21|Lee Sang Min|none|13|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:17|21|Lee Sang Min|none|9|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:15|21|Jun Joo I|none|8|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:15|21|Jun Joo I|none|7|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:05|1|Kim Seung Min|none|1|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:05|Walkover Win|Kim Seung Min|none|Walkover Loss|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Song Min Jin|none|9|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Song Min Jin|none|11|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:02|Walkover Win|Park Won Jin|none|Walkover Loss|Lee Yoon Kyu|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:29|21|Yang Ran Sun|none|16|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:29|21|Yang Ran Sun|none|13|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Taiki Shimada|Yoshinori Takeuchi|19|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:25|21|Taiki Shimada|Yoshinori Takeuchi|12|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:25|21|Naoko Fukuman|Kurumi Yonao|6|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:25|21|Naoko Fukuman|Kurumi Yonao|7|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:40|17|Kim Jun Soo|Kim Kyung Tae|21|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:40|21|Kim Jun Soo|Kim Kyung Tae|16|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:40|21|Kim Jun Soo|Kim Kyung Tae|15|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:15|21|Kim Dae Eun|Choi Hye In|7|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:15|21|Kim Dae Eun|Choi Hye In|8|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Choi Young Woo|none|11|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Choi Young Woo|none|9|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:22|21|Chang Tak Ching|Tsang Wing Chiu|13|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:22|21|Chang Tak Ching|Tsang Wing Chiu|16|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:33|21|Byun Jung Soo|none|15|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:33|21|Byun Jung Soo|none|11|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Lim Su Min|none|12|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Lim Su Min|none|9|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:55|21|Eom Ah Young|Park Ah Young|18|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:55|20|Eom Ah Young|Park Ah Young|22|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:55|21|Eom Ah Young|Park Ah Young|12|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:25|21|Choi Myung Jin|none|18|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Choi Myung Jin|none|14|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Jang Seung Hoon|Ko Hyun Jung|18|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:25|21|Jang Seung Hoon|Ko Hyun Jung|8|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:20|21|Hong Su Ho|none|16|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:20|21|Hong Su Ho|none|18|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:17|21|Jung Woo Jin|none|9|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:17|21|Jung Woo Jin|none|17|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:03|1|Wei Jian Ai |Shinan Liu|0|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:03|Walkover Win|Wei Jian Ai |Shinan Liu|Walkover Loss|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:15|21|Lee Jang Won|none|6|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:15|21|Lee Jang Won|none|3|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:46|21|Son Seong Hyun|none|12|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:46|13|Son Seong Hyun|none|21|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:46|21|Son Seong Hyun|none|14|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:38|19|Lee Hyun Deok|none|21|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:38|21|Lee Hyun Deok|none|18|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:38|21|Lee Hyun Deok|none|12|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:26|21|Kong Hee Yong |Seong Seung Yeon|11|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:26|21|Kong Hee Yong |Seong Seung Yeon|16|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|13|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|18|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:20|21|Yeung Shing Choi |Chan Hung Yung|19|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:20|14|Yeung Shing Choi |Chan Hung Yung|21|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:20|21|Yeung Shing Choi |Chan Hung Yung|14|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:32|21|Choi Yoo Ri|Ra Young Ju|11|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:32|21|Choi Yoo Ri|Ra Young Ju|19|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:00|14|Kim Joo Wan|none|21|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|1:00|21|Kim Joo Wan|none|17|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|1:00|21|Kim Joo Wan|none|16|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:31|21|Lee Ja Yeong|Park Min Ji|14|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:31|21|Lee Ja Yeong|Park Min Ji|15|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:20|21|Kim Seung Pyo|Ra Min Young|14|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:20|21|Kim Seung Pyo|Ra Min Young|6|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|4|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|9|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:45|21|Sung Shuo Yun|Yu Chien Hui|14|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:45|19|Sung Shuo Yun|Yu Chien Hui|21|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:45|21|Sung Shuo Yun|Yu Chien Hui|19|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:22|21|Jung Suk Hoon|Kim Ki Hoon|17|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:22|21|Jung Suk Hoon|Kim Ki Hoon|16|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:01|14|Yang Ran Sun|none|21|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|1:01|21|Yang Ran Sun|none|13|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|1:01|21|Yang Ran Sun|none|19|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Oh Sang Ho|none|11|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Oh Sang Ho|none|9|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:29|21|Kong Hee Yong |Seong Seung Yeon|16|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:29|22|Kong Hee Yong |Seong Seung Yeon|20|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:05|21|Kim Jun Soo|Kim Kyung Tae|23|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:05|21|Kim Jun Soo|Kim Kyung Tae|10|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|1:05|21|Kim Jun Soo|Kim Kyung Tae|12|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:32|21|Son Seong Hyun|none|12|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:32|21|Son Seong Hyun|none|13|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|15|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|19|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:58|21|Kim Joo Wan|none|14|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:58|19|Kim Joo Wan|none|21|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:58|21|Kim Joo Wan|none|13|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:39|21|Chiang Kai Hsin |Hung Shih Han|18|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:39|21|Chiang Kai Hsin |Hung Shih Han|19|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:23|21|Lee Chak Wai|none|13|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:23|21|Lee Chak Wai|none|18|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:55|21|Jang Seung Hoon|Kim Seung Min|17|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:55|23|Jang Seung Hoon|Kim Seung Min|25|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:55|21|Jang Seung Hoon|Kim Seung Min|16|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:20|21|Lim Su Min|none|8|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:20|21|Lim Su Min|none|11|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Byun Jung Soo|none|12|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:25|21|Byun Jung Soo|none|11|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:34|21|Yeung Shing Choi |Chan Hung Yung|18|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:34|21|Yeung Shing Choi |Chan Hung Yung|17|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:21|21|Kim Seung Min|none|3|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:21|21|Kim Seung Min|none|10|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:27|21|Kim Dae Eun|Choi Hye In|11|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:27|21|Kim Dae Eun|Choi Hye In|14|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Song Min Jin|none|14|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Song Min Jin|none|13|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:26|21|Choi Young Woo|none|10|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:26|21|Choi Young Woo|none|12|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Jun Joo I|none|14|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Jun Joo I|none|9|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:24|21|Sarita Suwannakitborihan|none|10|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:24|21|Sarita Suwannakitborihan|none|16|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141108|0:30|21|Naoko Fukuman|Kurumi Yonao|12|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Naoko Fukuman|Kurumi Yonao|6|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Taiki Shimada|Yoshinori Takeuchi|17|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Taiki Shimada|Yoshinori Takeuchi|19|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Jung Suk Hoon|Kim Ki Hoon|16|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:30|21|Jung Suk Hoon|Kim Ki Hoon|17|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:39|16|Jang Seung Hoon|Ko Hyun Jung|21|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:39|21|Jang Seung Hoon|Ko Hyun Jung|8|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:39|21|Jang Seung Hoon|Ko Hyun Jung|19|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|10|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141108|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|17|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:23|21|Ra Min Young|Ko Hye Ryeon|9|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:23|21|Ra Min Young|Ko Hye Ryeon|15|Cheng Po Wei|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:26|21|Chiang Kai Hsin |Hung Shih Han|17|Choi Min Ji|Oh Bo Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:29|21|Chang Yu Chen|none|16|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:29|21|Chang Yu Chen|none|15|Ko Hyun Jung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:03|1|Shin Kyung Deok|none|0|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:03|Walkover Win|Shin Kyung Deok|none|Walkover Loss|Joo Hyun Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:38|21|Kim Soo Jin |none|13|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:38|21|Kim Soo Jin |none|15|Thilini Pramodika Hendahewa|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:18|21|Tsang Wing Chiu |none|3|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:18|21|Tsang Wing Chiu |none|5|Ieong Pek San|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|1:00|21|Sarita Suwannakitborihan|none|15|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|1:00|18|Sarita Suwannakitborihan|none|21|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|1:00|21|Sarita Suwannakitborihan|none|19|Kim Na Young [4]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Lee Haeng Ham|Song Chang Yeop|11|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Lee Haeng Ham|Song Chang Yeop|14|Or Chin Chung|Yeung Shing Choi|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Lee Chak Wai|none|18|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Lee Chak Wai|none|15|Heo In|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:35|21|Chan Hung Yung|none|16|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:35|21|Chan Hung Yung|none|9|Yoon Min Ah|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:40|16|Kim Ki Hoon|Eom Ah Young|21|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:40|21|Kim Ki Hoon|Eom Ah Young|18|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:40|21|Kim Ki Hoon|Eom Ah Young|16|Jung Suk Hoon|Chae Hyun Hee|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:25|21|Oh Sang Ho|none|14|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Oh Sang Ho|none|18|Shon Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Ho Wai Lun |Yuen Sin Ying|13|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:25|21|Ho Wai Lun |Yuen Sin Ying|10|Wang Chih Hao|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:17|21|Lee Sang Min|none|13|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:17|21|Lee Sang Min|none|9|Kim Seung Pyo|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:15|21|Jun Joo I|none|8|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:15|21|Jun Joo I|none|7|U Teng Iok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:05|1|Kim Seung Min|none|1|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:05|Walkover Win|Kim Seung Min|none|Walkover Loss|Ahn Hyun Suk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Song Min Jin|none|9|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Song Min Jin|none|11|Kunjira Khongdee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:02|Walkover Win|Park Won Jin|none|Walkover Loss|Lee Yoon Kyu|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:29|21|Yang Ran Sun|none|16|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:29|21|Yang Ran Sun|none|13|Yeni Asmarani [2]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Taiki Shimada|Yoshinori Takeuchi|19|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:25|21|Taiki Shimada|Yoshinori Takeuchi|12|Cho Sung Joon|Ko Gyung Bo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:25|21|Naoko Fukuman|Kurumi Yonao|6|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:25|21|Naoko Fukuman|Kurumi Yonao|7|Lim Hye Bin|Lim Soo Bin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:40|17|Kim Jun Soo|Kim Kyung Tae|21|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:40|21|Kim Jun Soo|Kim Kyung Tae|16|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:40|21|Kim Jun Soo|Kim Kyung Tae|15|Parinyawat Thongnuam [1]|Tankmanustong Warut|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:15|21|Kim Dae Eun|Choi Hye In|7|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:15|21|Kim Dae Eun|Choi Hye In|8|Lai Yu-Hua|Sung Shuo Yun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Choi Young Woo|none|11|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Choi Young Woo|none|9|Im Sung Chan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:22|21|Chang Tak Ching|Tsang Wing Chiu|13|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:22|21|Chang Tak Ching|Tsang Wing Chiu|16|Hung Ying Yuan|Chiang Kai Hsin|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:33|21|Byun Jung Soo|none|15|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:33|21|Byun Jung Soo|none|11|Choi Sung Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Lim Su Min|none|12|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Lim Su Min|none|9|Choi Hyuk Gyun|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:55|21|Eom Ah Young|Park Ah Young|18|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:55|20|Eom Ah Young|Park Ah Young|22|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:55|21|Eom Ah Young|Park Ah Young|12|Chen Szu Yu [2]|Cheng Yu Chieh|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:25|21|Choi Myung Jin|none|18|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Choi Myung Jin|none|14|Yoon Jung Hwan|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Jang Seung Hoon|Ko Hyun Jung|18|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:25|21|Jang Seung Hoon|Ko Hyun Jung|8|Sachin Premashan Dias Angodavidanalage|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:20|21|Hong Su Ho|none|16|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:20|21|Hong Su Ho|none|18|Kim Yong Joon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:17|21|Jung Woo Jin|none|9|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:17|21|Jung Woo Jin|none|17|Ha Jung Hoon|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:03|1|Wei Jian Ai |Shinan Liu|0|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:03|Walkover Win|Wei Jian Ai |Shinan Liu|Walkover Loss|Joo Hyun Joon|Oh Do Hyeob|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:15|21|Lee Jang Won|none|6|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:15|21|Lee Jang Won|none|3|Eisenhower Lee|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:46|21|Son Seong Hyun|none|12|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:46|13|Son Seong Hyun|none|21|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:46|21|Son Seong Hyun|none|14|Ahn Jin Ha|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:38|19|Lee Hyun Deok|none|21|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:38|21|Lee Hyun Deok|none|18|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:38|21|Lee Hyun Deok|none|12|Bak Sung Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:26|21|Kong Hee Yong |Seong Seung Yeon|11|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:26|21|Kong Hee Yong |Seong Seung Yeon|16|Chen Wan Ting|Wang Yen Yu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|13|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:22|21|Yang Yi-Hsiang |Chang Yu Chen|18|Ratnajit Tamang|Sara Devi Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:35|21|Chan Tsz Kit|Ho Wai Lun|16|Chang Ko-Chi [2]|Wang Chih Hao|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:20|21|Yeung Shing Choi |Chan Hung Yung|19|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:20|14|Yeung Shing Choi |Chan Hung Yung|21|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:20|21|Yeung Shing Choi |Chan Hung Yung|14|Choi Jong Woo|Park Keun Hye|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:32|21|Choi Yoo Ri|Ra Young Ju|11|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:32|21|Choi Yoo Ri|Ra Young Ju|19|Kunjira Khongdee|Sarita Suwannakitborihan|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:00|14|Kim Joo Wan|none|21|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|1:00|21|Kim Joo Wan|none|17|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|1:00|21|Kim Joo Wan|none|16|Kim Young Hyuk|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:31|21|Lee Ja Yeong|Park Min Ji|14|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:31|21|Lee Ja Yeong|Park Min Ji|15|Lekha Handunkuttihettige|Thilini Pramodika Hendahewa|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:20|21|Kim Seung Pyo|Ra Min Young|14|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:20|21|Kim Seung Pyo|Ra Min Young|6|Bikash Shrestha [4]|Ratnajeet Tamang|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|4|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:15|21|Chae Hyun Hee|Ko Hye Ryeon|9|Ieong Pek San|U Teng Iok|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:22|21|Jang Seung Hoon|Kim Seung Min|15|Lee Jun Hee|Song Gun Soo|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:45|21|Sung Shuo Yun|Yu Chien Hui|14|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:45|19|Sung Shuo Yun|Yu Chien Hui|21|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:45|21|Sung Shuo Yun|Yu Chien Hui|19|Ko Yoo Ri|Yoon Tae Kyung|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:22|21|Jung Suk Hoon|Kim Ki Hoon|17|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:22|21|Jung Suk Hoon|Kim Ki Hoon|16|Lee Chak Wai|Lee Cheuk Yiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:01|14|Yang Ran Sun|none|21|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|1:01|21|Yang Ran Sun|none|13|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|1:01|21|Yang Ran Sun|none|19|Chan Hung Yung|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Oh Sang Ho|none|11|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Oh Sang Ho|none|9|Jung Woo Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:29|21|Kong Hee Yong |Seong Seung Yeon|16|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:29|22|Kong Hee Yong |Seong Seung Yeon|20|Choi Yoo Ri|Ra Young Ju|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:05|21|Kim Jun Soo|Kim Kyung Tae|23|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:05|21|Kim Jun Soo|Kim Kyung Tae|10|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|1:05|21|Kim Jun Soo|Kim Kyung Tae|12|Lee Haeng Ham|Song Chang Yeop|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:32|21|Son Seong Hyun|none|12|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:32|21|Son Seong Hyun|none|13|Lee Hyun Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|15|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Yang Yi-Hsiang |Chang Yu Chen|19|Chang Tak Ching|Tsang Wing Chiu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:58|21|Kim Joo Wan|none|14|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:58|19|Kim Joo Wan|none|21|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:58|21|Kim Joo Wan|none|13|Lee Sang Min|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:39|21|Chiang Kai Hsin |Hung Shih Han|18|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:39|21|Chiang Kai Hsin |Hung Shih Han|19|Lee Ja Yeong|Park Min Ji|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:23|21|Lee Chak Wai|none|13|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:23|21|Lee Chak Wai|none|18|Hong Su Ho|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:55|21|Jang Seung Hoon|Kim Seung Min|17|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:55|23|Jang Seung Hoon|Kim Seung Min|25|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:55|21|Jang Seung Hoon|Kim Seung Min|16|Chan Tsz Kit|Ho Wai Lun|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:20|21|Lim Su Min|none|8|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:20|21|Lim Su Min|none|11|Park Won Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Byun Jung Soo|none|12|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:25|21|Byun Jung Soo|none|11|Lee Jang Won|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:34|21|Yeung Shing Choi |Chan Hung Yung|18|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:34|21|Yeung Shing Choi |Chan Hung Yung|17|Ra Min Young|Ko Hye Ryeon|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:21|21|Kim Seung Min|none|3|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:21|21|Kim Seung Min|none|10|Shin Kyung Deok|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:27|21|Kim Dae Eun|Choi Hye In|11|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:27|21|Kim Dae Eun|Choi Hye In|14|Kim Ki Hoon|Eom Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Song Min Jin|none|14|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Song Min Jin|none|13|Tsang Wing Chiu [1]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:26|21|Choi Young Woo|none|10|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:26|21|Choi Young Woo|none|12|Choi Myung Jin|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Jun Joo I|none|14|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Jun Joo I|none|9|Kim Soo Jin [3]|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:24|21|Sarita Suwannakitborihan|none|10|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:24|21|Sarita Suwannakitborihan|none|16|Chang Yu Chen|none|872EF138-8B5F-457D-9920-E08D18F152B5|singles
+20141109|0:30|21|Naoko Fukuman|Kurumi Yonao|12|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Naoko Fukuman|Kurumi Yonao|6|Sung Shuo Yun|Yu Chien Hui|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Taiki Shimada|Yoshinori Takeuchi|17|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Taiki Shimada|Yoshinori Takeuchi|19|Kim Seung Pyo|Ra Min Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Jung Suk Hoon|Kim Ki Hoon|16|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:30|21|Jung Suk Hoon|Kim Ki Hoon|17|Wei Jian Ai [3]|Shinan Liu|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:39|16|Jang Seung Hoon|Ko Hyun Jung|21|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:39|21|Jang Seung Hoon|Ko Hyun Jung|8|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:39|21|Jang Seung Hoon|Ko Hyun Jung|19|Ho Wai Lun [4]|Yuen Sin Ying|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|10|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles
+20141109|0:28|21|Chae Hyun Hee|Ko Hye Ryeon|17|Eom Ah Young|Park Ah Young|872EF138-8B5F-457D-9920-E08D18F152B5|doubles

@@ -1,0 +1,517 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20181130|0:44|17|Jannik Auberger|Karoline Pottendorfer|21|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:44|23|Jannik Auberger|Karoline Pottendorfer|21|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:44|25|Jannik Auberger|Karoline Pottendorfer|23|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:31|21|Jaromir Fojtasek|Candela Antequera|8|Mark Mesarič|Ajda Justin|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:31|21|Jaromir Fojtasek|Candela Antequera|15|Mark Mesarič|Ajda Justin|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Gal Bizjak|Taja Pipan|19|Jakub Diviš|Adéla Klapalová|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Gal Bizjak|Taja Pipan|12|Jakub Diviš|Adéla Klapalová|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:24|21|Jan Babnik|Nike Brajkovič|19|Boris Karpjak|Julia Chmurovicova|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:24|21|Jan Babnik|Nike Brajkovič|11|Boris Karpjak|Julia Chmurovicova|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:21|21|Bene Benjamin Kiss|none|4|Maks Počivašek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Bene Benjamin Kiss|none|7|Maks Počivašek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Jacobo Fernandez |none|15|Alessandro Vertua|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Jacobo Fernandez |none|19|Alessandro Vertua|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:29|21|Balint Papai |none|14|Guillermo Figueras|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:29|21|Balint Papai |none|18|Guillermo Figueras|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Matevž Herman|none|10|Luka Črep|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Matevž Herman|none|15|Luka Črep|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Iñigo Diaz|none|16|Filip Knežević|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Iñigo Diaz|none|13|Filip Knežević|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:22|21|Andrzej Niczyporuk |none|8|Zihao Zhai|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:22|21|Andrzej Niczyporuk |none|14|Zihao Zhai|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:32|24|Kai Niederhuber|none|22|Finn Saunders|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:32|21|Kai Niederhuber|none|17|Finn Saunders|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:35|21|Martin Zuazola|none|15|Sebastian Kadlec [11]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:35|21|Martin Zuazola|none|16|Sebastian Kadlec [11]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:19|21|Yohan Barbieri|none|5|Andraž Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:19|21|Yohan Barbieri|none|7|Andraž Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:19|21|Paul Harangus |none|4|Sebestyen Ledo|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:19|21|Paul Harangus |none|7|Sebestyen Ledo|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Iljo Van Delsen|none|13|Timon Gunda|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Iljo Van Delsen|none|16|Timon Gunda|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:58|21|Vojtěch Poříz |none|13|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:58|18|Vojtěch Poříz |none|21|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:58|21|Vojtěch Poříz |none|17|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Pelayo Pinto|none|8|Ivan Grubić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Pelayo Pinto|none|10|Ivan Grubić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:54|16|Filip Antunović|none|21|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:54|21|Filip Antunović|none|9|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:54|21|Filip Antunović|none|17|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:45|21|Botond Francia|none|11|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:45|11|Botond Francia|none|21|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:45|21|Botond Francia|none|8|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:19|21|Ruben Garcia|none|11|Michal Szczypka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:19|21|Ruben Garcia|none|11|Michal Szczypka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:46|21|Rok Kuprivec|none|19|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:46|13|Rok Kuprivec|none|21|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:46|21|Rok Kuprivec|none|16|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:38|9|Iñigo Daza|none|21|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:38|21|Iñigo Daza|none|18|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:38|21|Iñigo Daza|none|16|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:23|22|Mihajlo Tomic|none|20|Matteo Massetti [16]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:23|21|Mihajlo Tomic|none|16|Matteo Massetti [16]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Yaro Van Delsen |none|7|Adam Vojtěch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Yaro Van Delsen |none|10|Adam Vojtěch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:24|21|Adrian Krawczyk|none|8|Klemen Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:24|21|Adrian Krawczyk|none|9|Klemen Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:56|14|Albin Nilsson|none|21|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:56|21|Albin Nilsson|none|16|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:56|21|Albin Nilsson|none|15|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:23|21|Armin Sarosi|none|7|Jan Babnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:23|21|Armin Sarosi|none|11|Jan Babnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:26|21|Michael Tomic |none|8|Mihael Jurenić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:26|21|Michael Tomic |none|10|Mihael Jurenić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:33|21|Borna Vadlja|none|14|Thomas Badent|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:33|21|Borna Vadlja|none|9|Thomas Badent|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:35|21|Sebestyen Nagy |none|18|Tobias Bäuerle|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:35|21|Sebestyen Nagy |none|16|Tobias Bäuerle|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Ou Yang Wang|none|11|Piotr Wiercigroch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Ou Yang Wang|none|10|Piotr Wiercigroch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Fernando Civico |none|17|Boris Karpjak|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Fernando Civico |none|11|Boris Karpjak|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:54|21|Gal Bizjak|none|14|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:54|23|Gal Bizjak|none|25|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:54|21|Gal Bizjak|none|14|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Sergej Lukic |none|6|Mark Mesarič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Sergej Lukic |none|7|Mark Mesarič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:30|21|Jakub Diviš|none|15|Peter Radoczi [13]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:30|21|Jakub Diviš|none|15|Peter Radoczi [13]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:25|21|Miha Masten |none|18|Jannik Auberger|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:25|21|Miha Masten |none|6|Jannik Auberger|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:23|21|Nike Brajkovič|none|19|Tamara Cvitkušić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:23|21|Nike Brajkovič|none|10|Tamara Cvitkušić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Martina Ševčíková|none|14|Julia Piwowar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:28|21|Martina Ševčíková|none|11|Julia Piwowar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:27|21|Ira Misir|none|8|Neza Frank|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:27|21|Ira Misir|none|18|Neza Frank|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:25|21|Ira Martinuš|none|18|Olivia Kadlecova|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:25|21|Ira Martinuš|none|12|Olivia Kadlecova|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:26|21|Zuzanna Jankowska|none|9|Panna Pytel|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:26|21|Zuzanna Jankowska|none|8|Panna Pytel|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Taja Pipan|none|16|Aleksandra Wronska|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:31|21|Taja Pipan|none|14|Aleksandra Wronska|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:29|21|Anastasiya Bogoslovskaya|none|7|Claudia Longhitano|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:29|21|Anastasiya Bogoslovskaya|none|6|Claudia Longhitano|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:15|21|Maria De La O Perez|none|15|Anna Czuchra|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:15|21|Maria De La O Perez|none|17|Anna Czuchra|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:42|21|Ajda Justin|none|18|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:42|17|Ajda Justin|none|21|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:42|21|Ajda Justin|none|18|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:35|21|Daria Zimnol|none|13|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:35|16|Daria Zimnol|none|21|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:35|21|Daria Zimnol|none|16|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Adéla Klapalová|none|8|Magdalena Tatomir|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Adéla Klapalová|none|8|Magdalena Tatomir|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:32|21|Petra Meszaros|none|11|Emily Wu|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:32|21|Petra Meszaros|none|15|Emily Wu|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:18|21|Ania Setien|none|6|Silvia Santi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:18|21|Ania Setien|none|5|Silvia Santi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:30|21|Iva Sulić|none|19|Linda Bernasconi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:30|21|Iva Sulić|none|12|Linda Bernasconi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:40|5|Malgorzata Muszynska|none|21|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:40|21|Malgorzata Muszynska|none|19|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:40|21|Malgorzata Muszynska|none|17|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:37|21|Luna Šaban|none|18|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:37|19|Luna Šaban|none|21|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:37|21|Luna Šaban|none|18|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Lucie Metzová|none|7|Cristina A. Barb|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:21|21|Lucie Metzová|none|10|Cristina A. Barb|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:16|21|Spela Alič|none|6|Aitana Martinez|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:16|21|Spela Alič|none|19|Aitana Martinez|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:32|23|Julia Plawecka|none|21|Sunčica Sertić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:32|21|Julia Plawecka|none|15|Sunčica Sertić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181130|0:18|21|Sergej Lukic |Mihajlo Tomic|8|Blaž Jelenc|Gaj Lasič|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:18|21|Sergej Lukic |Mihajlo Tomic|6|Blaž Jelenc|Gaj Lasič|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Guillermo Figueras|Alvaro Rumin|11|Zihao Zhai|Nathaniel Zilka|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Guillermo Figueras|Alvaro Rumin|11|Zihao Zhai|Nathaniel Zilka|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:32|21|Iljo Van Delsen |Yaro Van Delsen|10|Rok Kuprivec|Matic Trojanšek|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:32|25|Iljo Van Delsen |Yaro Van Delsen|23|Rok Kuprivec|Matic Trojanšek|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:33|22|Mark Mesarič|Maks Počivašek|20|Ivan Grubić|Filip Knežević|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:33|21|Mark Mesarič|Maks Počivašek|15|Ivan Grubić|Filip Knežević|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:42|15|Matěj Rzeplinski |David Smutný|21|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:42|21|Matěj Rzeplinski |David Smutný|16|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:42|23|Matěj Rzeplinski |David Smutný|21|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:32|21|Daniel Franco|Ruben Garcia|17|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:32|18|Daniel Franco|Ruben Garcia|21|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:32|21|Daniel Franco|Ruben Garcia|10|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:25|21|Andrzej Niczyporuk |Jakub Suszynski|18|Jan Babnik|Gal Bizjak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:25|22|Andrzej Niczyporuk |Jakub Suszynski|20|Jan Babnik|Gal Bizjak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:29|21|Boris Karpjak|Peter Radoczi|13|Botond Francia|Sebestyen Ledo|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:29|21|Boris Karpjak|Peter Radoczi|17|Botond Francia|Sebestyen Ledo|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Teodor Ioan Cioroboiu|Paul Harangus|6|Filip Grad|Rok Hernec|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Teodor Ioan Cioroboiu|Paul Harangus|18|Filip Grad|Rok Hernec|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:43|20|Sebastian Kadlec |Simeon Suchy|22|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:43|21|Sebastian Kadlec |Simeon Suchy|15|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:43|21|Sebastian Kadlec |Simeon Suchy|16|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:45|10|Iñigo Daza|Iñigo Diaz|21|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:45|21|Iñigo Daza|Iñigo Diaz|11|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:45|21|Iñigo Daza|Iñigo Diaz|16|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:43|15|Kai Niederhuber |Michael Tomic|21|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:43|21|Kai Niederhuber |Michael Tomic|12|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:43|21|Kai Niederhuber |Michael Tomic|16|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:24|21|Adrian Alvarez|Pablo Murciano|8|Filip Antunović|Mihael Jurenić|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:24|21|Adrian Alvarez|Pablo Murciano|10|Filip Antunović|Mihael Jurenić|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Sebestyen Nagy |Gergely Szita|12|Jannik Auberger|Tobias Bäuerle|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:27|21|Sebestyen Nagy |Gergely Szita|15|Jannik Auberger|Tobias Bäuerle|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:29|21|Matevž Herman|Nik Zupančič|19|Timon Gunda|Adam Vojtěch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:29|21|Matevž Herman|Nik Zupančič|7|Timon Gunda|Adam Vojtěch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:25|21|Miha Masten |Borna Vadlja|17|Michal Szczypka|Piotr Wiercigroch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:25|21|Miha Masten |Borna Vadlja|10|Michal Szczypka|Piotr Wiercigroch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:25|21|Lina Pipan|Taja Pipan|14|Justyna Biernot|Julia Piwowar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:25|21|Lina Pipan|Taja Pipan|8|Justyna Biernot|Julia Piwowar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:31|21|Julia Plawecka|Daria Zimnol|16|Anja Jordan|Zoja Novak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:31|21|Julia Plawecka|Daria Zimnol|12|Anja Jordan|Zoja Novak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:38|21|Aitana Martinez|Ruth Veiguela|10|Nike Brajkovič|Neza Frank|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:38|21|Aitana Martinez|Ruth Veiguela|11|Nike Brajkovič|Neza Frank|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:34|21|Sunčica Sertić|Iva Sulić|12|Anastasiya Bogoslovskaya|Eva Bogoslovskaya|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:34|21|Sunčica Sertić|Iva Sulić|18|Anastasiya Bogoslovskaya|Eva Bogoslovskaya|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:44|21|Antonina Marszalek|Aleksandra Wronska|9|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:44|12|Antonina Marszalek|Aleksandra Wronska|21|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:44|21|Antonina Marszalek|Aleksandra Wronska|19|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:36|24|Candela Arcos|Petra Meszaros|22|Spela Alič|Marusa Vračar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181130|0:36|21|Candela Arcos|Petra Meszaros|15|Spela Alič|Marusa Vračar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:44|17|Jannik Auberger|Karoline Pottendorfer|21|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:44|23|Jannik Auberger|Karoline Pottendorfer|21|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:44|25|Jannik Auberger|Karoline Pottendorfer|23|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:31|21|Jaromir Fojtasek|Candela Antequera|8|Mark Mesarič|Ajda Justin|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:31|21|Jaromir Fojtasek|Candela Antequera|15|Mark Mesarič|Ajda Justin|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Gal Bizjak|Taja Pipan|19|Jakub Diviš|Adéla Klapalová|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Gal Bizjak|Taja Pipan|12|Jakub Diviš|Adéla Klapalová|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:24|21|Jan Babnik|Nike Brajkovič|19|Boris Karpjak|Julia Chmurovicova|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:24|21|Jan Babnik|Nike Brajkovič|11|Boris Karpjak|Julia Chmurovicova|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:21|21|Bene Benjamin Kiss|none|4|Maks Počivašek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Bene Benjamin Kiss|none|7|Maks Počivašek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Jacobo Fernandez |none|15|Alessandro Vertua|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Jacobo Fernandez |none|19|Alessandro Vertua|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:29|21|Balint Papai |none|14|Guillermo Figueras|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:29|21|Balint Papai |none|18|Guillermo Figueras|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Matevž Herman|none|10|Luka Črep|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Matevž Herman|none|15|Luka Črep|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Iñigo Diaz|none|16|Filip Knežević|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Iñigo Diaz|none|13|Filip Knežević|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:22|21|Andrzej Niczyporuk |none|8|Zihao Zhai|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:22|21|Andrzej Niczyporuk |none|14|Zihao Zhai|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:32|24|Kai Niederhuber|none|22|Finn Saunders|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:32|21|Kai Niederhuber|none|17|Finn Saunders|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:35|21|Martin Zuazola|none|15|Sebastian Kadlec [11]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:35|21|Martin Zuazola|none|16|Sebastian Kadlec [11]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:19|21|Yohan Barbieri|none|5|Andraž Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:19|21|Yohan Barbieri|none|7|Andraž Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:19|21|Paul Harangus |none|4|Sebestyen Ledo|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:19|21|Paul Harangus |none|7|Sebestyen Ledo|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Iljo Van Delsen|none|13|Timon Gunda|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Iljo Van Delsen|none|16|Timon Gunda|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:58|21|Vojtěch Poříz |none|13|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:58|18|Vojtěch Poříz |none|21|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:58|21|Vojtěch Poříz |none|17|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Pelayo Pinto|none|8|Ivan Grubić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Pelayo Pinto|none|10|Ivan Grubić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:54|16|Filip Antunović|none|21|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:54|21|Filip Antunović|none|9|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:54|21|Filip Antunović|none|17|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:45|21|Botond Francia|none|11|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:45|11|Botond Francia|none|21|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:45|21|Botond Francia|none|8|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:19|21|Ruben Garcia|none|11|Michal Szczypka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:19|21|Ruben Garcia|none|11|Michal Szczypka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:46|21|Rok Kuprivec|none|19|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:46|13|Rok Kuprivec|none|21|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:46|21|Rok Kuprivec|none|16|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:38|9|Iñigo Daza|none|21|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:38|21|Iñigo Daza|none|18|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:38|21|Iñigo Daza|none|16|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:23|22|Mihajlo Tomic|none|20|Matteo Massetti [16]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:23|21|Mihajlo Tomic|none|16|Matteo Massetti [16]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Yaro Van Delsen |none|7|Adam Vojtěch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Yaro Van Delsen |none|10|Adam Vojtěch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:24|21|Adrian Krawczyk|none|8|Klemen Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:24|21|Adrian Krawczyk|none|9|Klemen Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:56|14|Albin Nilsson|none|21|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:56|21|Albin Nilsson|none|16|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:56|21|Albin Nilsson|none|15|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:23|21|Armin Sarosi|none|7|Jan Babnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:23|21|Armin Sarosi|none|11|Jan Babnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:26|21|Michael Tomic |none|8|Mihael Jurenić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:26|21|Michael Tomic |none|10|Mihael Jurenić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:33|21|Borna Vadlja|none|14|Thomas Badent|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:33|21|Borna Vadlja|none|9|Thomas Badent|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:35|21|Sebestyen Nagy |none|18|Tobias Bäuerle|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:35|21|Sebestyen Nagy |none|16|Tobias Bäuerle|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Ou Yang Wang|none|11|Piotr Wiercigroch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Ou Yang Wang|none|10|Piotr Wiercigroch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Fernando Civico |none|17|Boris Karpjak|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Fernando Civico |none|11|Boris Karpjak|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:54|21|Gal Bizjak|none|14|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:54|23|Gal Bizjak|none|25|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:54|21|Gal Bizjak|none|14|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Sergej Lukic |none|6|Mark Mesarič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Sergej Lukic |none|7|Mark Mesarič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:30|21|Jakub Diviš|none|15|Peter Radoczi [13]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:30|21|Jakub Diviš|none|15|Peter Radoczi [13]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:25|21|Miha Masten |none|18|Jannik Auberger|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:25|21|Miha Masten |none|6|Jannik Auberger|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:23|21|Nike Brajkovič|none|19|Tamara Cvitkušić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:23|21|Nike Brajkovič|none|10|Tamara Cvitkušić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Martina Ševčíková|none|14|Julia Piwowar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:28|21|Martina Ševčíková|none|11|Julia Piwowar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:27|21|Ira Misir|none|8|Neza Frank|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:27|21|Ira Misir|none|18|Neza Frank|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:25|21|Ira Martinuš|none|18|Olivia Kadlecova|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:25|21|Ira Martinuš|none|12|Olivia Kadlecova|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:26|21|Zuzanna Jankowska|none|9|Panna Pytel|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:26|21|Zuzanna Jankowska|none|8|Panna Pytel|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Taja Pipan|none|16|Aleksandra Wronska|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:31|21|Taja Pipan|none|14|Aleksandra Wronska|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:29|21|Anastasiya Bogoslovskaya|none|7|Claudia Longhitano|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:29|21|Anastasiya Bogoslovskaya|none|6|Claudia Longhitano|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:15|21|Maria De La O Perez|none|15|Anna Czuchra|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:15|21|Maria De La O Perez|none|17|Anna Czuchra|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:42|21|Ajda Justin|none|18|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:42|17|Ajda Justin|none|21|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:42|21|Ajda Justin|none|18|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:35|21|Daria Zimnol|none|13|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:35|16|Daria Zimnol|none|21|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:35|21|Daria Zimnol|none|16|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Adéla Klapalová|none|8|Magdalena Tatomir|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Adéla Klapalová|none|8|Magdalena Tatomir|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:32|21|Petra Meszaros|none|11|Emily Wu|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:32|21|Petra Meszaros|none|15|Emily Wu|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:18|21|Ania Setien|none|6|Silvia Santi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:18|21|Ania Setien|none|5|Silvia Santi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:30|21|Iva Sulić|none|19|Linda Bernasconi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:30|21|Iva Sulić|none|12|Linda Bernasconi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:40|5|Malgorzata Muszynska|none|21|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:40|21|Malgorzata Muszynska|none|19|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:40|21|Malgorzata Muszynska|none|17|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:37|21|Luna Šaban|none|18|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:37|19|Luna Šaban|none|21|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:37|21|Luna Šaban|none|18|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Lucie Metzová|none|7|Cristina A. Barb|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:21|21|Lucie Metzová|none|10|Cristina A. Barb|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:16|21|Spela Alič|none|6|Aitana Martinez|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:16|21|Spela Alič|none|19|Aitana Martinez|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:32|23|Julia Plawecka|none|21|Sunčica Sertić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:32|21|Julia Plawecka|none|15|Sunčica Sertić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181201|0:18|21|Sergej Lukic |Mihajlo Tomic|8|Blaž Jelenc|Gaj Lasič|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:18|21|Sergej Lukic |Mihajlo Tomic|6|Blaž Jelenc|Gaj Lasič|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Guillermo Figueras|Alvaro Rumin|11|Zihao Zhai|Nathaniel Zilka|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Guillermo Figueras|Alvaro Rumin|11|Zihao Zhai|Nathaniel Zilka|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:32|21|Iljo Van Delsen |Yaro Van Delsen|10|Rok Kuprivec|Matic Trojanšek|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:32|25|Iljo Van Delsen |Yaro Van Delsen|23|Rok Kuprivec|Matic Trojanšek|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:33|22|Mark Mesarič|Maks Počivašek|20|Ivan Grubić|Filip Knežević|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:33|21|Mark Mesarič|Maks Počivašek|15|Ivan Grubić|Filip Knežević|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:42|15|Matěj Rzeplinski |David Smutný|21|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:42|21|Matěj Rzeplinski |David Smutný|16|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:42|23|Matěj Rzeplinski |David Smutný|21|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:32|21|Daniel Franco|Ruben Garcia|17|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:32|18|Daniel Franco|Ruben Garcia|21|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:32|21|Daniel Franco|Ruben Garcia|10|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:25|21|Andrzej Niczyporuk |Jakub Suszynski|18|Jan Babnik|Gal Bizjak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:25|22|Andrzej Niczyporuk |Jakub Suszynski|20|Jan Babnik|Gal Bizjak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:29|21|Boris Karpjak|Peter Radoczi|13|Botond Francia|Sebestyen Ledo|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:29|21|Boris Karpjak|Peter Radoczi|17|Botond Francia|Sebestyen Ledo|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Teodor Ioan Cioroboiu|Paul Harangus|6|Filip Grad|Rok Hernec|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Teodor Ioan Cioroboiu|Paul Harangus|18|Filip Grad|Rok Hernec|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:43|20|Sebastian Kadlec |Simeon Suchy|22|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:43|21|Sebastian Kadlec |Simeon Suchy|15|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:43|21|Sebastian Kadlec |Simeon Suchy|16|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:45|10|Iñigo Daza|Iñigo Diaz|21|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:45|21|Iñigo Daza|Iñigo Diaz|11|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:45|21|Iñigo Daza|Iñigo Diaz|16|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:43|15|Kai Niederhuber |Michael Tomic|21|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:43|21|Kai Niederhuber |Michael Tomic|12|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:43|21|Kai Niederhuber |Michael Tomic|16|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:24|21|Adrian Alvarez|Pablo Murciano|8|Filip Antunović|Mihael Jurenić|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:24|21|Adrian Alvarez|Pablo Murciano|10|Filip Antunović|Mihael Jurenić|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Sebestyen Nagy |Gergely Szita|12|Jannik Auberger|Tobias Bäuerle|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:27|21|Sebestyen Nagy |Gergely Szita|15|Jannik Auberger|Tobias Bäuerle|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:29|21|Matevž Herman|Nik Zupančič|19|Timon Gunda|Adam Vojtěch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:29|21|Matevž Herman|Nik Zupančič|7|Timon Gunda|Adam Vojtěch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:25|21|Miha Masten |Borna Vadlja|17|Michal Szczypka|Piotr Wiercigroch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:25|21|Miha Masten |Borna Vadlja|10|Michal Szczypka|Piotr Wiercigroch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:25|21|Lina Pipan|Taja Pipan|14|Justyna Biernot|Julia Piwowar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:25|21|Lina Pipan|Taja Pipan|8|Justyna Biernot|Julia Piwowar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:31|21|Julia Plawecka|Daria Zimnol|16|Anja Jordan|Zoja Novak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:31|21|Julia Plawecka|Daria Zimnol|12|Anja Jordan|Zoja Novak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:38|21|Aitana Martinez|Ruth Veiguela|10|Nike Brajkovič|Neza Frank|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:38|21|Aitana Martinez|Ruth Veiguela|11|Nike Brajkovič|Neza Frank|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:34|21|Sunčica Sertić|Iva Sulić|12|Anastasiya Bogoslovskaya|Eva Bogoslovskaya|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:34|21|Sunčica Sertić|Iva Sulić|18|Anastasiya Bogoslovskaya|Eva Bogoslovskaya|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:44|21|Antonina Marszalek|Aleksandra Wronska|9|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:44|12|Antonina Marszalek|Aleksandra Wronska|21|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:44|21|Antonina Marszalek|Aleksandra Wronska|19|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:36|24|Candela Arcos|Petra Meszaros|22|Spela Alič|Marusa Vračar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181201|0:36|21|Candela Arcos|Petra Meszaros|15|Spela Alič|Marusa Vračar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:44|17|Jannik Auberger|Karoline Pottendorfer|21|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:44|23|Jannik Auberger|Karoline Pottendorfer|21|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:44|25|Jannik Auberger|Karoline Pottendorfer|23|Ou Yang Wang|Katica Torba|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:31|21|Jaromir Fojtasek|Candela Antequera|8|Mark Mesarič|Ajda Justin|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:31|21|Jaromir Fojtasek|Candela Antequera|15|Mark Mesarič|Ajda Justin|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Gal Bizjak|Taja Pipan|19|Jakub Diviš|Adéla Klapalová|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Gal Bizjak|Taja Pipan|12|Jakub Diviš|Adéla Klapalová|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:24|21|Jan Babnik|Nike Brajkovič|19|Boris Karpjak|Julia Chmurovicova|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:24|21|Jan Babnik|Nike Brajkovič|11|Boris Karpjak|Julia Chmurovicova|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:21|21|Bene Benjamin Kiss|none|4|Maks Počivašek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Bene Benjamin Kiss|none|7|Maks Počivašek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Jacobo Fernandez |none|15|Alessandro Vertua|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Jacobo Fernandez |none|19|Alessandro Vertua|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:29|21|Balint Papai |none|14|Guillermo Figueras|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:29|21|Balint Papai |none|18|Guillermo Figueras|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Matevž Herman|none|10|Luka Črep|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Matevž Herman|none|15|Luka Črep|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Iñigo Diaz|none|16|Filip Knežević|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Iñigo Diaz|none|13|Filip Knežević|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:22|21|Andrzej Niczyporuk |none|8|Zihao Zhai|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:22|21|Andrzej Niczyporuk |none|14|Zihao Zhai|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:32|24|Kai Niederhuber|none|22|Finn Saunders|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:32|21|Kai Niederhuber|none|17|Finn Saunders|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:35|21|Martin Zuazola|none|15|Sebastian Kadlec [11]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:35|21|Martin Zuazola|none|16|Sebastian Kadlec [11]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:19|21|Yohan Barbieri|none|5|Andraž Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:19|21|Yohan Barbieri|none|7|Andraž Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:19|21|Paul Harangus |none|4|Sebestyen Ledo|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:19|21|Paul Harangus |none|7|Sebestyen Ledo|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Iljo Van Delsen|none|13|Timon Gunda|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Iljo Van Delsen|none|16|Timon Gunda|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:58|21|Vojtěch Poříz |none|13|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:58|18|Vojtěch Poříz |none|21|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:58|21|Vojtěch Poříz |none|17|Matic Trojanšek|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Pelayo Pinto|none|8|Ivan Grubić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Pelayo Pinto|none|10|Ivan Grubić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:54|16|Filip Antunović|none|21|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:54|21|Filip Antunović|none|9|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:54|21|Filip Antunović|none|17|David Smutný|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:45|21|Botond Francia|none|11|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:45|11|Botond Francia|none|21|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:45|21|Botond Francia|none|8|Nik Zupančič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:19|21|Ruben Garcia|none|11|Michal Szczypka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:19|21|Ruben Garcia|none|11|Michal Szczypka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:46|21|Rok Kuprivec|none|19|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:46|13|Rok Kuprivec|none|21|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:46|21|Rok Kuprivec|none|16|Simeon Suchy [12]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:38|9|Iñigo Daza|none|21|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:38|21|Iñigo Daza|none|18|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:38|21|Iñigo Daza|none|16|Nathaniel Zilka|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:23|22|Mihajlo Tomic|none|20|Matteo Massetti [16]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:23|21|Mihajlo Tomic|none|16|Matteo Massetti [16]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Yaro Van Delsen |none|7|Adam Vojtěch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Yaro Van Delsen |none|10|Adam Vojtěch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:24|21|Adrian Krawczyk|none|8|Klemen Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:24|21|Adrian Krawczyk|none|9|Klemen Pečovnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:56|14|Albin Nilsson|none|21|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:56|21|Albin Nilsson|none|16|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:56|21|Albin Nilsson|none|15|Teodor Ioan Cioroboiu [10]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:23|21|Armin Sarosi|none|7|Jan Babnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:23|21|Armin Sarosi|none|11|Jan Babnik|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:26|21|Michael Tomic |none|8|Mihael Jurenić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:26|21|Michael Tomic |none|10|Mihael Jurenić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:33|21|Borna Vadlja|none|14|Thomas Badent|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:33|21|Borna Vadlja|none|9|Thomas Badent|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:35|21|Sebestyen Nagy |none|18|Tobias Bäuerle|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:35|21|Sebestyen Nagy |none|16|Tobias Bäuerle|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Ou Yang Wang|none|11|Piotr Wiercigroch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Ou Yang Wang|none|10|Piotr Wiercigroch|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Fernando Civico |none|17|Boris Karpjak|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Fernando Civico |none|11|Boris Karpjak|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:54|21|Gal Bizjak|none|14|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:54|23|Gal Bizjak|none|25|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:54|21|Gal Bizjak|none|14|Vasileios Rafail Kiosses|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Sergej Lukic |none|6|Mark Mesarič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Sergej Lukic |none|7|Mark Mesarič|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:30|21|Jakub Diviš|none|15|Peter Radoczi [13]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:30|21|Jakub Diviš|none|15|Peter Radoczi [13]|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:25|21|Miha Masten |none|18|Jannik Auberger|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:25|21|Miha Masten |none|6|Jannik Auberger|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:23|21|Nike Brajkovič|none|19|Tamara Cvitkušić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:23|21|Nike Brajkovič|none|10|Tamara Cvitkušić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Martina Ševčíková|none|14|Julia Piwowar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:28|21|Martina Ševčíková|none|11|Julia Piwowar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:27|21|Ira Misir|none|8|Neza Frank|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:27|21|Ira Misir|none|18|Neza Frank|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:25|21|Ira Martinuš|none|18|Olivia Kadlecova|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:25|21|Ira Martinuš|none|12|Olivia Kadlecova|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:26|21|Zuzanna Jankowska|none|9|Panna Pytel|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:26|21|Zuzanna Jankowska|none|8|Panna Pytel|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Taja Pipan|none|16|Aleksandra Wronska|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:31|21|Taja Pipan|none|14|Aleksandra Wronska|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:29|21|Anastasiya Bogoslovskaya|none|7|Claudia Longhitano|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:29|21|Anastasiya Bogoslovskaya|none|6|Claudia Longhitano|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:15|21|Maria De La O Perez|none|15|Anna Czuchra|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:15|21|Maria De La O Perez|none|17|Anna Czuchra|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:42|21|Ajda Justin|none|18|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:42|17|Ajda Justin|none|21|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:42|21|Ajda Justin|none|18|Holly Hammond|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:35|21|Daria Zimnol|none|13|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:35|16|Daria Zimnol|none|21|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:35|21|Daria Zimnol|none|16|Marusa Vračar|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Adéla Klapalová|none|8|Magdalena Tatomir|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Adéla Klapalová|none|8|Magdalena Tatomir|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:32|21|Petra Meszaros|none|11|Emily Wu|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:32|21|Petra Meszaros|none|15|Emily Wu|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:18|21|Ania Setien|none|6|Silvia Santi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:18|21|Ania Setien|none|5|Silvia Santi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:30|21|Iva Sulić|none|19|Linda Bernasconi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:30|21|Iva Sulić|none|12|Linda Bernasconi|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:40|5|Malgorzata Muszynska|none|21|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:40|21|Malgorzata Muszynska|none|19|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:40|21|Malgorzata Muszynska|none|17|Zala Žuran|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:37|21|Luna Šaban|none|18|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:37|19|Luna Šaban|none|21|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:37|21|Luna Šaban|none|18|Candela Antequera|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Lucie Metzová|none|7|Cristina A. Barb|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:21|21|Lucie Metzová|none|10|Cristina A. Barb|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:16|21|Spela Alič|none|6|Aitana Martinez|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:16|21|Spela Alič|none|19|Aitana Martinez|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:32|23|Julia Plawecka|none|21|Sunčica Sertić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:32|21|Julia Plawecka|none|15|Sunčica Sertić|none|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|singles
+20181202|0:18|21|Sergej Lukic |Mihajlo Tomic|8|Blaž Jelenc|Gaj Lasič|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:18|21|Sergej Lukic |Mihajlo Tomic|6|Blaž Jelenc|Gaj Lasič|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Guillermo Figueras|Alvaro Rumin|11|Zihao Zhai|Nathaniel Zilka|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Guillermo Figueras|Alvaro Rumin|11|Zihao Zhai|Nathaniel Zilka|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:32|21|Iljo Van Delsen |Yaro Van Delsen|10|Rok Kuprivec|Matic Trojanšek|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:32|25|Iljo Van Delsen |Yaro Van Delsen|23|Rok Kuprivec|Matic Trojanšek|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:33|22|Mark Mesarič|Maks Počivašek|20|Ivan Grubić|Filip Knežević|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:33|21|Mark Mesarič|Maks Počivašek|15|Ivan Grubić|Filip Knežević|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:42|15|Matěj Rzeplinski |David Smutný|21|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:42|21|Matěj Rzeplinski |David Smutný|16|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:42|23|Matěj Rzeplinski |David Smutný|21|Matteo Massetti|Alessandro Vertua|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:32|21|Daniel Franco|Ruben Garcia|17|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:32|18|Daniel Franco|Ruben Garcia|21|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:32|21|Daniel Franco|Ruben Garcia|10|Thomas Ley|Finn Saunders|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:25|21|Andrzej Niczyporuk |Jakub Suszynski|18|Jan Babnik|Gal Bizjak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:25|22|Andrzej Niczyporuk |Jakub Suszynski|20|Jan Babnik|Gal Bizjak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:29|21|Boris Karpjak|Peter Radoczi|13|Botond Francia|Sebestyen Ledo|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:29|21|Boris Karpjak|Peter Radoczi|17|Botond Francia|Sebestyen Ledo|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Teodor Ioan Cioroboiu|Paul Harangus|6|Filip Grad|Rok Hernec|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Teodor Ioan Cioroboiu|Paul Harangus|18|Filip Grad|Rok Hernec|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:43|20|Sebastian Kadlec |Simeon Suchy|22|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:43|21|Sebastian Kadlec |Simeon Suchy|15|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:43|21|Sebastian Kadlec |Simeon Suchy|16|Jakub Diviš|Vojtěch Poříz|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:45|10|Iñigo Daza|Iñigo Diaz|21|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:45|21|Iñigo Daza|Iñigo Diaz|11|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:45|21|Iñigo Daza|Iñigo Diaz|16|Matteo Badent|Thomas Badent|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:43|15|Kai Niederhuber |Michael Tomic|21|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:43|21|Kai Niederhuber |Michael Tomic|12|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:43|21|Kai Niederhuber |Michael Tomic|16|Fernando Civico|Salvador Franco|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:24|21|Adrian Alvarez|Pablo Murciano|8|Filip Antunović|Mihael Jurenić|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:24|21|Adrian Alvarez|Pablo Murciano|10|Filip Antunović|Mihael Jurenić|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Sebestyen Nagy |Gergely Szita|12|Jannik Auberger|Tobias Bäuerle|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:27|21|Sebestyen Nagy |Gergely Szita|15|Jannik Auberger|Tobias Bäuerle|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:29|21|Matevž Herman|Nik Zupančič|19|Timon Gunda|Adam Vojtěch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:29|21|Matevž Herman|Nik Zupančič|7|Timon Gunda|Adam Vojtěch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:25|21|Miha Masten |Borna Vadlja|17|Michal Szczypka|Piotr Wiercigroch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:25|21|Miha Masten |Borna Vadlja|10|Michal Szczypka|Piotr Wiercigroch|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:25|21|Lina Pipan|Taja Pipan|14|Justyna Biernot|Julia Piwowar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:25|21|Lina Pipan|Taja Pipan|8|Justyna Biernot|Julia Piwowar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:31|21|Julia Plawecka|Daria Zimnol|16|Anja Jordan|Zoja Novak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:31|21|Julia Plawecka|Daria Zimnol|12|Anja Jordan|Zoja Novak|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:38|21|Aitana Martinez|Ruth Veiguela|10|Nike Brajkovič|Neza Frank|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:38|21|Aitana Martinez|Ruth Veiguela|11|Nike Brajkovič|Neza Frank|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:34|21|Sunčica Sertić|Iva Sulić|12|Anastasiya Bogoslovskaya|Eva Bogoslovskaya|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:34|21|Sunčica Sertić|Iva Sulić|18|Anastasiya Bogoslovskaya|Eva Bogoslovskaya|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:44|21|Antonina Marszalek|Aleksandra Wronska|9|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:44|12|Antonina Marszalek|Aleksandra Wronska|21|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:44|21|Antonina Marszalek|Aleksandra Wronska|19|Olivia Kadlecova|Martina Ševčíková|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:36|24|Candela Arcos|Petra Meszaros|22|Spela Alič|Marusa Vračar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles
+20181202|0:36|21|Candela Arcos|Petra Meszaros|15|Spela Alič|Marusa Vračar|25C922D0-7ADB-4860-87AF-5DF11ABD2E4E|doubles

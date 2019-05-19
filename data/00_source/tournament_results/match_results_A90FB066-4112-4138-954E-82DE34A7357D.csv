@@ -1,0 +1,511 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20180330|0:48|21|Fernando Civico|Maria De La O Perez|14|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:48|12|Fernando Civico|Maria De La O Perez|21|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:48|25|Fernando Civico|Maria De La O Perez|23|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:31|21|Peter Mc Donald|Kerry Fallon|12|Liam Bauwens|Luisa Pagliara|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:31|23|Peter Mc Donald|Kerry Fallon|21|Liam Bauwens|Luisa Pagliara|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:32|21|Matthias Schnabel|Friederike Panmai Rudert|18|Eubil Cabije|Evelien Cauwenberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:32|21|Matthias Schnabel|Friederike Panmai Rudert|17|Eubil Cabije|Evelien Cauwenberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:31|21|Justin Seibel|Yasmine Hamza|18|Jacobo Fernandez|Lucia Rodriguez|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:31|21|Justin Seibel|Yasmine Hamza|15|Jacobo Fernandez|Lucia Rodriguez|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:22|21|Michael Staunton|Alexandra Troy|8|Wannes Soenen|Mare Van Britsom|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:22|21|Michael Staunton|Alexandra Troy|11|Wannes Soenen|Mare Van Britsom|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:31|21|Vasilisa Kuznetcova|none|15|Ira Misir|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:31|21|Vasilisa Kuznetcova|none|11|Ira Misir|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:46|21|Adika Carulla|none|12|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:46|19|Adika Carulla|none|21|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:46|21|Adika Carulla|none|13|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:48|21|Orla Flynn|none|19|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:48|19|Orla Flynn|none|21|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:48|21|Orla Flynn|none|19|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Eleanor Butler|none|12|Alison Drouard|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Eleanor Butler|none|16|Alison Drouard|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:45|20|Ania Setien|none|22|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:45|21|Ania Setien|none|19|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:45|21|Ania Setien|none|17|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:42|21|Candela Arcos|none|19|Khushi Naik|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:42|22|Candela Arcos|none|20|Khushi Naik|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:32|21|Joakim Oldorff |none|16|Daniil Fatkin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:32|21|Joakim Oldorff |none|15|Daniil Fatkin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:45|15|Yaro Van Delsen|none|21|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:45|21|Yaro Van Delsen|none|12|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:45|21|Yaro Van Delsen|none|14|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:30|21|Marvin Schmidt|none|17|Daniel O'Meara|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:30|21|Marvin Schmidt|none|8|Daniel O'Meara|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Tobias Rudolf |none|12|Iljo Van Delsen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Tobias Rudolf |none|7|Iljo Van Delsen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Gabin Boussogne|none|11|Denis Nikulin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Gabin Boussogne|none|18|Denis Nikulin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Gabriel Fernandez |none|8|Stijn De Keijzer|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Gabriel Fernandez |none|6|Stijn De Keijzer|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:34|21|Michael Tomic|none|14|Nicolas Hoareau|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:34|21|Michael Tomic|none|17|Nicolas Hoareau|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:46|20|Sid Palakkal|none|22|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:46|21|Sid Palakkal|none|9|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:46|21|Sid Palakkal|none|14|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Kenneth Cheung|none|12|Jonas Werner|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Kenneth Cheung|none|10|Jonas Werner|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Akim Lin |none|13|Luke Griffiths|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Akim Lin |none|11|Luke Griffiths|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:24|21|Matteo Massetti|none|13|Jules Van Wijlick|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:24|21|Matteo Massetti|none|13|Jules Van Wijlick|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:59|21|Edgar Roux|none|19|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:59|18|Edgar Roux|none|21|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:59|21|Edgar Roux|none|17|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Sean Laureta|none|18|Alexandre Briguet|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|23|Sean Laureta|none|21|Alexandre Briguet|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|19|Aleksey Molochaev |none|21|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|21|Aleksey Molochaev |none|9|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|21|Aleksey Molochaev |none|17|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:36|21|Aymeric Tores|none|10|Joel Koch|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:36|21|Aymeric Tores|none|17|Joel Koch|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:33|21|Toby Dillingham|none|19|Leo Hölzmer [8]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:33|21|Toby Dillingham|none|6|Leo Hölzmer [8]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:43|15|Calum Flockhart|none|21|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:43|21|Calum Flockhart|none|5|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:43|21|Calum Flockhart|none|19|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|16|Gustav Andree |none|21|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|21|Gustav Andree |none|15|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|21|Gustav Andree |none|15|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Callum Smith|none|11|Mathias Pourbaix|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Callum Smith|none|16|Mathias Pourbaix|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:37|21|Alejandro De Pablo|none|17|Lenny Sudarma [4]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:37|22|Alejandro De Pablo|none|20|Lenny Sudarma [4]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Simon Scheller|none|23|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Simon Scheller|none|11|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Simon Scheller|none|14|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Reuben Bodman|none|13|Alexey Alferov|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Reuben Bodman|none|11|Alexey Alferov|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Pelayo Pinto|none|19|Andreas De Winné [7]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Pelayo Pinto|none|17|Andreas De Winné [7]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Jacobo Fernandez|none|12|Gijs Schreppers|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Jacobo Fernandez|none|15|Gijs Schreppers|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:30|21|Sacha Leveque|none|14|Alex Dillingham [11]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:30|21|Sacha Leveque|none|17|Alex Dillingham [11]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:27|21|Ilya Kim |none|11|Jens Näser|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:27|21|Ilya Kim |none|16|Jens Näser|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:27|21|Emilie Drouin|none|9|Lucia Rodriguez|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:27|21|Emilie Drouin|none|16|Lucia Rodriguez|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:20|21|Estelle Van Leeuwen|none|16|Carlota Viejo|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:20|21|Estelle Van Leeuwen|none|8|Carlota Viejo|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Alena Koroleva|none|12|Cara Collins|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:25|21|Alena Koroleva|none|11|Cara Collins|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Olga Sokolova|none|14|Jannica Monnberg|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Olga Sokolova|none|15|Jannica Monnberg|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:26|21|Thies Huth |none|12|Daniel Clarke|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:26|21|Thies Huth |none|18|Daniel Clarke|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Justin Seibel|none|17|Liam Bauwens|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Justin Seibel|none|8|Liam Bauwens|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Julie Franconville|none|15|Fenna Laros|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Julie Franconville|none|10|Fenna Laros|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Michael Mcguire |none|9|Elias Schweig|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Michael Mcguire |none|8|Elias Schweig|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:26|21|Fernando Civico|none|14|Peter Mc Donald|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:26|21|Fernando Civico|none|13|Peter Mc Donald|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|21|Kevin Hargiono |none|13|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|16|Kevin Hargiono |none|21|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:51|21|Kevin Hargiono |none|15|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:21|21|Michael Staunton|none|10|Mihael Jurenić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:21|21|Michael Staunton|none|7|Mihael Jurenić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:31|21|Evelien Cauwenberg|none|17|Leda Dominić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:31|21|Evelien Cauwenberg|none|14|Leda Dominić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:27|21|Alice Campbell|none|16|Ronja Hamm|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:27|21|Alice Campbell|none|18|Ronja Hamm|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Maria De La O Perez|none|16|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|14|Maria De La O Perez|none|21|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|21|Maria De La O Perez|none|14|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Kerry Fallon|none|16|Nadege Duron|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:28|21|Kerry Fallon|none|14|Nadege Duron|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:26|21|Laeticia Jaffrennou|none|18|Friederike Panmai Rudert|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:26|21|Laeticia Jaffrennou|none|16|Friederike Panmai Rudert|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:41|21|Barbara Janičić|none|10|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:41|20|Barbara Janičić|none|22|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:41|21|Barbara Janičić|none|13|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330||Walkover Win|Luisa Pagliara|none|Walkover Loss|Kiona Van De Werf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Alexandra Troy|none|11|Amber Derksen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Alexandra Troy|none|19|Amber Derksen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:31|21|Megan Mc Loughlin|none|12|Arta Priedniece|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:31|21|Megan Mc Loughlin|none|18|Arta Priedniece|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:33|21|Erin Waddell|none|15|Joalien Croux|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:33|21|Erin Waddell|none|18|Joalien Croux|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Siebelijn De Sutter|none|11|Sunčica Sertić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:23|21|Siebelijn De Sutter|none|15|Sunčica Sertić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Kim Schmidt|none|17|Lotte Geerts|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:29|21|Kim Schmidt|none|18|Lotte Geerts|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330||Walkover Win|Novi Wieland|none|Walkover Loss|Holly Williams|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180330|0:35|13|Joel Koch|Julie Franconville|21|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:35|21|Joel Koch|Julie Franconville|14|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:35|21|Joel Koch|Julie Franconville|15|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|21|Aleksey Molochaev |Olga Sokolova|17|Daniel O'Meara|Orla Flynn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|21|Aleksey Molochaev |Olga Sokolova|11|Daniel O'Meara|Orla Flynn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|21|Aymeric Tores|Emilie Drouin|19|Arthur Boudier [5]|Caroline Racloz|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|25|Aymeric Tores|Emilie Drouin|23|Arthur Boudier [5]|Caroline Racloz|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:44|14|Salvador Franco|Candela Arcos|21|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:44|21|Salvador Franco|Candela Arcos|14|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:44|23|Salvador Franco|Candela Arcos|21|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:45|21|Pelayo Pinto|Carlota Viejo|19|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:45|14|Pelayo Pinto|Carlota Viejo|21|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:45|21|Pelayo Pinto|Carlota Viejo|17|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:25|21|Ilya Kim |Vasilisa Kuznetcova|11|Julian Blaumoser|Ronja Hamm|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:25|21|Ilya Kim |Vasilisa Kuznetcova|13|Julian Blaumoser|Ronja Hamm|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:31|21|Matthias Schnabel|Friederike Panmai Rudert|17|Iljo Van Delsen|Lien Lammertyn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:31|23|Matthias Schnabel|Friederike Panmai Rudert|21|Iljo Van Delsen|Lien Lammertyn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:30|21|Justin Seibel|Yasmine Hamza|14|Luke Griffiths|Eleanor Butler|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:30|21|Justin Seibel|Yasmine Hamza|17|Luke Griffiths|Eleanor Butler|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:24|21|Alexey Alferov|Alena Koroleva|10|Stijn De Keijzer|Adika Carulla|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:24|21|Alexey Alferov|Alena Koroleva|16|Stijn De Keijzer|Adika Carulla|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:24|21|Egor Borisov |Mariia Golubeva|6|Sean Laureta|Megan Mc Loughlin|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:24|21|Egor Borisov |Mariia Golubeva|12|Sean Laureta|Megan Mc Loughlin|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|21|Fernando Civico|Maria De La O Perez|14|Kobe Huyghe|Lotte Geerts|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|21|Fernando Civico|Maria De La O Perez|19|Kobe Huyghe|Lotte Geerts|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:23|21|Kenneth Cheung |Erin Waddell|7|Calum Flockhart|Sunčica Sertić|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:23|21|Kenneth Cheung |Erin Waddell|11|Calum Flockhart|Sunčica Sertić|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:28|21|Michael Staunton|Alexandra Troy|17|Quentin Ronget|Alison Drouard|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:28|21|Michael Staunton|Alexandra Troy|16|Quentin Ronget|Alison Drouard|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:23|21|Alexandre Briguet|Dounia Pelupessy|4|Jules Van Wijlick|Amber Derksen|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:23|21|Alexandre Briguet|Dounia Pelupessy|6|Jules Van Wijlick|Amber Derksen|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:38|21|Reuben Bodman|Cara Collins|10|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:38|11|Reuben Bodman|Cara Collins|21|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:38|24|Reuben Bodman|Cara Collins|22|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|21|Daniel Clarke|Fenna Laros|15|Gijs Schreppers|Novi Wieland|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180330|0:27|21|Daniel Clarke|Fenna Laros|12|Gijs Schreppers|Novi Wieland|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:48|21|Fernando Civico|Maria De La O Perez|14|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:48|12|Fernando Civico|Maria De La O Perez|21|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:48|25|Fernando Civico|Maria De La O Perez|23|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:31|21|Peter Mc Donald|Kerry Fallon|12|Liam Bauwens|Luisa Pagliara|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:31|23|Peter Mc Donald|Kerry Fallon|21|Liam Bauwens|Luisa Pagliara|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:32|21|Matthias Schnabel|Friederike Panmai Rudert|18|Eubil Cabije|Evelien Cauwenberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:32|21|Matthias Schnabel|Friederike Panmai Rudert|17|Eubil Cabije|Evelien Cauwenberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:31|21|Justin Seibel|Yasmine Hamza|18|Jacobo Fernandez|Lucia Rodriguez|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:31|21|Justin Seibel|Yasmine Hamza|15|Jacobo Fernandez|Lucia Rodriguez|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:22|21|Michael Staunton|Alexandra Troy|8|Wannes Soenen|Mare Van Britsom|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:22|21|Michael Staunton|Alexandra Troy|11|Wannes Soenen|Mare Van Britsom|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:31|21|Vasilisa Kuznetcova|none|15|Ira Misir|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:31|21|Vasilisa Kuznetcova|none|11|Ira Misir|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:46|21|Adika Carulla|none|12|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:46|19|Adika Carulla|none|21|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:46|21|Adika Carulla|none|13|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:48|21|Orla Flynn|none|19|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:48|19|Orla Flynn|none|21|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:48|21|Orla Flynn|none|19|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Eleanor Butler|none|12|Alison Drouard|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Eleanor Butler|none|16|Alison Drouard|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:45|20|Ania Setien|none|22|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:45|21|Ania Setien|none|19|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:45|21|Ania Setien|none|17|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:42|21|Candela Arcos|none|19|Khushi Naik|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:42|22|Candela Arcos|none|20|Khushi Naik|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:32|21|Joakim Oldorff |none|16|Daniil Fatkin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:32|21|Joakim Oldorff |none|15|Daniil Fatkin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:45|15|Yaro Van Delsen|none|21|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:45|21|Yaro Van Delsen|none|12|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:45|21|Yaro Van Delsen|none|14|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:30|21|Marvin Schmidt|none|17|Daniel O'Meara|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:30|21|Marvin Schmidt|none|8|Daniel O'Meara|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Tobias Rudolf |none|12|Iljo Van Delsen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Tobias Rudolf |none|7|Iljo Van Delsen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Gabin Boussogne|none|11|Denis Nikulin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Gabin Boussogne|none|18|Denis Nikulin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Gabriel Fernandez |none|8|Stijn De Keijzer|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Gabriel Fernandez |none|6|Stijn De Keijzer|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:34|21|Michael Tomic|none|14|Nicolas Hoareau|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:34|21|Michael Tomic|none|17|Nicolas Hoareau|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:46|20|Sid Palakkal|none|22|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:46|21|Sid Palakkal|none|9|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:46|21|Sid Palakkal|none|14|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Kenneth Cheung|none|12|Jonas Werner|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Kenneth Cheung|none|10|Jonas Werner|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Akim Lin |none|13|Luke Griffiths|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Akim Lin |none|11|Luke Griffiths|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:24|21|Matteo Massetti|none|13|Jules Van Wijlick|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:24|21|Matteo Massetti|none|13|Jules Van Wijlick|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:59|21|Edgar Roux|none|19|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:59|18|Edgar Roux|none|21|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:59|21|Edgar Roux|none|17|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Sean Laureta|none|18|Alexandre Briguet|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|23|Sean Laureta|none|21|Alexandre Briguet|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|19|Aleksey Molochaev |none|21|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|21|Aleksey Molochaev |none|9|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|21|Aleksey Molochaev |none|17|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:36|21|Aymeric Tores|none|10|Joel Koch|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:36|21|Aymeric Tores|none|17|Joel Koch|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:33|21|Toby Dillingham|none|19|Leo Hölzmer [8]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:33|21|Toby Dillingham|none|6|Leo Hölzmer [8]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:43|15|Calum Flockhart|none|21|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:43|21|Calum Flockhart|none|5|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:43|21|Calum Flockhart|none|19|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|16|Gustav Andree |none|21|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|21|Gustav Andree |none|15|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|21|Gustav Andree |none|15|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Callum Smith|none|11|Mathias Pourbaix|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Callum Smith|none|16|Mathias Pourbaix|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:37|21|Alejandro De Pablo|none|17|Lenny Sudarma [4]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:37|22|Alejandro De Pablo|none|20|Lenny Sudarma [4]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Simon Scheller|none|23|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Simon Scheller|none|11|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Simon Scheller|none|14|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Reuben Bodman|none|13|Alexey Alferov|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Reuben Bodman|none|11|Alexey Alferov|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Pelayo Pinto|none|19|Andreas De Winné [7]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Pelayo Pinto|none|17|Andreas De Winné [7]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Jacobo Fernandez|none|12|Gijs Schreppers|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Jacobo Fernandez|none|15|Gijs Schreppers|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:30|21|Sacha Leveque|none|14|Alex Dillingham [11]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:30|21|Sacha Leveque|none|17|Alex Dillingham [11]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:27|21|Ilya Kim |none|11|Jens Näser|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:27|21|Ilya Kim |none|16|Jens Näser|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:27|21|Emilie Drouin|none|9|Lucia Rodriguez|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:27|21|Emilie Drouin|none|16|Lucia Rodriguez|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:20|21|Estelle Van Leeuwen|none|16|Carlota Viejo|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:20|21|Estelle Van Leeuwen|none|8|Carlota Viejo|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Alena Koroleva|none|12|Cara Collins|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:25|21|Alena Koroleva|none|11|Cara Collins|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Olga Sokolova|none|14|Jannica Monnberg|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Olga Sokolova|none|15|Jannica Monnberg|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:26|21|Thies Huth |none|12|Daniel Clarke|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:26|21|Thies Huth |none|18|Daniel Clarke|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Justin Seibel|none|17|Liam Bauwens|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Justin Seibel|none|8|Liam Bauwens|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Julie Franconville|none|15|Fenna Laros|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Julie Franconville|none|10|Fenna Laros|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Michael Mcguire |none|9|Elias Schweig|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Michael Mcguire |none|8|Elias Schweig|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:26|21|Fernando Civico|none|14|Peter Mc Donald|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:26|21|Fernando Civico|none|13|Peter Mc Donald|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|21|Kevin Hargiono |none|13|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|16|Kevin Hargiono |none|21|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:51|21|Kevin Hargiono |none|15|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:21|21|Michael Staunton|none|10|Mihael Jurenić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:21|21|Michael Staunton|none|7|Mihael Jurenić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:31|21|Evelien Cauwenberg|none|17|Leda Dominić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:31|21|Evelien Cauwenberg|none|14|Leda Dominić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:27|21|Alice Campbell|none|16|Ronja Hamm|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:27|21|Alice Campbell|none|18|Ronja Hamm|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Maria De La O Perez|none|16|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|14|Maria De La O Perez|none|21|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|21|Maria De La O Perez|none|14|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Kerry Fallon|none|16|Nadege Duron|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:28|21|Kerry Fallon|none|14|Nadege Duron|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:26|21|Laeticia Jaffrennou|none|18|Friederike Panmai Rudert|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:26|21|Laeticia Jaffrennou|none|16|Friederike Panmai Rudert|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:41|21|Barbara Janičić|none|10|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:41|20|Barbara Janičić|none|22|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:41|21|Barbara Janičić|none|13|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331||Walkover Win|Luisa Pagliara|none|Walkover Loss|Kiona Van De Werf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Alexandra Troy|none|11|Amber Derksen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Alexandra Troy|none|19|Amber Derksen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:31|21|Megan Mc Loughlin|none|12|Arta Priedniece|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:31|21|Megan Mc Loughlin|none|18|Arta Priedniece|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:33|21|Erin Waddell|none|15|Joalien Croux|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:33|21|Erin Waddell|none|18|Joalien Croux|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Siebelijn De Sutter|none|11|Sunčica Sertić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:23|21|Siebelijn De Sutter|none|15|Sunčica Sertić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Kim Schmidt|none|17|Lotte Geerts|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:29|21|Kim Schmidt|none|18|Lotte Geerts|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331||Walkover Win|Novi Wieland|none|Walkover Loss|Holly Williams|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180331|0:35|13|Joel Koch|Julie Franconville|21|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:35|21|Joel Koch|Julie Franconville|14|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:35|21|Joel Koch|Julie Franconville|15|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|21|Aleksey Molochaev |Olga Sokolova|17|Daniel O'Meara|Orla Flynn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|21|Aleksey Molochaev |Olga Sokolova|11|Daniel O'Meara|Orla Flynn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|21|Aymeric Tores|Emilie Drouin|19|Arthur Boudier [5]|Caroline Racloz|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|25|Aymeric Tores|Emilie Drouin|23|Arthur Boudier [5]|Caroline Racloz|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:44|14|Salvador Franco|Candela Arcos|21|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:44|21|Salvador Franco|Candela Arcos|14|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:44|23|Salvador Franco|Candela Arcos|21|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:45|21|Pelayo Pinto|Carlota Viejo|19|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:45|14|Pelayo Pinto|Carlota Viejo|21|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:45|21|Pelayo Pinto|Carlota Viejo|17|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:25|21|Ilya Kim |Vasilisa Kuznetcova|11|Julian Blaumoser|Ronja Hamm|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:25|21|Ilya Kim |Vasilisa Kuznetcova|13|Julian Blaumoser|Ronja Hamm|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:31|21|Matthias Schnabel|Friederike Panmai Rudert|17|Iljo Van Delsen|Lien Lammertyn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:31|23|Matthias Schnabel|Friederike Panmai Rudert|21|Iljo Van Delsen|Lien Lammertyn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:30|21|Justin Seibel|Yasmine Hamza|14|Luke Griffiths|Eleanor Butler|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:30|21|Justin Seibel|Yasmine Hamza|17|Luke Griffiths|Eleanor Butler|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:24|21|Alexey Alferov|Alena Koroleva|10|Stijn De Keijzer|Adika Carulla|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:24|21|Alexey Alferov|Alena Koroleva|16|Stijn De Keijzer|Adika Carulla|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:24|21|Egor Borisov |Mariia Golubeva|6|Sean Laureta|Megan Mc Loughlin|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:24|21|Egor Borisov |Mariia Golubeva|12|Sean Laureta|Megan Mc Loughlin|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|21|Fernando Civico|Maria De La O Perez|14|Kobe Huyghe|Lotte Geerts|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|21|Fernando Civico|Maria De La O Perez|19|Kobe Huyghe|Lotte Geerts|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:23|21|Kenneth Cheung |Erin Waddell|7|Calum Flockhart|Sunčica Sertić|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:23|21|Kenneth Cheung |Erin Waddell|11|Calum Flockhart|Sunčica Sertić|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:28|21|Michael Staunton|Alexandra Troy|17|Quentin Ronget|Alison Drouard|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:28|21|Michael Staunton|Alexandra Troy|16|Quentin Ronget|Alison Drouard|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:23|21|Alexandre Briguet|Dounia Pelupessy|4|Jules Van Wijlick|Amber Derksen|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:23|21|Alexandre Briguet|Dounia Pelupessy|6|Jules Van Wijlick|Amber Derksen|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:38|21|Reuben Bodman|Cara Collins|10|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:38|11|Reuben Bodman|Cara Collins|21|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:38|24|Reuben Bodman|Cara Collins|22|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|21|Daniel Clarke|Fenna Laros|15|Gijs Schreppers|Novi Wieland|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180331|0:27|21|Daniel Clarke|Fenna Laros|12|Gijs Schreppers|Novi Wieland|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:48|21|Fernando Civico|Maria De La O Perez|14|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:48|12|Fernando Civico|Maria De La O Perez|21|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:48|25|Fernando Civico|Maria De La O Perez|23|Michael Mcguire|Alice Campbell|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:31|21|Peter Mc Donald|Kerry Fallon|12|Liam Bauwens|Luisa Pagliara|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:31|23|Peter Mc Donald|Kerry Fallon|21|Liam Bauwens|Luisa Pagliara|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:32|21|Matthias Schnabel|Friederike Panmai Rudert|18|Eubil Cabije|Evelien Cauwenberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:32|21|Matthias Schnabel|Friederike Panmai Rudert|17|Eubil Cabije|Evelien Cauwenberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:31|21|Justin Seibel|Yasmine Hamza|18|Jacobo Fernandez|Lucia Rodriguez|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:31|21|Justin Seibel|Yasmine Hamza|15|Jacobo Fernandez|Lucia Rodriguez|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:22|21|Michael Staunton|Alexandra Troy|8|Wannes Soenen|Mare Van Britsom|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:22|21|Michael Staunton|Alexandra Troy|11|Wannes Soenen|Mare Van Britsom|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:31|21|Vasilisa Kuznetcova|none|15|Ira Misir|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:31|21|Vasilisa Kuznetcova|none|11|Ira Misir|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:46|21|Adika Carulla|none|12|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:46|19|Adika Carulla|none|21|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:46|21|Adika Carulla|none|13|Ema Staňková|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:48|21|Orla Flynn|none|19|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:48|19|Orla Flynn|none|21|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:48|21|Orla Flynn|none|19|Lien Lammertyn|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Eleanor Butler|none|12|Alison Drouard|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Eleanor Butler|none|16|Alison Drouard|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:45|20|Ania Setien|none|22|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:45|21|Ania Setien|none|19|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:45|21|Ania Setien|none|17|Caroline Racloz|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:42|21|Candela Arcos|none|19|Khushi Naik|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:42|22|Candela Arcos|none|20|Khushi Naik|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:32|21|Joakim Oldorff |none|16|Daniil Fatkin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:32|21|Joakim Oldorff |none|15|Daniil Fatkin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:45|15|Yaro Van Delsen|none|21|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:45|21|Yaro Van Delsen|none|12|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:45|21|Yaro Van Delsen|none|14|Salvador Franco|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:30|21|Marvin Schmidt|none|17|Daniel O'Meara|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:30|21|Marvin Schmidt|none|8|Daniel O'Meara|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Tobias Rudolf |none|12|Iljo Van Delsen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Tobias Rudolf |none|7|Iljo Van Delsen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Gabin Boussogne|none|11|Denis Nikulin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Gabin Boussogne|none|18|Denis Nikulin|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Gabriel Fernandez |none|8|Stijn De Keijzer|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Gabriel Fernandez |none|6|Stijn De Keijzer|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:34|21|Michael Tomic|none|14|Nicolas Hoareau|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:34|21|Michael Tomic|none|17|Nicolas Hoareau|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:46|20|Sid Palakkal|none|22|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:46|21|Sid Palakkal|none|9|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:46|21|Sid Palakkal|none|14|Egor Borisov [3]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Kenneth Cheung|none|12|Jonas Werner|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Kenneth Cheung|none|10|Jonas Werner|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Akim Lin |none|13|Luke Griffiths|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Akim Lin |none|11|Luke Griffiths|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:24|21|Matteo Massetti|none|13|Jules Van Wijlick|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:24|21|Matteo Massetti|none|13|Jules Van Wijlick|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:59|21|Edgar Roux|none|19|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:59|18|Edgar Roux|none|21|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:59|21|Edgar Roux|none|17|Arthur Boudier [10]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Sean Laureta|none|18|Alexandre Briguet|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|23|Sean Laureta|none|21|Alexandre Briguet|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|19|Aleksey Molochaev |none|21|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|21|Aleksey Molochaev |none|9|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|21|Aleksey Molochaev |none|17|Julien Muzolf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:36|21|Aymeric Tores|none|10|Joel Koch|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:36|21|Aymeric Tores|none|17|Joel Koch|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:33|21|Toby Dillingham|none|19|Leo Hölzmer [8]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:33|21|Toby Dillingham|none|6|Leo Hölzmer [8]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:43|15|Calum Flockhart|none|21|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:43|21|Calum Flockhart|none|5|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:43|21|Calum Flockhart|none|19|Quentin Ronget|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|16|Gustav Andree |none|21|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|21|Gustav Andree |none|15|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|21|Gustav Andree |none|15|Anosch Ali|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Callum Smith|none|11|Mathias Pourbaix|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Callum Smith|none|16|Mathias Pourbaix|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:37|21|Alejandro De Pablo|none|17|Lenny Sudarma [4]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:37|22|Alejandro De Pablo|none|20|Lenny Sudarma [4]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Simon Scheller|none|23|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Simon Scheller|none|11|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Simon Scheller|none|14|Karsten Maselis|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Reuben Bodman|none|13|Alexey Alferov|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Reuben Bodman|none|11|Alexey Alferov|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Pelayo Pinto|none|19|Andreas De Winné [7]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Pelayo Pinto|none|17|Andreas De Winné [7]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Jacobo Fernandez|none|12|Gijs Schreppers|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Jacobo Fernandez|none|15|Gijs Schreppers|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:30|21|Sacha Leveque|none|14|Alex Dillingham [11]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:30|21|Sacha Leveque|none|17|Alex Dillingham [11]|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:27|21|Ilya Kim |none|11|Jens Näser|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:27|21|Ilya Kim |none|16|Jens Näser|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:27|21|Emilie Drouin|none|9|Lucia Rodriguez|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:27|21|Emilie Drouin|none|16|Lucia Rodriguez|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:20|21|Estelle Van Leeuwen|none|16|Carlota Viejo|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:20|21|Estelle Van Leeuwen|none|8|Carlota Viejo|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Alena Koroleva|none|12|Cara Collins|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:25|21|Alena Koroleva|none|11|Cara Collins|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Olga Sokolova|none|14|Jannica Monnberg|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Olga Sokolova|none|15|Jannica Monnberg|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:26|21|Thies Huth |none|12|Daniel Clarke|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:26|21|Thies Huth |none|18|Daniel Clarke|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Justin Seibel|none|17|Liam Bauwens|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Justin Seibel|none|8|Liam Bauwens|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Julie Franconville|none|15|Fenna Laros|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Julie Franconville|none|10|Fenna Laros|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Michael Mcguire |none|9|Elias Schweig|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Michael Mcguire |none|8|Elias Schweig|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:26|21|Fernando Civico|none|14|Peter Mc Donald|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:26|21|Fernando Civico|none|13|Peter Mc Donald|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|21|Kevin Hargiono |none|13|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|16|Kevin Hargiono |none|21|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:51|21|Kevin Hargiono |none|15|Matthias Schnabel|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:21|21|Michael Staunton|none|10|Mihael Jurenić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:21|21|Michael Staunton|none|7|Mihael Jurenić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:31|21|Evelien Cauwenberg|none|17|Leda Dominić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:31|21|Evelien Cauwenberg|none|14|Leda Dominić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:27|21|Alice Campbell|none|16|Ronja Hamm|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:27|21|Alice Campbell|none|18|Ronja Hamm|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Maria De La O Perez|none|16|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|14|Maria De La O Perez|none|21|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|21|Maria De La O Perez|none|14|Yasmine Hamza|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Kerry Fallon|none|16|Nadege Duron|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:28|21|Kerry Fallon|none|14|Nadege Duron|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:26|21|Laeticia Jaffrennou|none|18|Friederike Panmai Rudert|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:26|21|Laeticia Jaffrennou|none|16|Friederike Panmai Rudert|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:41|21|Barbara Janičić|none|10|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:41|20|Barbara Janičić|none|22|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:41|21|Barbara Janičić|none|13|Mare Van Britsom|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401||Walkover Win|Luisa Pagliara|none|Walkover Loss|Kiona Van De Werf|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Alexandra Troy|none|11|Amber Derksen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Alexandra Troy|none|19|Amber Derksen|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:31|21|Megan Mc Loughlin|none|12|Arta Priedniece|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:31|21|Megan Mc Loughlin|none|18|Arta Priedniece|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:33|21|Erin Waddell|none|15|Joalien Croux|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:33|21|Erin Waddell|none|18|Joalien Croux|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Siebelijn De Sutter|none|11|Sunčica Sertić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:23|21|Siebelijn De Sutter|none|15|Sunčica Sertić|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Kim Schmidt|none|17|Lotte Geerts|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:29|21|Kim Schmidt|none|18|Lotte Geerts|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401||Walkover Win|Novi Wieland|none|Walkover Loss|Holly Williams|none|A90FB066-4112-4138-954E-82DE34A7357D|singles
+20180401|0:35|13|Joel Koch|Julie Franconville|21|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:35|21|Joel Koch|Julie Franconville|14|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:35|21|Joel Koch|Julie Franconville|15|Matteo Massetti [3]|Judith Mair|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|21|Aleksey Molochaev |Olga Sokolova|17|Daniel O'Meara|Orla Flynn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|21|Aleksey Molochaev |Olga Sokolova|11|Daniel O'Meara|Orla Flynn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|21|Aymeric Tores|Emilie Drouin|19|Arthur Boudier [5]|Caroline Racloz|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|25|Aymeric Tores|Emilie Drouin|23|Arthur Boudier [5]|Caroline Racloz|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:44|14|Salvador Franco|Candela Arcos|21|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:44|21|Salvador Franco|Candela Arcos|14|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:44|23|Salvador Franco|Candela Arcos|21|Joakim Oldorff [2]|Jannica Monnberg|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:45|21|Pelayo Pinto|Carlota Viejo|19|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:45|14|Pelayo Pinto|Carlota Viejo|21|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:45|21|Pelayo Pinto|Carlota Viejo|17|Nicolas Hoareau [6]|Laeticia Jaffrennou|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:25|21|Ilya Kim |Vasilisa Kuznetcova|11|Julian Blaumoser|Ronja Hamm|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:25|21|Ilya Kim |Vasilisa Kuznetcova|13|Julian Blaumoser|Ronja Hamm|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:31|21|Matthias Schnabel|Friederike Panmai Rudert|17|Iljo Van Delsen|Lien Lammertyn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:31|23|Matthias Schnabel|Friederike Panmai Rudert|21|Iljo Van Delsen|Lien Lammertyn|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:30|21|Justin Seibel|Yasmine Hamza|14|Luke Griffiths|Eleanor Butler|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:30|21|Justin Seibel|Yasmine Hamza|17|Luke Griffiths|Eleanor Butler|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:24|21|Alexey Alferov|Alena Koroleva|10|Stijn De Keijzer|Adika Carulla|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:24|21|Alexey Alferov|Alena Koroleva|16|Stijn De Keijzer|Adika Carulla|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:24|21|Egor Borisov |Mariia Golubeva|6|Sean Laureta|Megan Mc Loughlin|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:24|21|Egor Borisov |Mariia Golubeva|12|Sean Laureta|Megan Mc Loughlin|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|21|Fernando Civico|Maria De La O Perez|14|Kobe Huyghe|Lotte Geerts|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|21|Fernando Civico|Maria De La O Perez|19|Kobe Huyghe|Lotte Geerts|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:23|21|Kenneth Cheung |Erin Waddell|7|Calum Flockhart|Sunčica Sertić|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:23|21|Kenneth Cheung |Erin Waddell|11|Calum Flockhart|Sunčica Sertić|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:28|21|Michael Staunton|Alexandra Troy|17|Quentin Ronget|Alison Drouard|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:28|21|Michael Staunton|Alexandra Troy|16|Quentin Ronget|Alison Drouard|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:23|21|Alexandre Briguet|Dounia Pelupessy|4|Jules Van Wijlick|Amber Derksen|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:23|21|Alexandre Briguet|Dounia Pelupessy|6|Jules Van Wijlick|Amber Derksen|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:38|21|Reuben Bodman|Cara Collins|10|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:38|11|Reuben Bodman|Cara Collins|21|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:38|24|Reuben Bodman|Cara Collins|22|Peter Mc Donald|Kerry Fallon|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|21|Daniel Clarke|Fenna Laros|15|Gijs Schreppers|Novi Wieland|A90FB066-4112-4138-954E-82DE34A7357D|doubles
+20180401|0:27|21|Daniel Clarke|Fenna Laros|12|Gijs Schreppers|Novi Wieland|A90FB066-4112-4138-954E-82DE34A7357D|doubles

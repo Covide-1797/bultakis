@@ -1,0 +1,477 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20190211|0:25|21|Chang Ho Kim|Monica Chan|13|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:25|21|Chang Ho Kim|Monica Chan|14|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:15|21|Austin Chen|Grace Cai|8|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:15|21|Austin Chen|Grace Cai|4|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:17|21|Thomas Zi Xuan Ng|Fiona Le|11|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:17|21|Thomas Zi Xuan Ng|Fiona Le|10|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:14|21|Benjamin Eu-Wen Chen|none|5|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:14|21|Benjamin Eu-Wen Chen|none|7|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Jordan Yang|none|9|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Jordan Yang|none|6|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:10|21|Kai Qi (Bernice) Teoh|none|3|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:10|21|Kai Qi (Bernice) Teoh|none|0|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Ricky Tang|none|4|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Ricky Tang|none|5|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:17|21|Asher Jing Jie Ooi|none|9|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:17|21|Asher Jing Jie Ooi|none|2|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Majan Almazan|none|4|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Majan Almazan|none|5|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Milain Lohith Ranasinghe|none|6|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Milain Lohith Ranasinghe|none|8|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:14|21|Ryan Venpin|none|5|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:14|21|Ryan Venpin|none|4|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Austin Chen|none|3|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Austin Chen|none|5|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Rayne Wang|none|16|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Rayne Wang|none|18|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Ryan Kok Rui Foo|none|7|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Ryan Kok Rui Foo|none|11|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:14|21|Ross Audley|none|3|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:14|21|Ross Audley|none|8|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:23|21|Ethan Chen|none|12|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:23|21|Ethan Chen|none|9|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Marcus Kong|none|7|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Marcus Kong|none|6|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:11|21|Margaret Zhao|none|4|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:11|21|Margaret Zhao|none|6|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Carina Sam|none|1|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Carina Sam|none|3|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211||21|Camille Redon|none|17|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211||16|Camille Redon|none|21|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211||21|Camille Redon|none|18|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:30|21|Louis Beaubois|none|14|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:30|21|Louis Beaubois|none|16|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Marine Naveros|none|3|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Marine Naveros|none|11|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Julian Mao Lun Lee|none|3|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Julian Mao Lun Lee|none|4|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Shaunna Li |none|7|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Shaunna Li |none|6|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:36|21|Dimitri Han|none|3|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:36|21|Dimitri Han|none|6|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Otto Xing De Zhao|none|7|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:15|21|Otto Xing De Zhao|none|8|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211||21|Jenny Zhu |none|3|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211||21|Jenny Zhu |none|6|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:19|21|Catelyn Rozario |none|15|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:19|21|Catelyn Rozario |none|8|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:16|21|Angela Yu |none|6|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:16|21|Angela Yu |none|5|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Roanne Apalisok |none|4|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Roanne Apalisok |none|5|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:25|21|Ella Smith |none|17|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:25|21|Ella Smith |none|19|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:19|21|Adam Jeffrey |none|15|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:19|21|Adam Jeffrey |none|9|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:14|21|Carina Sam|none|12|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:14|21|Carina Sam|none|7|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Jack Yu|none|2|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:13|21|Jack Yu|none|4|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:38|14|Gavin Kyjac Ong |none|21|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:38|21|Gavin Kyjac Ong |none|12|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:38|21|Gavin Kyjac Ong |none|11|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:21|21|Fiona Le|none|11|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:21|21|Fiona Le|none|17|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:23|21|Jack Wang |none|14|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:23|21|Jack Wang |none|18|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:42|21|Margaret Zhao|none|10|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:42|21|Margaret Zhao|none|3|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Milain Lohith Ranasinghe|none|8|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Milain Lohith Ranasinghe|none|9|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Rayne Wang|none|11|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Rayne Wang|none|7|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Angie Liu|none|3|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:18|21|Angie Liu|none|10|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:10|21|Kelly Xu|none|4|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:10|21|Kelly Xu|none|1|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Kai Qi (Bernice) Teoh|none|2|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Kai Qi (Bernice) Teoh|none|5|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Joshua Feng |none|8|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Joshua Feng |none|10|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Kaitlyn Ea|none|10|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Kaitlyn Ea|none|7|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:38|21|Benjamin Eu-Wen Chen|none|12|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:38|25|Benjamin Eu-Wen Chen|none|23|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:23|21|Marcus Kong|none|4|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:23|21|Marcus Kong|none|10|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:28|25|Ryan Kok Rui Foo|none|23|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:28|21|Ryan Kok Rui Foo|none|8|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:12|21|Camille Redon|none|5|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:12|21|Camille Redon|none|4|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:46|21|Louis Beaubois|none|19|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:46|13|Louis Beaubois|none|21|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:46|22|Louis Beaubois|none|20|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211||Walkover Win|Ricky Tang|none|Walkover Loss|Zuyu (Tommy) Mao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:45|20|Ryan Tong |none|22|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:45|21|Ryan Tong |none|12|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:45|21|Ryan Tong |none|11|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Dimitri Han|none|9|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:20|21|Dimitri Han|none|6|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:19|21|Edward Lau |none|15|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:19|21|Edward Lau |none|16|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190211|0:29|21|Nathan Nicole|Marine Naveros|17|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190211|0:29|21|Nathan Nicole|Marine Naveros|14|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:25|21|Chang Ho Kim|Monica Chan|13|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:25|21|Chang Ho Kim|Monica Chan|14|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:15|21|Austin Chen|Grace Cai|8|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:15|21|Austin Chen|Grace Cai|4|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:17|21|Thomas Zi Xuan Ng|Fiona Le|11|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:17|21|Thomas Zi Xuan Ng|Fiona Le|10|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:14|21|Benjamin Eu-Wen Chen|none|5|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:14|21|Benjamin Eu-Wen Chen|none|7|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Jordan Yang|none|9|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Jordan Yang|none|6|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:10|21|Kai Qi (Bernice) Teoh|none|3|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:10|21|Kai Qi (Bernice) Teoh|none|0|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Ricky Tang|none|4|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Ricky Tang|none|5|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:17|21|Asher Jing Jie Ooi|none|9|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:17|21|Asher Jing Jie Ooi|none|2|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Majan Almazan|none|4|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Majan Almazan|none|5|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Milain Lohith Ranasinghe|none|6|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Milain Lohith Ranasinghe|none|8|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:14|21|Ryan Venpin|none|5|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:14|21|Ryan Venpin|none|4|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Austin Chen|none|3|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Austin Chen|none|5|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Rayne Wang|none|16|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Rayne Wang|none|18|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Ryan Kok Rui Foo|none|7|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Ryan Kok Rui Foo|none|11|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:14|21|Ross Audley|none|3|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:14|21|Ross Audley|none|8|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:23|21|Ethan Chen|none|12|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:23|21|Ethan Chen|none|9|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Marcus Kong|none|7|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Marcus Kong|none|6|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:11|21|Margaret Zhao|none|4|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:11|21|Margaret Zhao|none|6|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Carina Sam|none|1|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Carina Sam|none|3|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212||21|Camille Redon|none|17|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212||16|Camille Redon|none|21|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212||21|Camille Redon|none|18|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:30|21|Louis Beaubois|none|14|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:30|21|Louis Beaubois|none|16|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Marine Naveros|none|3|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Marine Naveros|none|11|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Julian Mao Lun Lee|none|3|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Julian Mao Lun Lee|none|4|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Shaunna Li |none|7|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Shaunna Li |none|6|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:36|21|Dimitri Han|none|3|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:36|21|Dimitri Han|none|6|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Otto Xing De Zhao|none|7|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:15|21|Otto Xing De Zhao|none|8|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212||21|Jenny Zhu |none|3|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212||21|Jenny Zhu |none|6|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:19|21|Catelyn Rozario |none|15|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:19|21|Catelyn Rozario |none|8|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:16|21|Angela Yu |none|6|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:16|21|Angela Yu |none|5|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Roanne Apalisok |none|4|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Roanne Apalisok |none|5|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:25|21|Ella Smith |none|17|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:25|21|Ella Smith |none|19|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:19|21|Adam Jeffrey |none|15|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:19|21|Adam Jeffrey |none|9|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:14|21|Carina Sam|none|12|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:14|21|Carina Sam|none|7|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Jack Yu|none|2|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:13|21|Jack Yu|none|4|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:38|14|Gavin Kyjac Ong |none|21|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:38|21|Gavin Kyjac Ong |none|12|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:38|21|Gavin Kyjac Ong |none|11|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:21|21|Fiona Le|none|11|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:21|21|Fiona Le|none|17|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:23|21|Jack Wang |none|14|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:23|21|Jack Wang |none|18|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:42|21|Margaret Zhao|none|10|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:42|21|Margaret Zhao|none|3|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Milain Lohith Ranasinghe|none|8|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Milain Lohith Ranasinghe|none|9|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Rayne Wang|none|11|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Rayne Wang|none|7|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Angie Liu|none|3|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:18|21|Angie Liu|none|10|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:10|21|Kelly Xu|none|4|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:10|21|Kelly Xu|none|1|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Kai Qi (Bernice) Teoh|none|2|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Kai Qi (Bernice) Teoh|none|5|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Joshua Feng |none|8|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Joshua Feng |none|10|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Kaitlyn Ea|none|10|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Kaitlyn Ea|none|7|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:38|21|Benjamin Eu-Wen Chen|none|12|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:38|25|Benjamin Eu-Wen Chen|none|23|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:23|21|Marcus Kong|none|4|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:23|21|Marcus Kong|none|10|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:28|25|Ryan Kok Rui Foo|none|23|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:28|21|Ryan Kok Rui Foo|none|8|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:12|21|Camille Redon|none|5|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:12|21|Camille Redon|none|4|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:46|21|Louis Beaubois|none|19|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:46|13|Louis Beaubois|none|21|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:46|22|Louis Beaubois|none|20|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212||Walkover Win|Ricky Tang|none|Walkover Loss|Zuyu (Tommy) Mao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:45|20|Ryan Tong |none|22|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:45|21|Ryan Tong |none|12|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:45|21|Ryan Tong |none|11|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Dimitri Han|none|9|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:20|21|Dimitri Han|none|6|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:19|21|Edward Lau |none|15|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:19|21|Edward Lau |none|16|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190212|0:29|21|Nathan Nicole|Marine Naveros|17|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190212|0:29|21|Nathan Nicole|Marine Naveros|14|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:25|21|Chang Ho Kim|Monica Chan|13|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:25|21|Chang Ho Kim|Monica Chan|14|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:15|21|Austin Chen|Grace Cai|8|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:15|21|Austin Chen|Grace Cai|4|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:17|21|Thomas Zi Xuan Ng|Fiona Le|11|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:17|21|Thomas Zi Xuan Ng|Fiona Le|10|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:14|21|Benjamin Eu-Wen Chen|none|5|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:14|21|Benjamin Eu-Wen Chen|none|7|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Jordan Yang|none|9|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Jordan Yang|none|6|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:10|21|Kai Qi (Bernice) Teoh|none|3|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:10|21|Kai Qi (Bernice) Teoh|none|0|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Ricky Tang|none|4|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Ricky Tang|none|5|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:17|21|Asher Jing Jie Ooi|none|9|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:17|21|Asher Jing Jie Ooi|none|2|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Majan Almazan|none|4|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Majan Almazan|none|5|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Milain Lohith Ranasinghe|none|6|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Milain Lohith Ranasinghe|none|8|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:14|21|Ryan Venpin|none|5|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:14|21|Ryan Venpin|none|4|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Austin Chen|none|3|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Austin Chen|none|5|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Rayne Wang|none|16|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Rayne Wang|none|18|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Ryan Kok Rui Foo|none|7|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Ryan Kok Rui Foo|none|11|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:14|21|Ross Audley|none|3|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:14|21|Ross Audley|none|8|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:23|21|Ethan Chen|none|12|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:23|21|Ethan Chen|none|9|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Marcus Kong|none|7|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Marcus Kong|none|6|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:11|21|Margaret Zhao|none|4|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:11|21|Margaret Zhao|none|6|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Carina Sam|none|1|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Carina Sam|none|3|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213||21|Camille Redon|none|17|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213||16|Camille Redon|none|21|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213||21|Camille Redon|none|18|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:30|21|Louis Beaubois|none|14|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:30|21|Louis Beaubois|none|16|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Marine Naveros|none|3|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Marine Naveros|none|11|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Julian Mao Lun Lee|none|3|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Julian Mao Lun Lee|none|4|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Shaunna Li |none|7|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Shaunna Li |none|6|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:36|21|Dimitri Han|none|3|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:36|21|Dimitri Han|none|6|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Otto Xing De Zhao|none|7|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:15|21|Otto Xing De Zhao|none|8|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213||21|Jenny Zhu |none|3|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213||21|Jenny Zhu |none|6|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:19|21|Catelyn Rozario |none|15|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:19|21|Catelyn Rozario |none|8|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:16|21|Angela Yu |none|6|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:16|21|Angela Yu |none|5|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Roanne Apalisok |none|4|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Roanne Apalisok |none|5|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:25|21|Ella Smith |none|17|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:25|21|Ella Smith |none|19|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:19|21|Adam Jeffrey |none|15|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:19|21|Adam Jeffrey |none|9|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:14|21|Carina Sam|none|12|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:14|21|Carina Sam|none|7|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Jack Yu|none|2|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:13|21|Jack Yu|none|4|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:38|14|Gavin Kyjac Ong |none|21|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:38|21|Gavin Kyjac Ong |none|12|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:38|21|Gavin Kyjac Ong |none|11|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:21|21|Fiona Le|none|11|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:21|21|Fiona Le|none|17|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:23|21|Jack Wang |none|14|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:23|21|Jack Wang |none|18|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:42|21|Margaret Zhao|none|10|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:42|21|Margaret Zhao|none|3|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Milain Lohith Ranasinghe|none|8|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Milain Lohith Ranasinghe|none|9|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Rayne Wang|none|11|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Rayne Wang|none|7|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Angie Liu|none|3|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:18|21|Angie Liu|none|10|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:10|21|Kelly Xu|none|4|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:10|21|Kelly Xu|none|1|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Kai Qi (Bernice) Teoh|none|2|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Kai Qi (Bernice) Teoh|none|5|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Joshua Feng |none|8|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Joshua Feng |none|10|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Kaitlyn Ea|none|10|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Kaitlyn Ea|none|7|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:38|21|Benjamin Eu-Wen Chen|none|12|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:38|25|Benjamin Eu-Wen Chen|none|23|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:23|21|Marcus Kong|none|4|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:23|21|Marcus Kong|none|10|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:28|25|Ryan Kok Rui Foo|none|23|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:28|21|Ryan Kok Rui Foo|none|8|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:12|21|Camille Redon|none|5|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:12|21|Camille Redon|none|4|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:46|21|Louis Beaubois|none|19|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:46|13|Louis Beaubois|none|21|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:46|22|Louis Beaubois|none|20|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213||Walkover Win|Ricky Tang|none|Walkover Loss|Zuyu (Tommy) Mao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:45|20|Ryan Tong |none|22|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:45|21|Ryan Tong |none|12|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:45|21|Ryan Tong |none|11|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Dimitri Han|none|9|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:20|21|Dimitri Han|none|6|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:19|21|Edward Lau |none|15|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:19|21|Edward Lau |none|16|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190213|0:29|21|Nathan Nicole|Marine Naveros|17|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190213|0:29|21|Nathan Nicole|Marine Naveros|14|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:25|21|Chang Ho Kim|Monica Chan|13|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:25|21|Chang Ho Kim|Monica Chan|14|Lucas Juillot|Sianie Chotan|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:15|21|Austin Chen|Grace Cai|8|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:15|21|Austin Chen|Grace Cai|4|Chris Peti|Faafofoga Reti|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:18|21|Ryan Kok Rui Foo|Angie Liu|8|Vaitoti Tupa|Morani Karika|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:17|21|Thomas Zi Xuan Ng|Fiona Le|11|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:17|21|Thomas Zi Xuan Ng|Fiona Le|10|Gabriel Vallette|Sidney Tokarski|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:14|21|Benjamin Eu-Wen Chen|none|5|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:14|21|Benjamin Eu-Wen Chen|none|7|Guo Jian Qiu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Jordan Yang|none|9|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Jordan Yang|none|6|Damus Matakino|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:10|21|Kai Qi (Bernice) Teoh|none|3|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:10|21|Kai Qi (Bernice) Teoh|none|0|Jashlyn Singh|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Ricky Tang|none|4|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Ricky Tang|none|5|Ewen Lemercier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:17|21|Asher Jing Jie Ooi|none|9|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:17|21|Asher Jing Jie Ooi|none|2|Kaihei Teiefitu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Majan Almazan|none|4|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Majan Almazan|none|5|Eleanor Wichman|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Milain Lohith Ranasinghe|none|6|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Milain Lohith Ranasinghe|none|8|Chris Peti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:14|21|Ryan Venpin|none|5|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:14|21|Ryan Venpin|none|4|Charles Iamanu Faalogoifo|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Austin Chen|none|3|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Austin Chen|none|5|Danniel Daniel|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Rayne Wang|none|16|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Rayne Wang|none|18|Gabriel Vallette|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Ryan Kok Rui Foo|none|7|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Ryan Kok Rui Foo|none|11|Nathan Nicole|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:14|21|Ross Audley|none|3|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:14|21|Ross Audley|none|8|Brice Vongue|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:23|21|Ethan Chen|none|12|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:23|21|Ethan Chen|none|9|Lillian Kromopawiro|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Fiona Le|none|4|Monica Chan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Marcus Kong|none|7|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Marcus Kong|none|6|Vaitoti Tupa|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:11|21|Margaret Zhao|none|4|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:11|21|Margaret Zhao|none|6|Faafofoga Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Carina Sam|none|1|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Carina Sam|none|3|Morani Karika|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214||21|Camille Redon|none|17|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214||16|Camille Redon|none|21|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214||21|Camille Redon|none|18|Hinahere Mara|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:30|21|Louis Beaubois|none|14|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:30|21|Louis Beaubois|none|16|Thomas Zi Xuan Ng|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Marine Naveros|none|3|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Marine Naveros|none|11|Jasmine Reti|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Julian Mao Lun Lee|none|3|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Julian Mao Lun Lee|none|4|Emanuela Mataio|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Shaunna Li |none|7|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Shaunna Li |none|6|Makayla Turner|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:36|21|Dimitri Han|none|3|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:36|21|Dimitri Han|none|6|Lucas Juillot|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Otto Xing De Zhao|none|7|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:15|21|Otto Xing De Zhao|none|8|Jared Chung|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214||21|Jenny Zhu |none|3|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214||21|Jenny Zhu |none|6|Britney Harm Nam|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:19|21|Catelyn Rozario |none|15|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:19|21|Catelyn Rozario |none|8|Sianie Chotan|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:16|21|Angela Yu |none|6|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:16|21|Angela Yu |none|5|Méiissa Mi You|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Roanne Apalisok |none|4|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Roanne Apalisok |none|5|Loureina Kureta|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Sydney Go|none|13|Sarah Cai [8]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:25|21|Ella Smith |none|17|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:25|21|Ella Smith |none|19|Amelia Lowe|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:19|21|Adam Jeffrey |none|15|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:19|21|Adam Jeffrey |none|9|Austin Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:14|21|Carina Sam|none|12|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:14|21|Carina Sam|none|7|Grace Cai|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Jack Yu|none|2|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:13|21|Jack Yu|none|4|Josh Hua Relos Zhu|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:38|14|Gavin Kyjac Ong |none|21|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:38|21|Gavin Kyjac Ong |none|12|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:38|21|Gavin Kyjac Ong |none|11|Ethan Chen|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:21|21|Fiona Le|none|11|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:21|21|Fiona Le|none|17|Heinamu Frogier|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:23|21|Jack Wang |none|14|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:23|21|Jack Wang |none|18|Daniel Hocking|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:42|21|Margaret Zhao|none|10|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:42|21|Margaret Zhao|none|3|Tereapii Akavi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Milain Lohith Ranasinghe|none|8|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Milain Lohith Ranasinghe|none|9|Teiva Politi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Rayne Wang|none|11|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Rayne Wang|none|7|Keivens Scilloux|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Angie Liu|none|3|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:18|21|Angie Liu|none|10|Melly Menango|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:10|21|Kelly Xu|none|4|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:10|21|Kelly Xu|none|1|Sidney Tokarski|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Kai Qi (Bernice) Teoh|none|2|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Kai Qi (Bernice) Teoh|none|5|Nina Smits [7]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Joshua Feng |none|8|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Joshua Feng |none|10|Jordan Yang|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Kaitlyn Ea|none|10|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Kaitlyn Ea|none|7|Marine Naveros|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:38|21|Benjamin Eu-Wen Chen|none|12|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:38|25|Benjamin Eu-Wen Chen|none|23|Asher Jing Jie Ooi|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:23|21|Marcus Kong|none|4|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:23|21|Marcus Kong|none|10|Chang Ho Kim [5]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:28|25|Ryan Kok Rui Foo|none|23|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:28|21|Ryan Kok Rui Foo|none|8|Ross Audley|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:12|21|Camille Redon|none|5|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:12|21|Camille Redon|none|4|Gwen Mar|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:46|21|Louis Beaubois|none|19|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:46|13|Louis Beaubois|none|21|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:46|22|Louis Beaubois|none|20|Ricky Cheng [3]|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214||Walkover Win|Ricky Tang|none|Walkover Loss|Zuyu (Tommy) Mao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:45|20|Ryan Tong |none|22|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:45|21|Ryan Tong |none|12|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:45|21|Ryan Tong |none|11|Julian Mao Lun Lee|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Dimitri Han|none|9|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:20|21|Dimitri Han|none|6|Heinoa Deane|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:19|21|Edward Lau |none|15|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:19|21|Edward Lau |none|16|Otto Xing De Zhao|none|5A231A14-63EF-4A3E-9554-BCCAA382B25E|singles
+20190214|0:29|21|Nathan Nicole|Marine Naveros|17|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles
+20190214|0:29|21|Nathan Nicole|Marine Naveros|14|Brice Vongue|Méiissa Mi You|5A231A14-63EF-4A3E-9554-BCCAA382B25E|doubles

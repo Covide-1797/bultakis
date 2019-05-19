@@ -1,0 +1,911 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20181121|0:23|21|Peter Kaesbauer|Johanna Goliszewski|17|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:23|21|Peter Kaesbauer|Johanna Goliszewski|13|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:24|21|Steven Stallwood|Lizzie Tolman|16|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:24|21|Steven Stallwood|Lizzie Tolman|15|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:48|17|Matthew Clare |Victoria Williams|21|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|19|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|17|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:53|22|Tom Wolfenden|Jenny Moore|24|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:53|23|Tom Wolfenden|Jenny Moore|21|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:53|21|Tom Wolfenden|Jenny Moore|17|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:37|21|Max Flynn |Zoe King|9|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:37|17|Max Flynn |Zoe King|21|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:37|21|Max Flynn |Zoe King|14|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:37|16|Lauren Middleton|Sarah Sidebottom|21|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:37|21|Lauren Middleton|Sarah Sidebottom|11|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:37|21|Lauren Middleton|Sarah Sidebottom|19|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:24|21|Alex Lane|none|15|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:24|21|Alex Lane|none|12|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|Joel König|none|18|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|Joel König|none|17|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:21|21|Wolfgang Gnedt |none|3|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:21|21|Wolfgang Gnedt |none|8|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:22|21|Ethan Rose|none|15|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:22|21|Ethan Rose|none|14|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:40|21|Mark Brady|none|10|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:40|18|Mark Brady|none|21|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:40|21|Mark Brady|none|17|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:47|21|Lukas Zevl|none|18|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:47|15|Lukas Zevl|none|21|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:47|21|Lukas Zevl|none|13|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|16|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|13|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:20|21|Peter Briggs |Gregory Mairs|3|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:20|21|Peter Briggs |Gregory Mairs|13|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:27|21|Peter Kaesbauer|Johanna Goliszewski|15|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:27|21|Peter Kaesbauer|Johanna Goliszewski|16|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:17|21|Matthew Clare |Victoria Williams|8|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:17|21|Matthew Clare |Victoria Williams|10|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:36|21|Jonathan Dolan|none|14|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:36|27|Jonathan Dolan|none|25|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:46|21|Christo Popov|none|19|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:46|27|Christo Popov|none|25|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:28|21|Weng Hongyang|none|6|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:28|21|Weng Hongyang|none|10|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:16|21|Christopher Grimley|none|3|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:16|21|Christopher Grimley|none|4|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:18|21|Lauren Middleton|Sarah Sidebottom|7|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:18|21|Lauren Middleton|Sarah Sidebottom|11|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:30|21|Alex Lane|none|10|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|Alex Lane|none|14|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:38|23|Lukas Zevl|none|21|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:38|21|Lukas Zevl|none|17|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:56|21|Ethan Rose|none|17|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:56|17|Ethan Rose|none|21|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:56|22|Ethan Rose|none|20|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:21|21|Peter Briggs |Gregory Mairs|13|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:21|21|Peter Briggs |Gregory Mairs|11|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:18|21|Phone Pyae Naing|none|3|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:18|21|Phone Pyae Naing|none|5|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:51|19|Liu Haichao|none|21|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:51|21|Liu Haichao|none|11|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:51|21|Liu Haichao|none|15|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:34|21|Michael Spencer-Smith |none|13|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:34|21|Michael Spencer-Smith |none|18|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:21|21|Johnnie Torjussen|none|9|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:21|21|Johnnie Torjussen|none|8|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:24|21|Rebecca Kuhl|none|14|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:24|21|Rebecca Kuhl|none|11|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|18|Sara Boyle|none|21|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|21|Sara Boyle|none|18|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|21|Sara Boyle|none|17|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|Christo Popov|none|12|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:24|21|Weng Hongyang|none|7|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:24|21|Weng Hongyang|none|15|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|Holly Newall|none|12|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|Holly Newall|none|14|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:22|21|Abigail Holden|none|10|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:22|21|Abigail Holden|none|17|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|David Jones|none|8|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|David Jones|none|16|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:43|21|Vinson Chiu|none|16|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:43|9|Vinson Chiu|none|21|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:43|21|Vinson Chiu|none|13|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:39|21|Daniella Gonda|none|18|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:39|21|Daniella Gonda|none|23|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:39|21|Daniella Gonda|none|15|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|Tanvi Lad|none|15|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|Tanvi Lad|none|10|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:31|21|Laura Sarosi|none|17|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:31|21|Laura Sarosi|none|15|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:15|21|Ji Shuting|none|5|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:15|21|Ji Shuting|none|4|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:28|21|Liu Haichao|none|9|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:28|21|Liu Haichao|none|6|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:33|21|Johnnie Torjussen|none|6|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:33|14|Johnnie Torjussen|none|21|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:33|21|Johnnie Torjussen|none|14|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|Alex Marritt|Nathan Rossiter|16|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:23|21|Alex Marritt|Nathan Rossiter|17|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:22|21|Adam Gozzi|Melker Z-Bexell|9|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:22|21|Adam Gozzi|Melker Z-Bexell|11|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:22|21|Alexander Cook|Adam Lam|13|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:22|21|Alexander Cook|Adam Lam|15|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:19|21|Chen Sihang|Fan Qiuyue|7|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:19|21|Chen Sihang|Fan Qiuyue|9|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:26|21|Robert Golding|Brandon Zhi Hao Yap|17|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:44|17|Joel Eipe|Mette Poulsen|21|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:44|21|Joel Eipe|Mette Poulsen|14|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:44|21|Joel Eipe|Mette Poulsen|16|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:39|21|Peter Briggs|Hannah Pohl|16|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:39|17|Peter Briggs|Hannah Pohl|21|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:39|21|Peter Briggs|Hannah Pohl|10|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:50|18|Abigail Holden|none|21|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:42|19|Tanvi Lad|none|21|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:42|21|Tanvi Lad|none|11|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:42|21|Tanvi Lad|none|16|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|Ji Shuting|none|17|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|Ji Shuting|none|18|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|David Jones|none|16|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:30|21|David Jones|none|12|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:32|21|Sara Boyle|none|13|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:32|23|Sara Boyle|none|21|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:46|21|Breanna Chi|Angela Zhang|14|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:46|20|Breanna Chi|Angela Zhang|22|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:46|21|Breanna Chi|Angela Zhang|16|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:15|21|Chen Sihang|Fan Qiuyue|8|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:15|21|Chen Sihang|Fan Qiuyue|7|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:26|21|Robert Golding|Brandon Zhi Hao Yap|10|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:29|21|Eva Janssens|Kilasu Ostermeyer|11|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:29|21|Eva Janssens|Kilasu Ostermeyer|13|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:28|21|Joel Eipe|Mette Poulsen|18|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:28|21|Joel Eipe|Mette Poulsen|14|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:22|21|Adam Gozzi|Melker Z-Bexell|14|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|0:22|21|Adam Gozzi|Melker Z-Bexell|16|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181121|1:02|19|Kai Schaefer|none|21|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|1:02|21|Kai Schaefer|none|13|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|1:02|21|Kai Schaefer|none|15|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|1:04|19|Toma Junior Popov|none|21|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|1:04|21|Toma Junior Popov|none|19|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|1:04|21|Toma Junior Popov|none|16|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:47|17|Rasmus Messerschmidt|none|21|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:47|21|Rasmus Messerschmidt|none|16|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:47|21|Rasmus Messerschmidt|none|15|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:28|21|Eetu Heino|none|13|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:28|21|Eetu Heino|none|10|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:35|21|Nhat Nguyen|none|15|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:35|21|Nhat Nguyen|none|14|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:34|21|Rosario Maddaloni|none|13|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:34|21|Rosario Maddaloni|none|17|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:29|21|Lucas Claerbout|none|14|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:29|21|Lucas Claerbout|none|10|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:32|21|Kim Bruun|none|17|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:32|21|Kim Bruun|none|13|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:59|18|Jason Anthony Ho-Shue|none|21|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:59|21|Jason Anthony Ho-Shue|none|13|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:59|21|Jason Anthony Ho-Shue|none|14|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:29|21|Liu Haichao|none|17|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:29|21|Liu Haichao|none|5|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:36|21|David Jones|none|19|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:36|21|David Jones|none|15|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:39|21|Ivan Rusev|none|16|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:39|21|Ivan Rusev|none|14|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|21|Zvonimir Durkinjak|none|12|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|16|Zvonimir Durkinjak|none|21|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:50|22|Zvonimir Durkinjak|none|20|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:26|21|Weng Hongyang|none|6|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181121|0:26|21|Weng Hongyang|none|19|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Peter Kaesbauer|Johanna Goliszewski|17|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:23|21|Peter Kaesbauer|Johanna Goliszewski|13|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:24|21|Steven Stallwood|Lizzie Tolman|16|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:24|21|Steven Stallwood|Lizzie Tolman|15|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:48|17|Matthew Clare |Victoria Williams|21|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|19|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|17|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:53|22|Tom Wolfenden|Jenny Moore|24|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:53|23|Tom Wolfenden|Jenny Moore|21|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:53|21|Tom Wolfenden|Jenny Moore|17|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:37|21|Max Flynn |Zoe King|9|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:37|17|Max Flynn |Zoe King|21|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:37|21|Max Flynn |Zoe King|14|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:37|16|Lauren Middleton|Sarah Sidebottom|21|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:37|21|Lauren Middleton|Sarah Sidebottom|11|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:37|21|Lauren Middleton|Sarah Sidebottom|19|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:24|21|Alex Lane|none|15|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:24|21|Alex Lane|none|12|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|Joel König|none|18|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|Joel König|none|17|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:21|21|Wolfgang Gnedt |none|3|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:21|21|Wolfgang Gnedt |none|8|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:22|21|Ethan Rose|none|15|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:22|21|Ethan Rose|none|14|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:40|21|Mark Brady|none|10|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:40|18|Mark Brady|none|21|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:40|21|Mark Brady|none|17|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:47|21|Lukas Zevl|none|18|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:47|15|Lukas Zevl|none|21|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:47|21|Lukas Zevl|none|13|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|16|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|13|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:20|21|Peter Briggs |Gregory Mairs|3|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:20|21|Peter Briggs |Gregory Mairs|13|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:27|21|Peter Kaesbauer|Johanna Goliszewski|15|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:27|21|Peter Kaesbauer|Johanna Goliszewski|16|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:17|21|Matthew Clare |Victoria Williams|8|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:17|21|Matthew Clare |Victoria Williams|10|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:36|21|Jonathan Dolan|none|14|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:36|27|Jonathan Dolan|none|25|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:46|21|Christo Popov|none|19|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:46|27|Christo Popov|none|25|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:28|21|Weng Hongyang|none|6|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:28|21|Weng Hongyang|none|10|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:16|21|Christopher Grimley|none|3|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:16|21|Christopher Grimley|none|4|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:18|21|Lauren Middleton|Sarah Sidebottom|7|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:18|21|Lauren Middleton|Sarah Sidebottom|11|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:30|21|Alex Lane|none|10|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|Alex Lane|none|14|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:38|23|Lukas Zevl|none|21|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:38|21|Lukas Zevl|none|17|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:56|21|Ethan Rose|none|17|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:56|17|Ethan Rose|none|21|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:56|22|Ethan Rose|none|20|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:21|21|Peter Briggs |Gregory Mairs|13|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:21|21|Peter Briggs |Gregory Mairs|11|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:18|21|Phone Pyae Naing|none|3|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:18|21|Phone Pyae Naing|none|5|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:51|19|Liu Haichao|none|21|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:51|21|Liu Haichao|none|11|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:51|21|Liu Haichao|none|15|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:34|21|Michael Spencer-Smith |none|13|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:34|21|Michael Spencer-Smith |none|18|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:21|21|Johnnie Torjussen|none|9|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:21|21|Johnnie Torjussen|none|8|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:24|21|Rebecca Kuhl|none|14|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:24|21|Rebecca Kuhl|none|11|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|18|Sara Boyle|none|21|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|21|Sara Boyle|none|18|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|21|Sara Boyle|none|17|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|Christo Popov|none|12|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:24|21|Weng Hongyang|none|7|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:24|21|Weng Hongyang|none|15|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Holly Newall|none|12|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Holly Newall|none|14|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:22|21|Abigail Holden|none|10|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:22|21|Abigail Holden|none|17|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|David Jones|none|8|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|David Jones|none|16|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:43|21|Vinson Chiu|none|16|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:43|9|Vinson Chiu|none|21|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:43|21|Vinson Chiu|none|13|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:39|21|Daniella Gonda|none|18|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:39|21|Daniella Gonda|none|23|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:39|21|Daniella Gonda|none|15|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Tanvi Lad|none|15|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Tanvi Lad|none|10|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:31|21|Laura Sarosi|none|17|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:31|21|Laura Sarosi|none|15|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:15|21|Ji Shuting|none|5|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:15|21|Ji Shuting|none|4|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:28|21|Liu Haichao|none|9|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:28|21|Liu Haichao|none|6|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:33|21|Johnnie Torjussen|none|6|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:33|14|Johnnie Torjussen|none|21|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:33|21|Johnnie Torjussen|none|14|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Alex Marritt|Nathan Rossiter|16|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:23|21|Alex Marritt|Nathan Rossiter|17|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:22|21|Adam Gozzi|Melker Z-Bexell|9|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:22|21|Adam Gozzi|Melker Z-Bexell|11|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:22|21|Alexander Cook|Adam Lam|13|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:22|21|Alexander Cook|Adam Lam|15|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:19|21|Chen Sihang|Fan Qiuyue|7|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:19|21|Chen Sihang|Fan Qiuyue|9|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:26|21|Robert Golding|Brandon Zhi Hao Yap|17|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:44|17|Joel Eipe|Mette Poulsen|21|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:44|21|Joel Eipe|Mette Poulsen|14|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:44|21|Joel Eipe|Mette Poulsen|16|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:39|21|Peter Briggs|Hannah Pohl|16|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:39|17|Peter Briggs|Hannah Pohl|21|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:39|21|Peter Briggs|Hannah Pohl|10|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:50|18|Abigail Holden|none|21|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:42|19|Tanvi Lad|none|21|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:42|21|Tanvi Lad|none|11|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:42|21|Tanvi Lad|none|16|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|Ji Shuting|none|17|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|Ji Shuting|none|18|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|David Jones|none|16|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:30|21|David Jones|none|12|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:32|21|Sara Boyle|none|13|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:32|23|Sara Boyle|none|21|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:46|21|Breanna Chi|Angela Zhang|14|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:46|20|Breanna Chi|Angela Zhang|22|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:46|21|Breanna Chi|Angela Zhang|16|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:15|21|Chen Sihang|Fan Qiuyue|8|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:15|21|Chen Sihang|Fan Qiuyue|7|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:26|21|Robert Golding|Brandon Zhi Hao Yap|10|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:29|21|Eva Janssens|Kilasu Ostermeyer|11|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:29|21|Eva Janssens|Kilasu Ostermeyer|13|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:28|21|Joel Eipe|Mette Poulsen|18|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:28|21|Joel Eipe|Mette Poulsen|14|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:22|21|Adam Gozzi|Melker Z-Bexell|14|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|0:22|21|Adam Gozzi|Melker Z-Bexell|16|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181122|1:02|19|Kai Schaefer|none|21|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|1:02|21|Kai Schaefer|none|13|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|1:02|21|Kai Schaefer|none|15|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|1:04|19|Toma Junior Popov|none|21|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|1:04|21|Toma Junior Popov|none|19|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|1:04|21|Toma Junior Popov|none|16|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:47|17|Rasmus Messerschmidt|none|21|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:47|21|Rasmus Messerschmidt|none|16|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:47|21|Rasmus Messerschmidt|none|15|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:28|21|Eetu Heino|none|13|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:28|21|Eetu Heino|none|10|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:35|21|Nhat Nguyen|none|15|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:35|21|Nhat Nguyen|none|14|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:34|21|Rosario Maddaloni|none|13|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:34|21|Rosario Maddaloni|none|17|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:29|21|Lucas Claerbout|none|14|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:29|21|Lucas Claerbout|none|10|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:32|21|Kim Bruun|none|17|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:32|21|Kim Bruun|none|13|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:59|18|Jason Anthony Ho-Shue|none|21|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:59|21|Jason Anthony Ho-Shue|none|13|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:59|21|Jason Anthony Ho-Shue|none|14|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:29|21|Liu Haichao|none|17|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:29|21|Liu Haichao|none|5|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:36|21|David Jones|none|19|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:36|21|David Jones|none|15|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:39|21|Ivan Rusev|none|16|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:39|21|Ivan Rusev|none|14|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|21|Zvonimir Durkinjak|none|12|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|16|Zvonimir Durkinjak|none|21|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:50|22|Zvonimir Durkinjak|none|20|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:26|21|Weng Hongyang|none|6|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181122|0:26|21|Weng Hongyang|none|19|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Peter Kaesbauer|Johanna Goliszewski|17|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:23|21|Peter Kaesbauer|Johanna Goliszewski|13|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:24|21|Steven Stallwood|Lizzie Tolman|16|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:24|21|Steven Stallwood|Lizzie Tolman|15|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:48|17|Matthew Clare |Victoria Williams|21|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|19|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|17|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:53|22|Tom Wolfenden|Jenny Moore|24|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:53|23|Tom Wolfenden|Jenny Moore|21|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:53|21|Tom Wolfenden|Jenny Moore|17|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:37|21|Max Flynn |Zoe King|9|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:37|17|Max Flynn |Zoe King|21|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:37|21|Max Flynn |Zoe King|14|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:37|16|Lauren Middleton|Sarah Sidebottom|21|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:37|21|Lauren Middleton|Sarah Sidebottom|11|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:37|21|Lauren Middleton|Sarah Sidebottom|19|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:24|21|Alex Lane|none|15|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:24|21|Alex Lane|none|12|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|Joel König|none|18|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|Joel König|none|17|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:21|21|Wolfgang Gnedt |none|3|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:21|21|Wolfgang Gnedt |none|8|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:22|21|Ethan Rose|none|15|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:22|21|Ethan Rose|none|14|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:40|21|Mark Brady|none|10|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:40|18|Mark Brady|none|21|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:40|21|Mark Brady|none|17|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:47|21|Lukas Zevl|none|18|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:47|15|Lukas Zevl|none|21|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:47|21|Lukas Zevl|none|13|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|16|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|13|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:20|21|Peter Briggs |Gregory Mairs|3|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:20|21|Peter Briggs |Gregory Mairs|13|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:27|21|Peter Kaesbauer|Johanna Goliszewski|15|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:27|21|Peter Kaesbauer|Johanna Goliszewski|16|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:17|21|Matthew Clare |Victoria Williams|8|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:17|21|Matthew Clare |Victoria Williams|10|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:36|21|Jonathan Dolan|none|14|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:36|27|Jonathan Dolan|none|25|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:46|21|Christo Popov|none|19|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:46|27|Christo Popov|none|25|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:28|21|Weng Hongyang|none|6|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:28|21|Weng Hongyang|none|10|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:16|21|Christopher Grimley|none|3|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:16|21|Christopher Grimley|none|4|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:18|21|Lauren Middleton|Sarah Sidebottom|7|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:18|21|Lauren Middleton|Sarah Sidebottom|11|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:30|21|Alex Lane|none|10|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|Alex Lane|none|14|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:38|23|Lukas Zevl|none|21|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:38|21|Lukas Zevl|none|17|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:56|21|Ethan Rose|none|17|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:56|17|Ethan Rose|none|21|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:56|22|Ethan Rose|none|20|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:21|21|Peter Briggs |Gregory Mairs|13|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:21|21|Peter Briggs |Gregory Mairs|11|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:18|21|Phone Pyae Naing|none|3|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:18|21|Phone Pyae Naing|none|5|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:51|19|Liu Haichao|none|21|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:51|21|Liu Haichao|none|11|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:51|21|Liu Haichao|none|15|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:34|21|Michael Spencer-Smith |none|13|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:34|21|Michael Spencer-Smith |none|18|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:21|21|Johnnie Torjussen|none|9|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:21|21|Johnnie Torjussen|none|8|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:24|21|Rebecca Kuhl|none|14|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:24|21|Rebecca Kuhl|none|11|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|18|Sara Boyle|none|21|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|21|Sara Boyle|none|18|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|21|Sara Boyle|none|17|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|Christo Popov|none|12|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:24|21|Weng Hongyang|none|7|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:24|21|Weng Hongyang|none|15|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Holly Newall|none|12|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Holly Newall|none|14|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:22|21|Abigail Holden|none|10|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:22|21|Abigail Holden|none|17|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|David Jones|none|8|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|David Jones|none|16|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:43|21|Vinson Chiu|none|16|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:43|9|Vinson Chiu|none|21|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:43|21|Vinson Chiu|none|13|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:39|21|Daniella Gonda|none|18|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:39|21|Daniella Gonda|none|23|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:39|21|Daniella Gonda|none|15|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Tanvi Lad|none|15|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Tanvi Lad|none|10|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:31|21|Laura Sarosi|none|17|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:31|21|Laura Sarosi|none|15|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:15|21|Ji Shuting|none|5|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:15|21|Ji Shuting|none|4|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:28|21|Liu Haichao|none|9|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:28|21|Liu Haichao|none|6|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:33|21|Johnnie Torjussen|none|6|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:33|14|Johnnie Torjussen|none|21|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:33|21|Johnnie Torjussen|none|14|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Alex Marritt|Nathan Rossiter|16|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:23|21|Alex Marritt|Nathan Rossiter|17|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:22|21|Adam Gozzi|Melker Z-Bexell|9|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:22|21|Adam Gozzi|Melker Z-Bexell|11|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:22|21|Alexander Cook|Adam Lam|13|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:22|21|Alexander Cook|Adam Lam|15|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:19|21|Chen Sihang|Fan Qiuyue|7|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:19|21|Chen Sihang|Fan Qiuyue|9|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:26|21|Robert Golding|Brandon Zhi Hao Yap|17|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:44|17|Joel Eipe|Mette Poulsen|21|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:44|21|Joel Eipe|Mette Poulsen|14|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:44|21|Joel Eipe|Mette Poulsen|16|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:39|21|Peter Briggs|Hannah Pohl|16|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:39|17|Peter Briggs|Hannah Pohl|21|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:39|21|Peter Briggs|Hannah Pohl|10|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:50|18|Abigail Holden|none|21|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:42|19|Tanvi Lad|none|21|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:42|21|Tanvi Lad|none|11|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:42|21|Tanvi Lad|none|16|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|Ji Shuting|none|17|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|Ji Shuting|none|18|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|David Jones|none|16|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:30|21|David Jones|none|12|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:32|21|Sara Boyle|none|13|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:32|23|Sara Boyle|none|21|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:46|21|Breanna Chi|Angela Zhang|14|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:46|20|Breanna Chi|Angela Zhang|22|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:46|21|Breanna Chi|Angela Zhang|16|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:15|21|Chen Sihang|Fan Qiuyue|8|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:15|21|Chen Sihang|Fan Qiuyue|7|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:26|21|Robert Golding|Brandon Zhi Hao Yap|10|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:29|21|Eva Janssens|Kilasu Ostermeyer|11|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:29|21|Eva Janssens|Kilasu Ostermeyer|13|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:28|21|Joel Eipe|Mette Poulsen|18|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:28|21|Joel Eipe|Mette Poulsen|14|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:22|21|Adam Gozzi|Melker Z-Bexell|14|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|0:22|21|Adam Gozzi|Melker Z-Bexell|16|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181123|1:02|19|Kai Schaefer|none|21|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|1:02|21|Kai Schaefer|none|13|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|1:02|21|Kai Schaefer|none|15|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|1:04|19|Toma Junior Popov|none|21|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|1:04|21|Toma Junior Popov|none|19|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|1:04|21|Toma Junior Popov|none|16|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:47|17|Rasmus Messerschmidt|none|21|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:47|21|Rasmus Messerschmidt|none|16|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:47|21|Rasmus Messerschmidt|none|15|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:28|21|Eetu Heino|none|13|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:28|21|Eetu Heino|none|10|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:35|21|Nhat Nguyen|none|15|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:35|21|Nhat Nguyen|none|14|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:34|21|Rosario Maddaloni|none|13|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:34|21|Rosario Maddaloni|none|17|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:29|21|Lucas Claerbout|none|14|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:29|21|Lucas Claerbout|none|10|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:32|21|Kim Bruun|none|17|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:32|21|Kim Bruun|none|13|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:59|18|Jason Anthony Ho-Shue|none|21|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:59|21|Jason Anthony Ho-Shue|none|13|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:59|21|Jason Anthony Ho-Shue|none|14|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:29|21|Liu Haichao|none|17|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:29|21|Liu Haichao|none|5|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:36|21|David Jones|none|19|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:36|21|David Jones|none|15|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:39|21|Ivan Rusev|none|16|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:39|21|Ivan Rusev|none|14|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|21|Zvonimir Durkinjak|none|12|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|16|Zvonimir Durkinjak|none|21|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:50|22|Zvonimir Durkinjak|none|20|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:26|21|Weng Hongyang|none|6|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181123|0:26|21|Weng Hongyang|none|19|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Peter Kaesbauer|Johanna Goliszewski|17|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:23|21|Peter Kaesbauer|Johanna Goliszewski|13|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:24|21|Steven Stallwood|Lizzie Tolman|16|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:24|21|Steven Stallwood|Lizzie Tolman|15|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:48|17|Matthew Clare |Victoria Williams|21|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|19|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|17|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:53|22|Tom Wolfenden|Jenny Moore|24|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:53|23|Tom Wolfenden|Jenny Moore|21|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:53|21|Tom Wolfenden|Jenny Moore|17|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:37|21|Max Flynn |Zoe King|9|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:37|17|Max Flynn |Zoe King|21|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:37|21|Max Flynn |Zoe King|14|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:37|16|Lauren Middleton|Sarah Sidebottom|21|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:37|21|Lauren Middleton|Sarah Sidebottom|11|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:37|21|Lauren Middleton|Sarah Sidebottom|19|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:24|21|Alex Lane|none|15|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:24|21|Alex Lane|none|12|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|Joel König|none|18|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|Joel König|none|17|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:21|21|Wolfgang Gnedt |none|3|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:21|21|Wolfgang Gnedt |none|8|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:22|21|Ethan Rose|none|15|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:22|21|Ethan Rose|none|14|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:40|21|Mark Brady|none|10|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:40|18|Mark Brady|none|21|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:40|21|Mark Brady|none|17|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:47|21|Lukas Zevl|none|18|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:47|15|Lukas Zevl|none|21|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:47|21|Lukas Zevl|none|13|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|16|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|13|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:20|21|Peter Briggs |Gregory Mairs|3|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:20|21|Peter Briggs |Gregory Mairs|13|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:27|21|Peter Kaesbauer|Johanna Goliszewski|15|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:27|21|Peter Kaesbauer|Johanna Goliszewski|16|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:17|21|Matthew Clare |Victoria Williams|8|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:17|21|Matthew Clare |Victoria Williams|10|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:36|21|Jonathan Dolan|none|14|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:36|27|Jonathan Dolan|none|25|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:46|21|Christo Popov|none|19|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:46|27|Christo Popov|none|25|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:28|21|Weng Hongyang|none|6|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:28|21|Weng Hongyang|none|10|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:16|21|Christopher Grimley|none|3|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:16|21|Christopher Grimley|none|4|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:18|21|Lauren Middleton|Sarah Sidebottom|7|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:18|21|Lauren Middleton|Sarah Sidebottom|11|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:30|21|Alex Lane|none|10|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|Alex Lane|none|14|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:38|23|Lukas Zevl|none|21|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:38|21|Lukas Zevl|none|17|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:56|21|Ethan Rose|none|17|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:56|17|Ethan Rose|none|21|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:56|22|Ethan Rose|none|20|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:21|21|Peter Briggs |Gregory Mairs|13|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:21|21|Peter Briggs |Gregory Mairs|11|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:18|21|Phone Pyae Naing|none|3|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:18|21|Phone Pyae Naing|none|5|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:51|19|Liu Haichao|none|21|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:51|21|Liu Haichao|none|11|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:51|21|Liu Haichao|none|15|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:34|21|Michael Spencer-Smith |none|13|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:34|21|Michael Spencer-Smith |none|18|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:21|21|Johnnie Torjussen|none|9|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:21|21|Johnnie Torjussen|none|8|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:24|21|Rebecca Kuhl|none|14|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:24|21|Rebecca Kuhl|none|11|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|18|Sara Boyle|none|21|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|21|Sara Boyle|none|18|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|21|Sara Boyle|none|17|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|Christo Popov|none|12|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:24|21|Weng Hongyang|none|7|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:24|21|Weng Hongyang|none|15|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Holly Newall|none|12|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Holly Newall|none|14|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:22|21|Abigail Holden|none|10|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:22|21|Abigail Holden|none|17|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|David Jones|none|8|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|David Jones|none|16|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:43|21|Vinson Chiu|none|16|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:43|9|Vinson Chiu|none|21|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:43|21|Vinson Chiu|none|13|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:39|21|Daniella Gonda|none|18|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:39|21|Daniella Gonda|none|23|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:39|21|Daniella Gonda|none|15|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Tanvi Lad|none|15|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Tanvi Lad|none|10|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:31|21|Laura Sarosi|none|17|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:31|21|Laura Sarosi|none|15|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:15|21|Ji Shuting|none|5|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:15|21|Ji Shuting|none|4|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:28|21|Liu Haichao|none|9|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:28|21|Liu Haichao|none|6|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:33|21|Johnnie Torjussen|none|6|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:33|14|Johnnie Torjussen|none|21|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:33|21|Johnnie Torjussen|none|14|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Alex Marritt|Nathan Rossiter|16|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:23|21|Alex Marritt|Nathan Rossiter|17|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:22|21|Adam Gozzi|Melker Z-Bexell|9|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:22|21|Adam Gozzi|Melker Z-Bexell|11|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:22|21|Alexander Cook|Adam Lam|13|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:22|21|Alexander Cook|Adam Lam|15|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:19|21|Chen Sihang|Fan Qiuyue|7|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:19|21|Chen Sihang|Fan Qiuyue|9|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:26|21|Robert Golding|Brandon Zhi Hao Yap|17|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:44|17|Joel Eipe|Mette Poulsen|21|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:44|21|Joel Eipe|Mette Poulsen|14|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:44|21|Joel Eipe|Mette Poulsen|16|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:39|21|Peter Briggs|Hannah Pohl|16|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:39|17|Peter Briggs|Hannah Pohl|21|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:39|21|Peter Briggs|Hannah Pohl|10|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:50|18|Abigail Holden|none|21|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:42|19|Tanvi Lad|none|21|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:42|21|Tanvi Lad|none|11|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:42|21|Tanvi Lad|none|16|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|Ji Shuting|none|17|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|Ji Shuting|none|18|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|David Jones|none|16|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:30|21|David Jones|none|12|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:32|21|Sara Boyle|none|13|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:32|23|Sara Boyle|none|21|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:46|21|Breanna Chi|Angela Zhang|14|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:46|20|Breanna Chi|Angela Zhang|22|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:46|21|Breanna Chi|Angela Zhang|16|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:15|21|Chen Sihang|Fan Qiuyue|8|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:15|21|Chen Sihang|Fan Qiuyue|7|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:26|21|Robert Golding|Brandon Zhi Hao Yap|10|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:29|21|Eva Janssens|Kilasu Ostermeyer|11|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:29|21|Eva Janssens|Kilasu Ostermeyer|13|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:28|21|Joel Eipe|Mette Poulsen|18|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:28|21|Joel Eipe|Mette Poulsen|14|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:22|21|Adam Gozzi|Melker Z-Bexell|14|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|0:22|21|Adam Gozzi|Melker Z-Bexell|16|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181124|1:02|19|Kai Schaefer|none|21|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|1:02|21|Kai Schaefer|none|13|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|1:02|21|Kai Schaefer|none|15|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|1:04|19|Toma Junior Popov|none|21|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|1:04|21|Toma Junior Popov|none|19|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|1:04|21|Toma Junior Popov|none|16|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:47|17|Rasmus Messerschmidt|none|21|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:47|21|Rasmus Messerschmidt|none|16|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:47|21|Rasmus Messerschmidt|none|15|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:28|21|Eetu Heino|none|13|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:28|21|Eetu Heino|none|10|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:35|21|Nhat Nguyen|none|15|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:35|21|Nhat Nguyen|none|14|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:34|21|Rosario Maddaloni|none|13|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:34|21|Rosario Maddaloni|none|17|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:29|21|Lucas Claerbout|none|14|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:29|21|Lucas Claerbout|none|10|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:32|21|Kim Bruun|none|17|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:32|21|Kim Bruun|none|13|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:59|18|Jason Anthony Ho-Shue|none|21|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:59|21|Jason Anthony Ho-Shue|none|13|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:59|21|Jason Anthony Ho-Shue|none|14|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:29|21|Liu Haichao|none|17|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:29|21|Liu Haichao|none|5|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:36|21|David Jones|none|19|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:36|21|David Jones|none|15|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:39|21|Ivan Rusev|none|16|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:39|21|Ivan Rusev|none|14|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|21|Zvonimir Durkinjak|none|12|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|16|Zvonimir Durkinjak|none|21|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:50|22|Zvonimir Durkinjak|none|20|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:26|21|Weng Hongyang|none|6|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181124|0:26|21|Weng Hongyang|none|19|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Peter Kaesbauer|Johanna Goliszewski|17|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:23|21|Peter Kaesbauer|Johanna Goliszewski|13|Sam Parsons|Evie Burbidge|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:24|21|Steven Stallwood|Lizzie Tolman|16|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:24|21|Steven Stallwood|Lizzie Tolman|15|Martin Drabble|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:48|17|Matthew Clare |Victoria Williams|21|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:48|21|Matthew Clare |Victoria Williams|15|Daniel Hess|Stine Susan Küspert|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|19|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:25|21|Brandon Zhi Hao Yap|Sian Kelly|17|Paul Reynolds|Rachael Darragh|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:53|22|Tom Wolfenden|Jenny Moore|24|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:53|23|Tom Wolfenden|Jenny Moore|21|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:53|21|Tom Wolfenden|Jenny Moore|17|Gaetan Mittelheisser|Lea Palermo|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:37|21|Max Flynn |Zoe King|9|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:37|17|Max Flynn |Zoe King|21|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:37|21|Max Flynn |Zoe King|14|Vinson Chiu|Angela Zhang|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:37|16|Lauren Middleton|Sarah Sidebottom|21|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:37|21|Lauren Middleton|Sarah Sidebottom|11|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:37|21|Lauren Middleton|Sarah Sidebottom|19|Grace King|Ella Soderstrom|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:24|21|Alex Lane|none|15|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:24|21|Alex Lane|none|12|Rüdiger Gnedt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|Joel König|none|18|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|Joel König|none|17|Ciar Pringle|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:21|21|Wolfgang Gnedt |none|3|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:21|21|Wolfgang Gnedt |none|8|Jack Macgregor|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:22|21|Ethan Rose|none|15|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:22|21|Ethan Rose|none|14|Christopher Kan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:40|21|Mark Brady|none|10|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:40|18|Mark Brady|none|21|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:40|21|Mark Brady|none|17|Adam Lam|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:47|21|Lukas Zevl|none|18|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:47|15|Lukas Zevl|none|21|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:47|21|Lukas Zevl|none|13|Zach Russ|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|16|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:19|21|Ben Hunt|Sheunesu Mabhena Kimbugwe|13|Jordan Edgar|Mark Law|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:20|21|Peter Briggs |Gregory Mairs|3|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:20|21|Peter Briggs |Gregory Mairs|13|Joshua Apiliga|Adam Pringle|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:27|21|Peter Kaesbauer|Johanna Goliszewski|15|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:27|21|Peter Kaesbauer|Johanna Goliszewski|16|Steven Stallwood|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:17|21|Matthew Clare |Victoria Williams|8|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:17|21|Matthew Clare |Victoria Williams|10|Brandon Zhi Hao Yap|Sian Kelly|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:36|21|Jonathan Dolan|none|14|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:36|27|Jonathan Dolan|none|25|Albin Carl Hjelm|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:46|21|Christo Popov|none|19|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:46|27|Christo Popov|none|25|Andy Tsai [6]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:28|21|Weng Hongyang|none|6|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:28|21|Weng Hongyang|none|10|Heng Lin Ngan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:16|21|Christopher Grimley|none|3|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:16|21|Christopher Grimley|none|4|Hugo Jardim|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:18|21|Lauren Middleton|Sarah Sidebottom|7|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:18|21|Lauren Middleton|Sarah Sidebottom|11|Emma Hooper|Natalia Mitchell|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:26|21|Tom Wolfenden|Jenny Moore|15|Max Flynn [4]|Zoe King|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:30|21|Alex Lane|none|10|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|Alex Lane|none|14|Joel König|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:38|23|Lukas Zevl|none|21|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:38|21|Lukas Zevl|none|17|Mark Brady|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:56|21|Ethan Rose|none|17|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:56|17|Ethan Rose|none|21|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:56|22|Ethan Rose|none|20|Wolfgang Gnedt [5]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:21|21|Peter Briggs |Gregory Mairs|13|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:21|21|Peter Briggs |Gregory Mairs|11|Ben Hunt|Sheunesu Mabhena Kimbugwe|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:18|21|Phone Pyae Naing|none|3|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:18|21|Phone Pyae Naing|none|5|Raymond Webster|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:51|19|Liu Haichao|none|21|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:51|21|Liu Haichao|none|11|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:51|21|Liu Haichao|none|15|Dimitar Yanakiev [7]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:34|21|Michael Spencer-Smith |none|13|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:34|21|Michael Spencer-Smith |none|18|Hannes Gerberich|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:21|21|Johnnie Torjussen|none|9|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:21|21|Johnnie Torjussen|none|8|Ben Torrance|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:24|21|Rebecca Kuhl|none|14|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:24|21|Rebecca Kuhl|none|11|Natalia Mitchell|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|18|Sara Boyle|none|21|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|21|Sara Boyle|none|18|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|21|Sara Boyle|none|17|Kati-Kreet Marran|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|Christo Popov|none|12|Jonathan Dolan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:24|21|Weng Hongyang|none|7|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:24|21|Weng Hongyang|none|15|Christopher Grimley|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Holly Newall|none|12|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Holly Newall|none|14|Ella Soderstrom|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:22|21|Abigail Holden|none|10|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:22|21|Abigail Holden|none|17|Rachael Darragh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|David Jones|none|8|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|David Jones|none|16|Alex Marritt|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:43|21|Vinson Chiu|none|16|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:43|9|Vinson Chiu|none|21|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:43|21|Vinson Chiu|none|13|Luke Pearce|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:39|21|Daniella Gonda|none|18|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:39|21|Daniella Gonda|none|23|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:39|21|Daniella Gonda|none|15|Helina Rüütel|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Tanvi Lad|none|15|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Tanvi Lad|none|10|Toni Woods|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:31|21|Laura Sarosi|none|17|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:31|21|Laura Sarosi|none|15|Grace King|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:15|21|Ji Shuting|none|5|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:15|21|Ji Shuting|none|4|Adriana F. Goncalves|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:28|21|Liu Haichao|none|9|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:28|21|Liu Haichao|none|6|Phone Pyae Naing|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:33|21|Johnnie Torjussen|none|6|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:33|14|Johnnie Torjussen|none|21|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:33|21|Johnnie Torjussen|none|14|Michael Spencer-Smith [8]|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Alex Marritt|Nathan Rossiter|16|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:23|21|Alex Marritt|Nathan Rossiter|17|Calum Flockhart|Callum Smith|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:22|21|Adam Gozzi|Melker Z-Bexell|9|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:22|21|Adam Gozzi|Melker Z-Bexell|11|Martin Drabble|Nathan Hale|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:22|21|Alexander Cook|Adam Lam|13|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:22|21|Alexander Cook|Adam Lam|15|Alex Green|Tom Söderström|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:19|21|Chen Sihang|Fan Qiuyue|7|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:19|21|Chen Sihang|Fan Qiuyue|9|Toby Leung|Ethan Rose|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:26|21|Robert Golding|Brandon Zhi Hao Yap|17|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Matthew Carder|Danny Leinster|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:28|21|Dominic Ashton|Timothy Hull|19|Michael Mcguire|Danny Robson|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:44|17|Joel Eipe|Mette Poulsen|21|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:44|21|Joel Eipe|Mette Poulsen|14|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:44|21|Joel Eipe|Mette Poulsen|16|Matthew Grimley|Ciara Torrance|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:39|21|Peter Briggs|Hannah Pohl|16|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:39|17|Peter Briggs|Hannah Pohl|21|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:39|21|Peter Briggs|Hannah Pohl|10|Jack Macgregor [2]|Ong Ren-Ne|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:50|18|Abigail Holden|none|21|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|21|Abigail Holden|none|18|Holly Newall|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:42|19|Tanvi Lad|none|21|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:42|21|Tanvi Lad|none|11|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:42|21|Tanvi Lad|none|16|Daniella Gonda|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|Ji Shuting|none|17|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|Ji Shuting|none|18|Laura Sarosi|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|David Jones|none|16|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:30|21|David Jones|none|12|Vinson Chiu|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:32|21|Sara Boyle|none|13|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:32|23|Sara Boyle|none|21|Rebecca Kuhl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:46|21|Breanna Chi|Angela Zhang|14|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:46|20|Breanna Chi|Angela Zhang|22|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:46|21|Breanna Chi|Angela Zhang|16|Brittany Ashton [1]|Basia Grodynska|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:15|21|Chen Sihang|Fan Qiuyue|8|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:15|21|Chen Sihang|Fan Qiuyue|7|Alexander Cook|Adam Lam|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:26|21|Robert Golding|Brandon Zhi Hao Yap|18|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:26|21|Robert Golding|Brandon Zhi Hao Yap|10|Dominic Ashton|Timothy Hull|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:29|21|Eva Janssens|Kilasu Ostermeyer|11|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:29|21|Eva Janssens|Kilasu Ostermeyer|13|Abigail Holden [2]|Lizzie Tolman|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:28|21|Joel Eipe|Mette Poulsen|18|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:28|21|Joel Eipe|Mette Poulsen|14|Peter Briggs|Hannah Pohl|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:22|21|Adam Gozzi|Melker Z-Bexell|14|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|0:22|21|Adam Gozzi|Melker Z-Bexell|16|Alex Marritt|Nathan Rossiter|B092BC4D-1959-42BF-A5B7-24B63C3DE316|doubles
+20181125|1:02|19|Kai Schaefer|none|21|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|1:02|21|Kai Schaefer|none|13|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|1:02|21|Kai Schaefer|none|15|Joshua Magee|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:38|21|Kalle Koljonen|none|14|Gergely Krausz|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|1:04|19|Toma Junior Popov|none|21|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|1:04|21|Toma Junior Popov|none|19|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|1:04|21|Toma Junior Popov|none|16|Søren Toft|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:47|17|Rasmus Messerschmidt|none|21|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:47|21|Rasmus Messerschmidt|none|16|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:47|21|Rasmus Messerschmidt|none|15|Max Weisskirchen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:28|21|Eetu Heino|none|13|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:28|21|Eetu Heino|none|10|Lars Schaenzler|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:35|21|Nhat Nguyen|none|15|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:35|21|Nhat Nguyen|none|14|Jacob Nilsson|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:34|21|Rosario Maddaloni|none|13|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:34|21|Rosario Maddaloni|none|17|Karan Rajan Rajarajan|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:29|21|Lucas Claerbout|none|14|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:29|21|Lucas Claerbout|none|10|Robert Mann|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:32|21|Kim Bruun|none|17|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:32|21|Kim Bruun|none|13|Fabio Caponio|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:59|18|Jason Anthony Ho-Shue|none|21|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:59|21|Jason Anthony Ho-Shue|none|13|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:59|21|Jason Anthony Ho-Shue|none|14|Kean Yew Loh|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:23|21|Luka Wraber|none|9|Matthew Carder|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:29|21|Liu Haichao|none|17|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:29|21|Liu Haichao|none|5|Bernardo Atilano|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:36|21|David Jones|none|19|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:36|21|David Jones|none|15|Abhinav Manota|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:39|21|Ivan Rusev|none|16|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:39|21|Ivan Rusev|none|14|Lukas Zevl|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|21|Zvonimir Durkinjak|none|12|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|16|Zvonimir Durkinjak|none|21|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:50|22|Zvonimir Durkinjak|none|20|Ethan Rose|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:26|21|Weng Hongyang|none|6|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles
+20181125|0:26|21|Weng Hongyang|none|19|Johnnie Torjussen|none|B092BC4D-1959-42BF-A5B7-24B63C3DE316|singles

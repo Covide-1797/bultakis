@@ -1,0 +1,676 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20170818|0:25|21|Senne Houthoofd|Clara Lassaux|10|Baptiste Goumain|Alice Lescarret|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:25|21|Senne Houthoofd|Clara Lassaux|14|Baptiste Goumain|Alice Lescarret|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:26|21|Romain Dieudonne|Camille Benetreau|17|Pelayo Pinto|Carlota Viejo|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:26|21|Romain Dieudonne|Camille Benetreau|13|Pelayo Pinto|Carlota Viejo|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:24|21|Yanis Gaudin|Flavie Vallet|15|Othys Calvi|Miranda Johansson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:24|21|Yanis Gaudin|Flavie Vallet|12|Othys Calvi|Miranda Johansson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:20|21|Gustav Bjorkler |none|9|Ferdinand Castells|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:20|21|Gustav Bjorkler |none|9|Ferdinand Castells|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Erin Waddell|none|14|Auriane Mathieu|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Erin Waddell|none|18|Auriane Mathieu|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Cyril Jacob|none|17|Valentin Mottet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Cyril Jacob|none|7|Valentin Mottet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:49|21|Jessica Silvennoinen|none|11|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:49|20|Jessica Silvennoinen|none|22|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:49|21|Jessica Silvennoinen|none|14|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:21|21|Guilhem Hoyaux|none|11|Mathias Pourbaix|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:21|21|Guilhem Hoyaux|none|9|Mathias Pourbaix|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|21|Vincent Ziegler|none|13|Filip Karlborg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|21|Vincent Ziegler|none|16|Filip Karlborg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Tomas Toledano |none|16|Elie Bime|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Tomas Toledano |none|9|Elie Bime|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:48|17|Toby Leung |none|21|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:48|21|Toby Leung |none|16|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:48|21|Toby Leung |none|13|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:42|19|Alice Campbell|none|21|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:42|21|Alice Campbell|none|7|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:42|21|Alice Campbell|none|19|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|Calle Fredholm |none|10|Baptiste Vital|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|Calle Fredholm |none|9|Baptiste Vital|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|James Penver |none|16|Thomas Lamothe|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|James Penver |none|12|Thomas Lamothe|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:51|18|Kirstin Boonen|none|21|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:51|21|Kirstin Boonen|none|16|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:51|21|Kirstin Boonen|none|15|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|Clement Allain|none|18|Adam Pringle [1]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|Clement Allain|none|12|Adam Pringle [1]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Edith Urell|none|8|Ania Setien|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Edith Urell|none|12|Ania Setien|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Lalaina Ramanana-Rahary |none|14|Andreas De Winné|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Lalaina Ramanana-Rahary |none|7|Andreas De Winné|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818||Walkover Win|Jamie Gunn|none|Walkover Loss|Alvaro Leal [15]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|22|Camille Benetreau|none|20|Carlota Viejo|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Camille Benetreau|none|9|Carlota Viejo|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|21|Matthew Howcroft|none|4|Othys Calvi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|21|Matthew Howcroft|none|11|Othys Calvi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:36|21|Cecilia Wang|none|11|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:36|11|Cecilia Wang|none|21|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:36|21|Cecilia Wang|none|13|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Gabriel Rodrigues|none|14|Pelayo Pinto|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Gabriel Rodrigues|none|9|Pelayo Pinto|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818||Walkover Win|Martin Ouazzen|none|Walkover Loss|Tom Söderström [14]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Miranda Johansson|none|19|Lou Beille|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Miranda Johansson|none|14|Lou Beille|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|Yanis Gaudin|none|16|Michael Mcguire|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|Yanis Gaudin|none|13|Michael Mcguire|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Baptiste Goumain|none|5|Jorge Galvez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Baptiste Goumain|none|18|Jorge Galvez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818||Walkover Win|Laura Solis|none|Walkover Loss|Zoe Trigona|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:54|25|Senne Houthoofd|none|23|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:54|10|Senne Houthoofd|none|21|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:54|21|Senne Houthoofd|none|19|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Romain Dieudonne|none|13|Danny Robson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Romain Dieudonne|none|11|Danny Robson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Theo Vaur|none|14|Christian Mitchell|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Theo Vaur|none|17|Christian Mitchell|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:45|17|Judith Mair|none|21|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:45|23|Judith Mair|none|21|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:45|21|Judith Mair|none|19|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818||Walkover Win|Leo Van Gysel|none|Walkover Loss|Mikhail Shepyrev|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Joel Hansson |none|9|Bastien Chailloux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Joel Hansson |none|14|Bastien Chailloux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Dounia Pelupessy|none|8|Jenny Rajkumar|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Dounia Pelupessy|none|11|Jenny Rajkumar|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:31|21|Enrico Baroni |none|16|Gabriel Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:31|21|Enrico Baroni |none|19|Gabriel Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|12|Miguel San Luis |none|21|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|21|Miguel San Luis |none|18|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|21|Miguel San Luis |none|16|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Asmita Chaudhari|none|19|Charlotte Ganci|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Asmita Chaudhari|none|16|Charlotte Ganci|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:34|21|Ernesto Baschwitz |none|16|Adrien Slegers|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:34|21|Ernesto Baschwitz |none|13|Adrien Slegers|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|21|Ludvig Petre Olsson |none|12|Matthew Tennant-Smith|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|21|Ludvig Petre Olsson |none|14|Matthew Tennant-Smith|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Driss Bourroum|none|9|Jacobo Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:25|21|Driss Bourroum|none|6|Jacobo Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:33|21|Emilie Vercelot|none|18|Martina Corsini|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:33|21|Emilie Vercelot|none|16|Martina Corsini|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:31|21|Cyprien Samson|none|12|Rodrigo Almeida|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:31|21|Cyprien Samson|none|14|Rodrigo Almeida|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Kishan Hathi|none|11|Jeremy Potin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Kishan Hathi|none|11|Jeremy Potin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818||Walkover Win|Cassandre Lesne|none|Walkover Loss|Juliana Viana|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:37|21|Joshua Apiliga |none|15|Etienne Gary|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:37|21|Joshua Apiliga |none|16|Etienne Gary|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818||Walkover Win|Quentin Canioni|none|Walkover Loss|Stanislav Proskura [12]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:30|21|Yanis Gaudin|Flavie Vallet|16|Guilhem Hoyaux|Nina Polito|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:30|21|Yanis Gaudin|Flavie Vallet|9|Guilhem Hoyaux|Nina Polito|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:25|21|Senne Houthoofd|Clara Lassaux|10|Michael Mcguire|Alice Campbell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:25|21|Senne Houthoofd|Clara Lassaux|18|Michael Mcguire|Alice Campbell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:29|24|Ferdinand Castells|Jessica Silvennoinen|22|Valentin Mottet|Auriane Mathieu|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:29|21|Ferdinand Castells|Jessica Silvennoinen|18|Valentin Mottet|Auriane Mathieu|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818||Walkover Win|Tomas Correia|none|Walkover Loss|Ethan Rose|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Adam Pringle |Rachel Andrew|18|Toby Leung|Anais Begaud|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:27|21|Adam Pringle |Rachel Andrew|6|Toby Leung|Anais Begaud|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:24|21|Calvin Chan|none|7|Ludovic Lavaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Calvin Chan|none|11|Ludovic Lavaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Calle Fredholm |Isabelle Grafsund|10|Danny Robson|Erin Waddell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:27|21|Calle Fredholm |Isabelle Grafsund|10|Danny Robson|Erin Waddell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:23|21|Thomas Fourcade|Carla Martinez|7|Bastien Chailloux|Julia Tuvesson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:23|21|Thomas Fourcade|Carla Martinez|15|Bastien Chailloux|Julia Tuvesson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:25|21|William Jones |Asmita Chaudhari|10|Elie Bime|Lou Beille|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:25|21|William Jones |Asmita Chaudhari|11|Elie Bime|Lou Beille|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:32|21|Gustav Bjorkler |Edith Urell|12|David Miguel|Lucia Barrio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:32|22|Gustav Bjorkler |Edith Urell|20|David Miguel|Lucia Barrio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:23|21|Romain Dieudonne|Camille Benetreau|13|Leo Van Gysel|Justine Coquio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:23|21|Romain Dieudonne|Camille Benetreau|11|Leo Van Gysel|Justine Coquio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:47|21|Enrico Baroni |Chiara Passeri|15|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:47|10|Enrico Baroni |Chiara Passeri|21|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:47|21|Enrico Baroni |Chiara Passeri|19|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:35|18|Ludvig Petre Olsson |Sofia Larsson|21|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:35|21|Ludvig Petre Olsson |Sofia Larsson|18|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:35|21|Ludvig Petre Olsson |Sofia Larsson|14|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:27|21|James Penver |Rachel Cameron|12|Jacobo Fernandez|Lucia Rodriguez|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:27|22|James Penver |Rachel Cameron|20|Jacobo Fernandez|Lucia Rodriguez|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:34|22|Jacob Ekman|Cecilia Wang|20|Theo Vaur|Clara Paoli|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:34|21|Jacob Ekman|Cecilia Wang|14|Theo Vaur|Clara Paoli|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818||Walkover Win|Driss Bourroum|Jenny Rajkumar|Walkover Loss|Alvaro Leal|Laura Solis|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:34|21|Andreas De Winné|Kirstin Boonen|15|Baptiste Vital|Romane Haensler|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:34|21|Andreas De Winné|Kirstin Boonen|18|Baptiste Vital|Romane Haensler|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:30|21|Joshua Apiliga |Rachel Sugden|9|Jeremy Potin|Chloé Segrestan|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:30|21|Joshua Apiliga |Rachel Sugden|18|Jeremy Potin|Chloé Segrestan|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:21|21|Baptiste Goumain|none|5|Quentin Canioni|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:21|21|Baptiste Goumain|none|4|Quentin Canioni|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|22|Judith Mair|none|20|Rachel Andrew|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:26|22|Judith Mair|none|20|Rachel Andrew|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:45|19|Ernesto Baschwitz |none|21|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:45|21|Ernesto Baschwitz |none|7|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:45|21|Ernesto Baschwitz |none|11|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Erin Waddell|none|14|Alice Lescarret|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Erin Waddell|none|19|Alice Lescarret|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:34|21|Toby Leung |none|13|Cyril Jacob|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:34|21|Toby Leung |none|12|Cyril Jacob|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|1:12|21|Joel Hansson |none|15|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|1:12|22|Joel Hansson |none|24|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|1:12|21|Joel Hansson |none|18|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Asmita Chaudhari|none|16|Julia Salonen [5]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Asmita Chaudhari|none|13|Julia Salonen [5]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Miguel San Luis |none|18|Gabriel Rodrigues|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Miguel San Luis |none|15|Gabriel Rodrigues|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|21|Edith Urell|none|17|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|21|Edith Urell|none|23|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|21|Edith Urell|none|8|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:59|18|Martin Ouazzen|none|21|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:59|21|Martin Ouazzen|none|14|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:59|21|Martin Ouazzen|none|17|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:46|21|Ainoa Desmons |none|14|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:46|17|Ainoa Desmons |none|21|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:46|21|Ainoa Desmons |none|18|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:28|21|Emilie Vercelot|none|12|Lucia Barrio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:28|21|Emilie Vercelot|none|14|Lucia Barrio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Enrico Baroni |none|18|Senne Houthoofd|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Enrico Baroni |none|16|Senne Houthoofd|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:35|21|Miranda Johansson|none|16|Nina Polito|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:35|21|Miranda Johansson|none|15|Nina Polito|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|25|Vincent Ziegler|none|23|Clement Allain|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:47|21|Vincent Ziegler|none|17|Clement Allain|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Cecilia Wang|none|14|Julia Tuvesson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Cecilia Wang|none|14|Julia Tuvesson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:44|21|Calle Fredholm |none|18|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:44|16|Calle Fredholm |none|21|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:44|21|Calle Fredholm |none|18|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Yanis Gaudin|none|9|Jamie Gunn|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Yanis Gaudin|none|13|Jamie Gunn|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:38|21|Kirstin Boonen|none|16|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:38|22|Kirstin Boonen|none|24|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:38|21|Kirstin Boonen|none|7|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Ludvig Petre Olsson |none|19|Guilhem Hoyaux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:23|21|Ludvig Petre Olsson |none|14|Guilhem Hoyaux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:53|21|Clara Lassaux |none|17|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:53|15|Clara Lassaux |none|21|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:53|21|Clara Lassaux |none|16|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:28|21|James Penver |none|12|Tomas Correia|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:28|21|James Penver |none|14|Tomas Correia|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:55|8|Laura Solis|none|21|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:55|21|Laura Solis|none|16|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:55|22|Laura Solis|none|20|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Rachel Cameron |none|19|Jessica Silvennoinen|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:29|21|Rachel Cameron |none|15|Jessica Silvennoinen|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Gustav Bjorkler |none|16|Calvin Chan|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:27|21|Gustav Bjorkler |none|14|Calvin Chan|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|1:00|16|Lalaina Ramanana-Rahary |none|21|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|1:00|21|Lalaina Ramanana-Rahary |none|19|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|1:00|21|Lalaina Ramanana-Rahary |none|15|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Cassandre Lesne|none|8|Romane Haensler|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:24|21|Cassandre Lesne|none|9|Romane Haensler|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:31|21|Tomas Toledano |none|14|Kishan Hathi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:31|21|Tomas Toledano |none|13|Kishan Hathi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:44|21|Alice Campbell|none|15|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:44|13|Alice Campbell|none|21|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:44|21|Alice Campbell|none|18|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Joshua Apiliga |none|16|Theo Vaur|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:32|21|Joshua Apiliga |none|16|Theo Vaur|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:35|21|Rachel Sugden |none|12|Jannica Monnberg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:35|21|Rachel Sugden |none|19|Jannica Monnberg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:34|21|Dounia Pelupessy|none|14|Isabelle Grafsund [4]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:34|21|Dounia Pelupessy|none|13|Isabelle Grafsund [4]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170818|0:35|22|Ludvig Petre Olsson |Sofia Larsson|24|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:35|21|Ludvig Petre Olsson |Sofia Larsson|12|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:35|21|Ludvig Petre Olsson |Sofia Larsson|14|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:24|21|Yanis Gaudin|Flavie Vallet|12|James Penver [7]|Rachel Cameron|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:24|21|Yanis Gaudin|Flavie Vallet|12|James Penver [7]|Rachel Cameron|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:26|21|Adam Pringle |Rachel Andrew|12|Andreas De Winné|Kirstin Boonen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:26|21|Adam Pringle |Rachel Andrew|10|Andreas De Winné|Kirstin Boonen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:28|21|William Jones |Asmita Chaudhari|11|Senne Houthoofd|Clara Lassaux|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:28|21|William Jones |Asmita Chaudhari|12|Senne Houthoofd|Clara Lassaux|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:26|21|Joshua Apiliga |Rachel Sugden|19|Jacob Ekman|Cecilia Wang|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:26|21|Joshua Apiliga |Rachel Sugden|16|Jacob Ekman|Cecilia Wang|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:22|21|Gustav Bjorkler |Edith Urell|12|Romain Dieudonne|Camille Benetreau|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:22|21|Gustav Bjorkler |Edith Urell|11|Romain Dieudonne|Camille Benetreau|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:31|22|Driss Bourroum|Jenny Rajkumar|20|Enrico Baroni [3]|Chiara Passeri|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:31|21|Driss Bourroum|Jenny Rajkumar|17|Enrico Baroni [3]|Chiara Passeri|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:43|21|Thomas Fourcade|Carla Martinez|17|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:43|15|Thomas Fourcade|Carla Martinez|21|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170818|0:43|21|Thomas Fourcade|Carla Martinez|19|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:25|21|Senne Houthoofd|Clara Lassaux|10|Baptiste Goumain|Alice Lescarret|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:25|21|Senne Houthoofd|Clara Lassaux|14|Baptiste Goumain|Alice Lescarret|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:26|21|Romain Dieudonne|Camille Benetreau|17|Pelayo Pinto|Carlota Viejo|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:26|21|Romain Dieudonne|Camille Benetreau|13|Pelayo Pinto|Carlota Viejo|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:24|21|Yanis Gaudin|Flavie Vallet|15|Othys Calvi|Miranda Johansson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:24|21|Yanis Gaudin|Flavie Vallet|12|Othys Calvi|Miranda Johansson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:20|21|Gustav Bjorkler |none|9|Ferdinand Castells|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:20|21|Gustav Bjorkler |none|9|Ferdinand Castells|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Erin Waddell|none|14|Auriane Mathieu|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Erin Waddell|none|18|Auriane Mathieu|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Cyril Jacob|none|17|Valentin Mottet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Cyril Jacob|none|7|Valentin Mottet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:49|21|Jessica Silvennoinen|none|11|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:49|20|Jessica Silvennoinen|none|22|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:49|21|Jessica Silvennoinen|none|14|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:21|21|Guilhem Hoyaux|none|11|Mathias Pourbaix|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:21|21|Guilhem Hoyaux|none|9|Mathias Pourbaix|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|21|Vincent Ziegler|none|13|Filip Karlborg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|21|Vincent Ziegler|none|16|Filip Karlborg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Tomas Toledano |none|16|Elie Bime|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Tomas Toledano |none|9|Elie Bime|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:48|17|Toby Leung |none|21|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:48|21|Toby Leung |none|16|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:48|21|Toby Leung |none|13|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:42|19|Alice Campbell|none|21|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:42|21|Alice Campbell|none|7|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:42|21|Alice Campbell|none|19|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|Calle Fredholm |none|10|Baptiste Vital|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|Calle Fredholm |none|9|Baptiste Vital|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|James Penver |none|16|Thomas Lamothe|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|James Penver |none|12|Thomas Lamothe|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:51|18|Kirstin Boonen|none|21|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:51|21|Kirstin Boonen|none|16|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:51|21|Kirstin Boonen|none|15|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|Clement Allain|none|18|Adam Pringle [1]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|Clement Allain|none|12|Adam Pringle [1]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Edith Urell|none|8|Ania Setien|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Edith Urell|none|12|Ania Setien|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Lalaina Ramanana-Rahary |none|14|Andreas De Winné|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Lalaina Ramanana-Rahary |none|7|Andreas De Winné|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819||Walkover Win|Jamie Gunn|none|Walkover Loss|Alvaro Leal [15]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|22|Camille Benetreau|none|20|Carlota Viejo|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Camille Benetreau|none|9|Carlota Viejo|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|21|Matthew Howcroft|none|4|Othys Calvi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|21|Matthew Howcroft|none|11|Othys Calvi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:36|21|Cecilia Wang|none|11|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:36|11|Cecilia Wang|none|21|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:36|21|Cecilia Wang|none|13|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Gabriel Rodrigues|none|14|Pelayo Pinto|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Gabriel Rodrigues|none|9|Pelayo Pinto|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819||Walkover Win|Martin Ouazzen|none|Walkover Loss|Tom Söderström [14]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Miranda Johansson|none|19|Lou Beille|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Miranda Johansson|none|14|Lou Beille|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|Yanis Gaudin|none|16|Michael Mcguire|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|Yanis Gaudin|none|13|Michael Mcguire|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Baptiste Goumain|none|5|Jorge Galvez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Baptiste Goumain|none|18|Jorge Galvez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819||Walkover Win|Laura Solis|none|Walkover Loss|Zoe Trigona|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:54|25|Senne Houthoofd|none|23|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:54|10|Senne Houthoofd|none|21|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:54|21|Senne Houthoofd|none|19|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Romain Dieudonne|none|13|Danny Robson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Romain Dieudonne|none|11|Danny Robson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Theo Vaur|none|14|Christian Mitchell|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Theo Vaur|none|17|Christian Mitchell|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:45|17|Judith Mair|none|21|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:45|23|Judith Mair|none|21|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:45|21|Judith Mair|none|19|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819||Walkover Win|Leo Van Gysel|none|Walkover Loss|Mikhail Shepyrev|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Joel Hansson |none|9|Bastien Chailloux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Joel Hansson |none|14|Bastien Chailloux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Dounia Pelupessy|none|8|Jenny Rajkumar|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Dounia Pelupessy|none|11|Jenny Rajkumar|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:31|21|Enrico Baroni |none|16|Gabriel Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:31|21|Enrico Baroni |none|19|Gabriel Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|12|Miguel San Luis |none|21|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|21|Miguel San Luis |none|18|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|21|Miguel San Luis |none|16|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Asmita Chaudhari|none|19|Charlotte Ganci|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Asmita Chaudhari|none|16|Charlotte Ganci|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:34|21|Ernesto Baschwitz |none|16|Adrien Slegers|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:34|21|Ernesto Baschwitz |none|13|Adrien Slegers|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|21|Ludvig Petre Olsson |none|12|Matthew Tennant-Smith|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|21|Ludvig Petre Olsson |none|14|Matthew Tennant-Smith|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Driss Bourroum|none|9|Jacobo Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:25|21|Driss Bourroum|none|6|Jacobo Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:33|21|Emilie Vercelot|none|18|Martina Corsini|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:33|21|Emilie Vercelot|none|16|Martina Corsini|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:31|21|Cyprien Samson|none|12|Rodrigo Almeida|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:31|21|Cyprien Samson|none|14|Rodrigo Almeida|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Kishan Hathi|none|11|Jeremy Potin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Kishan Hathi|none|11|Jeremy Potin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819||Walkover Win|Cassandre Lesne|none|Walkover Loss|Juliana Viana|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:37|21|Joshua Apiliga |none|15|Etienne Gary|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:37|21|Joshua Apiliga |none|16|Etienne Gary|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819||Walkover Win|Quentin Canioni|none|Walkover Loss|Stanislav Proskura [12]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:30|21|Yanis Gaudin|Flavie Vallet|16|Guilhem Hoyaux|Nina Polito|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:30|21|Yanis Gaudin|Flavie Vallet|9|Guilhem Hoyaux|Nina Polito|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:25|21|Senne Houthoofd|Clara Lassaux|10|Michael Mcguire|Alice Campbell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:25|21|Senne Houthoofd|Clara Lassaux|18|Michael Mcguire|Alice Campbell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:29|24|Ferdinand Castells|Jessica Silvennoinen|22|Valentin Mottet|Auriane Mathieu|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:29|21|Ferdinand Castells|Jessica Silvennoinen|18|Valentin Mottet|Auriane Mathieu|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819||Walkover Win|Tomas Correia|none|Walkover Loss|Ethan Rose|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Adam Pringle |Rachel Andrew|18|Toby Leung|Anais Begaud|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:27|21|Adam Pringle |Rachel Andrew|6|Toby Leung|Anais Begaud|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:24|21|Calvin Chan|none|7|Ludovic Lavaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Calvin Chan|none|11|Ludovic Lavaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Calle Fredholm |Isabelle Grafsund|10|Danny Robson|Erin Waddell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:27|21|Calle Fredholm |Isabelle Grafsund|10|Danny Robson|Erin Waddell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:23|21|Thomas Fourcade|Carla Martinez|7|Bastien Chailloux|Julia Tuvesson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:23|21|Thomas Fourcade|Carla Martinez|15|Bastien Chailloux|Julia Tuvesson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:25|21|William Jones |Asmita Chaudhari|10|Elie Bime|Lou Beille|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:25|21|William Jones |Asmita Chaudhari|11|Elie Bime|Lou Beille|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:32|21|Gustav Bjorkler |Edith Urell|12|David Miguel|Lucia Barrio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:32|22|Gustav Bjorkler |Edith Urell|20|David Miguel|Lucia Barrio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:23|21|Romain Dieudonne|Camille Benetreau|13|Leo Van Gysel|Justine Coquio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:23|21|Romain Dieudonne|Camille Benetreau|11|Leo Van Gysel|Justine Coquio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:47|21|Enrico Baroni |Chiara Passeri|15|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:47|10|Enrico Baroni |Chiara Passeri|21|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:47|21|Enrico Baroni |Chiara Passeri|19|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:35|18|Ludvig Petre Olsson |Sofia Larsson|21|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:35|21|Ludvig Petre Olsson |Sofia Larsson|18|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:35|21|Ludvig Petre Olsson |Sofia Larsson|14|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:27|21|James Penver |Rachel Cameron|12|Jacobo Fernandez|Lucia Rodriguez|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:27|22|James Penver |Rachel Cameron|20|Jacobo Fernandez|Lucia Rodriguez|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:34|22|Jacob Ekman|Cecilia Wang|20|Theo Vaur|Clara Paoli|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:34|21|Jacob Ekman|Cecilia Wang|14|Theo Vaur|Clara Paoli|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819||Walkover Win|Driss Bourroum|Jenny Rajkumar|Walkover Loss|Alvaro Leal|Laura Solis|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:34|21|Andreas De Winné|Kirstin Boonen|15|Baptiste Vital|Romane Haensler|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:34|21|Andreas De Winné|Kirstin Boonen|18|Baptiste Vital|Romane Haensler|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:30|21|Joshua Apiliga |Rachel Sugden|9|Jeremy Potin|Chloé Segrestan|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:30|21|Joshua Apiliga |Rachel Sugden|18|Jeremy Potin|Chloé Segrestan|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:21|21|Baptiste Goumain|none|5|Quentin Canioni|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:21|21|Baptiste Goumain|none|4|Quentin Canioni|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|22|Judith Mair|none|20|Rachel Andrew|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:26|22|Judith Mair|none|20|Rachel Andrew|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:45|19|Ernesto Baschwitz |none|21|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:45|21|Ernesto Baschwitz |none|7|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:45|21|Ernesto Baschwitz |none|11|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Erin Waddell|none|14|Alice Lescarret|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Erin Waddell|none|19|Alice Lescarret|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:34|21|Toby Leung |none|13|Cyril Jacob|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:34|21|Toby Leung |none|12|Cyril Jacob|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|1:12|21|Joel Hansson |none|15|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|1:12|22|Joel Hansson |none|24|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|1:12|21|Joel Hansson |none|18|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Asmita Chaudhari|none|16|Julia Salonen [5]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Asmita Chaudhari|none|13|Julia Salonen [5]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Miguel San Luis |none|18|Gabriel Rodrigues|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Miguel San Luis |none|15|Gabriel Rodrigues|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|21|Edith Urell|none|17|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|21|Edith Urell|none|23|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|21|Edith Urell|none|8|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:59|18|Martin Ouazzen|none|21|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:59|21|Martin Ouazzen|none|14|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:59|21|Martin Ouazzen|none|17|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:46|21|Ainoa Desmons |none|14|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:46|17|Ainoa Desmons |none|21|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:46|21|Ainoa Desmons |none|18|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:28|21|Emilie Vercelot|none|12|Lucia Barrio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:28|21|Emilie Vercelot|none|14|Lucia Barrio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Enrico Baroni |none|18|Senne Houthoofd|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Enrico Baroni |none|16|Senne Houthoofd|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:35|21|Miranda Johansson|none|16|Nina Polito|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:35|21|Miranda Johansson|none|15|Nina Polito|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|25|Vincent Ziegler|none|23|Clement Allain|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:47|21|Vincent Ziegler|none|17|Clement Allain|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Cecilia Wang|none|14|Julia Tuvesson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Cecilia Wang|none|14|Julia Tuvesson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:44|21|Calle Fredholm |none|18|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:44|16|Calle Fredholm |none|21|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:44|21|Calle Fredholm |none|18|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Yanis Gaudin|none|9|Jamie Gunn|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Yanis Gaudin|none|13|Jamie Gunn|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:38|21|Kirstin Boonen|none|16|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:38|22|Kirstin Boonen|none|24|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:38|21|Kirstin Boonen|none|7|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Ludvig Petre Olsson |none|19|Guilhem Hoyaux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:23|21|Ludvig Petre Olsson |none|14|Guilhem Hoyaux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:53|21|Clara Lassaux |none|17|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:53|15|Clara Lassaux |none|21|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:53|21|Clara Lassaux |none|16|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:28|21|James Penver |none|12|Tomas Correia|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:28|21|James Penver |none|14|Tomas Correia|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:55|8|Laura Solis|none|21|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:55|21|Laura Solis|none|16|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:55|22|Laura Solis|none|20|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Rachel Cameron |none|19|Jessica Silvennoinen|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:29|21|Rachel Cameron |none|15|Jessica Silvennoinen|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Gustav Bjorkler |none|16|Calvin Chan|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:27|21|Gustav Bjorkler |none|14|Calvin Chan|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|1:00|16|Lalaina Ramanana-Rahary |none|21|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|1:00|21|Lalaina Ramanana-Rahary |none|19|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|1:00|21|Lalaina Ramanana-Rahary |none|15|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Cassandre Lesne|none|8|Romane Haensler|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:24|21|Cassandre Lesne|none|9|Romane Haensler|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:31|21|Tomas Toledano |none|14|Kishan Hathi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:31|21|Tomas Toledano |none|13|Kishan Hathi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:44|21|Alice Campbell|none|15|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:44|13|Alice Campbell|none|21|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:44|21|Alice Campbell|none|18|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Joshua Apiliga |none|16|Theo Vaur|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:32|21|Joshua Apiliga |none|16|Theo Vaur|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:35|21|Rachel Sugden |none|12|Jannica Monnberg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:35|21|Rachel Sugden |none|19|Jannica Monnberg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:34|21|Dounia Pelupessy|none|14|Isabelle Grafsund [4]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:34|21|Dounia Pelupessy|none|13|Isabelle Grafsund [4]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170819|0:35|22|Ludvig Petre Olsson |Sofia Larsson|24|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:35|21|Ludvig Petre Olsson |Sofia Larsson|12|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:35|21|Ludvig Petre Olsson |Sofia Larsson|14|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:24|21|Yanis Gaudin|Flavie Vallet|12|James Penver [7]|Rachel Cameron|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:24|21|Yanis Gaudin|Flavie Vallet|12|James Penver [7]|Rachel Cameron|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:26|21|Adam Pringle |Rachel Andrew|12|Andreas De Winné|Kirstin Boonen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:26|21|Adam Pringle |Rachel Andrew|10|Andreas De Winné|Kirstin Boonen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:28|21|William Jones |Asmita Chaudhari|11|Senne Houthoofd|Clara Lassaux|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:28|21|William Jones |Asmita Chaudhari|12|Senne Houthoofd|Clara Lassaux|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:26|21|Joshua Apiliga |Rachel Sugden|19|Jacob Ekman|Cecilia Wang|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:26|21|Joshua Apiliga |Rachel Sugden|16|Jacob Ekman|Cecilia Wang|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:22|21|Gustav Bjorkler |Edith Urell|12|Romain Dieudonne|Camille Benetreau|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:22|21|Gustav Bjorkler |Edith Urell|11|Romain Dieudonne|Camille Benetreau|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:31|22|Driss Bourroum|Jenny Rajkumar|20|Enrico Baroni [3]|Chiara Passeri|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:31|21|Driss Bourroum|Jenny Rajkumar|17|Enrico Baroni [3]|Chiara Passeri|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:43|21|Thomas Fourcade|Carla Martinez|17|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:43|15|Thomas Fourcade|Carla Martinez|21|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170819|0:43|21|Thomas Fourcade|Carla Martinez|19|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:25|21|Senne Houthoofd|Clara Lassaux|10|Baptiste Goumain|Alice Lescarret|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:25|21|Senne Houthoofd|Clara Lassaux|14|Baptiste Goumain|Alice Lescarret|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:26|21|Romain Dieudonne|Camille Benetreau|17|Pelayo Pinto|Carlota Viejo|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:26|21|Romain Dieudonne|Camille Benetreau|13|Pelayo Pinto|Carlota Viejo|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:24|21|Yanis Gaudin|Flavie Vallet|15|Othys Calvi|Miranda Johansson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:24|21|Yanis Gaudin|Flavie Vallet|12|Othys Calvi|Miranda Johansson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:20|21|Gustav Bjorkler |none|9|Ferdinand Castells|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:20|21|Gustav Bjorkler |none|9|Ferdinand Castells|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Erin Waddell|none|14|Auriane Mathieu|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Erin Waddell|none|18|Auriane Mathieu|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Cyril Jacob|none|17|Valentin Mottet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Cyril Jacob|none|7|Valentin Mottet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:49|21|Jessica Silvennoinen|none|11|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:49|20|Jessica Silvennoinen|none|22|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:49|21|Jessica Silvennoinen|none|14|Lisa Gagelin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:21|21|Guilhem Hoyaux|none|11|Mathias Pourbaix|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:21|21|Guilhem Hoyaux|none|9|Mathias Pourbaix|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|21|Vincent Ziegler|none|13|Filip Karlborg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|21|Vincent Ziegler|none|16|Filip Karlborg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Tomas Toledano |none|16|Elie Bime|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Tomas Toledano |none|9|Elie Bime|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:48|17|Toby Leung |none|21|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:48|21|Toby Leung |none|16|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:48|21|Toby Leung |none|13|Antonio Iglesias|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:42|19|Alice Campbell|none|21|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:42|21|Alice Campbell|none|7|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:42|21|Alice Campbell|none|19|Lucia Rodriguez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|Calle Fredholm |none|10|Baptiste Vital|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|Calle Fredholm |none|9|Baptiste Vital|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|James Penver |none|16|Thomas Lamothe|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|James Penver |none|12|Thomas Lamothe|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:51|18|Kirstin Boonen|none|21|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:51|21|Kirstin Boonen|none|16|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:51|21|Kirstin Boonen|none|15|Clara Paoli|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|Clement Allain|none|18|Adam Pringle [1]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|Clement Allain|none|12|Adam Pringle [1]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Edith Urell|none|8|Ania Setien|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Edith Urell|none|12|Ania Setien|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Lalaina Ramanana-Rahary |none|14|Andreas De Winné|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Lalaina Ramanana-Rahary |none|7|Andreas De Winné|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820||Walkover Win|Jamie Gunn|none|Walkover Loss|Alvaro Leal [15]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|22|Camille Benetreau|none|20|Carlota Viejo|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Camille Benetreau|none|9|Carlota Viejo|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|21|Matthew Howcroft|none|4|Othys Calvi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|21|Matthew Howcroft|none|11|Othys Calvi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:36|21|Cecilia Wang|none|11|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:36|11|Cecilia Wang|none|21|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:36|21|Cecilia Wang|none|13|Flavie Vallet|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Gabriel Rodrigues|none|14|Pelayo Pinto|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Gabriel Rodrigues|none|9|Pelayo Pinto|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820||Walkover Win|Martin Ouazzen|none|Walkover Loss|Tom Söderström [14]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Miranda Johansson|none|19|Lou Beille|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Miranda Johansson|none|14|Lou Beille|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|Yanis Gaudin|none|16|Michael Mcguire|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|Yanis Gaudin|none|13|Michael Mcguire|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Baptiste Goumain|none|5|Jorge Galvez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Baptiste Goumain|none|18|Jorge Galvez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820||Walkover Win|Laura Solis|none|Walkover Loss|Zoe Trigona|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:54|25|Senne Houthoofd|none|23|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:54|10|Senne Houthoofd|none|21|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:54|21|Senne Houthoofd|none|19|Thomas Gaucher|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Romain Dieudonne|none|13|Danny Robson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Romain Dieudonne|none|11|Danny Robson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Theo Vaur|none|14|Christian Mitchell|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Theo Vaur|none|17|Christian Mitchell|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:45|17|Judith Mair|none|21|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:45|23|Judith Mair|none|21|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:45|21|Judith Mair|none|19|Anais Begaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820||Walkover Win|Leo Van Gysel|none|Walkover Loss|Mikhail Shepyrev|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Joel Hansson |none|9|Bastien Chailloux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Joel Hansson |none|14|Bastien Chailloux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Dounia Pelupessy|none|8|Jenny Rajkumar|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Dounia Pelupessy|none|11|Jenny Rajkumar|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:31|21|Enrico Baroni |none|16|Gabriel Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:31|21|Enrico Baroni |none|19|Gabriel Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|12|Miguel San Luis |none|21|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|21|Miguel San Luis |none|18|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|21|Miguel San Luis |none|16|Thomas Fourcade|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Asmita Chaudhari|none|19|Charlotte Ganci|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Asmita Chaudhari|none|16|Charlotte Ganci|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:34|21|Ernesto Baschwitz |none|16|Adrien Slegers|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:34|21|Ernesto Baschwitz |none|13|Adrien Slegers|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|21|Ludvig Petre Olsson |none|12|Matthew Tennant-Smith|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|21|Ludvig Petre Olsson |none|14|Matthew Tennant-Smith|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Driss Bourroum|none|9|Jacobo Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:25|21|Driss Bourroum|none|6|Jacobo Fernandez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:33|21|Emilie Vercelot|none|18|Martina Corsini|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:33|21|Emilie Vercelot|none|16|Martina Corsini|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:31|21|Cyprien Samson|none|12|Rodrigo Almeida|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:31|21|Cyprien Samson|none|14|Rodrigo Almeida|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Kishan Hathi|none|11|Jeremy Potin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Kishan Hathi|none|11|Jeremy Potin|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820||Walkover Win|Cassandre Lesne|none|Walkover Loss|Juliana Viana|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:37|21|Joshua Apiliga |none|15|Etienne Gary|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:37|21|Joshua Apiliga |none|16|Etienne Gary|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820||Walkover Win|Quentin Canioni|none|Walkover Loss|Stanislav Proskura [12]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:30|21|Yanis Gaudin|Flavie Vallet|16|Guilhem Hoyaux|Nina Polito|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:30|21|Yanis Gaudin|Flavie Vallet|9|Guilhem Hoyaux|Nina Polito|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:25|21|Senne Houthoofd|Clara Lassaux|10|Michael Mcguire|Alice Campbell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:25|21|Senne Houthoofd|Clara Lassaux|18|Michael Mcguire|Alice Campbell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:29|24|Ferdinand Castells|Jessica Silvennoinen|22|Valentin Mottet|Auriane Mathieu|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:29|21|Ferdinand Castells|Jessica Silvennoinen|18|Valentin Mottet|Auriane Mathieu|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820||Walkover Win|Tomas Correia|none|Walkover Loss|Ethan Rose|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Adam Pringle |Rachel Andrew|18|Toby Leung|Anais Begaud|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:27|21|Adam Pringle |Rachel Andrew|6|Toby Leung|Anais Begaud|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:24|21|Calvin Chan|none|7|Ludovic Lavaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Calvin Chan|none|11|Ludovic Lavaud|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Calle Fredholm |Isabelle Grafsund|10|Danny Robson|Erin Waddell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:27|21|Calle Fredholm |Isabelle Grafsund|10|Danny Robson|Erin Waddell|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:23|21|Thomas Fourcade|Carla Martinez|7|Bastien Chailloux|Julia Tuvesson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:23|21|Thomas Fourcade|Carla Martinez|15|Bastien Chailloux|Julia Tuvesson|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:25|21|William Jones |Asmita Chaudhari|10|Elie Bime|Lou Beille|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:25|21|William Jones |Asmita Chaudhari|11|Elie Bime|Lou Beille|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:32|21|Gustav Bjorkler |Edith Urell|12|David Miguel|Lucia Barrio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:32|22|Gustav Bjorkler |Edith Urell|20|David Miguel|Lucia Barrio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:23|21|Romain Dieudonne|Camille Benetreau|13|Leo Van Gysel|Justine Coquio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:23|21|Romain Dieudonne|Camille Benetreau|11|Leo Van Gysel|Justine Coquio|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:47|21|Enrico Baroni |Chiara Passeri|15|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:47|10|Enrico Baroni |Chiara Passeri|21|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:47|21|Enrico Baroni |Chiara Passeri|19|Filip Karlborg|Thyra Hultman|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:35|18|Ludvig Petre Olsson |Sofia Larsson|21|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:35|21|Ludvig Petre Olsson |Sofia Larsson|18|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:35|21|Ludvig Petre Olsson |Sofia Larsson|14|Calixte Courbon|Lisa Gagelin|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:27|21|James Penver |Rachel Cameron|12|Jacobo Fernandez|Lucia Rodriguez|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:27|22|James Penver |Rachel Cameron|20|Jacobo Fernandez|Lucia Rodriguez|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:34|22|Jacob Ekman|Cecilia Wang|20|Theo Vaur|Clara Paoli|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:34|21|Jacob Ekman|Cecilia Wang|14|Theo Vaur|Clara Paoli|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820||Walkover Win|Driss Bourroum|Jenny Rajkumar|Walkover Loss|Alvaro Leal|Laura Solis|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:34|21|Andreas De Winné|Kirstin Boonen|15|Baptiste Vital|Romane Haensler|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:34|21|Andreas De Winné|Kirstin Boonen|18|Baptiste Vital|Romane Haensler|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:30|21|Joshua Apiliga |Rachel Sugden|9|Jeremy Potin|Chloé Segrestan|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:30|21|Joshua Apiliga |Rachel Sugden|18|Jeremy Potin|Chloé Segrestan|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:21|21|Baptiste Goumain|none|5|Quentin Canioni|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:21|21|Baptiste Goumain|none|4|Quentin Canioni|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|22|Judith Mair|none|20|Rachel Andrew|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:26|22|Judith Mair|none|20|Rachel Andrew|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:45|19|Ernesto Baschwitz |none|21|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:45|21|Ernesto Baschwitz |none|7|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:45|21|Ernesto Baschwitz |none|11|Matthew Howcroft|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Erin Waddell|none|14|Alice Lescarret|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Erin Waddell|none|19|Alice Lescarret|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:34|21|Toby Leung |none|13|Cyril Jacob|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:34|21|Toby Leung |none|12|Cyril Jacob|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|1:12|21|Joel Hansson |none|15|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|1:12|22|Joel Hansson |none|24|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|1:12|21|Joel Hansson |none|18|Cyprien Samson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Asmita Chaudhari|none|16|Julia Salonen [5]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Asmita Chaudhari|none|13|Julia Salonen [5]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Miguel San Luis |none|18|Gabriel Rodrigues|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Miguel San Luis |none|15|Gabriel Rodrigues|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|21|Edith Urell|none|17|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|21|Edith Urell|none|23|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|21|Edith Urell|none|8|Carla Martinez|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:59|18|Martin Ouazzen|none|21|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:59|21|Martin Ouazzen|none|14|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:59|21|Martin Ouazzen|none|17|Leo Van Gysel|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:46|21|Ainoa Desmons |none|14|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:46|17|Ainoa Desmons |none|21|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:46|21|Ainoa Desmons |none|18|Camille Benetreau|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:28|21|Emilie Vercelot|none|12|Lucia Barrio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:28|21|Emilie Vercelot|none|14|Lucia Barrio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Enrico Baroni |none|18|Senne Houthoofd|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Enrico Baroni |none|16|Senne Houthoofd|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:35|21|Miranda Johansson|none|16|Nina Polito|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:35|21|Miranda Johansson|none|15|Nina Polito|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|25|Vincent Ziegler|none|23|Clement Allain|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:47|21|Vincent Ziegler|none|17|Clement Allain|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Cecilia Wang|none|14|Julia Tuvesson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Cecilia Wang|none|14|Julia Tuvesson|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:44|21|Calle Fredholm |none|18|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:44|16|Calle Fredholm |none|21|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:44|21|Calle Fredholm |none|18|Driss Bourroum|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Yanis Gaudin|none|9|Jamie Gunn|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Yanis Gaudin|none|13|Jamie Gunn|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:38|21|Kirstin Boonen|none|16|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:38|22|Kirstin Boonen|none|24|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:38|21|Kirstin Boonen|none|7|Justine Coquio|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Ludvig Petre Olsson |none|19|Guilhem Hoyaux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:23|21|Ludvig Petre Olsson |none|14|Guilhem Hoyaux|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:53|21|Clara Lassaux |none|17|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:53|15|Clara Lassaux |none|21|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:53|21|Clara Lassaux |none|16|Thyra Hultman|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:28|21|James Penver |none|12|Tomas Correia|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:28|21|James Penver |none|14|Tomas Correia|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:55|8|Laura Solis|none|21|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:55|21|Laura Solis|none|16|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:55|22|Laura Solis|none|20|Sofia Larsson [6]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Rachel Cameron |none|19|Jessica Silvennoinen|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:29|21|Rachel Cameron |none|15|Jessica Silvennoinen|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Gustav Bjorkler |none|16|Calvin Chan|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:27|21|Gustav Bjorkler |none|14|Calvin Chan|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|1:00|16|Lalaina Ramanana-Rahary |none|21|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|1:00|21|Lalaina Ramanana-Rahary |none|19|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|1:00|21|Lalaina Ramanana-Rahary |none|15|Romain Dieudonne|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Cassandre Lesne|none|8|Romane Haensler|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:24|21|Cassandre Lesne|none|9|Romane Haensler|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:31|21|Tomas Toledano |none|14|Kishan Hathi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:31|21|Tomas Toledano |none|13|Kishan Hathi|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:44|21|Alice Campbell|none|15|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:44|13|Alice Campbell|none|21|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:44|21|Alice Campbell|none|18|Chiara Passeri [8]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Joshua Apiliga |none|16|Theo Vaur|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:32|21|Joshua Apiliga |none|16|Theo Vaur|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:35|21|Rachel Sugden |none|12|Jannica Monnberg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:35|21|Rachel Sugden |none|19|Jannica Monnberg|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:34|21|Dounia Pelupessy|none|14|Isabelle Grafsund [4]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:34|21|Dounia Pelupessy|none|13|Isabelle Grafsund [4]|none|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|singles
+20170820|0:35|22|Ludvig Petre Olsson |Sofia Larsson|24|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:35|21|Ludvig Petre Olsson |Sofia Larsson|12|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:35|21|Ludvig Petre Olsson |Sofia Larsson|14|Ferdinand Castells|Jessica Silvennoinen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:24|21|Yanis Gaudin|Flavie Vallet|12|James Penver [7]|Rachel Cameron|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:24|21|Yanis Gaudin|Flavie Vallet|12|James Penver [7]|Rachel Cameron|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:26|21|Adam Pringle |Rachel Andrew|12|Andreas De Winné|Kirstin Boonen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:26|21|Adam Pringle |Rachel Andrew|10|Andreas De Winné|Kirstin Boonen|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:28|21|William Jones |Asmita Chaudhari|11|Senne Houthoofd|Clara Lassaux|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:28|21|William Jones |Asmita Chaudhari|12|Senne Houthoofd|Clara Lassaux|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:26|21|Joshua Apiliga |Rachel Sugden|19|Jacob Ekman|Cecilia Wang|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:26|21|Joshua Apiliga |Rachel Sugden|16|Jacob Ekman|Cecilia Wang|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:22|21|Gustav Bjorkler |Edith Urell|12|Romain Dieudonne|Camille Benetreau|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:22|21|Gustav Bjorkler |Edith Urell|11|Romain Dieudonne|Camille Benetreau|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:31|22|Driss Bourroum|Jenny Rajkumar|20|Enrico Baroni [3]|Chiara Passeri|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:31|21|Driss Bourroum|Jenny Rajkumar|17|Enrico Baroni [3]|Chiara Passeri|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:43|21|Thomas Fourcade|Carla Martinez|17|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:43|15|Thomas Fourcade|Carla Martinez|21|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles
+20170820|0:43|21|Thomas Fourcade|Carla Martinez|19|Calle Fredholm [6]|Isabelle Grafsund|C8D52707-2FA0-4A45-B5CC-0C60DB07DA38|doubles

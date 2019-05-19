@@ -1,0 +1,751 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20190319|0:21|21|Patrick Zheng|none|19|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:21|21|Patrick Zheng|none|12|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:23|21|Ivan Li|none|12|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:23|21|Ivan Li|none|18|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:44|19|Brooks Liu|none|21|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:44|24|Brooks Liu|none|22|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:44|21|Brooks Liu|none|16|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:22|21|Easton Watson|none|15|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:22|21|Easton Watson|none|8|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Jacob Kim|none|13|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Jacob Kim|none|12|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:24|21|Alexander Bianchini|none|11|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:24|21|Alexander Bianchini|none|12|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:32|21|Raphael Motel|none|19|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:32|14|Raphael Motel|none|21|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:32|21|Raphael Motel|none|16|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:44|21|Connor Chin|none|16|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:44|15|Connor Chin|none|21|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:44|21|Connor Chin|none|15|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:25|21|Sheldon Xu|none|16|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:25|21|Sheldon Xu|none|14|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Minh Cheng|none|11|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Minh Cheng|none|16|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:18|21|Darren Choi|none|6|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:18|21|Darren Choi|none|9|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:43|20|Kevin Shi|none|22|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:43|21|Kevin Shi|none|19|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:43|21|Kevin Shi|none|17|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|18|Ally Chia|none|21|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Ally Chia|none|16|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Ally Chia|none|14|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Alena Yu|none|14|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Alena Yu|none|17|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:17|21|Natalie Nakatsui|none|13|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:17|21|Natalie Nakatsui|none|11|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:24|21|Jackie Dent|none|17|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:24|21|Jackie Dent|none|14|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:13|Walkover Win|Emily Chan|none|Walkover Loss|Maggie Su|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:23|21|Sharon Au|none|12|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:23|21|Sharon Au|none|14|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:17|21|Jacqueline Cheung|none|10|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:17|21|Jacqueline Cheung|none|8|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:15|21|Jasleen Kaur|none|11|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:15|21|Jasleen Kaur|none|5|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319||Walkover Win|Joanna Xu|none|Walkover Loss|Tiffany Xie|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:15|21|Jeslyn Chow|none|5|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:15|21|Jeslyn Chow|none|3|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|8|Varalika Tyagi|none|21|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|22|Varalika Tyagi|none|20|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Varalika Tyagi|none|16|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:21|21|Johnna Rymes|none|18|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:21|21|Johnna Rymes|none|12|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|15|Patrick Zheng|none|21|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Patrick Zheng|none|9|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Patrick Zheng|none|19|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:36|19|Ivan Li|none|21|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:36|21|Ivan Li|none|19|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:36|21|Ivan Li|none|10|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:01|Walkover Win|Brooks Liu|none|Walkover Loss|Carsyn He|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:16|21|Yunzhi Chen |none|12|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:16|21|Yunzhi Chen |none|9|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:35|16|Joseph Lu|none|21|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:35|21|Joseph Lu|none|14|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:35|21|Joseph Lu|none|18|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:25|21|Clarence Chau |none|19|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:25|21|Clarence Chau |none|11|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:19|21|Alexander Bianchini|none|9|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:19|21|Alexander Bianchini|none|14|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:33|21|Leo Feng|none|7|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:33|16|Leo Feng|none|21|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:33|21|Leo Feng|none|16|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:27|24|Connor Chin|none|22|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:27|21|Connor Chin|none|14|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Sheldon Xu|none|15|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Sheldon Xu|none|18|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:19|21|Minh Cheng|none|9|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:19|21|Minh Cheng|none|19|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:27|22|Darren Choi|none|20|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:27|21|Darren Choi|none|11|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:16|21|Kevin Shi|none|9|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:16|21|Kevin Shi|none|6|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:21|21|Kevin Wang |none|8|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:21|21|Kevin Wang |none|12|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190319|0:34|21|Thomas Dent|Sharon Au|8|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:34|17|Thomas Dent|Sharon Au|21|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:34|21|Thomas Dent|Sharon Au|11|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:20|21|Anthony Wong|Johnna Rymes|18|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:20|21|Anthony Wong|Johnna Rymes|12|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:30|21|Alexander Bianchini|Jasleen Kaur|11|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:30|22|Alexander Bianchini|Jasleen Kaur|24|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:30|21|Alexander Bianchini|Jasleen Kaur|7|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:16|21|Colin Jia|Jacqueline Cheung|13|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:16|21|Colin Jia|Jacqueline Cheung|8|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:24|25|Kiren Milan Deraj|Varalika Tyagi|23|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:24|21|Kiren Milan Deraj|Varalika Tyagi|18|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319||Walkover Win|Julian Lau|Natalie Nakatsui|Walkover Loss|Sheldon Xu|Tiffany Xie|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|8|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|5|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:16|21|Noah Xu|Tia Clark|11|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:16|21|Noah Xu|Tia Clark|9|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:25|21|Tom Guo|Jessie Hou|15|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:25|21|Tom Guo|Jessie Hou|16|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:14|21|Yunzhi Chen|Eliana Zhang|9|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:14|21|Yunzhi Chen|Eliana Zhang|5|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:18|21|Connor Chin|Emily Chan|16|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:18|21|Connor Chin|Emily Chan|11|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319||Walkover Win|Nguyen Binh Ngo|Jackie Dent|Walkover Loss|Alex Longsheng Xu|Maggie Su|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:19|21|Jadon Tsang|Jeslyn Chow|13|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:19|21|Jadon Tsang|Jeslyn Chow|11|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:25|22|Clarence Chau|Harry Soo|20|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:25|21|Clarence Chau|Harry Soo|15|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:19|21|Yunzhi Chen|Colin Jia|11|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:19|23|Yunzhi Chen|Colin Jia|21|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:19|21|Darren Choi|Thomas Dent|11|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:19|22|Darren Choi|Thomas Dent|20|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:35|17|Connor Chin|Davis Wong|21|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:35|22|Connor Chin|Davis Wong|20|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319|0:35|21|Connor Chin|Davis Wong|12|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190319||Walkover Win|Alex Longsheng Xu|Sam Yuan|Walkover Loss|Carsyn He|Jonathan Lee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:21|21|Patrick Zheng|none|19|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:21|21|Patrick Zheng|none|12|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:23|21|Ivan Li|none|12|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:23|21|Ivan Li|none|18|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:44|19|Brooks Liu|none|21|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:44|24|Brooks Liu|none|22|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:44|21|Brooks Liu|none|16|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:22|21|Easton Watson|none|15|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:22|21|Easton Watson|none|8|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Jacob Kim|none|13|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Jacob Kim|none|12|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:24|21|Alexander Bianchini|none|11|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:24|21|Alexander Bianchini|none|12|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:32|21|Raphael Motel|none|19|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:32|14|Raphael Motel|none|21|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:32|21|Raphael Motel|none|16|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:44|21|Connor Chin|none|16|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:44|15|Connor Chin|none|21|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:44|21|Connor Chin|none|15|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:25|21|Sheldon Xu|none|16|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:25|21|Sheldon Xu|none|14|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Minh Cheng|none|11|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Minh Cheng|none|16|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:18|21|Darren Choi|none|6|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:18|21|Darren Choi|none|9|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:43|20|Kevin Shi|none|22|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:43|21|Kevin Shi|none|19|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:43|21|Kevin Shi|none|17|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|18|Ally Chia|none|21|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Ally Chia|none|16|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Ally Chia|none|14|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Alena Yu|none|14|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Alena Yu|none|17|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:17|21|Natalie Nakatsui|none|13|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:17|21|Natalie Nakatsui|none|11|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:24|21|Jackie Dent|none|17|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:24|21|Jackie Dent|none|14|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:13|Walkover Win|Emily Chan|none|Walkover Loss|Maggie Su|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:23|21|Sharon Au|none|12|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:23|21|Sharon Au|none|14|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:17|21|Jacqueline Cheung|none|10|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:17|21|Jacqueline Cheung|none|8|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:15|21|Jasleen Kaur|none|11|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:15|21|Jasleen Kaur|none|5|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320||Walkover Win|Joanna Xu|none|Walkover Loss|Tiffany Xie|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:15|21|Jeslyn Chow|none|5|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:15|21|Jeslyn Chow|none|3|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|8|Varalika Tyagi|none|21|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|22|Varalika Tyagi|none|20|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Varalika Tyagi|none|16|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:21|21|Johnna Rymes|none|18|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:21|21|Johnna Rymes|none|12|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|15|Patrick Zheng|none|21|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Patrick Zheng|none|9|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Patrick Zheng|none|19|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:36|19|Ivan Li|none|21|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:36|21|Ivan Li|none|19|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:36|21|Ivan Li|none|10|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:01|Walkover Win|Brooks Liu|none|Walkover Loss|Carsyn He|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:16|21|Yunzhi Chen |none|12|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:16|21|Yunzhi Chen |none|9|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:35|16|Joseph Lu|none|21|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:35|21|Joseph Lu|none|14|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:35|21|Joseph Lu|none|18|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:25|21|Clarence Chau |none|19|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:25|21|Clarence Chau |none|11|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:19|21|Alexander Bianchini|none|9|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:19|21|Alexander Bianchini|none|14|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:33|21|Leo Feng|none|7|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:33|16|Leo Feng|none|21|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:33|21|Leo Feng|none|16|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:27|24|Connor Chin|none|22|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:27|21|Connor Chin|none|14|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Sheldon Xu|none|15|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Sheldon Xu|none|18|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:19|21|Minh Cheng|none|9|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:19|21|Minh Cheng|none|19|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:27|22|Darren Choi|none|20|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:27|21|Darren Choi|none|11|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:16|21|Kevin Shi|none|9|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:16|21|Kevin Shi|none|6|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:21|21|Kevin Wang |none|8|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:21|21|Kevin Wang |none|12|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190320|0:34|21|Thomas Dent|Sharon Au|8|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:34|17|Thomas Dent|Sharon Au|21|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:34|21|Thomas Dent|Sharon Au|11|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:20|21|Anthony Wong|Johnna Rymes|18|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:20|21|Anthony Wong|Johnna Rymes|12|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:30|21|Alexander Bianchini|Jasleen Kaur|11|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:30|22|Alexander Bianchini|Jasleen Kaur|24|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:30|21|Alexander Bianchini|Jasleen Kaur|7|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:16|21|Colin Jia|Jacqueline Cheung|13|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:16|21|Colin Jia|Jacqueline Cheung|8|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:24|25|Kiren Milan Deraj|Varalika Tyagi|23|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:24|21|Kiren Milan Deraj|Varalika Tyagi|18|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320||Walkover Win|Julian Lau|Natalie Nakatsui|Walkover Loss|Sheldon Xu|Tiffany Xie|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|8|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|5|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:16|21|Noah Xu|Tia Clark|11|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:16|21|Noah Xu|Tia Clark|9|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:25|21|Tom Guo|Jessie Hou|15|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:25|21|Tom Guo|Jessie Hou|16|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:14|21|Yunzhi Chen|Eliana Zhang|9|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:14|21|Yunzhi Chen|Eliana Zhang|5|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:18|21|Connor Chin|Emily Chan|16|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:18|21|Connor Chin|Emily Chan|11|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320||Walkover Win|Nguyen Binh Ngo|Jackie Dent|Walkover Loss|Alex Longsheng Xu|Maggie Su|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:19|21|Jadon Tsang|Jeslyn Chow|13|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:19|21|Jadon Tsang|Jeslyn Chow|11|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:25|22|Clarence Chau|Harry Soo|20|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:25|21|Clarence Chau|Harry Soo|15|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:19|21|Yunzhi Chen|Colin Jia|11|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:19|23|Yunzhi Chen|Colin Jia|21|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:19|21|Darren Choi|Thomas Dent|11|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:19|22|Darren Choi|Thomas Dent|20|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:35|17|Connor Chin|Davis Wong|21|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:35|22|Connor Chin|Davis Wong|20|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320|0:35|21|Connor Chin|Davis Wong|12|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190320||Walkover Win|Alex Longsheng Xu|Sam Yuan|Walkover Loss|Carsyn He|Jonathan Lee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:21|21|Patrick Zheng|none|19|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:21|21|Patrick Zheng|none|12|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:23|21|Ivan Li|none|12|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:23|21|Ivan Li|none|18|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:44|19|Brooks Liu|none|21|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:44|24|Brooks Liu|none|22|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:44|21|Brooks Liu|none|16|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:22|21|Easton Watson|none|15|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:22|21|Easton Watson|none|8|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Jacob Kim|none|13|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Jacob Kim|none|12|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:24|21|Alexander Bianchini|none|11|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:24|21|Alexander Bianchini|none|12|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:32|21|Raphael Motel|none|19|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:32|14|Raphael Motel|none|21|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:32|21|Raphael Motel|none|16|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:44|21|Connor Chin|none|16|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:44|15|Connor Chin|none|21|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:44|21|Connor Chin|none|15|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:25|21|Sheldon Xu|none|16|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:25|21|Sheldon Xu|none|14|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Minh Cheng|none|11|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Minh Cheng|none|16|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:18|21|Darren Choi|none|6|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:18|21|Darren Choi|none|9|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:43|20|Kevin Shi|none|22|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:43|21|Kevin Shi|none|19|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:43|21|Kevin Shi|none|17|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|18|Ally Chia|none|21|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Ally Chia|none|16|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Ally Chia|none|14|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Alena Yu|none|14|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Alena Yu|none|17|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:17|21|Natalie Nakatsui|none|13|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:17|21|Natalie Nakatsui|none|11|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:24|21|Jackie Dent|none|17|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:24|21|Jackie Dent|none|14|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:13|Walkover Win|Emily Chan|none|Walkover Loss|Maggie Su|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:23|21|Sharon Au|none|12|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:23|21|Sharon Au|none|14|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:17|21|Jacqueline Cheung|none|10|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:17|21|Jacqueline Cheung|none|8|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:15|21|Jasleen Kaur|none|11|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:15|21|Jasleen Kaur|none|5|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321||Walkover Win|Joanna Xu|none|Walkover Loss|Tiffany Xie|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:15|21|Jeslyn Chow|none|5|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:15|21|Jeslyn Chow|none|3|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|8|Varalika Tyagi|none|21|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|22|Varalika Tyagi|none|20|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Varalika Tyagi|none|16|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:21|21|Johnna Rymes|none|18|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:21|21|Johnna Rymes|none|12|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|15|Patrick Zheng|none|21|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Patrick Zheng|none|9|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Patrick Zheng|none|19|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:36|19|Ivan Li|none|21|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:36|21|Ivan Li|none|19|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:36|21|Ivan Li|none|10|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:01|Walkover Win|Brooks Liu|none|Walkover Loss|Carsyn He|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:16|21|Yunzhi Chen |none|12|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:16|21|Yunzhi Chen |none|9|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:35|16|Joseph Lu|none|21|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:35|21|Joseph Lu|none|14|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:35|21|Joseph Lu|none|18|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:25|21|Clarence Chau |none|19|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:25|21|Clarence Chau |none|11|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:19|21|Alexander Bianchini|none|9|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:19|21|Alexander Bianchini|none|14|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:33|21|Leo Feng|none|7|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:33|16|Leo Feng|none|21|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:33|21|Leo Feng|none|16|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:27|24|Connor Chin|none|22|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:27|21|Connor Chin|none|14|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Sheldon Xu|none|15|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Sheldon Xu|none|18|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:19|21|Minh Cheng|none|9|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:19|21|Minh Cheng|none|19|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:27|22|Darren Choi|none|20|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:27|21|Darren Choi|none|11|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:16|21|Kevin Shi|none|9|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:16|21|Kevin Shi|none|6|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:21|21|Kevin Wang |none|8|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:21|21|Kevin Wang |none|12|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190321|0:34|21|Thomas Dent|Sharon Au|8|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:34|17|Thomas Dent|Sharon Au|21|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:34|21|Thomas Dent|Sharon Au|11|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:20|21|Anthony Wong|Johnna Rymes|18|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:20|21|Anthony Wong|Johnna Rymes|12|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:30|21|Alexander Bianchini|Jasleen Kaur|11|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:30|22|Alexander Bianchini|Jasleen Kaur|24|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:30|21|Alexander Bianchini|Jasleen Kaur|7|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:16|21|Colin Jia|Jacqueline Cheung|13|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:16|21|Colin Jia|Jacqueline Cheung|8|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:24|25|Kiren Milan Deraj|Varalika Tyagi|23|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:24|21|Kiren Milan Deraj|Varalika Tyagi|18|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321||Walkover Win|Julian Lau|Natalie Nakatsui|Walkover Loss|Sheldon Xu|Tiffany Xie|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|8|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|5|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:16|21|Noah Xu|Tia Clark|11|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:16|21|Noah Xu|Tia Clark|9|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:25|21|Tom Guo|Jessie Hou|15|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:25|21|Tom Guo|Jessie Hou|16|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:14|21|Yunzhi Chen|Eliana Zhang|9|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:14|21|Yunzhi Chen|Eliana Zhang|5|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:18|21|Connor Chin|Emily Chan|16|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:18|21|Connor Chin|Emily Chan|11|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321||Walkover Win|Nguyen Binh Ngo|Jackie Dent|Walkover Loss|Alex Longsheng Xu|Maggie Su|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:19|21|Jadon Tsang|Jeslyn Chow|13|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:19|21|Jadon Tsang|Jeslyn Chow|11|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:25|22|Clarence Chau|Harry Soo|20|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:25|21|Clarence Chau|Harry Soo|15|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:19|21|Yunzhi Chen|Colin Jia|11|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:19|23|Yunzhi Chen|Colin Jia|21|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:19|21|Darren Choi|Thomas Dent|11|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:19|22|Darren Choi|Thomas Dent|20|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:35|17|Connor Chin|Davis Wong|21|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:35|22|Connor Chin|Davis Wong|20|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321|0:35|21|Connor Chin|Davis Wong|12|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190321||Walkover Win|Alex Longsheng Xu|Sam Yuan|Walkover Loss|Carsyn He|Jonathan Lee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:21|21|Patrick Zheng|none|19|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:21|21|Patrick Zheng|none|12|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:23|21|Ivan Li|none|12|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:23|21|Ivan Li|none|18|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:44|19|Brooks Liu|none|21|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:44|24|Brooks Liu|none|22|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:44|21|Brooks Liu|none|16|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:22|21|Easton Watson|none|15|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:22|21|Easton Watson|none|8|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Jacob Kim|none|13|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Jacob Kim|none|12|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:24|21|Alexander Bianchini|none|11|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:24|21|Alexander Bianchini|none|12|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:32|21|Raphael Motel|none|19|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:32|14|Raphael Motel|none|21|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:32|21|Raphael Motel|none|16|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:44|21|Connor Chin|none|16|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:44|15|Connor Chin|none|21|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:44|21|Connor Chin|none|15|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:25|21|Sheldon Xu|none|16|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:25|21|Sheldon Xu|none|14|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Minh Cheng|none|11|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Minh Cheng|none|16|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:18|21|Darren Choi|none|6|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:18|21|Darren Choi|none|9|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:43|20|Kevin Shi|none|22|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:43|21|Kevin Shi|none|19|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:43|21|Kevin Shi|none|17|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|18|Ally Chia|none|21|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Ally Chia|none|16|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Ally Chia|none|14|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Alena Yu|none|14|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Alena Yu|none|17|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:17|21|Natalie Nakatsui|none|13|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:17|21|Natalie Nakatsui|none|11|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:24|21|Jackie Dent|none|17|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:24|21|Jackie Dent|none|14|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:13|Walkover Win|Emily Chan|none|Walkover Loss|Maggie Su|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:23|21|Sharon Au|none|12|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:23|21|Sharon Au|none|14|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:17|21|Jacqueline Cheung|none|10|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:17|21|Jacqueline Cheung|none|8|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:15|21|Jasleen Kaur|none|11|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:15|21|Jasleen Kaur|none|5|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322||Walkover Win|Joanna Xu|none|Walkover Loss|Tiffany Xie|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:15|21|Jeslyn Chow|none|5|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:15|21|Jeslyn Chow|none|3|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|8|Varalika Tyagi|none|21|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|22|Varalika Tyagi|none|20|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Varalika Tyagi|none|16|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:21|21|Johnna Rymes|none|18|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:21|21|Johnna Rymes|none|12|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|15|Patrick Zheng|none|21|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Patrick Zheng|none|9|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Patrick Zheng|none|19|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:36|19|Ivan Li|none|21|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:36|21|Ivan Li|none|19|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:36|21|Ivan Li|none|10|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:01|Walkover Win|Brooks Liu|none|Walkover Loss|Carsyn He|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:16|21|Yunzhi Chen |none|12|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:16|21|Yunzhi Chen |none|9|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:35|16|Joseph Lu|none|21|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:35|21|Joseph Lu|none|14|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:35|21|Joseph Lu|none|18|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:25|21|Clarence Chau |none|19|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:25|21|Clarence Chau |none|11|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:19|21|Alexander Bianchini|none|9|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:19|21|Alexander Bianchini|none|14|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:33|21|Leo Feng|none|7|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:33|16|Leo Feng|none|21|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:33|21|Leo Feng|none|16|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:27|24|Connor Chin|none|22|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:27|21|Connor Chin|none|14|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Sheldon Xu|none|15|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Sheldon Xu|none|18|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:19|21|Minh Cheng|none|9|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:19|21|Minh Cheng|none|19|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:27|22|Darren Choi|none|20|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:27|21|Darren Choi|none|11|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:16|21|Kevin Shi|none|9|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:16|21|Kevin Shi|none|6|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:21|21|Kevin Wang |none|8|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:21|21|Kevin Wang |none|12|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190322|0:34|21|Thomas Dent|Sharon Au|8|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:34|17|Thomas Dent|Sharon Au|21|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:34|21|Thomas Dent|Sharon Au|11|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:20|21|Anthony Wong|Johnna Rymes|18|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:20|21|Anthony Wong|Johnna Rymes|12|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:30|21|Alexander Bianchini|Jasleen Kaur|11|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:30|22|Alexander Bianchini|Jasleen Kaur|24|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:30|21|Alexander Bianchini|Jasleen Kaur|7|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:16|21|Colin Jia|Jacqueline Cheung|13|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:16|21|Colin Jia|Jacqueline Cheung|8|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:24|25|Kiren Milan Deraj|Varalika Tyagi|23|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:24|21|Kiren Milan Deraj|Varalika Tyagi|18|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322||Walkover Win|Julian Lau|Natalie Nakatsui|Walkover Loss|Sheldon Xu|Tiffany Xie|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|8|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|5|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:16|21|Noah Xu|Tia Clark|11|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:16|21|Noah Xu|Tia Clark|9|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:25|21|Tom Guo|Jessie Hou|15|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:25|21|Tom Guo|Jessie Hou|16|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:14|21|Yunzhi Chen|Eliana Zhang|9|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:14|21|Yunzhi Chen|Eliana Zhang|5|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:18|21|Connor Chin|Emily Chan|16|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:18|21|Connor Chin|Emily Chan|11|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322||Walkover Win|Nguyen Binh Ngo|Jackie Dent|Walkover Loss|Alex Longsheng Xu|Maggie Su|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:19|21|Jadon Tsang|Jeslyn Chow|13|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:19|21|Jadon Tsang|Jeslyn Chow|11|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:25|22|Clarence Chau|Harry Soo|20|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:25|21|Clarence Chau|Harry Soo|15|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:19|21|Yunzhi Chen|Colin Jia|11|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:19|23|Yunzhi Chen|Colin Jia|21|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:19|21|Darren Choi|Thomas Dent|11|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:19|22|Darren Choi|Thomas Dent|20|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:35|17|Connor Chin|Davis Wong|21|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:35|22|Connor Chin|Davis Wong|20|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322|0:35|21|Connor Chin|Davis Wong|12|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190322||Walkover Win|Alex Longsheng Xu|Sam Yuan|Walkover Loss|Carsyn He|Jonathan Lee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:21|21|Patrick Zheng|none|19|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:21|21|Patrick Zheng|none|12|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:23|21|Ivan Li|none|12|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:23|21|Ivan Li|none|18|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:44|19|Brooks Liu|none|21|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:44|24|Brooks Liu|none|22|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:44|21|Brooks Liu|none|16|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:22|21|Easton Watson|none|15|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:22|21|Easton Watson|none|8|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Jacob Kim|none|13|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Jacob Kim|none|12|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:24|21|Alexander Bianchini|none|11|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:24|21|Alexander Bianchini|none|12|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:32|21|Raphael Motel|none|19|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:32|14|Raphael Motel|none|21|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:32|21|Raphael Motel|none|16|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:44|21|Connor Chin|none|16|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:44|15|Connor Chin|none|21|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:44|21|Connor Chin|none|15|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:25|21|Sheldon Xu|none|16|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:25|21|Sheldon Xu|none|14|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Minh Cheng|none|11|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Minh Cheng|none|16|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:18|21|Darren Choi|none|6|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:18|21|Darren Choi|none|9|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:43|20|Kevin Shi|none|22|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:43|21|Kevin Shi|none|19|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:43|21|Kevin Shi|none|17|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|18|Ally Chia|none|21|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Ally Chia|none|16|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Ally Chia|none|14|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Alena Yu|none|14|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Alena Yu|none|17|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:17|21|Natalie Nakatsui|none|13|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:17|21|Natalie Nakatsui|none|11|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:24|21|Jackie Dent|none|17|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:24|21|Jackie Dent|none|14|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:13|Walkover Win|Emily Chan|none|Walkover Loss|Maggie Su|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:23|21|Sharon Au|none|12|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:23|21|Sharon Au|none|14|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:17|21|Jacqueline Cheung|none|10|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:17|21|Jacqueline Cheung|none|8|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:15|21|Jasleen Kaur|none|11|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:15|21|Jasleen Kaur|none|5|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323||Walkover Win|Joanna Xu|none|Walkover Loss|Tiffany Xie|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:15|21|Jeslyn Chow|none|5|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:15|21|Jeslyn Chow|none|3|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|8|Varalika Tyagi|none|21|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|22|Varalika Tyagi|none|20|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Varalika Tyagi|none|16|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:21|21|Johnna Rymes|none|18|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:21|21|Johnna Rymes|none|12|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|15|Patrick Zheng|none|21|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Patrick Zheng|none|9|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Patrick Zheng|none|19|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:36|19|Ivan Li|none|21|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:36|21|Ivan Li|none|19|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:36|21|Ivan Li|none|10|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:01|Walkover Win|Brooks Liu|none|Walkover Loss|Carsyn He|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:16|21|Yunzhi Chen |none|12|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:16|21|Yunzhi Chen |none|9|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:35|16|Joseph Lu|none|21|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:35|21|Joseph Lu|none|14|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:35|21|Joseph Lu|none|18|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:25|21|Clarence Chau |none|19|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:25|21|Clarence Chau |none|11|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:19|21|Alexander Bianchini|none|9|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:19|21|Alexander Bianchini|none|14|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:33|21|Leo Feng|none|7|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:33|16|Leo Feng|none|21|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:33|21|Leo Feng|none|16|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:27|24|Connor Chin|none|22|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:27|21|Connor Chin|none|14|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Sheldon Xu|none|15|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Sheldon Xu|none|18|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:19|21|Minh Cheng|none|9|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:19|21|Minh Cheng|none|19|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:27|22|Darren Choi|none|20|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:27|21|Darren Choi|none|11|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:16|21|Kevin Shi|none|9|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:16|21|Kevin Shi|none|6|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:21|21|Kevin Wang |none|8|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:21|21|Kevin Wang |none|12|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190323|0:34|21|Thomas Dent|Sharon Au|8|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:34|17|Thomas Dent|Sharon Au|21|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:34|21|Thomas Dent|Sharon Au|11|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:20|21|Anthony Wong|Johnna Rymes|18|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:20|21|Anthony Wong|Johnna Rymes|12|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:30|21|Alexander Bianchini|Jasleen Kaur|11|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:30|22|Alexander Bianchini|Jasleen Kaur|24|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:30|21|Alexander Bianchini|Jasleen Kaur|7|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:16|21|Colin Jia|Jacqueline Cheung|13|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:16|21|Colin Jia|Jacqueline Cheung|8|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:24|25|Kiren Milan Deraj|Varalika Tyagi|23|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:24|21|Kiren Milan Deraj|Varalika Tyagi|18|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323||Walkover Win|Julian Lau|Natalie Nakatsui|Walkover Loss|Sheldon Xu|Tiffany Xie|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|8|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|5|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:16|21|Noah Xu|Tia Clark|11|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:16|21|Noah Xu|Tia Clark|9|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:25|21|Tom Guo|Jessie Hou|15|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:25|21|Tom Guo|Jessie Hou|16|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:14|21|Yunzhi Chen|Eliana Zhang|9|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:14|21|Yunzhi Chen|Eliana Zhang|5|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:18|21|Connor Chin|Emily Chan|16|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:18|21|Connor Chin|Emily Chan|11|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323||Walkover Win|Nguyen Binh Ngo|Jackie Dent|Walkover Loss|Alex Longsheng Xu|Maggie Su|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:19|21|Jadon Tsang|Jeslyn Chow|13|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:19|21|Jadon Tsang|Jeslyn Chow|11|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:25|22|Clarence Chau|Harry Soo|20|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:25|21|Clarence Chau|Harry Soo|15|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:19|21|Yunzhi Chen|Colin Jia|11|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:19|23|Yunzhi Chen|Colin Jia|21|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:19|21|Darren Choi|Thomas Dent|11|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:19|22|Darren Choi|Thomas Dent|20|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:35|17|Connor Chin|Davis Wong|21|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:35|22|Connor Chin|Davis Wong|20|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323|0:35|21|Connor Chin|Davis Wong|12|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190323||Walkover Win|Alex Longsheng Xu|Sam Yuan|Walkover Loss|Carsyn He|Jonathan Lee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:21|21|Patrick Zheng|none|19|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:21|21|Patrick Zheng|none|12|Ethan Chen|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:23|21|Ivan Li|none|12|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:23|21|Ivan Li|none|18|Colin Jia|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:44|19|Brooks Liu|none|21|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:44|24|Brooks Liu|none|22|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:44|21|Brooks Liu|none|16|Jonathan Lee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:22|21|Easton Watson|none|15|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:22|21|Easton Watson|none|8|Anthony Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Jacob Kim|none|13|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Jacob Kim|none|12|Fedoretz Lyem|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:24|21|Alexander Bianchini|none|11|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:24|21|Alexander Bianchini|none|12|Alex Longsheng Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:32|21|Raphael Motel|none|19|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:32|14|Raphael Motel|none|21|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:32|21|Raphael Motel|none|16|Terence Liu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:44|21|Connor Chin|none|16|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:44|15|Connor Chin|none|21|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:44|21|Connor Chin|none|15|Harry Soo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:25|21|Sheldon Xu|none|16|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:25|21|Sheldon Xu|none|14|Julian Lau|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Minh Cheng|none|11|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Minh Cheng|none|16|Raunak Sandhu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:18|21|Darren Choi|none|6|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:18|21|Darren Choi|none|9|Davis Wong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:43|20|Kevin Shi|none|22|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:43|21|Kevin Shi|none|19|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:43|21|Kevin Shi|none|17|Paxton Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|18|Ally Chia|none|21|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Ally Chia|none|16|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Ally Chia|none|14|Jessie Hou|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Alena Yu|none|14|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Alena Yu|none|17|Llily Bastell|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:17|21|Natalie Nakatsui|none|13|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:17|21|Natalie Nakatsui|none|11|Simona Sileris|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:24|21|Jackie Dent|none|17|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:24|21|Jackie Dent|none|14|Christina Lin|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:13|Walkover Win|Emily Chan|none|Walkover Loss|Maggie Su|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:23|21|Sharon Au|none|12|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:23|21|Sharon Au|none|14|Eunice Hermanto|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:17|21|Jacqueline Cheung|none|10|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:17|21|Jacqueline Cheung|none|8|Christie Xu|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:15|21|Jasleen Kaur|none|11|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:15|21|Jasleen Kaur|none|5|Terrianne Zhang|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324||Walkover Win|Joanna Xu|none|Walkover Loss|Tiffany Xie|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:15|21|Jeslyn Chow|none|5|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:15|21|Jeslyn Chow|none|3|Nataly Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|8|Varalika Tyagi|none|21|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|22|Varalika Tyagi|none|20|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Varalika Tyagi|none|16|Natalie Yee|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:21|21|Johnna Rymes|none|18|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:21|21|Johnna Rymes|none|12|Tia Clark|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:17|21|Brian Yang |none|10|Jerry Wan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|15|Patrick Zheng|none|21|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Patrick Zheng|none|9|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Patrick Zheng|none|19|Jett Ko|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:36|19|Ivan Li|none|21|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:36|21|Ivan Li|none|19|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:36|21|Ivan Li|none|10|Kai Ma [7]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:01|Walkover Win|Brooks Liu|none|Walkover Loss|Carsyn He|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:16|21|Yunzhi Chen |none|12|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:16|21|Yunzhi Chen |none|9|Nyklaas Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:35|16|Joseph Lu|none|21|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:35|21|Joseph Lu|none|14|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:35|21|Joseph Lu|none|18|Easton Watson|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:25|21|Clarence Chau |none|19|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:25|21|Clarence Chau |none|11|Jacob Kim|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:19|21|Alexander Bianchini|none|9|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:19|21|Alexander Bianchini|none|14|Josiah Tong|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:33|21|Leo Feng|none|7|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:33|16|Leo Feng|none|21|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:33|21|Leo Feng|none|16|Raphael Motel|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:27|24|Connor Chin|none|22|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:27|21|Connor Chin|none|14|Jadon Tsang [8]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Sheldon Xu|none|15|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Sheldon Xu|none|18|Sam Yuan|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:20|21|Kiren Milan Deraj|none|12|Henrik Opsahl [4]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:19|21|Minh Cheng|none|9|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:19|21|Minh Cheng|none|19|Tom Guo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:27|22|Darren Choi|none|20|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:27|21|Darren Choi|none|11|Noah Xu [5]|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:16|21|Kevin Shi|none|9|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:16|21|Kevin Shi|none|6|Nathanyal Eng|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:21|21|Kevin Wang |none|8|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:21|21|Kevin Wang |none|12|Nguyen Binh Ngo|none|93400967-4EC2-4202-8A9E-F9966C4587EB|singles
+20190324|0:34|21|Thomas Dent|Sharon Au|8|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:34|17|Thomas Dent|Sharon Au|21|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:34|21|Thomas Dent|Sharon Au|11|Easton Watson|Alena Yu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:20|21|Anthony Wong|Johnna Rymes|18|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:20|21|Anthony Wong|Johnna Rymes|12|Nyklaas Eng|Nataly Eng|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:30|21|Alexander Bianchini|Jasleen Kaur|11|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:30|22|Alexander Bianchini|Jasleen Kaur|24|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:30|21|Alexander Bianchini|Jasleen Kaur|7|Kai Ma|Llily Bastell|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:16|21|Colin Jia|Jacqueline Cheung|13|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:16|21|Colin Jia|Jacqueline Cheung|8|Josiah Tong|Simona Sileris|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:24|25|Kiren Milan Deraj|Varalika Tyagi|23|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:24|21|Kiren Milan Deraj|Varalika Tyagi|18|Jerry Wan|Christie Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324||Walkover Win|Julian Lau|Natalie Nakatsui|Walkover Loss|Sheldon Xu|Tiffany Xie|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|8|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:16|21|Chien Jonathan Shou-Zheng |Talia Ng|5|Sam Yuan|Christina Lin|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:16|21|Noah Xu|Tia Clark|11|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:16|21|Noah Xu|Tia Clark|9|Nathanyal Eng|Terrianne Zhang|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:25|21|Tom Guo|Jessie Hou|15|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:25|21|Tom Guo|Jessie Hou|16|Fedoretz Lyem|Melissa Roque|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:14|21|Yunzhi Chen|Eliana Zhang|9|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:14|21|Yunzhi Chen|Eliana Zhang|5|Paxton Lin|Natalie Yee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:18|21|Connor Chin|Emily Chan|16|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:18|21|Connor Chin|Emily Chan|11|Jonathan Lee|Joanna Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324||Walkover Win|Nguyen Binh Ngo|Jackie Dent|Walkover Loss|Alex Longsheng Xu|Maggie Su|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:19|21|Jadon Tsang|Jeslyn Chow|13|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:19|21|Jadon Tsang|Jeslyn Chow|11|Jett Ko|Eunice Hermanto|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:25|22|Clarence Chau|Harry Soo|20|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:25|21|Clarence Chau|Harry Soo|15|Minh Cheng|Jacob Kim|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:20|21|Joseph Lu|Patrick Zheng|13|Jerry Wan|Sheldon Xu|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:19|21|Yunzhi Chen|Colin Jia|11|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:19|23|Yunzhi Chen|Colin Jia|21|Raunak Sandhu|Anthony Wong|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:19|21|Darren Choi|Thomas Dent|11|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:19|22|Darren Choi|Thomas Dent|20|Paxton Lin|Easton Watson|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:35|17|Connor Chin|Davis Wong|21|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:35|22|Connor Chin|Davis Wong|20|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324|0:35|21|Connor Chin|Davis Wong|12|Kiren Milan Deraj|Nguyen Binh Ngo|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles
+20190324||Walkover Win|Alex Longsheng Xu|Sam Yuan|Walkover Loss|Carsyn He|Jonathan Lee|93400967-4EC2-4202-8A9E-F9966C4587EB|doubles

@@ -1,0 +1,739 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20190315|0:17|21|Rasmus Hommelgaard|Weronica Krawiec|12|Jakub Slupczewski|Emilia Jochacy|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:17|21|Rasmus Hommelgaard|Weronica Krawiec|14|Jakub Slupczewski|Emilia Jochacy|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:17|21|Sebastian Kadlec|Olivia Kadlecova|12|Davis Strazdins|Anna Kupca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:17|21|Sebastian Kadlec|Olivia Kadlecova|11|Davis Strazdins|Anna Kupca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:17|21|Franciszek Dabrowski|Magdalena Tatomir|18|Patriks Kandis|Eiprila Briede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:17|21|Franciszek Dabrowski|Magdalena Tatomir|9|Patriks Kandis|Eiprila Briede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Piotr Liszka|Anna Czuchra|7|Aybars Akeren|Bahar Sabanci|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Piotr Liszka|Anna Czuchra|14|Aybars Akeren|Bahar Sabanci|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Dawid Perkowski|Martyna Kowalczyk|5|Gustavs Davids Brecs|Arina Babre|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Dawid Perkowski|Martyna Kowalczyk|9|Gustavs Davids Brecs|Arina Babre|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Kamil Kisielewski|Katarzyna Kisielewska|17|Jerome Pauquet|Leda Dominić|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|23|Kamil Kisielewski|Katarzyna Kisielewska|21|Jerome Pauquet|Leda Dominić|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:18|21|Jarne Schlevoigt|Julia Meyer|13|Vojtěch Poříz|Martina Ševčíková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:18|21|Jarne Schlevoigt|Julia Meyer|16|Vojtěch Poříz|Martina Ševčíková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Malik Bourakkadi|Tabea Tirschmann|17|Yannick Feltes|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Malik Bourakkadi|Tabea Tirschmann|14|Yannick Feltes|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Michal Szczypka|Julia Piwowar|18|Jacob Toczek|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Michal Szczypka|Julia Piwowar|16|Jacob Toczek|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Samuel Jones|Sunčica Sertić|16|David Slíva|Klára Petrušková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Samuel Jones|Sunčica Sertić|18|David Slíva|Klára Petrušková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Simeon Suchy|Sofia Slosiarikova|18|Mateusz Golas|Julia Wojcik|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Simeon Suchy|Sofia Slosiarikova|19|Mateusz Golas|Julia Wojcik|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|David Smutný|Lucie Metzová|18|Justus Graumann|Hannah Berge|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|David Smutný|Lucie Metzová|7|Justus Graumann|Hannah Berge|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:15|21|Jonathan Dresp|Michelle Kanschik|15|Roberts Renars Miscenko|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:15|21|Jonathan Dresp|Michelle Kanschik|7|Roberts Renars Miscenko|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Vratislav Erhart|Ema Staňková|13|Tamino Niedling|Lea Kämnitz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Vratislav Erhart|Ema Staňková|15|Tamino Niedling|Lea Kämnitz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:36|17|Martin Zuazola|Maria Otegui|21|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:36|21|Martin Zuazola|Maria Otegui|16|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:36|21|Martin Zuazola|Maria Otegui|17|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Gergely Szita|Anna Bereczkei|7|Wojciech Nych|Kinga Stokfisz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Gergely Szita|Anna Bereczkei|18|Wojciech Nych|Kinga Stokfisz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|Arnav Patil|none|13|Daniel Ivanko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:21|21|Arnav Patil|none|15|Daniel Ivanko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:17|21|Bene Benjamin Kiss|none|14|Iñigo Diaz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:17|21|Bene Benjamin Kiss|none|15|Iñigo Diaz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Armin Sarosi|none|9|Lukas Kudlac|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Armin Sarosi|none|10|Lukas Kudlac|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:27|21|Michael Tomic |none|14|Kenneth Neumann|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:27|21|Michael Tomic |none|19|Kenneth Neumann|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:41|21|Dominik Kopřiva|none|18|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:41|8|Dominik Kopřiva|none|21|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:41|21|Dominik Kopřiva|none|17|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Maksymilian Danielak|none|15|Boris Karpjak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Maksymilian Danielak|none|11|Boris Karpjak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|22|Peter Radoczi|none|20|Adam Vojtěch|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Peter Radoczi|none|16|Adam Vojtěch|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:33|17|Yaro Van Delsen |none|21|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:33|21|Yaro Van Delsen |none|9|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:33|21|Yaro Van Delsen |none|11|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:15|21|Nadeem Dalvi|none|9|Dominik Juhnke|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:15|21|Nadeem Dalvi|none|6|Dominik Juhnke|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:22|21|Matěj Rzeplinski|none|17|Carlos Iglesias|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:22|21|Matěj Rzeplinski|none|19|Carlos Iglesias|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|16|Kai Niederhuber|none|21|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|21|Kai Niederhuber|none|12|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|21|Kai Niederhuber|none|12|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:50|18|Kian-Yu Oei |none|21|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:50|21|Kian-Yu Oei |none|8|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:50|21|Kian-Yu Oei |none|6|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:13|21|Adrian Krawczyk|none|11|Jakub Slupczewski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:13|21|Adrian Krawczyk|none|6|Jakub Slupczewski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Sergej Lukic |none|15|Dawid Perkowski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Sergej Lukic |none|13|Dawid Perkowski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:40|21|Szymon Slepecki|none|14|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:40|19|Szymon Slepecki|none|21|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:40|21|Szymon Slepecki|none|18|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Andrzej Niczyporuk |none|18|Rasmus Hommelgaard|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Andrzej Niczyporuk |none|12|Rasmus Hommelgaard|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:14|21|Tobias Mickel |none|5|Gustavs Davids Brecs|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:14|21|Tobias Mickel |none|12|Gustavs Davids Brecs|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:14|21|Simeon Suchy |none|14|Patriks Kandis|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:14|21|Simeon Suchy |none|10|Patriks Kandis|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:43|26|Jacobo Fernandez |none|28|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:43|21|Jacobo Fernandez |none|16|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:43|21|Jacobo Fernandez |none|5|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:18|21|Jakub Melaniuk |none|12|Yannick Feltes|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:18|21|Jakub Melaniuk |none|9|Yannick Feltes|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:35|22|David Smutný|none|20|Joseph Scott|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:35|21|David Smutný|none|17|Joseph Scott|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:43|16|Iñigo Daza|none|21|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:43|21|Iñigo Daza|none|16|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:43|21|Iñigo Daza|none|15|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|22|Piotr Liszka|none|20|David Slíva|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Piotr Liszka|none|14|David Slíva|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:17|21|Jakub Diviš|none|13|Michal Szczypka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:17|21|Jakub Diviš|none|12|Michal Szczypka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:29|21|Piotr Heinke|none|19|Adam Konczol|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:29|21|Piotr Heinke|none|9|Adam Konczol|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Mikolaj Szymanowski |none|11|Christian Tomic|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Mikolaj Szymanowski |none|15|Christian Tomic|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:21|21|Iljo Van Delsen|none|13|Roberts Renars Miscenko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:21|21|Iljo Van Delsen|none|10|Roberts Renars Miscenko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:21|21|Vratislav Erhart|none|19|Jarne Schlevoigt|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:21|21|Vratislav Erhart|none|7|Jarne Schlevoigt|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|21|Kristof Toth |none|19|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|14|Kristof Toth |none|21|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|21|Kristof Toth |none|18|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:27|21|Jerome Pauquet |none|16|Martin Zuazola|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:27|21|Jerome Pauquet |none|16|Martin Zuazola|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:22|21|Tamino Niedling|none|19|Kacper Gorniak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:22|21|Tamino Niedling|none|5|Kacper Gorniak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Justus Graumann|none|7|Ricardo Rettig|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Justus Graumann|none|15|Ricardo Rettig|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Ema Staňková |none|15|Leda Dominić|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Ema Staňková |none|19|Leda Dominić|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:15|21|Dominika Gajda|none|9|Eiprila Briede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:15|21|Dominika Gajda|none|9|Eiprila Briede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:26|21|Florentine Schöffski |none|18|Julia Plawecka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:26|21|Florentine Schöffski |none|13|Julia Plawecka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:29|15|Daria Zimnol |none|21|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:29|21|Daria Zimnol |none|15|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:29|21|Daria Zimnol |none|13|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Anna Bozsogi|none|12|Julia Chmurovicova [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Anna Bozsogi|none|7|Julia Chmurovicova [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:22|22|Julia Meyer|none|20|Weronika Niklas|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:22|21|Julia Meyer|none|9|Weronika Niklas|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:24|21|Joanna Podedworny |none|11|Olivia Kadlecova|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:24|21|Joanna Podedworny |none|18|Olivia Kadlecova|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Lisa Curtin |none|16|Martina Ševčíková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Lisa Curtin |none|15|Martina Ševčíková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Bahar Sabanci|none|14|Jule Alberts|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Bahar Sabanci|none|11|Jule Alberts|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Natalia Tomcova |none|11|Julia Prokopczuk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Natalia Tomcova |none|16|Julia Prokopczuk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:24|21|Sunčica Sertić|none|13|Emilia Jochacy|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:24|21|Sunčica Sertić|none|19|Emilia Jochacy|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:21|21|Marie Růžičková |none|9|Kinga Stokfisz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:21|21|Marie Růžičková |none|8|Kinga Stokfisz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:25|22|Anna Bereczkei|none|20|Julia Piwowar|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:25|21|Anna Bereczkei|none|17|Julia Piwowar|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:31|13|Sara Loncar |none|21|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:31|21|Sara Loncar |none|16|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:31|21|Sara Loncar |none|16|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Lucie Metzová|none|14|Maja Janko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Lucie Metzová|none|15|Maja Janko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|12|Julia Dzialuk|none|21|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|21|Julia Dzialuk|none|19|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:38|21|Julia Dzialuk|none|16|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:25|21|Andjela Vitman|none|19|Emily Wu|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:25|21|Andjela Vitman|none|10|Emily Wu|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:28|21|Anastasiia Kosenchuk|none|14|Sofia Slosiarikova [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:28|21|Anastasiia Kosenchuk|none|11|Sofia Slosiarikova [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:28|21|Valérie Žurková|none|9|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:28|18|Valérie Žurková|none|21|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:28|21|Valérie Žurková|none|19|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:19|21|Ania Setien |none|13|Martyna Kowalczyk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:19|21|Ania Setien |none|12|Martyna Kowalczyk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:15|21|Gauri Shidhaye |none|3|Oliwia Siekierzynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:15|21|Gauri Shidhaye |none|9|Oliwia Siekierzynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:16|21|Anna Czuchra|none|7|Johanna Preiss|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:16|21|Anna Czuchra|none|8|Johanna Preiss|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:17|21|Julie Marzoch|none|18|Angelika Kowarska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:17|21|Julie Marzoch|none|18|Angelika Kowarska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:28|21|Anna Kupca|none|14|Aleksandra Wronska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:28|21|Anna Kupca|none|13|Aleksandra Wronska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:36|21|Lowri Hart|none|19|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:36|16|Lowri Hart|none|21|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:36|15|Lowri Hart|none|10|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:36|Walkover Win|Lowri Hart|none|Walkover Loss|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:19|21|Julia Wojcik|none|12|Magdalena Tatomir|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:19|21|Julia Wojcik|none|17|Magdalena Tatomir|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:19|21|Lucia Rodriguez |none|7|Antonina Marszalek|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:19|21|Lucia Rodriguez |none|18|Antonina Marszalek|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Kim Schmidt|none|14|Malgorzata Muszynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:20|21|Kim Schmidt|none|15|Malgorzata Muszynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:24|21|Justyna Biernot|none|16|Arta Priedniece|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:24|21|Justyna Biernot|none|19|Arta Priedniece|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:25|21|Veronika Veselá|none|18|Siebelijn De Sutter [15]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:25|21|Veronika Veselá|none|17|Siebelijn De Sutter [15]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Weronica Krawiec|none|17|Arina Babre|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:23|21|Weronica Krawiec|none|9|Arina Babre|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:27|21|Soňa Hořínková |none|16|Hannah Berge|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:27|21|Soňa Hořínková |none|17|Hannah Berge|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190315|0:18|21|Sergej Lukic |Mihajlo Tomic|11|Rasmus Hommelgaard|Tobias Mickel|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:18|21|Sergej Lukic |Mihajlo Tomic|13|Rasmus Hommelgaard|Tobias Mickel|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:30|21|Dominik Kwinta|Piotr Liszka|15|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:30|20|Dominik Kwinta|Piotr Liszka|22|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:30|21|Dominik Kwinta|Piotr Liszka|17|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:24|21|Sebastian Kadlec |Simeon Suchy|16|Justus Graumann|Kenneth Neumann|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:24|21|Sebastian Kadlec |Simeon Suchy|18|Justus Graumann|Kenneth Neumann|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:24|21|Armin Sarosi|Christian Tomic|19|Przemyslaw Gajda|Dominik Juhnke|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:24|21|Armin Sarosi|Christian Tomic|13|Przemyslaw Gajda|Dominik Juhnke|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Andrzej Niczyporuk |Mikolaj Szymanowski|10|Daniel Ivanko|Lukas Kudlac|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Andrzej Niczyporuk |Mikolaj Szymanowski|10|Daniel Ivanko|Lukas Kudlac|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:22|21|Guillermo Figueras|Alvaro Rumin|14|Tomasz Buza|Maksymilian Danielak|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:22|21|Guillermo Figueras|Alvaro Rumin|11|Tomasz Buza|Maksymilian Danielak|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|Jonathan Dresp|Jarne Schlevoigt|12|Matěj Rzeplinski [7]|David Smutný|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|Jonathan Dresp|Jarne Schlevoigt|10|Matěj Rzeplinski [7]|David Smutný|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:37|21|Kacper Gorniak|Piotr Heinke|17|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:37|22|Kacper Gorniak|Piotr Heinke|24|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:37|21|Kacper Gorniak|Piotr Heinke|11|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:42|20|Carlos Iglesias|Marcos Rodriguez|22|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:42|21|Carlos Iglesias|Marcos Rodriguez|15|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:42|21|Carlos Iglesias|Marcos Rodriguez|19|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:28|21|Adam Ehm |Dominik Kopřiva|12|Gustavs Davids Brecs|Davis Strazdins|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:28|21|Adam Ehm |Dominik Kopřiva|11|Gustavs Davids Brecs|Davis Strazdins|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:25|21|Jakub Melaniuk|Szymon Slepecki|13|Iñigo Daza|Iñigo Diaz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:25|21|Jakub Melaniuk|Szymon Slepecki|15|Iñigo Daza|Iñigo Diaz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:23|21|Kai Niederhuber |Michael Tomic|7|Adrian Krawczyk|Dawid Perkowski|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:23|22|Kai Niederhuber |Michael Tomic|20|Adrian Krawczyk|Dawid Perkowski|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:25|21|Daniel Franco|Ruben Garcia|14|Daniel Mcmillan|Joseph Scott|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:25|21|Daniel Franco|Ruben Garcia|14|Daniel Mcmillan|Joseph Scott|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Iljo Van Delsen |Yaro Van Delsen|7|Jakub Diviš|Vojtěch Poříz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Iljo Van Delsen |Yaro Van Delsen|13|Jakub Diviš|Vojtěch Poříz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:34|20|Bene Benjamin Kiss|Gergely Szita|22|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:34|21|Bene Benjamin Kiss|Gergely Szita|11|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:34|21|Bene Benjamin Kiss|Gergely Szita|17|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Malik Bourakkadi |Kian-Yu Oei|7|Patriks Kandis|Roberts Renars Miscenko|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Malik Bourakkadi |Kian-Yu Oei|3|Patriks Kandis|Roberts Renars Miscenko|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:15|21|Marie Růžičková |Ema Staňková|7|Eiprila Briede|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:15|21|Marie Růžičková |Ema Staňková|6|Eiprila Briede|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:23|21|Julia Plawecka |Daria Zimnol|16|Olivia Kadlecova|Sofia Slosiarikova|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:23|21|Julia Plawecka |Daria Zimnol|10|Olivia Kadlecova|Sofia Slosiarikova|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Julia Meyer|Tabea Tirschmann|14|Weronika Niklas|Julia Prokopczuk|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Julia Meyer|Tabea Tirschmann|7|Weronika Niklas|Julia Prokopczuk|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:35|21|Arina Babre|Anna Kupca|14|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:35|15|Arina Babre|Anna Kupca|21|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:35|21|Arina Babre|Anna Kupca|15|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|Lisa Curtin |Gauri Shidhaye|8|Lucie Metzová|Valérie Žurková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|Lisa Curtin |Gauri Shidhaye|8|Lucie Metzová|Valérie Žurková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:40|21|Maja Janko|Julia Wojcik|16|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:40|20|Maja Janko|Julia Wojcik|22|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:40|21|Maja Janko|Julia Wojcik|17|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|Katarzyna Kisielewska|Anastasiia Kosenchuk|18|Jule Alberts|Julie Marzoch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:21|21|Katarzyna Kisielewska|Anastasiia Kosenchuk|17|Jule Alberts|Julie Marzoch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:24|21|Arta Priedniece|Sunčica Sertić|19|Gabriela Skorkowska|Magdalena Tatomir|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:24|21|Arta Priedniece|Sunčica Sertić|11|Gabriela Skorkowska|Magdalena Tatomir|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:38|19|Julia Chmurovicova |Natalia Tomcova|21|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:38|21|Julia Chmurovicova |Natalia Tomcova|16|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:38|21|Julia Chmurovicova |Natalia Tomcova|15|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:26|21|Klára Petrušková|Veronika Veselá|15|Justyna Biernot|Julia Piwowar|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:26|21|Klára Petrušková|Veronika Veselá|18|Justyna Biernot|Julia Piwowar|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Dominika Gajda|Martyna Kowalczyk|11|Martina Ševčíková|Tereza Šolarová|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Dominika Gajda|Martyna Kowalczyk|16|Martina Ševčíková|Tereza Šolarová|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:22|21|Siebelijn De Sutter |Lien Lammertyn|10|Maria Otegui|Ania Setien|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:22|21|Siebelijn De Sutter |Lien Lammertyn|18|Maria Otegui|Ania Setien|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Soňa Hořínková |Kateřina Valentová|11|Angelika Kowarska|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:16|21|Soňa Hořínková |Kateřina Valentová|13|Angelika Kowarska|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Anna Czuchra|Kinga Stokfisz|12|Hannah Berge|Weronica Krawiec|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Anna Czuchra|Kinga Stokfisz|17|Hannah Berge|Weronica Krawiec|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Michelle Kanschik |Florentine Schöffski|13|Antonina Marszalek|Aleksandra Wronska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:20|21|Michelle Kanschik |Florentine Schöffski|13|Antonina Marszalek|Aleksandra Wronska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Sara Loncar |Andjela Vitman|9|Leda Dominić|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190315|0:19|21|Sara Loncar |Andjela Vitman|12|Leda Dominić|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:17|21|Rasmus Hommelgaard|Weronica Krawiec|12|Jakub Slupczewski|Emilia Jochacy|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:17|21|Rasmus Hommelgaard|Weronica Krawiec|14|Jakub Slupczewski|Emilia Jochacy|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:17|21|Sebastian Kadlec|Olivia Kadlecova|12|Davis Strazdins|Anna Kupca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:17|21|Sebastian Kadlec|Olivia Kadlecova|11|Davis Strazdins|Anna Kupca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:17|21|Franciszek Dabrowski|Magdalena Tatomir|18|Patriks Kandis|Eiprila Briede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:17|21|Franciszek Dabrowski|Magdalena Tatomir|9|Patriks Kandis|Eiprila Briede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Piotr Liszka|Anna Czuchra|7|Aybars Akeren|Bahar Sabanci|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Piotr Liszka|Anna Czuchra|14|Aybars Akeren|Bahar Sabanci|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Dawid Perkowski|Martyna Kowalczyk|5|Gustavs Davids Brecs|Arina Babre|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Dawid Perkowski|Martyna Kowalczyk|9|Gustavs Davids Brecs|Arina Babre|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Kamil Kisielewski|Katarzyna Kisielewska|17|Jerome Pauquet|Leda Dominić|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|23|Kamil Kisielewski|Katarzyna Kisielewska|21|Jerome Pauquet|Leda Dominić|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:18|21|Jarne Schlevoigt|Julia Meyer|13|Vojtěch Poříz|Martina Ševčíková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:18|21|Jarne Schlevoigt|Julia Meyer|16|Vojtěch Poříz|Martina Ševčíková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Malik Bourakkadi|Tabea Tirschmann|17|Yannick Feltes|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Malik Bourakkadi|Tabea Tirschmann|14|Yannick Feltes|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Michal Szczypka|Julia Piwowar|18|Jacob Toczek|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Michal Szczypka|Julia Piwowar|16|Jacob Toczek|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Samuel Jones|Sunčica Sertić|16|David Slíva|Klára Petrušková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Samuel Jones|Sunčica Sertić|18|David Slíva|Klára Petrušková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Simeon Suchy|Sofia Slosiarikova|18|Mateusz Golas|Julia Wojcik|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Simeon Suchy|Sofia Slosiarikova|19|Mateusz Golas|Julia Wojcik|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|David Smutný|Lucie Metzová|18|Justus Graumann|Hannah Berge|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|David Smutný|Lucie Metzová|7|Justus Graumann|Hannah Berge|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:15|21|Jonathan Dresp|Michelle Kanschik|15|Roberts Renars Miscenko|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:15|21|Jonathan Dresp|Michelle Kanschik|7|Roberts Renars Miscenko|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Vratislav Erhart|Ema Staňková|13|Tamino Niedling|Lea Kämnitz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Vratislav Erhart|Ema Staňková|15|Tamino Niedling|Lea Kämnitz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:36|17|Martin Zuazola|Maria Otegui|21|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:36|21|Martin Zuazola|Maria Otegui|16|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:36|21|Martin Zuazola|Maria Otegui|17|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Gergely Szita|Anna Bereczkei|7|Wojciech Nych|Kinga Stokfisz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Gergely Szita|Anna Bereczkei|18|Wojciech Nych|Kinga Stokfisz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|Arnav Patil|none|13|Daniel Ivanko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:21|21|Arnav Patil|none|15|Daniel Ivanko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:17|21|Bene Benjamin Kiss|none|14|Iñigo Diaz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:17|21|Bene Benjamin Kiss|none|15|Iñigo Diaz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Armin Sarosi|none|9|Lukas Kudlac|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Armin Sarosi|none|10|Lukas Kudlac|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:27|21|Michael Tomic |none|14|Kenneth Neumann|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:27|21|Michael Tomic |none|19|Kenneth Neumann|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:41|21|Dominik Kopřiva|none|18|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:41|8|Dominik Kopřiva|none|21|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:41|21|Dominik Kopřiva|none|17|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Maksymilian Danielak|none|15|Boris Karpjak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Maksymilian Danielak|none|11|Boris Karpjak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|22|Peter Radoczi|none|20|Adam Vojtěch|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Peter Radoczi|none|16|Adam Vojtěch|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:33|17|Yaro Van Delsen |none|21|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:33|21|Yaro Van Delsen |none|9|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:33|21|Yaro Van Delsen |none|11|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:15|21|Nadeem Dalvi|none|9|Dominik Juhnke|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:15|21|Nadeem Dalvi|none|6|Dominik Juhnke|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:22|21|Matěj Rzeplinski|none|17|Carlos Iglesias|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:22|21|Matěj Rzeplinski|none|19|Carlos Iglesias|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|16|Kai Niederhuber|none|21|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|21|Kai Niederhuber|none|12|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|21|Kai Niederhuber|none|12|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:50|18|Kian-Yu Oei |none|21|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:50|21|Kian-Yu Oei |none|8|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:50|21|Kian-Yu Oei |none|6|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:13|21|Adrian Krawczyk|none|11|Jakub Slupczewski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:13|21|Adrian Krawczyk|none|6|Jakub Slupczewski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Sergej Lukic |none|15|Dawid Perkowski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Sergej Lukic |none|13|Dawid Perkowski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:40|21|Szymon Slepecki|none|14|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:40|19|Szymon Slepecki|none|21|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:40|21|Szymon Slepecki|none|18|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Andrzej Niczyporuk |none|18|Rasmus Hommelgaard|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Andrzej Niczyporuk |none|12|Rasmus Hommelgaard|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:14|21|Tobias Mickel |none|5|Gustavs Davids Brecs|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:14|21|Tobias Mickel |none|12|Gustavs Davids Brecs|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:14|21|Simeon Suchy |none|14|Patriks Kandis|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:14|21|Simeon Suchy |none|10|Patriks Kandis|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:43|26|Jacobo Fernandez |none|28|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:43|21|Jacobo Fernandez |none|16|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:43|21|Jacobo Fernandez |none|5|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:18|21|Jakub Melaniuk |none|12|Yannick Feltes|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:18|21|Jakub Melaniuk |none|9|Yannick Feltes|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:35|22|David Smutný|none|20|Joseph Scott|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:35|21|David Smutný|none|17|Joseph Scott|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:43|16|Iñigo Daza|none|21|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:43|21|Iñigo Daza|none|16|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:43|21|Iñigo Daza|none|15|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|22|Piotr Liszka|none|20|David Slíva|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Piotr Liszka|none|14|David Slíva|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:17|21|Jakub Diviš|none|13|Michal Szczypka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:17|21|Jakub Diviš|none|12|Michal Szczypka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:29|21|Piotr Heinke|none|19|Adam Konczol|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:29|21|Piotr Heinke|none|9|Adam Konczol|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Mikolaj Szymanowski |none|11|Christian Tomic|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Mikolaj Szymanowski |none|15|Christian Tomic|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:21|21|Iljo Van Delsen|none|13|Roberts Renars Miscenko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:21|21|Iljo Van Delsen|none|10|Roberts Renars Miscenko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:21|21|Vratislav Erhart|none|19|Jarne Schlevoigt|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:21|21|Vratislav Erhart|none|7|Jarne Schlevoigt|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|21|Kristof Toth |none|19|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|14|Kristof Toth |none|21|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|21|Kristof Toth |none|18|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:27|21|Jerome Pauquet |none|16|Martin Zuazola|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:27|21|Jerome Pauquet |none|16|Martin Zuazola|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:22|21|Tamino Niedling|none|19|Kacper Gorniak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:22|21|Tamino Niedling|none|5|Kacper Gorniak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Justus Graumann|none|7|Ricardo Rettig|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Justus Graumann|none|15|Ricardo Rettig|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Ema Staňková |none|15|Leda Dominić|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Ema Staňková |none|19|Leda Dominić|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:15|21|Dominika Gajda|none|9|Eiprila Briede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:15|21|Dominika Gajda|none|9|Eiprila Briede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:26|21|Florentine Schöffski |none|18|Julia Plawecka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:26|21|Florentine Schöffski |none|13|Julia Plawecka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:29|15|Daria Zimnol |none|21|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:29|21|Daria Zimnol |none|15|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:29|21|Daria Zimnol |none|13|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Anna Bozsogi|none|12|Julia Chmurovicova [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Anna Bozsogi|none|7|Julia Chmurovicova [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:22|22|Julia Meyer|none|20|Weronika Niklas|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:22|21|Julia Meyer|none|9|Weronika Niklas|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:24|21|Joanna Podedworny |none|11|Olivia Kadlecova|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:24|21|Joanna Podedworny |none|18|Olivia Kadlecova|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Lisa Curtin |none|16|Martina Ševčíková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Lisa Curtin |none|15|Martina Ševčíková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Bahar Sabanci|none|14|Jule Alberts|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Bahar Sabanci|none|11|Jule Alberts|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Natalia Tomcova |none|11|Julia Prokopczuk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Natalia Tomcova |none|16|Julia Prokopczuk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:24|21|Sunčica Sertić|none|13|Emilia Jochacy|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:24|21|Sunčica Sertić|none|19|Emilia Jochacy|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:21|21|Marie Růžičková |none|9|Kinga Stokfisz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:21|21|Marie Růžičková |none|8|Kinga Stokfisz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:25|22|Anna Bereczkei|none|20|Julia Piwowar|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:25|21|Anna Bereczkei|none|17|Julia Piwowar|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:31|13|Sara Loncar |none|21|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:31|21|Sara Loncar |none|16|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:31|21|Sara Loncar |none|16|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Lucie Metzová|none|14|Maja Janko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Lucie Metzová|none|15|Maja Janko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|12|Julia Dzialuk|none|21|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|21|Julia Dzialuk|none|19|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:38|21|Julia Dzialuk|none|16|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:25|21|Andjela Vitman|none|19|Emily Wu|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:25|21|Andjela Vitman|none|10|Emily Wu|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:28|21|Anastasiia Kosenchuk|none|14|Sofia Slosiarikova [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:28|21|Anastasiia Kosenchuk|none|11|Sofia Slosiarikova [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:28|21|Valérie Žurková|none|9|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:28|18|Valérie Žurková|none|21|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:28|21|Valérie Žurková|none|19|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:19|21|Ania Setien |none|13|Martyna Kowalczyk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:19|21|Ania Setien |none|12|Martyna Kowalczyk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:15|21|Gauri Shidhaye |none|3|Oliwia Siekierzynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:15|21|Gauri Shidhaye |none|9|Oliwia Siekierzynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:16|21|Anna Czuchra|none|7|Johanna Preiss|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:16|21|Anna Czuchra|none|8|Johanna Preiss|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:17|21|Julie Marzoch|none|18|Angelika Kowarska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:17|21|Julie Marzoch|none|18|Angelika Kowarska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:28|21|Anna Kupca|none|14|Aleksandra Wronska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:28|21|Anna Kupca|none|13|Aleksandra Wronska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:36|21|Lowri Hart|none|19|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:36|16|Lowri Hart|none|21|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:36|15|Lowri Hart|none|10|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:36|Walkover Win|Lowri Hart|none|Walkover Loss|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:19|21|Julia Wojcik|none|12|Magdalena Tatomir|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:19|21|Julia Wojcik|none|17|Magdalena Tatomir|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:19|21|Lucia Rodriguez |none|7|Antonina Marszalek|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:19|21|Lucia Rodriguez |none|18|Antonina Marszalek|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Kim Schmidt|none|14|Malgorzata Muszynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:20|21|Kim Schmidt|none|15|Malgorzata Muszynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:24|21|Justyna Biernot|none|16|Arta Priedniece|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:24|21|Justyna Biernot|none|19|Arta Priedniece|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:25|21|Veronika Veselá|none|18|Siebelijn De Sutter [15]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:25|21|Veronika Veselá|none|17|Siebelijn De Sutter [15]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Weronica Krawiec|none|17|Arina Babre|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:23|21|Weronica Krawiec|none|9|Arina Babre|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:27|21|Soňa Hořínková |none|16|Hannah Berge|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:27|21|Soňa Hořínková |none|17|Hannah Berge|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190316|0:18|21|Sergej Lukic |Mihajlo Tomic|11|Rasmus Hommelgaard|Tobias Mickel|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:18|21|Sergej Lukic |Mihajlo Tomic|13|Rasmus Hommelgaard|Tobias Mickel|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:30|21|Dominik Kwinta|Piotr Liszka|15|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:30|20|Dominik Kwinta|Piotr Liszka|22|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:30|21|Dominik Kwinta|Piotr Liszka|17|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:24|21|Sebastian Kadlec |Simeon Suchy|16|Justus Graumann|Kenneth Neumann|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:24|21|Sebastian Kadlec |Simeon Suchy|18|Justus Graumann|Kenneth Neumann|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:24|21|Armin Sarosi|Christian Tomic|19|Przemyslaw Gajda|Dominik Juhnke|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:24|21|Armin Sarosi|Christian Tomic|13|Przemyslaw Gajda|Dominik Juhnke|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Andrzej Niczyporuk |Mikolaj Szymanowski|10|Daniel Ivanko|Lukas Kudlac|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Andrzej Niczyporuk |Mikolaj Szymanowski|10|Daniel Ivanko|Lukas Kudlac|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:22|21|Guillermo Figueras|Alvaro Rumin|14|Tomasz Buza|Maksymilian Danielak|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:22|21|Guillermo Figueras|Alvaro Rumin|11|Tomasz Buza|Maksymilian Danielak|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|Jonathan Dresp|Jarne Schlevoigt|12|Matěj Rzeplinski [7]|David Smutný|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|Jonathan Dresp|Jarne Schlevoigt|10|Matěj Rzeplinski [7]|David Smutný|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:37|21|Kacper Gorniak|Piotr Heinke|17|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:37|22|Kacper Gorniak|Piotr Heinke|24|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:37|21|Kacper Gorniak|Piotr Heinke|11|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:42|20|Carlos Iglesias|Marcos Rodriguez|22|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:42|21|Carlos Iglesias|Marcos Rodriguez|15|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:42|21|Carlos Iglesias|Marcos Rodriguez|19|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:28|21|Adam Ehm |Dominik Kopřiva|12|Gustavs Davids Brecs|Davis Strazdins|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:28|21|Adam Ehm |Dominik Kopřiva|11|Gustavs Davids Brecs|Davis Strazdins|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:25|21|Jakub Melaniuk|Szymon Slepecki|13|Iñigo Daza|Iñigo Diaz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:25|21|Jakub Melaniuk|Szymon Slepecki|15|Iñigo Daza|Iñigo Diaz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:23|21|Kai Niederhuber |Michael Tomic|7|Adrian Krawczyk|Dawid Perkowski|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:23|22|Kai Niederhuber |Michael Tomic|20|Adrian Krawczyk|Dawid Perkowski|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:25|21|Daniel Franco|Ruben Garcia|14|Daniel Mcmillan|Joseph Scott|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:25|21|Daniel Franco|Ruben Garcia|14|Daniel Mcmillan|Joseph Scott|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Iljo Van Delsen |Yaro Van Delsen|7|Jakub Diviš|Vojtěch Poříz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Iljo Van Delsen |Yaro Van Delsen|13|Jakub Diviš|Vojtěch Poříz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:34|20|Bene Benjamin Kiss|Gergely Szita|22|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:34|21|Bene Benjamin Kiss|Gergely Szita|11|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:34|21|Bene Benjamin Kiss|Gergely Szita|17|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Malik Bourakkadi |Kian-Yu Oei|7|Patriks Kandis|Roberts Renars Miscenko|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Malik Bourakkadi |Kian-Yu Oei|3|Patriks Kandis|Roberts Renars Miscenko|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:15|21|Marie Růžičková |Ema Staňková|7|Eiprila Briede|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:15|21|Marie Růžičková |Ema Staňková|6|Eiprila Briede|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:23|21|Julia Plawecka |Daria Zimnol|16|Olivia Kadlecova|Sofia Slosiarikova|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:23|21|Julia Plawecka |Daria Zimnol|10|Olivia Kadlecova|Sofia Slosiarikova|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Julia Meyer|Tabea Tirschmann|14|Weronika Niklas|Julia Prokopczuk|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Julia Meyer|Tabea Tirschmann|7|Weronika Niklas|Julia Prokopczuk|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:35|21|Arina Babre|Anna Kupca|14|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:35|15|Arina Babre|Anna Kupca|21|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:35|21|Arina Babre|Anna Kupca|15|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|Lisa Curtin |Gauri Shidhaye|8|Lucie Metzová|Valérie Žurková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|Lisa Curtin |Gauri Shidhaye|8|Lucie Metzová|Valérie Žurková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:40|21|Maja Janko|Julia Wojcik|16|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:40|20|Maja Janko|Julia Wojcik|22|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:40|21|Maja Janko|Julia Wojcik|17|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|Katarzyna Kisielewska|Anastasiia Kosenchuk|18|Jule Alberts|Julie Marzoch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:21|21|Katarzyna Kisielewska|Anastasiia Kosenchuk|17|Jule Alberts|Julie Marzoch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:24|21|Arta Priedniece|Sunčica Sertić|19|Gabriela Skorkowska|Magdalena Tatomir|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:24|21|Arta Priedniece|Sunčica Sertić|11|Gabriela Skorkowska|Magdalena Tatomir|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:38|19|Julia Chmurovicova |Natalia Tomcova|21|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:38|21|Julia Chmurovicova |Natalia Tomcova|16|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:38|21|Julia Chmurovicova |Natalia Tomcova|15|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:26|21|Klára Petrušková|Veronika Veselá|15|Justyna Biernot|Julia Piwowar|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:26|21|Klára Petrušková|Veronika Veselá|18|Justyna Biernot|Julia Piwowar|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Dominika Gajda|Martyna Kowalczyk|11|Martina Ševčíková|Tereza Šolarová|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Dominika Gajda|Martyna Kowalczyk|16|Martina Ševčíková|Tereza Šolarová|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:22|21|Siebelijn De Sutter |Lien Lammertyn|10|Maria Otegui|Ania Setien|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:22|21|Siebelijn De Sutter |Lien Lammertyn|18|Maria Otegui|Ania Setien|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Soňa Hořínková |Kateřina Valentová|11|Angelika Kowarska|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:16|21|Soňa Hořínková |Kateřina Valentová|13|Angelika Kowarska|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Anna Czuchra|Kinga Stokfisz|12|Hannah Berge|Weronica Krawiec|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Anna Czuchra|Kinga Stokfisz|17|Hannah Berge|Weronica Krawiec|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Michelle Kanschik |Florentine Schöffski|13|Antonina Marszalek|Aleksandra Wronska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:20|21|Michelle Kanschik |Florentine Schöffski|13|Antonina Marszalek|Aleksandra Wronska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Sara Loncar |Andjela Vitman|9|Leda Dominić|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190316|0:19|21|Sara Loncar |Andjela Vitman|12|Leda Dominić|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:17|21|Rasmus Hommelgaard|Weronica Krawiec|12|Jakub Slupczewski|Emilia Jochacy|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:17|21|Rasmus Hommelgaard|Weronica Krawiec|14|Jakub Slupczewski|Emilia Jochacy|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:17|21|Sebastian Kadlec|Olivia Kadlecova|12|Davis Strazdins|Anna Kupca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:17|21|Sebastian Kadlec|Olivia Kadlecova|11|Davis Strazdins|Anna Kupca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:17|21|Franciszek Dabrowski|Magdalena Tatomir|18|Patriks Kandis|Eiprila Briede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:17|21|Franciszek Dabrowski|Magdalena Tatomir|9|Patriks Kandis|Eiprila Briede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Piotr Liszka|Anna Czuchra|7|Aybars Akeren|Bahar Sabanci|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Piotr Liszka|Anna Czuchra|14|Aybars Akeren|Bahar Sabanci|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Dawid Perkowski|Martyna Kowalczyk|5|Gustavs Davids Brecs|Arina Babre|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Dawid Perkowski|Martyna Kowalczyk|9|Gustavs Davids Brecs|Arina Babre|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Kamil Kisielewski|Katarzyna Kisielewska|17|Jerome Pauquet|Leda Dominić|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|23|Kamil Kisielewski|Katarzyna Kisielewska|21|Jerome Pauquet|Leda Dominić|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:18|21|Jarne Schlevoigt|Julia Meyer|13|Vojtěch Poříz|Martina Ševčíková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:18|21|Jarne Schlevoigt|Julia Meyer|16|Vojtěch Poříz|Martina Ševčíková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Malik Bourakkadi|Tabea Tirschmann|17|Yannick Feltes|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Malik Bourakkadi|Tabea Tirschmann|14|Yannick Feltes|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Michal Szczypka|Julia Piwowar|18|Jacob Toczek|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Michal Szczypka|Julia Piwowar|16|Jacob Toczek|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Samuel Jones|Sunčica Sertić|16|David Slíva|Klára Petrušková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Samuel Jones|Sunčica Sertić|18|David Slíva|Klára Petrušková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Simeon Suchy|Sofia Slosiarikova|18|Mateusz Golas|Julia Wojcik|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Simeon Suchy|Sofia Slosiarikova|19|Mateusz Golas|Julia Wojcik|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|David Smutný|Lucie Metzová|18|Justus Graumann|Hannah Berge|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|David Smutný|Lucie Metzová|7|Justus Graumann|Hannah Berge|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:15|21|Jonathan Dresp|Michelle Kanschik|15|Roberts Renars Miscenko|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:15|21|Jonathan Dresp|Michelle Kanschik|7|Roberts Renars Miscenko|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Vratislav Erhart|Ema Staňková|13|Tamino Niedling|Lea Kämnitz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Vratislav Erhart|Ema Staňková|15|Tamino Niedling|Lea Kämnitz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:36|17|Martin Zuazola|Maria Otegui|21|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:36|21|Martin Zuazola|Maria Otegui|16|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:36|21|Martin Zuazola|Maria Otegui|17|Adam Konczol|Anna Bozsogi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Gergely Szita|Anna Bereczkei|7|Wojciech Nych|Kinga Stokfisz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Gergely Szita|Anna Bereczkei|18|Wojciech Nych|Kinga Stokfisz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|Arnav Patil|none|13|Daniel Ivanko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:21|21|Arnav Patil|none|15|Daniel Ivanko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:17|21|Bene Benjamin Kiss|none|14|Iñigo Diaz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:17|21|Bene Benjamin Kiss|none|15|Iñigo Diaz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Armin Sarosi|none|9|Lukas Kudlac|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Armin Sarosi|none|10|Lukas Kudlac|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:27|21|Michael Tomic |none|14|Kenneth Neumann|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:27|21|Michael Tomic |none|19|Kenneth Neumann|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:41|21|Dominik Kopřiva|none|18|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:41|8|Dominik Kopřiva|none|21|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:41|21|Dominik Kopřiva|none|17|Guillermo Figueras [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Maksymilian Danielak|none|15|Boris Karpjak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Maksymilian Danielak|none|11|Boris Karpjak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|22|Peter Radoczi|none|20|Adam Vojtěch|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Peter Radoczi|none|16|Adam Vojtěch|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:33|17|Yaro Van Delsen |none|21|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:33|21|Yaro Van Delsen |none|9|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:33|21|Yaro Van Delsen |none|11|Dominik Kwinta|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:15|21|Nadeem Dalvi|none|9|Dominik Juhnke|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:15|21|Nadeem Dalvi|none|6|Dominik Juhnke|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:22|21|Matěj Rzeplinski|none|17|Carlos Iglesias|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:22|21|Matěj Rzeplinski|none|19|Carlos Iglesias|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|16|Kai Niederhuber|none|21|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|21|Kai Niederhuber|none|12|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|21|Kai Niederhuber|none|12|Adam Ehm [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:50|18|Kian-Yu Oei |none|21|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:50|21|Kian-Yu Oei |none|8|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:50|21|Kian-Yu Oei |none|6|Ruben Garcia|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:13|21|Adrian Krawczyk|none|11|Jakub Slupczewski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:13|21|Adrian Krawczyk|none|6|Jakub Slupczewski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Sergej Lukic |none|15|Dawid Perkowski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Sergej Lukic |none|13|Dawid Perkowski|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:40|21|Szymon Slepecki|none|14|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:40|19|Szymon Slepecki|none|21|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:40|21|Szymon Slepecki|none|18|Sebastian Kadlec [14]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Andrzej Niczyporuk |none|18|Rasmus Hommelgaard|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Andrzej Niczyporuk |none|12|Rasmus Hommelgaard|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:14|21|Tobias Mickel |none|5|Gustavs Davids Brecs|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:14|21|Tobias Mickel |none|12|Gustavs Davids Brecs|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:14|21|Simeon Suchy |none|14|Patriks Kandis|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:14|21|Simeon Suchy |none|10|Patriks Kandis|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:43|26|Jacobo Fernandez |none|28|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:43|21|Jacobo Fernandez |none|16|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:43|21|Jacobo Fernandez |none|5|Malik Bourakkadi|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:18|21|Jakub Melaniuk |none|12|Yannick Feltes|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:18|21|Jakub Melaniuk |none|9|Yannick Feltes|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:35|22|David Smutný|none|20|Joseph Scott|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:35|21|David Smutný|none|17|Joseph Scott|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:43|16|Iñigo Daza|none|21|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:43|21|Iñigo Daza|none|16|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:43|21|Iñigo Daza|none|15|Vojtěch Poříz [12]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|22|Piotr Liszka|none|20|David Slíva|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Piotr Liszka|none|14|David Slíva|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:17|21|Jakub Diviš|none|13|Michal Szczypka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:17|21|Jakub Diviš|none|12|Michal Szczypka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:29|21|Piotr Heinke|none|19|Adam Konczol|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:29|21|Piotr Heinke|none|9|Adam Konczol|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Mikolaj Szymanowski |none|11|Christian Tomic|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Mikolaj Szymanowski |none|15|Christian Tomic|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:21|21|Iljo Van Delsen|none|13|Roberts Renars Miscenko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:21|21|Iljo Van Delsen|none|10|Roberts Renars Miscenko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:21|21|Vratislav Erhart|none|19|Jarne Schlevoigt|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:21|21|Vratislav Erhart|none|7|Jarne Schlevoigt|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|21|Kristof Toth |none|19|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|14|Kristof Toth |none|21|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|21|Kristof Toth |none|18|Jonathan Dresp|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:27|21|Jerome Pauquet |none|16|Martin Zuazola|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:27|21|Jerome Pauquet |none|16|Martin Zuazola|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:22|21|Tamino Niedling|none|19|Kacper Gorniak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:22|21|Tamino Niedling|none|5|Kacper Gorniak|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Justus Graumann|none|7|Ricardo Rettig|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Justus Graumann|none|15|Ricardo Rettig|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Ema Staňková |none|15|Leda Dominić|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Ema Staňková |none|19|Leda Dominić|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:15|21|Dominika Gajda|none|9|Eiprila Briede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:15|21|Dominika Gajda|none|9|Eiprila Briede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:26|21|Florentine Schöffski |none|18|Julia Plawecka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:26|21|Florentine Schöffski |none|13|Julia Plawecka|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:29|15|Daria Zimnol |none|21|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:29|21|Daria Zimnol |none|15|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:29|21|Daria Zimnol |none|13|Klára Petrušková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Anna Bozsogi|none|12|Julia Chmurovicova [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Anna Bozsogi|none|7|Julia Chmurovicova [16]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:22|22|Julia Meyer|none|20|Weronika Niklas|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:22|21|Julia Meyer|none|9|Weronika Niklas|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:24|21|Joanna Podedworny |none|11|Olivia Kadlecova|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:24|21|Joanna Podedworny |none|18|Olivia Kadlecova|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Lisa Curtin |none|16|Martina Ševčíková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Lisa Curtin |none|15|Martina Ševčíková|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Bahar Sabanci|none|14|Jule Alberts|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Bahar Sabanci|none|11|Jule Alberts|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Natalia Tomcova |none|11|Julia Prokopczuk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Natalia Tomcova |none|16|Julia Prokopczuk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:24|21|Sunčica Sertić|none|13|Emilia Jochacy|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:24|21|Sunčica Sertić|none|19|Emilia Jochacy|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:21|21|Marie Růžičková |none|9|Kinga Stokfisz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:21|21|Marie Růžičková |none|8|Kinga Stokfisz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:25|22|Anna Bereczkei|none|20|Julia Piwowar|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:25|21|Anna Bereczkei|none|17|Julia Piwowar|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:31|13|Sara Loncar |none|21|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:31|21|Sara Loncar |none|16|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:31|21|Sara Loncar |none|16|Lien Lammertyn|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Lucie Metzová|none|14|Maja Janko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Lucie Metzová|none|15|Maja Janko|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|12|Julia Dzialuk|none|21|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|21|Julia Dzialuk|none|19|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:38|21|Julia Dzialuk|none|16|Lea Kämnitz|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:25|21|Andjela Vitman|none|19|Emily Wu|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:25|21|Andjela Vitman|none|10|Emily Wu|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:28|21|Anastasiia Kosenchuk|none|14|Sofia Slosiarikova [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:28|21|Anastasiia Kosenchuk|none|11|Sofia Slosiarikova [10]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:28|21|Valérie Žurková|none|9|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:28|18|Valérie Žurková|none|21|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:28|21|Valérie Žurková|none|19|Annemarija Lorena Priede|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:19|21|Ania Setien |none|13|Martyna Kowalczyk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:19|21|Ania Setien |none|12|Martyna Kowalczyk|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:15|21|Gauri Shidhaye |none|3|Oliwia Siekierzynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:15|21|Gauri Shidhaye |none|9|Oliwia Siekierzynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:16|21|Anna Czuchra|none|7|Johanna Preiss|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:16|21|Anna Czuchra|none|8|Johanna Preiss|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:17|21|Julie Marzoch|none|18|Angelika Kowarska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:17|21|Julie Marzoch|none|18|Angelika Kowarska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:28|21|Anna Kupca|none|14|Aleksandra Wronska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:28|21|Anna Kupca|none|13|Aleksandra Wronska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:36|21|Lowri Hart|none|19|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:36|16|Lowri Hart|none|21|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:36|15|Lowri Hart|none|10|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:36|Walkover Win|Lowri Hart|none|Walkover Loss|Tallulah Sharleen Van Coppenolle [6]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:19|21|Julia Wojcik|none|12|Magdalena Tatomir|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:19|21|Julia Wojcik|none|17|Magdalena Tatomir|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:19|21|Lucia Rodriguez |none|7|Antonina Marszalek|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:19|21|Lucia Rodriguez |none|18|Antonina Marszalek|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Kim Schmidt|none|14|Malgorzata Muszynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:20|21|Kim Schmidt|none|15|Malgorzata Muszynska|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:24|21|Justyna Biernot|none|16|Arta Priedniece|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:24|21|Justyna Biernot|none|19|Arta Priedniece|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:25|21|Veronika Veselá|none|18|Siebelijn De Sutter [15]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:25|21|Veronika Veselá|none|17|Siebelijn De Sutter [15]|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Weronica Krawiec|none|17|Arina Babre|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:23|21|Weronica Krawiec|none|9|Arina Babre|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:27|21|Soňa Hořínková |none|16|Hannah Berge|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:27|21|Soňa Hořínková |none|17|Hannah Berge|none|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|singles
+20190317|0:18|21|Sergej Lukic |Mihajlo Tomic|11|Rasmus Hommelgaard|Tobias Mickel|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:18|21|Sergej Lukic |Mihajlo Tomic|13|Rasmus Hommelgaard|Tobias Mickel|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:30|21|Dominik Kwinta|Piotr Liszka|15|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:30|20|Dominik Kwinta|Piotr Liszka|22|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:30|21|Dominik Kwinta|Piotr Liszka|17|Yannick Feltes|Jerome Pauquet|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:24|21|Sebastian Kadlec |Simeon Suchy|16|Justus Graumann|Kenneth Neumann|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:24|21|Sebastian Kadlec |Simeon Suchy|18|Justus Graumann|Kenneth Neumann|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:24|21|Armin Sarosi|Christian Tomic|19|Przemyslaw Gajda|Dominik Juhnke|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:24|21|Armin Sarosi|Christian Tomic|13|Przemyslaw Gajda|Dominik Juhnke|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Andrzej Niczyporuk |Mikolaj Szymanowski|10|Daniel Ivanko|Lukas Kudlac|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Andrzej Niczyporuk |Mikolaj Szymanowski|10|Daniel Ivanko|Lukas Kudlac|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:22|21|Guillermo Figueras|Alvaro Rumin|14|Tomasz Buza|Maksymilian Danielak|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:22|21|Guillermo Figueras|Alvaro Rumin|11|Tomasz Buza|Maksymilian Danielak|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|Jonathan Dresp|Jarne Schlevoigt|12|Matěj Rzeplinski [7]|David Smutný|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|Jonathan Dresp|Jarne Schlevoigt|10|Matěj Rzeplinski [7]|David Smutný|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:37|21|Kacper Gorniak|Piotr Heinke|17|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:37|22|Kacper Gorniak|Piotr Heinke|24|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:37|21|Kacper Gorniak|Piotr Heinke|11|David Slíva|Adam Vojtěch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:42|20|Carlos Iglesias|Marcos Rodriguez|22|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:42|21|Carlos Iglesias|Marcos Rodriguez|15|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:42|21|Carlos Iglesias|Marcos Rodriguez|19|Boris Karpjak|Peter Radoczi|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:28|21|Adam Ehm |Dominik Kopřiva|12|Gustavs Davids Brecs|Davis Strazdins|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:28|21|Adam Ehm |Dominik Kopřiva|11|Gustavs Davids Brecs|Davis Strazdins|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:25|21|Jakub Melaniuk|Szymon Slepecki|13|Iñigo Daza|Iñigo Diaz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:25|21|Jakub Melaniuk|Szymon Slepecki|15|Iñigo Daza|Iñigo Diaz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:23|21|Kai Niederhuber |Michael Tomic|7|Adrian Krawczyk|Dawid Perkowski|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:23|22|Kai Niederhuber |Michael Tomic|20|Adrian Krawczyk|Dawid Perkowski|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:25|21|Daniel Franco|Ruben Garcia|14|Daniel Mcmillan|Joseph Scott|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:25|21|Daniel Franco|Ruben Garcia|14|Daniel Mcmillan|Joseph Scott|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Iljo Van Delsen |Yaro Van Delsen|7|Jakub Diviš|Vojtěch Poříz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Iljo Van Delsen |Yaro Van Delsen|13|Jakub Diviš|Vojtěch Poříz|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:34|20|Bene Benjamin Kiss|Gergely Szita|22|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:34|21|Bene Benjamin Kiss|Gergely Szita|11|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:34|21|Bene Benjamin Kiss|Gergely Szita|17|Michal Szczypka|Jacob Toczek|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Malik Bourakkadi |Kian-Yu Oei|7|Patriks Kandis|Roberts Renars Miscenko|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Malik Bourakkadi |Kian-Yu Oei|3|Patriks Kandis|Roberts Renars Miscenko|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:15|21|Marie Růžičková |Ema Staňková|7|Eiprila Briede|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:15|21|Marie Růžičková |Ema Staňková|6|Eiprila Briede|Annemarija Lorena Priede|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:23|21|Julia Plawecka |Daria Zimnol|16|Olivia Kadlecova|Sofia Slosiarikova|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:23|21|Julia Plawecka |Daria Zimnol|10|Olivia Kadlecova|Sofia Slosiarikova|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Julia Meyer|Tabea Tirschmann|14|Weronika Niklas|Julia Prokopczuk|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Julia Meyer|Tabea Tirschmann|7|Weronika Niklas|Julia Prokopczuk|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:35|21|Arina Babre|Anna Kupca|14|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:35|15|Arina Babre|Anna Kupca|21|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:35|21|Arina Babre|Anna Kupca|15|Emilia Jochacy|Laura Płoszczyca|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|Lisa Curtin |Gauri Shidhaye|8|Lucie Metzová|Valérie Žurková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|Lisa Curtin |Gauri Shidhaye|8|Lucie Metzová|Valérie Žurková|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:40|21|Maja Janko|Julia Wojcik|16|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:40|20|Maja Janko|Julia Wojcik|22|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:40|21|Maja Janko|Julia Wojcik|17|Lea Kämnitz|Johanna Preiss|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|Katarzyna Kisielewska|Anastasiia Kosenchuk|18|Jule Alberts|Julie Marzoch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:21|21|Katarzyna Kisielewska|Anastasiia Kosenchuk|17|Jule Alberts|Julie Marzoch|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:24|21|Arta Priedniece|Sunčica Sertić|19|Gabriela Skorkowska|Magdalena Tatomir|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:24|21|Arta Priedniece|Sunčica Sertić|11|Gabriela Skorkowska|Magdalena Tatomir|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:38|19|Julia Chmurovicova |Natalia Tomcova|21|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:38|21|Julia Chmurovicova |Natalia Tomcova|16|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:38|21|Julia Chmurovicova |Natalia Tomcova|15|Julia Dzialuk|Maja Karwowska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:26|21|Klára Petrušková|Veronika Veselá|15|Justyna Biernot|Julia Piwowar|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:26|21|Klára Petrušková|Veronika Veselá|18|Justyna Biernot|Julia Piwowar|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Dominika Gajda|Martyna Kowalczyk|11|Martina Ševčíková|Tereza Šolarová|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Dominika Gajda|Martyna Kowalczyk|16|Martina Ševčíková|Tereza Šolarová|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:22|21|Siebelijn De Sutter |Lien Lammertyn|10|Maria Otegui|Ania Setien|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:22|21|Siebelijn De Sutter |Lien Lammertyn|18|Maria Otegui|Ania Setien|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Soňa Hořínková |Kateřina Valentová|11|Angelika Kowarska|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:16|21|Soňa Hořínková |Kateřina Valentová|13|Angelika Kowarska|Malgorzata Muszynska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Anna Czuchra|Kinga Stokfisz|12|Hannah Berge|Weronica Krawiec|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Anna Czuchra|Kinga Stokfisz|17|Hannah Berge|Weronica Krawiec|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Michelle Kanschik |Florentine Schöffski|13|Antonina Marszalek|Aleksandra Wronska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:20|21|Michelle Kanschik |Florentine Schöffski|13|Antonina Marszalek|Aleksandra Wronska|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Sara Loncar |Andjela Vitman|9|Leda Dominić|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles
+20190317|0:19|21|Sara Loncar |Andjela Vitman|12|Leda Dominić|Kim Schmidt|9D21ED48-68DC-4A9D-B01B-10B83A8E2DCD|doubles

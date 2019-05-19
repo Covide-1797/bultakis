@@ -1,0 +1,442 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20180817|0:42|18|Marek Aubus|none|21|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:42|21|Marek Aubus|none|11|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:42|21|Marek Aubus|none|18|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:26|21|Jonas Østhassel|none|12|Laurynas Borusas|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:26|21|Jonas Østhassel|none|11|Laurynas Borusas|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Alaksei Kniazeu|none|14|Roberts Renars Miscenko|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Alaksei Kniazeu|none|12|Roberts Renars Miscenko|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:41|25|Tauri Kilk|none|23|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:41|13|Tauri Kilk|none|21|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:41|21|Tauri Kilk|none|15|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Andreas Andersen|none|10|Martins Kirkums|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Andreas Andersen|none|9|Martins Kirkums|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:16|21|Jonas Petkus|none|6|Oskars Saulitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:16|21|Jonas Petkus|none|7|Oskars Saulitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Danielius Berzanskis|none|7|Robin Schmalz|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Danielius Berzanskis|none|5|Robin Schmalz|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:18|21|Ludvig Smith-Meyer|none|7|Mamertas Noreika|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:18|21|Ludvig Smith-Meyer|none|7|Mamertas Noreika|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:24|21|Harry Morgan|none|12|Simas Kliostoraitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:24|21|Harry Morgan|none|10|Simas Kliostoraitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:28|21|Eero Lauri|none|17|Szymon Maciag|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:28|21|Eero Lauri|none|14|Szymon Maciag|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:23|21|Aliaksandr Aliaksandrovich|none|7|Edgars Vaivads|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:23|21|Aliaksandr Aliaksandrovich|none|19|Edgars Vaivads|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817||Walkover Win|Artur Ajupov|Ramona Üprus|Walkover Loss|Teemu Lahtinen|Jannica Monnberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Gabija Mockute|Vitalija Movsovic|16|Veranika Tarusava|Ulyana Zakharava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Gabija Mockute|Vitalija Movsovic|19|Veranika Tarusava|Ulyana Zakharava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:50|11|Hanna Bandarenka|Yelizaveta Kaminskaya|21|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:50|21|Hanna Bandarenka|Yelizaveta Kaminskaya|16|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:50|21|Hanna Bandarenka|Yelizaveta Kaminskaya|15|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:39|19|Andreas Andersen|Markus Barth|21|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:39|21|Andreas Andersen|Markus Barth|16|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:39|21|Andreas Andersen|Markus Barth|17|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:59|20|Christopher Grimley |none|22|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:59|24|Christopher Grimley |none|22|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:59|21|Christopher Grimley |none|15|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Marek Aubus|none|9|Tomas Petrosius|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Marek Aubus|none|5|Tomas Petrosius|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:31|21|Brian Holtschke |none|19|Tony Lindelöf|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:31|21|Brian Holtschke |none|14|Tony Lindelöf|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:26|21|Szymon Maciag|Laura Bujak|19|Jonas Østhassel|Marie Mørk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:26|21|Szymon Maciag|Laura Bujak|16|Jonas Østhassel|Marie Mørk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:22|21|Danielius Berzanskis|Simas Kliostoraitis|11|Mario Kirisma|Robin Schmalz|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:22|21|Danielius Berzanskis|Simas Kliostoraitis|10|Mario Kirisma|Robin Schmalz|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:27|21|Julia Salonen|Amy Tan|17|Agnieszka Foryta|Aleksandra Radziszewska|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:27|21|Julia Salonen|Amy Tan|18|Agnieszka Foryta|Aleksandra Radziszewska|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:27|21|Catlyn Kruus|Ramona Üprus|17|Amanda Azarova|Liana Lencevica|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:27|21|Catlyn Kruus|Ramona Üprus|15|Amanda Azarova|Liana Lencevica|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:21|21|Karl Kert |none|10|Rihards Valters Blaubergs|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:21|21|Karl Kert |none|11|Rihards Valters Blaubergs|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:38|21|Teemu Lahtinen|none|19|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:38|12|Teemu Lahtinen|none|21|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:38|21|Teemu Lahtinen|none|14|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:38|15|Szymon Stokfisz |none|21|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:38|21|Szymon Stokfisz |none|13|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:38|21|Szymon Stokfisz |none|18|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:22|21|Andreas Andersen|none|19|Sarunas Stumbra|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:22|21|Andreas Andersen|none|17|Sarunas Stumbra|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:28|21|Jonas Petkus|none|15|Paul-Werner Dingethal|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:28|21|Jonas Petkus|none|17|Paul-Werner Dingethal|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:27|21|Artur Ajupov|none|13|Ludvig Smith-Meyer|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:27|21|Artur Ajupov|none|16|Ludvig Smith-Meyer|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:21|21|Karina Kapanen|Victoria Korobova|9|Marie Mørk|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:21|21|Karina Kapanen|Victoria Korobova|10|Marie Mørk|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:21|21|Laura Bujak|Anna Duda|12|Samanta Golubickaitė|Perla Murenaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:21|21|Laura Bujak|Anna Duda|6|Samanta Golubickaitė|Perla Murenaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:26|21|Jonas Østhassel|none|10|Christopher Siilbaum|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:26|21|Jonas Østhassel|none|19|Christopher Siilbaum|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:33|28|Matthew Grimley |none|26|Danielius Berzanskis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:33|21|Matthew Grimley |none|10|Danielius Berzanskis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817||Walkover Win|Markus Barth |none|Walkover Loss|Markus Kivistik|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:53|18|Harry Morgan|none|21|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:53|25|Harry Morgan|none|23|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:53|21|Harry Morgan|none|16|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:40|17|Hans-Kristjan Pilve |none|21|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:40|21|Hans-Kristjan Pilve |none|18|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:40|21|Hans-Kristjan Pilve |none|14|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:25|21|Aliaksandr Aliaksandrovich|none|14|Mario Kirisma|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:25|21|Aliaksandr Aliaksandrovich|none|19|Mario Kirisma|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:25|21|Lukas Resch |none|14|Matias Blomberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:25|21|Lukas Resch |none|10|Matias Blomberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:34|21|Marie Mørk|none|12|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:34|16|Marie Mørk|none|21|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:34|21|Marie Mørk|none|5|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:32|23|Monika Sukackaite|none|21|Arta Priedniece|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:32|24|Monika Sukackaite|none|22|Arta Priedniece|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Ulyana Zakharava|none|6|Sofija Bagdonaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:20|21|Ulyana Zakharava|none|7|Sofija Bagdonaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:23|21|Amy Tan |none|13|Ramona Üprus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:23|21|Amy Tan |none|8|Ramona Üprus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Veranika Tarusava|none|11|Jenny Rajkumar|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Veranika Tarusava|none|7|Jenny Rajkumar|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Julia Salonen|none|6|Diana Baltina|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Julia Salonen|none|6|Diana Baltina|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:49|13|Romane Cloteaux-Foucault |none|21|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:49|21|Romane Cloteaux-Foucault |none|14|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:49|21|Romane Cloteaux-Foucault |none|14|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:26|21|Aleksandra Radziszewska|none|16|Emilia Petersen Norberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:26|21|Aleksandra Radziszewska|none|19|Emilia Petersen Norberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:23|21|Liana Lencevica|none|9|Samanta Golubickaitė|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:23|21|Liana Lencevica|none|15|Samanta Golubickaitė|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:19|21|Victoria Korobova|none|11|Gabija Mockute|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:19|21|Victoria Korobova|none|10|Gabija Mockute|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817||Walkover Win|Sofia Macsali|none|Walkover Loss|Arina Krõlova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:23|21|Christopher Grimley |Matthew Grimley|13|Laurynas Borusas|Jonas Petkus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:23|21|Christopher Grimley |Matthew Grimley|15|Laurynas Borusas|Jonas Petkus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:19|21|Teemu Lahtinen|Eero Lauri|13|Aliaksandr Aliaksandrovich|Alaksei Kniazeu|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:19|21|Teemu Lahtinen|Eero Lauri|12|Aliaksandr Aliaksandrovich|Alaksei Kniazeu|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:40|25|Szymon Stokfisz |Wiktor Trecki|27|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:40|21|Szymon Stokfisz |Wiktor Trecki|13|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:40|21|Szymon Stokfisz |Wiktor Trecki|16|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:18|21|Andreas Andersen|Markus Barth|3|Rihards Valters Blaubergs|Edgars Vaivads|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:18|21|Andreas Andersen|Markus Barth|13|Rihards Valters Blaubergs|Edgars Vaivads|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:21|21|Danielius Berzanskis|Simas Kliostoraitis|11|Martins Kirkums|Roberts Renars Miscenko|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:21|21|Danielius Berzanskis|Simas Kliostoraitis|14|Martins Kirkums|Roberts Renars Miscenko|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:23|21|Brian Holtschke |Lukas Resch|13|Ludvig Smith-Meyer|Jonas Østhassel|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:23|21|Brian Holtschke |Lukas Resch|13|Ludvig Smith-Meyer|Jonas Østhassel|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Nestor Gabrysiak|Szymon Maciag|13|Mamertas Noreika|Tomas Petrosius|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Nestor Gabrysiak|Szymon Maciag|17|Mamertas Noreika|Tomas Petrosius|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:23|21|Tony Lindelöf|Joakim Oldorff|13|Hans-Kristjan Pilve [2]|Alexander Raudsepp|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:23|21|Tony Lindelöf|Joakim Oldorff|18|Hans-Kristjan Pilve [2]|Alexander Raudsepp|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:21|21|Karina Kapanen|none|11|Amanda Azarova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:21|21|Karina Kapanen|none|13|Amanda Azarova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:24|21|Anna Duda|none|14|Hanna Bandarenka|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:24|21|Anna Duda|none|9|Hanna Bandarenka|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817||Walkover Win|Clara Lassaux |none|Walkover Loss|Satish Winona|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Lauren Middleton|none|5|Perla Murenaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:17|21|Lauren Middleton|none|6|Perla Murenaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180817|0:38|21|Laurynas Borusas|Liana Lencevica|18|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:38|19|Laurynas Borusas|Liana Lencevica|21|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:38|21|Laurynas Borusas|Liana Lencevica|18|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Wiktor Trecki |Magdalena Kulska|17|Tauri Kilk|Catlyn Kruus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Wiktor Trecki |Magdalena Kulska|6|Tauri Kilk|Catlyn Kruus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:17|21|Artur Ajupov|Ramona Üprus|13|Jonas Petkus|Gabija Mockute|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:17|21|Artur Ajupov|Ramona Üprus|8|Jonas Petkus|Gabija Mockute|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:40|16|Alaksei Kniazeu|Ulyana Zakharava|21|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:40|24|Alaksei Kniazeu|Ulyana Zakharava|22|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:40|21|Alaksei Kniazeu|Ulyana Zakharava|17|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:28|21|Markus Barth |Sofia Macsali|17|Ludvig Smith-Meyer|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:28|21|Markus Barth |Sofia Macsali|17|Ludvig Smith-Meyer|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:34|12|Alexander Raudsepp |Victoria Korobova|21|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:34|21|Alexander Raudsepp |Victoria Korobova|13|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:34|23|Alexander Raudsepp |Victoria Korobova|21|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:20|21|Szymon Maciag|Laura Bujak|17|Christopher Siilbaum|Arta Priedniece|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:20|21|Szymon Maciag|Laura Bujak|8|Christopher Siilbaum|Arta Priedniece|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Nestor Gabrysiak |Agnieszka Foryta|10|Andreas Andersen|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180817|0:25|21|Nestor Gabrysiak |Agnieszka Foryta|18|Andreas Andersen|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:42|18|Marek Aubus|none|21|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:42|21|Marek Aubus|none|11|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:42|21|Marek Aubus|none|18|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:26|21|Jonas Østhassel|none|12|Laurynas Borusas|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:26|21|Jonas Østhassel|none|11|Laurynas Borusas|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Alaksei Kniazeu|none|14|Roberts Renars Miscenko|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Alaksei Kniazeu|none|12|Roberts Renars Miscenko|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:41|25|Tauri Kilk|none|23|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:41|13|Tauri Kilk|none|21|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:41|21|Tauri Kilk|none|15|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Andreas Andersen|none|10|Martins Kirkums|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Andreas Andersen|none|9|Martins Kirkums|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:16|21|Jonas Petkus|none|6|Oskars Saulitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:16|21|Jonas Petkus|none|7|Oskars Saulitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Danielius Berzanskis|none|7|Robin Schmalz|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Danielius Berzanskis|none|5|Robin Schmalz|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:18|21|Ludvig Smith-Meyer|none|7|Mamertas Noreika|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:18|21|Ludvig Smith-Meyer|none|7|Mamertas Noreika|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:24|21|Harry Morgan|none|12|Simas Kliostoraitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:24|21|Harry Morgan|none|10|Simas Kliostoraitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:28|21|Eero Lauri|none|17|Szymon Maciag|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:28|21|Eero Lauri|none|14|Szymon Maciag|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:23|21|Aliaksandr Aliaksandrovich|none|7|Edgars Vaivads|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:23|21|Aliaksandr Aliaksandrovich|none|19|Edgars Vaivads|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818||Walkover Win|Artur Ajupov|Ramona Üprus|Walkover Loss|Teemu Lahtinen|Jannica Monnberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Gabija Mockute|Vitalija Movsovic|16|Veranika Tarusava|Ulyana Zakharava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Gabija Mockute|Vitalija Movsovic|19|Veranika Tarusava|Ulyana Zakharava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:50|11|Hanna Bandarenka|Yelizaveta Kaminskaya|21|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:50|21|Hanna Bandarenka|Yelizaveta Kaminskaya|16|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:50|21|Hanna Bandarenka|Yelizaveta Kaminskaya|15|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:39|19|Andreas Andersen|Markus Barth|21|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:39|21|Andreas Andersen|Markus Barth|16|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:39|21|Andreas Andersen|Markus Barth|17|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:59|20|Christopher Grimley |none|22|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:59|24|Christopher Grimley |none|22|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:59|21|Christopher Grimley |none|15|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Marek Aubus|none|9|Tomas Petrosius|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Marek Aubus|none|5|Tomas Petrosius|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:31|21|Brian Holtschke |none|19|Tony Lindelöf|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:31|21|Brian Holtschke |none|14|Tony Lindelöf|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:26|21|Szymon Maciag|Laura Bujak|19|Jonas Østhassel|Marie Mørk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:26|21|Szymon Maciag|Laura Bujak|16|Jonas Østhassel|Marie Mørk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:22|21|Danielius Berzanskis|Simas Kliostoraitis|11|Mario Kirisma|Robin Schmalz|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:22|21|Danielius Berzanskis|Simas Kliostoraitis|10|Mario Kirisma|Robin Schmalz|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:27|21|Julia Salonen|Amy Tan|17|Agnieszka Foryta|Aleksandra Radziszewska|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:27|21|Julia Salonen|Amy Tan|18|Agnieszka Foryta|Aleksandra Radziszewska|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:27|21|Catlyn Kruus|Ramona Üprus|17|Amanda Azarova|Liana Lencevica|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:27|21|Catlyn Kruus|Ramona Üprus|15|Amanda Azarova|Liana Lencevica|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:21|21|Karl Kert |none|10|Rihards Valters Blaubergs|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:21|21|Karl Kert |none|11|Rihards Valters Blaubergs|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:38|21|Teemu Lahtinen|none|19|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:38|12|Teemu Lahtinen|none|21|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:38|21|Teemu Lahtinen|none|14|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:38|15|Szymon Stokfisz |none|21|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:38|21|Szymon Stokfisz |none|13|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:38|21|Szymon Stokfisz |none|18|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:22|21|Andreas Andersen|none|19|Sarunas Stumbra|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:22|21|Andreas Andersen|none|17|Sarunas Stumbra|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:28|21|Jonas Petkus|none|15|Paul-Werner Dingethal|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:28|21|Jonas Petkus|none|17|Paul-Werner Dingethal|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:27|21|Artur Ajupov|none|13|Ludvig Smith-Meyer|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:27|21|Artur Ajupov|none|16|Ludvig Smith-Meyer|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:21|21|Karina Kapanen|Victoria Korobova|9|Marie Mørk|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:21|21|Karina Kapanen|Victoria Korobova|10|Marie Mørk|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:21|21|Laura Bujak|Anna Duda|12|Samanta Golubickaitė|Perla Murenaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:21|21|Laura Bujak|Anna Duda|6|Samanta Golubickaitė|Perla Murenaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:26|21|Jonas Østhassel|none|10|Christopher Siilbaum|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:26|21|Jonas Østhassel|none|19|Christopher Siilbaum|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:33|28|Matthew Grimley |none|26|Danielius Berzanskis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:33|21|Matthew Grimley |none|10|Danielius Berzanskis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818||Walkover Win|Markus Barth |none|Walkover Loss|Markus Kivistik|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:53|18|Harry Morgan|none|21|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:53|25|Harry Morgan|none|23|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:53|21|Harry Morgan|none|16|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:40|17|Hans-Kristjan Pilve |none|21|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:40|21|Hans-Kristjan Pilve |none|18|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:40|21|Hans-Kristjan Pilve |none|14|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:25|21|Aliaksandr Aliaksandrovich|none|14|Mario Kirisma|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:25|21|Aliaksandr Aliaksandrovich|none|19|Mario Kirisma|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:25|21|Lukas Resch |none|14|Matias Blomberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:25|21|Lukas Resch |none|10|Matias Blomberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:34|21|Marie Mørk|none|12|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:34|16|Marie Mørk|none|21|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:34|21|Marie Mørk|none|5|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:32|23|Monika Sukackaite|none|21|Arta Priedniece|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:32|24|Monika Sukackaite|none|22|Arta Priedniece|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Ulyana Zakharava|none|6|Sofija Bagdonaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:20|21|Ulyana Zakharava|none|7|Sofija Bagdonaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:23|21|Amy Tan |none|13|Ramona Üprus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:23|21|Amy Tan |none|8|Ramona Üprus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Veranika Tarusava|none|11|Jenny Rajkumar|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Veranika Tarusava|none|7|Jenny Rajkumar|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Julia Salonen|none|6|Diana Baltina|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Julia Salonen|none|6|Diana Baltina|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:49|13|Romane Cloteaux-Foucault |none|21|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:49|21|Romane Cloteaux-Foucault |none|14|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:49|21|Romane Cloteaux-Foucault |none|14|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:26|21|Aleksandra Radziszewska|none|16|Emilia Petersen Norberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:26|21|Aleksandra Radziszewska|none|19|Emilia Petersen Norberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:23|21|Liana Lencevica|none|9|Samanta Golubickaitė|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:23|21|Liana Lencevica|none|15|Samanta Golubickaitė|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:19|21|Victoria Korobova|none|11|Gabija Mockute|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:19|21|Victoria Korobova|none|10|Gabija Mockute|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818||Walkover Win|Sofia Macsali|none|Walkover Loss|Arina Krõlova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:23|21|Christopher Grimley |Matthew Grimley|13|Laurynas Borusas|Jonas Petkus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:23|21|Christopher Grimley |Matthew Grimley|15|Laurynas Borusas|Jonas Petkus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:19|21|Teemu Lahtinen|Eero Lauri|13|Aliaksandr Aliaksandrovich|Alaksei Kniazeu|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:19|21|Teemu Lahtinen|Eero Lauri|12|Aliaksandr Aliaksandrovich|Alaksei Kniazeu|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:40|25|Szymon Stokfisz |Wiktor Trecki|27|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:40|21|Szymon Stokfisz |Wiktor Trecki|13|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:40|21|Szymon Stokfisz |Wiktor Trecki|16|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:18|21|Andreas Andersen|Markus Barth|3|Rihards Valters Blaubergs|Edgars Vaivads|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:18|21|Andreas Andersen|Markus Barth|13|Rihards Valters Blaubergs|Edgars Vaivads|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:21|21|Danielius Berzanskis|Simas Kliostoraitis|11|Martins Kirkums|Roberts Renars Miscenko|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:21|21|Danielius Berzanskis|Simas Kliostoraitis|14|Martins Kirkums|Roberts Renars Miscenko|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:23|21|Brian Holtschke |Lukas Resch|13|Ludvig Smith-Meyer|Jonas Østhassel|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:23|21|Brian Holtschke |Lukas Resch|13|Ludvig Smith-Meyer|Jonas Østhassel|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Nestor Gabrysiak|Szymon Maciag|13|Mamertas Noreika|Tomas Petrosius|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Nestor Gabrysiak|Szymon Maciag|17|Mamertas Noreika|Tomas Petrosius|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:23|21|Tony Lindelöf|Joakim Oldorff|13|Hans-Kristjan Pilve [2]|Alexander Raudsepp|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:23|21|Tony Lindelöf|Joakim Oldorff|18|Hans-Kristjan Pilve [2]|Alexander Raudsepp|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:21|21|Karina Kapanen|none|11|Amanda Azarova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:21|21|Karina Kapanen|none|13|Amanda Azarova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:24|21|Anna Duda|none|14|Hanna Bandarenka|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:24|21|Anna Duda|none|9|Hanna Bandarenka|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818||Walkover Win|Clara Lassaux |none|Walkover Loss|Satish Winona|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Lauren Middleton|none|5|Perla Murenaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:17|21|Lauren Middleton|none|6|Perla Murenaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180818|0:38|21|Laurynas Borusas|Liana Lencevica|18|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:38|19|Laurynas Borusas|Liana Lencevica|21|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:38|21|Laurynas Borusas|Liana Lencevica|18|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Wiktor Trecki |Magdalena Kulska|17|Tauri Kilk|Catlyn Kruus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Wiktor Trecki |Magdalena Kulska|6|Tauri Kilk|Catlyn Kruus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:17|21|Artur Ajupov|Ramona Üprus|13|Jonas Petkus|Gabija Mockute|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:17|21|Artur Ajupov|Ramona Üprus|8|Jonas Petkus|Gabija Mockute|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:40|16|Alaksei Kniazeu|Ulyana Zakharava|21|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:40|24|Alaksei Kniazeu|Ulyana Zakharava|22|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:40|21|Alaksei Kniazeu|Ulyana Zakharava|17|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:28|21|Markus Barth |Sofia Macsali|17|Ludvig Smith-Meyer|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:28|21|Markus Barth |Sofia Macsali|17|Ludvig Smith-Meyer|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:34|12|Alexander Raudsepp |Victoria Korobova|21|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:34|21|Alexander Raudsepp |Victoria Korobova|13|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:34|23|Alexander Raudsepp |Victoria Korobova|21|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:20|21|Szymon Maciag|Laura Bujak|17|Christopher Siilbaum|Arta Priedniece|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:20|21|Szymon Maciag|Laura Bujak|8|Christopher Siilbaum|Arta Priedniece|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Nestor Gabrysiak |Agnieszka Foryta|10|Andreas Andersen|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180818|0:25|21|Nestor Gabrysiak |Agnieszka Foryta|18|Andreas Andersen|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:42|18|Marek Aubus|none|21|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:42|21|Marek Aubus|none|11|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:42|21|Marek Aubus|none|18|Adrien Slegers|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:26|21|Jonas Østhassel|none|12|Laurynas Borusas|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:26|21|Jonas Østhassel|none|11|Laurynas Borusas|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Alaksei Kniazeu|none|14|Roberts Renars Miscenko|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Alaksei Kniazeu|none|12|Roberts Renars Miscenko|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:41|25|Tauri Kilk|none|23|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:41|13|Tauri Kilk|none|21|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:41|21|Tauri Kilk|none|15|Alexander Marinkovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Andreas Andersen|none|10|Martins Kirkums|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Andreas Andersen|none|9|Martins Kirkums|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:16|21|Jonas Petkus|none|6|Oskars Saulitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:16|21|Jonas Petkus|none|7|Oskars Saulitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Danielius Berzanskis|none|7|Robin Schmalz|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Danielius Berzanskis|none|5|Robin Schmalz|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:18|21|Ludvig Smith-Meyer|none|7|Mamertas Noreika|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:18|21|Ludvig Smith-Meyer|none|7|Mamertas Noreika|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:24|21|Harry Morgan|none|12|Simas Kliostoraitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:24|21|Harry Morgan|none|10|Simas Kliostoraitis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:28|21|Eero Lauri|none|17|Szymon Maciag|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:28|21|Eero Lauri|none|14|Szymon Maciag|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:23|21|Aliaksandr Aliaksandrovich|none|7|Edgars Vaivads|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:23|21|Aliaksandr Aliaksandrovich|none|19|Edgars Vaivads|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819||Walkover Win|Artur Ajupov|Ramona Üprus|Walkover Loss|Teemu Lahtinen|Jannica Monnberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Gabija Mockute|Vitalija Movsovic|16|Veranika Tarusava|Ulyana Zakharava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Gabija Mockute|Vitalija Movsovic|19|Veranika Tarusava|Ulyana Zakharava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:50|11|Hanna Bandarenka|Yelizaveta Kaminskaya|21|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:50|21|Hanna Bandarenka|Yelizaveta Kaminskaya|16|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:50|21|Hanna Bandarenka|Yelizaveta Kaminskaya|15|Sofia Macsali|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:39|19|Andreas Andersen|Markus Barth|21|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:39|21|Andreas Andersen|Markus Barth|16|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:39|21|Andreas Andersen|Markus Barth|17|Paul-Werner Dingethal|Alexander Marinkovic|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:59|20|Christopher Grimley |none|22|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:59|24|Christopher Grimley |none|22|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:59|21|Christopher Grimley |none|15|Joakim Oldorff|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Marek Aubus|none|9|Tomas Petrosius|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Marek Aubus|none|5|Tomas Petrosius|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:31|21|Brian Holtschke |none|19|Tony Lindelöf|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:31|21|Brian Holtschke |none|14|Tony Lindelöf|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:26|21|Szymon Maciag|Laura Bujak|19|Jonas Østhassel|Marie Mørk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:26|21|Szymon Maciag|Laura Bujak|16|Jonas Østhassel|Marie Mørk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:22|21|Danielius Berzanskis|Simas Kliostoraitis|11|Mario Kirisma|Robin Schmalz|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:22|21|Danielius Berzanskis|Simas Kliostoraitis|10|Mario Kirisma|Robin Schmalz|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:27|21|Julia Salonen|Amy Tan|17|Agnieszka Foryta|Aleksandra Radziszewska|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:27|21|Julia Salonen|Amy Tan|18|Agnieszka Foryta|Aleksandra Radziszewska|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:27|21|Catlyn Kruus|Ramona Üprus|17|Amanda Azarova|Liana Lencevica|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:27|21|Catlyn Kruus|Ramona Üprus|15|Amanda Azarova|Liana Lencevica|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:21|21|Karl Kert |none|10|Rihards Valters Blaubergs|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:21|21|Karl Kert |none|11|Rihards Valters Blaubergs|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:38|21|Teemu Lahtinen|none|19|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:38|12|Teemu Lahtinen|none|21|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:38|21|Teemu Lahtinen|none|14|Alaksei Kniazeu|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:38|15|Szymon Stokfisz |none|21|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:38|21|Szymon Stokfisz |none|13|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:38|21|Szymon Stokfisz |none|18|Tauri Kilk|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:22|21|Andreas Andersen|none|19|Sarunas Stumbra|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:22|21|Andreas Andersen|none|17|Sarunas Stumbra|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:28|21|Jonas Petkus|none|15|Paul-Werner Dingethal|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:28|21|Jonas Petkus|none|17|Paul-Werner Dingethal|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:27|21|Artur Ajupov|none|13|Ludvig Smith-Meyer|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:27|21|Artur Ajupov|none|16|Ludvig Smith-Meyer|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:21|21|Karina Kapanen|Victoria Korobova|9|Marie Mørk|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:21|21|Karina Kapanen|Victoria Korobova|10|Marie Mørk|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:21|21|Laura Bujak|Anna Duda|12|Samanta Golubickaitė|Perla Murenaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:21|21|Laura Bujak|Anna Duda|6|Samanta Golubickaitė|Perla Murenaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:26|21|Jonas Østhassel|none|10|Christopher Siilbaum|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:26|21|Jonas Østhassel|none|19|Christopher Siilbaum|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:33|28|Matthew Grimley |none|26|Danielius Berzanskis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:33|21|Matthew Grimley |none|10|Danielius Berzanskis|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819||Walkover Win|Markus Barth |none|Walkover Loss|Markus Kivistik|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:53|18|Harry Morgan|none|21|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:53|25|Harry Morgan|none|23|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:53|21|Harry Morgan|none|16|Nestor Gabrysiak|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:40|17|Hans-Kristjan Pilve |none|21|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:40|21|Hans-Kristjan Pilve |none|18|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:40|21|Hans-Kristjan Pilve |none|14|Eero Lauri|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:25|21|Aliaksandr Aliaksandrovich|none|14|Mario Kirisma|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:25|21|Aliaksandr Aliaksandrovich|none|19|Mario Kirisma|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:25|21|Lukas Resch |none|14|Matias Blomberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:25|21|Lukas Resch |none|10|Matias Blomberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:34|21|Marie Mørk|none|12|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:34|16|Marie Mørk|none|21|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:34|21|Marie Mørk|none|5|Vitalija Movsovic|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:32|23|Monika Sukackaite|none|21|Arta Priedniece|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:32|24|Monika Sukackaite|none|22|Arta Priedniece|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Ulyana Zakharava|none|6|Sofija Bagdonaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:20|21|Ulyana Zakharava|none|7|Sofija Bagdonaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:23|21|Amy Tan |none|13|Ramona Üprus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:23|21|Amy Tan |none|8|Ramona Üprus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Veranika Tarusava|none|11|Jenny Rajkumar|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Veranika Tarusava|none|7|Jenny Rajkumar|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Julia Salonen|none|6|Diana Baltina|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Julia Salonen|none|6|Diana Baltina|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:49|13|Romane Cloteaux-Foucault |none|21|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:49|21|Romane Cloteaux-Foucault |none|14|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:49|21|Romane Cloteaux-Foucault |none|14|Catlyn Kruus|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:26|21|Aleksandra Radziszewska|none|16|Emilia Petersen Norberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:26|21|Aleksandra Radziszewska|none|19|Emilia Petersen Norberg|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:23|21|Liana Lencevica|none|9|Samanta Golubickaitė|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:23|21|Liana Lencevica|none|15|Samanta Golubickaitė|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:19|21|Victoria Korobova|none|11|Gabija Mockute|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:19|21|Victoria Korobova|none|10|Gabija Mockute|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819||Walkover Win|Sofia Macsali|none|Walkover Loss|Arina Krõlova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:23|21|Christopher Grimley |Matthew Grimley|13|Laurynas Borusas|Jonas Petkus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:23|21|Christopher Grimley |Matthew Grimley|15|Laurynas Borusas|Jonas Petkus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:19|21|Teemu Lahtinen|Eero Lauri|13|Aliaksandr Aliaksandrovich|Alaksei Kniazeu|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:19|21|Teemu Lahtinen|Eero Lauri|12|Aliaksandr Aliaksandrovich|Alaksei Kniazeu|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:40|25|Szymon Stokfisz |Wiktor Trecki|27|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:40|21|Szymon Stokfisz |Wiktor Trecki|13|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:40|21|Szymon Stokfisz |Wiktor Trecki|16|Artur Ajupov|Tauri Kilk|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:18|21|Andreas Andersen|Markus Barth|3|Rihards Valters Blaubergs|Edgars Vaivads|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:18|21|Andreas Andersen|Markus Barth|13|Rihards Valters Blaubergs|Edgars Vaivads|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:21|21|Danielius Berzanskis|Simas Kliostoraitis|11|Martins Kirkums|Roberts Renars Miscenko|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:21|21|Danielius Berzanskis|Simas Kliostoraitis|14|Martins Kirkums|Roberts Renars Miscenko|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:23|21|Brian Holtschke |Lukas Resch|13|Ludvig Smith-Meyer|Jonas Østhassel|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:23|21|Brian Holtschke |Lukas Resch|13|Ludvig Smith-Meyer|Jonas Østhassel|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Nestor Gabrysiak|Szymon Maciag|13|Mamertas Noreika|Tomas Petrosius|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Nestor Gabrysiak|Szymon Maciag|17|Mamertas Noreika|Tomas Petrosius|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:23|21|Tony Lindelöf|Joakim Oldorff|13|Hans-Kristjan Pilve [2]|Alexander Raudsepp|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:23|21|Tony Lindelöf|Joakim Oldorff|18|Hans-Kristjan Pilve [2]|Alexander Raudsepp|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:21|21|Karina Kapanen|none|11|Amanda Azarova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:21|21|Karina Kapanen|none|13|Amanda Azarova|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:24|21|Anna Duda|none|14|Hanna Bandarenka|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:24|21|Anna Duda|none|9|Hanna Bandarenka|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819||Walkover Win|Clara Lassaux |none|Walkover Loss|Satish Winona|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Lauren Middleton|none|5|Perla Murenaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:17|21|Lauren Middleton|none|6|Perla Murenaite|none|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|singles
+20180819|0:38|21|Laurynas Borusas|Liana Lencevica|18|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:38|19|Laurynas Borusas|Liana Lencevica|21|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:38|21|Laurynas Borusas|Liana Lencevica|18|Aliaksandr Aliaksandrovich|Veranika Tarusava|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Wiktor Trecki |Magdalena Kulska|17|Tauri Kilk|Catlyn Kruus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Wiktor Trecki |Magdalena Kulska|6|Tauri Kilk|Catlyn Kruus|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:17|21|Artur Ajupov|Ramona Üprus|13|Jonas Petkus|Gabija Mockute|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:17|21|Artur Ajupov|Ramona Üprus|8|Jonas Petkus|Gabija Mockute|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:40|16|Alaksei Kniazeu|Ulyana Zakharava|21|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:40|24|Alaksei Kniazeu|Ulyana Zakharava|22|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:40|21|Alaksei Kniazeu|Ulyana Zakharava|17|Danielius Berzanskis|Sofija Bagdonaite|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:28|21|Markus Barth |Sofia Macsali|17|Ludvig Smith-Meyer|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:28|21|Markus Barth |Sofia Macsali|17|Ludvig Smith-Meyer|Emilia Petersen Norberg|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:34|12|Alexander Raudsepp |Victoria Korobova|21|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:34|21|Alexander Raudsepp |Victoria Korobova|13|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:34|23|Alexander Raudsepp |Victoria Korobova|21|Eero Lauri|Julia Salonen|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:20|21|Szymon Maciag|Laura Bujak|17|Christopher Siilbaum|Arta Priedniece|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:20|21|Szymon Maciag|Laura Bujak|8|Christopher Siilbaum|Arta Priedniece|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Nestor Gabrysiak |Agnieszka Foryta|10|Andreas Andersen|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles
+20180819|0:25|21|Nestor Gabrysiak |Agnieszka Foryta|18|Andreas Andersen|Jenny Rajkumar|D6558FBA-2E28-4B76-9377-D34F60A2CBBD|doubles

@@ -1,0 +1,592 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20180817|0:23|22|Simon Baron-Vezilier|Kaena Ratelet|20|Liam Bauwens|Karla Henry|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:23|21|Simon Baron-Vezilier|Kaena Ratelet|13|Liam Bauwens|Karla Henry|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:23|21|Grégoire Deschamp|Tanina Mammeri|12|William Freer|Charlotte Freer|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:23|21|Grégoire Deschamp|Tanina Mammeri|9|William Freer|Charlotte Freer|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:29|21|Ivan Kovacevic|Karla Verkyndt|17|Diogo Gloria|Mariana Neves|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:29|21|Ivan Kovacevic|Karla Verkyndt|14|Diogo Gloria|Mariana Neves|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:44|21|Elie Bime|Carla Martinez|8|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:44|14|Elie Bime|Carla Martinez|21|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:44|21|Elie Bime|Carla Martinez|19|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:25|21|Alex Green|Estelle Van Leeuwen|7|Valentin Mottet|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:25|21|Alex Green|Estelle Van Leeuwen|8|Valentin Mottet|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:33|21|Andrea Ortuno|none|17|Diane Lemesle|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:33|22|Andrea Ortuno|none|20|Diane Lemesle|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:21|21|Neil Bhabuta|none|8|Liam Nguyen Van|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:21|21|Neil Bhabuta|none|10|Liam Nguyen Van|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:30|21|Camille Gaugain|none|16|Bulle Thomas|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:30|21|Camille Gaugain|none|16|Bulle Thomas|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:27|21|Jacobo Fernandez|none|16|Othys Calvi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:27|21|Jacobo Fernandez|none|13|Othys Calvi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|Lucie Wagner|none|15|Romane Haensler|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|Lucie Wagner|none|15|Romane Haensler|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|William Atkin|none|13|Ludovic Lavaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|William Atkin|none|15|Ludovic Lavaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:23|21|Gauri Shidhaye|none|8|Gwenhael Dolou|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:23|21|Gauri Shidhaye|none|10|Gwenhael Dolou|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:19|21|Anna Tatranova|none|2|Noa Dechambre|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:19|21|Anna Tatranova|none|7|Noa Dechambre|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Emilien Morin|none|16|Joseph Ball|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Emilien Morin|none|15|Joseph Ball|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Driss Bourroum|none|15|Nathan Moore|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Driss Bourroum|none|9|Nathan Moore|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:21|21|Auriane Mathieu|none|10|Eugenie Guerder|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:21|21|Auriane Mathieu|none|13|Eugenie Guerder|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:51|24|Paul Tournefier|none|22|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:51|15|Paul Tournefier|none|21|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:51|21|Paul Tournefier|none|13|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:24|21|Marie Cesari|none|13|Karla Henry|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:24|21|Marie Cesari|none|10|Karla Henry|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:47|23|Alex Dillingham|none|21|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:47|16|Alex Dillingham|none|21|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:47|21|Alex Dillingham|none|12|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Laeticia Jaffrennou|none|17|Lien Lammertyn|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Laeticia Jaffrennou|none|14|Lien Lammertyn|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:48|17|Ivan Kovacevic|none|21|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:48|21|Ivan Kovacevic|none|10|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:48|21|Ivan Kovacevic|none|19|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:46|21|Alison Drouard|none|18|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:46|20|Alison Drouard|none|22|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:46|21|Alison Drouard|none|11|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:32|21|Diogo Gloria|none|16|Gabriel Rodrigues|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:32|21|Diogo Gloria|none|14|Gabriel Rodrigues|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Karla Verkyndt|none|18|Holly Williams|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:29|21|Karla Verkyndt|none|14|Holly Williams|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:20|14|Grégoire Deschamp|none|21|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:20|21|Grégoire Deschamp|none|19|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:20|21|Grégoire Deschamp|none|19|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:19|21|Noemie Poulbot|none|5|Noa Narbate|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:19|21|Noemie Poulbot|none|12|Noa Narbate|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:33|21|Theo Vaur|none|16|William Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:33|21|Theo Vaur|none|9|William Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:28|21|Emilie Drouin|none|18|Ida Melkerhed|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:28|21|Emilie Drouin|none|16|Ida Melkerhed|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:48|13|Giuseppe Terny|none|21|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:48|21|Giuseppe Terny|none|12|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:48|21|Giuseppe Terny|none|16|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:31|21|Cara Collins|none|13|Nina Polito|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:31|21|Cara Collins|none|17|Nina Polito|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:20|21|Justine Coquio|none|9|Louane Chambaretaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:20|21|Justine Coquio|none|7|Louane Chambaretaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:27|21|Reuben Bodman|none|12|Achille Girard|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:27|21|Reuben Bodman|none|9|Achille Girard|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:42|25|Anais Begaud|none|23|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:42|16|Anais Begaud|none|21|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:42|21|Anais Begaud|none|14|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:33|21|Stephen Jong|none|9|Baptiste Vital|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:33|21|Stephen Jong|none|11|Baptiste Vital|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:23|21|Carla Martinez|none|10|Ludivine Lecrosnier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:23|21|Carla Martinez|none|13|Ludivine Lecrosnier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:24|21|Elin Boman|none|14|Chloé Segrestan|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:24|21|Elin Boman|none|6|Chloé Segrestan|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:33|21|Estelle Van Leeuwen|none|8|Kelly Banchonpanith|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:33|21|Estelle Van Leeuwen|none|13|Kelly Banchonpanith|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|Jeremy Potin|none|16|Luke Griffiths|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|Jeremy Potin|none|14|Luke Griffiths|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:21|21|Floriane Nurit|none|10|Charlotte Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:21|21|Floriane Nurit|none|10|Charlotte Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:43|21|Mariana Neves|none|12|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:43|17|Mariana Neves|none|21|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:43|21|Mariana Neves|none|14|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:27|21|Alejandro De Pablo|none|15|Mateo Dos Santos|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:27|21|Alejandro De Pablo|none|7|Mateo Dos Santos|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|Gabriel Fernandez|none|11|Valentin Mottet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:26|21|Gabriel Fernandez|none|19|Valentin Mottet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180817|0:43|20|Tino Daoudal|Paul Tournefier|22|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:43|21|Tino Daoudal|Paul Tournefier|17|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:43|21|Tino Daoudal|Paul Tournefier|18|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:27|21|William Atkin|Nathan Moore|17|Othys Calvi|Liam Nguyen Van|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:27|21|William Atkin|Nathan Moore|11|Othys Calvi|Liam Nguyen Van|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|21|Grégoire Deschamp|Gil Fabre|19|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|19|Grégoire Deschamp|Gil Fabre|21|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|21|Grégoire Deschamp|Gil Fabre|16|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:31|21|Alison Drouard|Laeticia Jaffrennou|10|Laurine Adler|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:31|21|Alison Drouard|Laeticia Jaffrennou|19|Laurine Adler|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:34|21|Kiara Henry|Pamela Reyes|19|Gwenhael Dolou|Anna Tatranova|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:34|21|Kiara Henry|Pamela Reyes|14|Gwenhael Dolou|Anna Tatranova|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|16|Justine Coquio|Diane Lemesle|21|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|21|Justine Coquio|Diane Lemesle|10|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|21|Justine Coquio|Diane Lemesle|15|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:29|21|Ida Melkerhed|Bulle Thomas|13|Louane Chambaretaud|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:29|21|Ida Melkerhed|Bulle Thomas|10|Louane Chambaretaud|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:26|21|Carla Martinez|Nina Polito|12|Karla Henry|Luisa Pagliara|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:26|21|Carla Martinez|Nina Polito|13|Karla Henry|Luisa Pagliara|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|21|Lisa Curtin|Gauri Shidhaye|12|Camille Gaugain|Noemie Lecavelier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|27|Lisa Curtin|Gauri Shidhaye|25|Camille Gaugain|Noemie Lecavelier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|18|Anais Begaud|Tanina Mammeri|21|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|21|Anais Begaud|Tanina Mammeri|18|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|21|Anais Begaud|Tanina Mammeri|19|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Flavie Vallet|Emilie Vercelot|11|Charlotte Freer|Ashwati Nair|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Flavie Vallet|Emilie Vercelot|5|Charlotte Freer|Ashwati Nair|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:36|21|Andrea Ortuno|Karla Verkyndt|10|Cara Collins|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:36|21|Andrea Ortuno|Karla Verkyndt|17|Cara Collins|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:23|21|Estelle Van Leeuwen|Holly Williams|8|Noa Dechambre|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:23|21|Estelle Van Leeuwen|Holly Williams|9|Noa Dechambre|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|21|Joseph Ball |Asmita Chaudhari|18|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|16|Joseph Ball |Asmita Chaudhari|21|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:46|21|Joseph Ball |Asmita Chaudhari|18|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:27|21|Aymeric Tores |Emilie Drouin|11|Baptiste Vital|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:27|21|Aymeric Tores |Emilie Drouin|15|Baptiste Vital|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Kian-Yu Oei |Lucie Wagner|19|Gil Fabre|Gwenhael Dolou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Kian-Yu Oei |Lucie Wagner|13|Gil Fabre|Gwenhael Dolou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:24|21|Bastien Chailloux|Auriane Mathieu|17|Simon Baron-Vezilier|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:24|21|Bastien Chailloux|Auriane Mathieu|19|Simon Baron-Vezilier|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Elie Bime|Carla Martinez|5|Ludovic Lavaud|Louane Chambaretaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Elie Bime|Carla Martinez|5|Ludovic Lavaud|Louane Chambaretaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Lucas Renoir |Tea Margueritte|15|Nicolas Hoareau|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Lucas Renoir |Tea Margueritte|15|Nicolas Hoareau|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:31|21|Driss Bourroum |Diane Lemesle|14|Jeremy Potin|Marine Gassion|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:31|22|Driss Bourroum |Diane Lemesle|20|Jeremy Potin|Marine Gassion|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Jacobo Fernandez |Lucia Rodriguez|7|Othys Calvi|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Jacobo Fernandez |Lucia Rodriguez|10|Othys Calvi|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Thomas Fourcade |Flavie Vallet|11|Kimi Lovang|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Thomas Fourcade |Flavie Vallet|15|Kimi Lovang|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:23|21|Neil Bhabuta |Annie Lado|9|Achille Girard|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:23|21|Neil Bhabuta |Annie Lado|8|Achille Girard|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:29|21|Toby Leung|Kiara Henry|16|William Atkin|Lisa Curtin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:29|21|Toby Leung|Kiara Henry|17|William Atkin|Lisa Curtin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:26|21|Gabriel Rodrigues|Chloé Segrestan|15|Mateo Dos Santos|Ida Melkerhed|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:26|21|Gabriel Rodrigues|Chloé Segrestan|13|Mateo Dos Santos|Ida Melkerhed|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Alex Green|Estelle Van Leeuwen|10|Liam Nguyen Van|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Alex Green|Estelle Van Leeuwen|7|Liam Nguyen Van|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:44|21|Grégoire Deschamp|Tanina Mammeri|19|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:44|16|Grégoire Deschamp|Tanina Mammeri|21|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:44|21|Grégoire Deschamp|Tanina Mammeri|18|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:30|21|Ivan Kovacevic|Karla Verkyndt|16|Reuben Bodman|Cara Collins|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:30|21|Ivan Kovacevic|Karla Verkyndt|18|Reuben Bodman|Cara Collins|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:32|22|Nathan Moore|Holly Williams|20|Emilien Morin|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:32|21|Nathan Moore|Holly Williams|19|Emilien Morin|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:32|21|Malik Bourakkadi |Kian-Yu Oei|17|Alex Dillingham|Luke Griffiths|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:32|21|Malik Bourakkadi |Kian-Yu Oei|18|Alex Dillingham|Luke Griffiths|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:55|17|Asmita Chaudhari |Annie Lado|21|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:55|21|Asmita Chaudhari |Annie Lado|15|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:55|21|Asmita Chaudhari |Annie Lado|17|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:49|17|Sacha Leveque|Giuseppe Terny|21|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:49|21|Sacha Leveque|Giuseppe Terny|19|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:49|21|Sacha Leveque|Giuseppe Terny|13|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:40|21|Justine Coquio|Diane Lemesle|18|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:40|8|Justine Coquio|Diane Lemesle|21|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:40|21|Justine Coquio|Diane Lemesle|13|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:31|21|Tino Daoudal|Paul Tournefier|19|Reuben Bodman|Stephen Jong|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:31|21|Tino Daoudal|Paul Tournefier|19|Reuben Bodman|Stephen Jong|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:45|21|Kiara Henry|Pamela Reyes|9|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:45|19|Kiara Henry|Pamela Reyes|21|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:45|21|Kiara Henry|Pamela Reyes|17|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Grégoire Deschamp|Gil Fabre|6|Mateo Dos Santos|Ludovic Lavaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:21|21|Grégoire Deschamp|Gil Fabre|14|Mateo Dos Santos|Ludovic Lavaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Flavie Vallet|Emilie Vercelot|10|Anais Begaud|Tanina Mammeri|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:28|21|Flavie Vallet|Emilie Vercelot|17|Anais Begaud|Tanina Mammeri|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:40|22|Gabriel Rodrigues |Theo Vaur|20|Elie Bime|Leo Van Gysel|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:40|21|Gabriel Rodrigues |Theo Vaur|19|Elie Bime|Leo Van Gysel|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:54|17|Ida Melkerhed|Bulle Thomas|21|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:54|21|Ida Melkerhed|Bulle Thomas|12|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:54|21|Ida Melkerhed|Bulle Thomas|19|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:43|14|William Atkin|Nathan Moore|21|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:43|21|William Atkin|Nathan Moore|16|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:43|21|William Atkin|Nathan Moore|14|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:38|21|Estelle Van Leeuwen|Holly Williams|12|Alicia Huynh|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:38|21|Estelle Van Leeuwen|Holly Williams|18|Alicia Huynh|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|10|Emilien Morin|Edgar Roux|21|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|21|Emilien Morin|Edgar Roux|12|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:39|21|Emilien Morin|Edgar Roux|8|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:27|21|Andrea Ortuno|Karla Verkyndt|19|Emilie Drouin [3]|Tea Margueritte|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:27|21|Andrea Ortuno|Karla Verkyndt|18|Emilie Drouin [3]|Tea Margueritte|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:30|21|Bastien Chailloux|Valentin Mottet|15|Alejandro De Pablo [2]|Gabriel Fernandez|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:30|21|Bastien Chailloux|Valentin Mottet|18|Alejandro De Pablo [2]|Gabriel Fernandez|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:55|25|Lisa Curtin|Gauri Shidhaye|27|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:55|21|Lisa Curtin|Gauri Shidhaye|16|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180817|0:55|21|Lisa Curtin|Gauri Shidhaye|19|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|22|Simon Baron-Vezilier|Kaena Ratelet|20|Liam Bauwens|Karla Henry|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|21|Simon Baron-Vezilier|Kaena Ratelet|13|Liam Bauwens|Karla Henry|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|21|Grégoire Deschamp|Tanina Mammeri|12|William Freer|Charlotte Freer|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|21|Grégoire Deschamp|Tanina Mammeri|9|William Freer|Charlotte Freer|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:29|21|Ivan Kovacevic|Karla Verkyndt|17|Diogo Gloria|Mariana Neves|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:29|21|Ivan Kovacevic|Karla Verkyndt|14|Diogo Gloria|Mariana Neves|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:44|21|Elie Bime|Carla Martinez|8|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:44|14|Elie Bime|Carla Martinez|21|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:44|21|Elie Bime|Carla Martinez|19|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:25|21|Alex Green|Estelle Van Leeuwen|7|Valentin Mottet|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:25|21|Alex Green|Estelle Van Leeuwen|8|Valentin Mottet|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:33|21|Andrea Ortuno|none|17|Diane Lemesle|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:33|22|Andrea Ortuno|none|20|Diane Lemesle|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:21|21|Neil Bhabuta|none|8|Liam Nguyen Van|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:21|21|Neil Bhabuta|none|10|Liam Nguyen Van|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:30|21|Camille Gaugain|none|16|Bulle Thomas|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:30|21|Camille Gaugain|none|16|Bulle Thomas|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:27|21|Jacobo Fernandez|none|16|Othys Calvi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:27|21|Jacobo Fernandez|none|13|Othys Calvi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|Lucie Wagner|none|15|Romane Haensler|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|Lucie Wagner|none|15|Romane Haensler|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|William Atkin|none|13|Ludovic Lavaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|William Atkin|none|15|Ludovic Lavaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:23|21|Gauri Shidhaye|none|8|Gwenhael Dolou|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:23|21|Gauri Shidhaye|none|10|Gwenhael Dolou|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:19|21|Anna Tatranova|none|2|Noa Dechambre|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:19|21|Anna Tatranova|none|7|Noa Dechambre|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Emilien Morin|none|16|Joseph Ball|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Emilien Morin|none|15|Joseph Ball|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Driss Bourroum|none|15|Nathan Moore|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Driss Bourroum|none|9|Nathan Moore|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:21|21|Auriane Mathieu|none|10|Eugenie Guerder|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:21|21|Auriane Mathieu|none|13|Eugenie Guerder|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:51|24|Paul Tournefier|none|22|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:51|15|Paul Tournefier|none|21|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:51|21|Paul Tournefier|none|13|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:24|21|Marie Cesari|none|13|Karla Henry|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:24|21|Marie Cesari|none|10|Karla Henry|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:47|23|Alex Dillingham|none|21|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:47|16|Alex Dillingham|none|21|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:47|21|Alex Dillingham|none|12|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Laeticia Jaffrennou|none|17|Lien Lammertyn|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Laeticia Jaffrennou|none|14|Lien Lammertyn|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:48|17|Ivan Kovacevic|none|21|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:48|21|Ivan Kovacevic|none|10|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:48|21|Ivan Kovacevic|none|19|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:46|21|Alison Drouard|none|18|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:46|20|Alison Drouard|none|22|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:46|21|Alison Drouard|none|11|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:32|21|Diogo Gloria|none|16|Gabriel Rodrigues|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:32|21|Diogo Gloria|none|14|Gabriel Rodrigues|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Karla Verkyndt|none|18|Holly Williams|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:29|21|Karla Verkyndt|none|14|Holly Williams|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:20|14|Grégoire Deschamp|none|21|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:20|21|Grégoire Deschamp|none|19|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:20|21|Grégoire Deschamp|none|19|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:19|21|Noemie Poulbot|none|5|Noa Narbate|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:19|21|Noemie Poulbot|none|12|Noa Narbate|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:33|21|Theo Vaur|none|16|William Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:33|21|Theo Vaur|none|9|William Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:28|21|Emilie Drouin|none|18|Ida Melkerhed|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:28|21|Emilie Drouin|none|16|Ida Melkerhed|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:48|13|Giuseppe Terny|none|21|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:48|21|Giuseppe Terny|none|12|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:48|21|Giuseppe Terny|none|16|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:31|21|Cara Collins|none|13|Nina Polito|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:31|21|Cara Collins|none|17|Nina Polito|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:20|21|Justine Coquio|none|9|Louane Chambaretaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:20|21|Justine Coquio|none|7|Louane Chambaretaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:27|21|Reuben Bodman|none|12|Achille Girard|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:27|21|Reuben Bodman|none|9|Achille Girard|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:42|25|Anais Begaud|none|23|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:42|16|Anais Begaud|none|21|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:42|21|Anais Begaud|none|14|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:33|21|Stephen Jong|none|9|Baptiste Vital|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:33|21|Stephen Jong|none|11|Baptiste Vital|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:23|21|Carla Martinez|none|10|Ludivine Lecrosnier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:23|21|Carla Martinez|none|13|Ludivine Lecrosnier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:24|21|Elin Boman|none|14|Chloé Segrestan|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:24|21|Elin Boman|none|6|Chloé Segrestan|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:33|21|Estelle Van Leeuwen|none|8|Kelly Banchonpanith|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:33|21|Estelle Van Leeuwen|none|13|Kelly Banchonpanith|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|Jeremy Potin|none|16|Luke Griffiths|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|Jeremy Potin|none|14|Luke Griffiths|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:21|21|Floriane Nurit|none|10|Charlotte Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:21|21|Floriane Nurit|none|10|Charlotte Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:43|21|Mariana Neves|none|12|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:43|17|Mariana Neves|none|21|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:43|21|Mariana Neves|none|14|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:27|21|Alejandro De Pablo|none|15|Mateo Dos Santos|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:27|21|Alejandro De Pablo|none|7|Mateo Dos Santos|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|Gabriel Fernandez|none|11|Valentin Mottet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:26|21|Gabriel Fernandez|none|19|Valentin Mottet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180818|0:43|20|Tino Daoudal|Paul Tournefier|22|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:43|21|Tino Daoudal|Paul Tournefier|17|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:43|21|Tino Daoudal|Paul Tournefier|18|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:27|21|William Atkin|Nathan Moore|17|Othys Calvi|Liam Nguyen Van|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:27|21|William Atkin|Nathan Moore|11|Othys Calvi|Liam Nguyen Van|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|21|Grégoire Deschamp|Gil Fabre|19|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|19|Grégoire Deschamp|Gil Fabre|21|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|21|Grégoire Deschamp|Gil Fabre|16|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:31|21|Alison Drouard|Laeticia Jaffrennou|10|Laurine Adler|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:31|21|Alison Drouard|Laeticia Jaffrennou|19|Laurine Adler|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:34|21|Kiara Henry|Pamela Reyes|19|Gwenhael Dolou|Anna Tatranova|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:34|21|Kiara Henry|Pamela Reyes|14|Gwenhael Dolou|Anna Tatranova|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|16|Justine Coquio|Diane Lemesle|21|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|21|Justine Coquio|Diane Lemesle|10|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|21|Justine Coquio|Diane Lemesle|15|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:29|21|Ida Melkerhed|Bulle Thomas|13|Louane Chambaretaud|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:29|21|Ida Melkerhed|Bulle Thomas|10|Louane Chambaretaud|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:26|21|Carla Martinez|Nina Polito|12|Karla Henry|Luisa Pagliara|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:26|21|Carla Martinez|Nina Polito|13|Karla Henry|Luisa Pagliara|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|21|Lisa Curtin|Gauri Shidhaye|12|Camille Gaugain|Noemie Lecavelier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|27|Lisa Curtin|Gauri Shidhaye|25|Camille Gaugain|Noemie Lecavelier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|18|Anais Begaud|Tanina Mammeri|21|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|21|Anais Begaud|Tanina Mammeri|18|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|21|Anais Begaud|Tanina Mammeri|19|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Flavie Vallet|Emilie Vercelot|11|Charlotte Freer|Ashwati Nair|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Flavie Vallet|Emilie Vercelot|5|Charlotte Freer|Ashwati Nair|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:36|21|Andrea Ortuno|Karla Verkyndt|10|Cara Collins|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:36|21|Andrea Ortuno|Karla Verkyndt|17|Cara Collins|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|21|Estelle Van Leeuwen|Holly Williams|8|Noa Dechambre|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|21|Estelle Van Leeuwen|Holly Williams|9|Noa Dechambre|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|21|Joseph Ball |Asmita Chaudhari|18|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|16|Joseph Ball |Asmita Chaudhari|21|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:46|21|Joseph Ball |Asmita Chaudhari|18|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:27|21|Aymeric Tores |Emilie Drouin|11|Baptiste Vital|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:27|21|Aymeric Tores |Emilie Drouin|15|Baptiste Vital|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Kian-Yu Oei |Lucie Wagner|19|Gil Fabre|Gwenhael Dolou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Kian-Yu Oei |Lucie Wagner|13|Gil Fabre|Gwenhael Dolou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:24|21|Bastien Chailloux|Auriane Mathieu|17|Simon Baron-Vezilier|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:24|21|Bastien Chailloux|Auriane Mathieu|19|Simon Baron-Vezilier|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Elie Bime|Carla Martinez|5|Ludovic Lavaud|Louane Chambaretaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Elie Bime|Carla Martinez|5|Ludovic Lavaud|Louane Chambaretaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Lucas Renoir |Tea Margueritte|15|Nicolas Hoareau|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Lucas Renoir |Tea Margueritte|15|Nicolas Hoareau|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:31|21|Driss Bourroum |Diane Lemesle|14|Jeremy Potin|Marine Gassion|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:31|22|Driss Bourroum |Diane Lemesle|20|Jeremy Potin|Marine Gassion|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Jacobo Fernandez |Lucia Rodriguez|7|Othys Calvi|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Jacobo Fernandez |Lucia Rodriguez|10|Othys Calvi|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Thomas Fourcade |Flavie Vallet|11|Kimi Lovang|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Thomas Fourcade |Flavie Vallet|15|Kimi Lovang|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|21|Neil Bhabuta |Annie Lado|9|Achille Girard|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:23|21|Neil Bhabuta |Annie Lado|8|Achille Girard|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:29|21|Toby Leung|Kiara Henry|16|William Atkin|Lisa Curtin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:29|21|Toby Leung|Kiara Henry|17|William Atkin|Lisa Curtin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:26|21|Gabriel Rodrigues|Chloé Segrestan|15|Mateo Dos Santos|Ida Melkerhed|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:26|21|Gabriel Rodrigues|Chloé Segrestan|13|Mateo Dos Santos|Ida Melkerhed|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Alex Green|Estelle Van Leeuwen|10|Liam Nguyen Van|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Alex Green|Estelle Van Leeuwen|7|Liam Nguyen Van|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:44|21|Grégoire Deschamp|Tanina Mammeri|19|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:44|16|Grégoire Deschamp|Tanina Mammeri|21|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:44|21|Grégoire Deschamp|Tanina Mammeri|18|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:30|21|Ivan Kovacevic|Karla Verkyndt|16|Reuben Bodman|Cara Collins|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:30|21|Ivan Kovacevic|Karla Verkyndt|18|Reuben Bodman|Cara Collins|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:32|22|Nathan Moore|Holly Williams|20|Emilien Morin|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:32|21|Nathan Moore|Holly Williams|19|Emilien Morin|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:32|21|Malik Bourakkadi |Kian-Yu Oei|17|Alex Dillingham|Luke Griffiths|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:32|21|Malik Bourakkadi |Kian-Yu Oei|18|Alex Dillingham|Luke Griffiths|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:55|17|Asmita Chaudhari |Annie Lado|21|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:55|21|Asmita Chaudhari |Annie Lado|15|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:55|21|Asmita Chaudhari |Annie Lado|17|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:49|17|Sacha Leveque|Giuseppe Terny|21|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:49|21|Sacha Leveque|Giuseppe Terny|19|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:49|21|Sacha Leveque|Giuseppe Terny|13|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:40|21|Justine Coquio|Diane Lemesle|18|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:40|8|Justine Coquio|Diane Lemesle|21|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:40|21|Justine Coquio|Diane Lemesle|13|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:31|21|Tino Daoudal|Paul Tournefier|19|Reuben Bodman|Stephen Jong|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:31|21|Tino Daoudal|Paul Tournefier|19|Reuben Bodman|Stephen Jong|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:45|21|Kiara Henry|Pamela Reyes|9|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:45|19|Kiara Henry|Pamela Reyes|21|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:45|21|Kiara Henry|Pamela Reyes|17|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Grégoire Deschamp|Gil Fabre|6|Mateo Dos Santos|Ludovic Lavaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:21|21|Grégoire Deschamp|Gil Fabre|14|Mateo Dos Santos|Ludovic Lavaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Flavie Vallet|Emilie Vercelot|10|Anais Begaud|Tanina Mammeri|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:28|21|Flavie Vallet|Emilie Vercelot|17|Anais Begaud|Tanina Mammeri|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:40|22|Gabriel Rodrigues |Theo Vaur|20|Elie Bime|Leo Van Gysel|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:40|21|Gabriel Rodrigues |Theo Vaur|19|Elie Bime|Leo Van Gysel|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:54|17|Ida Melkerhed|Bulle Thomas|21|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:54|21|Ida Melkerhed|Bulle Thomas|12|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:54|21|Ida Melkerhed|Bulle Thomas|19|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:43|14|William Atkin|Nathan Moore|21|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:43|21|William Atkin|Nathan Moore|16|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:43|21|William Atkin|Nathan Moore|14|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:38|21|Estelle Van Leeuwen|Holly Williams|12|Alicia Huynh|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:38|21|Estelle Van Leeuwen|Holly Williams|18|Alicia Huynh|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|10|Emilien Morin|Edgar Roux|21|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|21|Emilien Morin|Edgar Roux|12|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:39|21|Emilien Morin|Edgar Roux|8|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:27|21|Andrea Ortuno|Karla Verkyndt|19|Emilie Drouin [3]|Tea Margueritte|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:27|21|Andrea Ortuno|Karla Verkyndt|18|Emilie Drouin [3]|Tea Margueritte|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:30|21|Bastien Chailloux|Valentin Mottet|15|Alejandro De Pablo [2]|Gabriel Fernandez|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:30|21|Bastien Chailloux|Valentin Mottet|18|Alejandro De Pablo [2]|Gabriel Fernandez|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:55|25|Lisa Curtin|Gauri Shidhaye|27|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:55|21|Lisa Curtin|Gauri Shidhaye|16|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180818|0:55|21|Lisa Curtin|Gauri Shidhaye|19|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|22|Simon Baron-Vezilier|Kaena Ratelet|20|Liam Bauwens|Karla Henry|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|21|Simon Baron-Vezilier|Kaena Ratelet|13|Liam Bauwens|Karla Henry|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|21|Grégoire Deschamp|Tanina Mammeri|12|William Freer|Charlotte Freer|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|21|Grégoire Deschamp|Tanina Mammeri|9|William Freer|Charlotte Freer|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:29|21|Ivan Kovacevic|Karla Verkyndt|17|Diogo Gloria|Mariana Neves|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:29|21|Ivan Kovacevic|Karla Verkyndt|14|Diogo Gloria|Mariana Neves|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:44|21|Elie Bime|Carla Martinez|8|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:44|14|Elie Bime|Carla Martinez|21|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:44|21|Elie Bime|Carla Martinez|19|Andreas De Winné|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:25|21|Alex Green|Estelle Van Leeuwen|7|Valentin Mottet|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:25|21|Alex Green|Estelle Van Leeuwen|8|Valentin Mottet|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:33|21|Andrea Ortuno|none|17|Diane Lemesle|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:33|22|Andrea Ortuno|none|20|Diane Lemesle|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:21|21|Neil Bhabuta|none|8|Liam Nguyen Van|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:21|21|Neil Bhabuta|none|10|Liam Nguyen Van|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:30|21|Camille Gaugain|none|16|Bulle Thomas|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:30|21|Camille Gaugain|none|16|Bulle Thomas|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:27|21|Jacobo Fernandez|none|16|Othys Calvi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:27|21|Jacobo Fernandez|none|13|Othys Calvi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|Lucie Wagner|none|15|Romane Haensler|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|Lucie Wagner|none|15|Romane Haensler|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|William Atkin|none|13|Ludovic Lavaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|William Atkin|none|15|Ludovic Lavaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:23|21|Gauri Shidhaye|none|8|Gwenhael Dolou|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:23|21|Gauri Shidhaye|none|10|Gwenhael Dolou|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:19|21|Anna Tatranova|none|2|Noa Dechambre|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:19|21|Anna Tatranova|none|7|Noa Dechambre|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Emilien Morin|none|16|Joseph Ball|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Emilien Morin|none|15|Joseph Ball|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Driss Bourroum|none|15|Nathan Moore|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Driss Bourroum|none|9|Nathan Moore|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:21|21|Auriane Mathieu|none|10|Eugenie Guerder|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:21|21|Auriane Mathieu|none|13|Eugenie Guerder|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:51|24|Paul Tournefier|none|22|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:51|15|Paul Tournefier|none|21|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:51|21|Paul Tournefier|none|13|Malik Bourakkadi|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:24|21|Marie Cesari|none|13|Karla Henry|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:24|21|Marie Cesari|none|10|Karla Henry|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:47|23|Alex Dillingham|none|21|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:47|16|Alex Dillingham|none|21|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:47|21|Alex Dillingham|none|12|Edgar Roux|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Laeticia Jaffrennou|none|17|Lien Lammertyn|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Laeticia Jaffrennou|none|14|Lien Lammertyn|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:48|17|Ivan Kovacevic|none|21|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:48|21|Ivan Kovacevic|none|10|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:48|21|Ivan Kovacevic|none|19|Toby Leung|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:46|21|Alison Drouard|none|18|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:46|20|Alison Drouard|none|22|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:46|21|Alison Drouard|none|11|Anjali Bhujun|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:32|21|Diogo Gloria|none|16|Gabriel Rodrigues|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:32|21|Diogo Gloria|none|14|Gabriel Rodrigues|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Karla Verkyndt|none|18|Holly Williams|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:29|21|Karla Verkyndt|none|14|Holly Williams|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:20|14|Grégoire Deschamp|none|21|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:20|21|Grégoire Deschamp|none|19|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:20|21|Grégoire Deschamp|none|19|Toby Dillingham|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:19|21|Noemie Poulbot|none|5|Noa Narbate|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:19|21|Noemie Poulbot|none|12|Noa Narbate|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:33|21|Theo Vaur|none|16|William Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:33|21|Theo Vaur|none|9|William Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:28|21|Emilie Drouin|none|18|Ida Melkerhed|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:28|21|Emilie Drouin|none|16|Ida Melkerhed|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:48|13|Giuseppe Terny|none|21|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:48|21|Giuseppe Terny|none|12|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:48|21|Giuseppe Terny|none|16|Liam Bauwens|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:31|21|Cara Collins|none|13|Nina Polito|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:31|21|Cara Collins|none|17|Nina Polito|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:20|21|Justine Coquio|none|9|Louane Chambaretaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:20|21|Justine Coquio|none|7|Louane Chambaretaud|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:27|21|Reuben Bodman|none|12|Achille Girard|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:27|21|Reuben Bodman|none|9|Achille Girard|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:42|25|Anais Begaud|none|23|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:42|16|Anais Begaud|none|21|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:42|21|Anais Begaud|none|14|Kaena Ratelet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:33|21|Stephen Jong|none|9|Baptiste Vital|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:33|21|Stephen Jong|none|11|Baptiste Vital|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:23|21|Carla Martinez|none|10|Ludivine Lecrosnier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:23|21|Carla Martinez|none|13|Ludivine Lecrosnier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:24|21|Elin Boman|none|14|Chloé Segrestan|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:24|21|Elin Boman|none|6|Chloé Segrestan|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:33|21|Estelle Van Leeuwen|none|8|Kelly Banchonpanith|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:33|21|Estelle Van Leeuwen|none|13|Kelly Banchonpanith|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|Jeremy Potin|none|16|Luke Griffiths|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|Jeremy Potin|none|14|Luke Griffiths|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:21|21|Floriane Nurit|none|10|Charlotte Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:21|21|Floriane Nurit|none|10|Charlotte Freer|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:43|21|Mariana Neves|none|12|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:43|17|Mariana Neves|none|21|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:43|21|Mariana Neves|none|14|Noemie Lecavelier|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:27|21|Alejandro De Pablo|none|15|Mateo Dos Santos|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:27|21|Alejandro De Pablo|none|7|Mateo Dos Santos|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|Gabriel Fernandez|none|11|Valentin Mottet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:26|21|Gabriel Fernandez|none|19|Valentin Mottet|none|04335996-7F85-4DCC-BAE7-E592B689B526|singles
+20180819|0:43|20|Tino Daoudal|Paul Tournefier|22|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:43|21|Tino Daoudal|Paul Tournefier|17|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:43|21|Tino Daoudal|Paul Tournefier|18|Joseph Ball|Toby Dillingham|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:27|21|William Atkin|Nathan Moore|17|Othys Calvi|Liam Nguyen Van|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:27|21|William Atkin|Nathan Moore|11|Othys Calvi|Liam Nguyen Van|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|21|Grégoire Deschamp|Gil Fabre|19|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|19|Grégoire Deschamp|Gil Fabre|21|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|21|Grégoire Deschamp|Gil Fabre|16|Alex Green|Toby Leung|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:31|21|Alison Drouard|Laeticia Jaffrennou|10|Laurine Adler|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:31|21|Alison Drouard|Laeticia Jaffrennou|19|Laurine Adler|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:34|21|Kiara Henry|Pamela Reyes|19|Gwenhael Dolou|Anna Tatranova|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:34|21|Kiara Henry|Pamela Reyes|14|Gwenhael Dolou|Anna Tatranova|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|16|Justine Coquio|Diane Lemesle|21|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|21|Justine Coquio|Diane Lemesle|10|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|21|Justine Coquio|Diane Lemesle|15|Auriane Mathieu|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:29|21|Ida Melkerhed|Bulle Thomas|13|Louane Chambaretaud|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:29|21|Ida Melkerhed|Bulle Thomas|10|Louane Chambaretaud|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:26|21|Carla Martinez|Nina Polito|12|Karla Henry|Luisa Pagliara|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:26|21|Carla Martinez|Nina Polito|13|Karla Henry|Luisa Pagliara|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|21|Lisa Curtin|Gauri Shidhaye|12|Camille Gaugain|Noemie Lecavelier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|27|Lisa Curtin|Gauri Shidhaye|25|Camille Gaugain|Noemie Lecavelier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|18|Anais Begaud|Tanina Mammeri|21|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|21|Anais Begaud|Tanina Mammeri|18|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|21|Anais Begaud|Tanina Mammeri|19|Marine Gassion|Chloé Segrestan|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Flavie Vallet|Emilie Vercelot|11|Charlotte Freer|Ashwati Nair|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Flavie Vallet|Emilie Vercelot|5|Charlotte Freer|Ashwati Nair|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:36|21|Andrea Ortuno|Karla Verkyndt|10|Cara Collins|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:36|21|Andrea Ortuno|Karla Verkyndt|17|Cara Collins|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|21|Estelle Van Leeuwen|Holly Williams|8|Noa Dechambre|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|21|Estelle Van Leeuwen|Holly Williams|9|Noa Dechambre|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|21|Joseph Ball |Asmita Chaudhari|18|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|16|Joseph Ball |Asmita Chaudhari|21|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:46|21|Joseph Ball |Asmita Chaudhari|18|Enogat Roy|Alison Drouard|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:27|21|Aymeric Tores |Emilie Drouin|11|Baptiste Vital|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:27|21|Aymeric Tores |Emilie Drouin|15|Baptiste Vital|Romane Haensler|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Kian-Yu Oei |Lucie Wagner|19|Gil Fabre|Gwenhael Dolou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Kian-Yu Oei |Lucie Wagner|13|Gil Fabre|Gwenhael Dolou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:24|21|Bastien Chailloux|Auriane Mathieu|17|Simon Baron-Vezilier|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:24|21|Bastien Chailloux|Auriane Mathieu|19|Simon Baron-Vezilier|Kaena Ratelet|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Elie Bime|Carla Martinez|5|Ludovic Lavaud|Louane Chambaretaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Elie Bime|Carla Martinez|5|Ludovic Lavaud|Louane Chambaretaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Lucas Renoir |Tea Margueritte|15|Nicolas Hoareau|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Lucas Renoir |Tea Margueritte|15|Nicolas Hoareau|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:31|21|Driss Bourroum |Diane Lemesle|14|Jeremy Potin|Marine Gassion|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:31|22|Driss Bourroum |Diane Lemesle|20|Jeremy Potin|Marine Gassion|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Jacobo Fernandez |Lucia Rodriguez|7|Othys Calvi|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Jacobo Fernandez |Lucia Rodriguez|10|Othys Calvi|Eugenie Guerder|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Thomas Fourcade |Flavie Vallet|11|Kimi Lovang|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Thomas Fourcade |Flavie Vallet|15|Kimi Lovang|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|21|Neil Bhabuta |Annie Lado|9|Achille Girard|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:23|21|Neil Bhabuta |Annie Lado|8|Achille Girard|Ludivine Lecrosnier|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:29|21|Toby Leung|Kiara Henry|16|William Atkin|Lisa Curtin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:29|21|Toby Leung|Kiara Henry|17|William Atkin|Lisa Curtin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:26|21|Gabriel Rodrigues|Chloé Segrestan|15|Mateo Dos Santos|Ida Melkerhed|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:26|21|Gabriel Rodrigues|Chloé Segrestan|13|Mateo Dos Santos|Ida Melkerhed|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Alex Green|Estelle Van Leeuwen|10|Liam Nguyen Van|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Alex Green|Estelle Van Leeuwen|7|Liam Nguyen Van|Noa Narbate|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:44|21|Grégoire Deschamp|Tanina Mammeri|19|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:44|16|Grégoire Deschamp|Tanina Mammeri|21|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:44|21|Grégoire Deschamp|Tanina Mammeri|18|Edgar Roux|Andrea Ortuno|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:30|21|Ivan Kovacevic|Karla Verkyndt|16|Reuben Bodman|Cara Collins|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:30|21|Ivan Kovacevic|Karla Verkyndt|18|Reuben Bodman|Cara Collins|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:32|22|Nathan Moore|Holly Williams|20|Emilien Morin|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:32|21|Nathan Moore|Holly Williams|19|Emilien Morin|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:32|21|Malik Bourakkadi |Kian-Yu Oei|17|Alex Dillingham|Luke Griffiths|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:32|21|Malik Bourakkadi |Kian-Yu Oei|18|Alex Dillingham|Luke Griffiths|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:55|17|Asmita Chaudhari |Annie Lado|21|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:55|21|Asmita Chaudhari |Annie Lado|15|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:55|21|Asmita Chaudhari |Annie Lado|17|Alison Drouard|Laeticia Jaffrennou|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:49|17|Sacha Leveque|Giuseppe Terny|21|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:49|21|Sacha Leveque|Giuseppe Terny|19|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:49|21|Sacha Leveque|Giuseppe Terny|13|Simon Baron-Vezilier [3]|Kimi Lovang|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:40|21|Justine Coquio|Diane Lemesle|18|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:40|8|Justine Coquio|Diane Lemesle|21|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:40|21|Justine Coquio|Diane Lemesle|13|Elin Boman [4]|Julia Tuvesson|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:31|21|Tino Daoudal|Paul Tournefier|19|Reuben Bodman|Stephen Jong|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:31|21|Tino Daoudal|Paul Tournefier|19|Reuben Bodman|Stephen Jong|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:45|21|Kiara Henry|Pamela Reyes|9|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:45|19|Kiara Henry|Pamela Reyes|21|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:45|21|Kiara Henry|Pamela Reyes|17|Kelly Banchonpanith|Noemie Poulbot|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Grégoire Deschamp|Gil Fabre|6|Mateo Dos Santos|Ludovic Lavaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:21|21|Grégoire Deschamp|Gil Fabre|14|Mateo Dos Santos|Ludovic Lavaud|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Flavie Vallet|Emilie Vercelot|10|Anais Begaud|Tanina Mammeri|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:28|21|Flavie Vallet|Emilie Vercelot|17|Anais Begaud|Tanina Mammeri|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:40|22|Gabriel Rodrigues |Theo Vaur|20|Elie Bime|Leo Van Gysel|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:40|21|Gabriel Rodrigues |Theo Vaur|19|Elie Bime|Leo Van Gysel|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:54|17|Ida Melkerhed|Bulle Thomas|21|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:54|21|Ida Melkerhed|Bulle Thomas|12|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:54|21|Ida Melkerhed|Bulle Thomas|19|Carla Martinez|Nina Polito|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:43|14|William Atkin|Nathan Moore|21|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:43|21|William Atkin|Nathan Moore|16|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:43|21|William Atkin|Nathan Moore|14|Ivan Kovacevic|Jeremy Potin|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:38|21|Estelle Van Leeuwen|Holly Williams|12|Alicia Huynh|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:38|21|Estelle Van Leeuwen|Holly Williams|18|Alicia Huynh|Floriane Nurit|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|10|Emilien Morin|Edgar Roux|21|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|21|Emilien Morin|Edgar Roux|12|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:39|21|Emilien Morin|Edgar Roux|8|Nicolas Hoareau|Alfred Leroy|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:27|21|Andrea Ortuno|Karla Verkyndt|19|Emilie Drouin [3]|Tea Margueritte|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:27|21|Andrea Ortuno|Karla Verkyndt|18|Emilie Drouin [3]|Tea Margueritte|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:30|21|Bastien Chailloux|Valentin Mottet|15|Alejandro De Pablo [2]|Gabriel Fernandez|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:30|21|Bastien Chailloux|Valentin Mottet|18|Alejandro De Pablo [2]|Gabriel Fernandez|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:55|25|Lisa Curtin|Gauri Shidhaye|27|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:55|21|Lisa Curtin|Gauri Shidhaye|16|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles
+20180819|0:55|21|Lisa Curtin|Gauri Shidhaye|19|Siebelijn De Sutter [2]|Lien Lammertyn|04335996-7F85-4DCC-BAE7-E592B689B526|doubles

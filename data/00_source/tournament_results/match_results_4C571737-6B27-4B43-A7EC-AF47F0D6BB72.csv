@@ -1,0 +1,556 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20180216|0:24|22|Pedro Mendes|Teresa Lopes|20|Jorge Galvez|Lucia Barrio|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:24|21|Pedro Mendes|Teresa Lopes|9|Jorge Galvez|Lucia Barrio|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Alberto Perals|Ana Ramirez|9|Kevin Selvarajah|Ana Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Alberto Perals|Ana Ramirez|12|Kevin Selvarajah|Ana Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:15|21|Maxime Briot |Charlotte Ganci|7|Simao Ferreira|Ana Marques|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:15|21|Maxime Briot |Charlotte Ganci|11|Simao Ferreira|Ana Marques|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:23|21|Enrico Baroni|Chiara Passeri|15|Clement Allain|Lynn Brecheteau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:23|21|Enrico Baroni|Chiara Passeri|12|Clement Allain|Lynn Brecheteau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:31|21|Theo Lanier|Romane Cloteaux-Foucault|17|Hugo Hanecart|Camille Benetreau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:31|24|Theo Lanier|Romane Cloteaux-Foucault|22|Hugo Hanecart|Camille Benetreau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Fabien Delrue |Juliette Moinard|14|Alvaro Leal|Laura Solis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Fabien Delrue |Juliette Moinard|11|Alvaro Leal|Laura Solis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Cyprien Samson|Emmy Guilbard|12|Adam Mcallister|Rachael Woods|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|25|Cyprien Samson|Emmy Guilbard|23|Adam Mcallister|Rachael Woods|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:20|21|Jose Miguel Rodriguez|Ainoa Cuervas|11|Jacobo Fernandez|Maria De La O Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:20|21|Jose Miguel Rodriguez|Ainoa Cuervas|15|Jacobo Fernandez|Maria De La O Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:40|15|Calle Fredholm|Martina Corsini|21|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:40|21|Calle Fredholm|Martina Corsini|14|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:40|21|Calle Fredholm|Martina Corsini|19|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:23|21|Kenji Lovang |Ainoa Desmons|11|Salvador Franco|Candela Arcos|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:23|21|Kenji Lovang |Ainoa Desmons|15|Salvador Franco|Candela Arcos|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Gonzalo La Peña|Elena Lorenzo|14|Fernando Civico|Adika Carulla|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Gonzalo La Peña|Elena Lorenzo|15|Fernando Civico|Adika Carulla|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:26|21|William Villeger |Sharone Bauer|7|Luis A. Silva|Mariana Afonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:26|21|William Villeger |Sharone Bauer|13|Luis A. Silva|Mariana Afonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|24|Aymeric Mispelaere|Rebecca Woods|22|Pelayo Pinto|Carlota Viejo|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Aymeric Mispelaere|Rebecca Woods|19|Pelayo Pinto|Carlota Viejo|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Daniel Popescu |Maria Alexandra Dutu|19|Alejandro De Pablo|Celia Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Daniel Popescu |Maria Alexandra Dutu|12|Alejandro De Pablo|Celia Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:20|21|Fabricio Farias |Jaqueline Lima|13|Enrique Navarro|Myrian Alonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:20|21|Fabricio Farias |Jaqueline Lima|12|Enrique Navarro|Myrian Alonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:20|21|Arnaud Merkle |none|11|Gabriel Fernandez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Arnaud Merkle |none|10|Gabriel Fernandez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Alexis Vanhaecke|none|16|Sergio Vidal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Alexis Vanhaecke|none|11|Sergio Vidal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:29|21|Rory Easton |none|12|Martin Ouazzen|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:29|21|Rory Easton |none|10|Martin Ouazzen|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|21|Carlos Piris|none|14|Rui Tremoceiro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|21|Carlos Piris|none|11|Rui Tremoceiro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|23|Enrique Rodriguez|none|21|Victor Lindahl [15]|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|21|Enrique Rodriguez|none|12|Victor Lindahl [15]|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:32|9|Pedro Mendes|Teresa Lopes|21|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:32|21|Pedro Mendes|Teresa Lopes|17|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:32|21|Pedro Mendes|Teresa Lopes|15|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:11|21|Alberto Perals|Ana Ramirez|9|Pedro Rocha|Ines Lencastre|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:11|21|Alberto Perals|Ana Ramirez|2|Pedro Rocha|Ines Lencastre|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:43|16|Joao Fernandes|none|21|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:43|21|Joao Fernandes|none|12|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:43|21|Joao Fernandes|none|15|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Tomas Toledano|none|14|Rafael Gavois|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Tomas Toledano|none|15|Rafael Gavois|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:35|21|Zach Russ |none|18|Joan Monroy|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:35|21|Zach Russ |none|12|Joan Monroy|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:45|21|Aymeric Mispelaere|none|14|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:45|19|Aymeric Mispelaere|none|21|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:45|21|Aymeric Mispelaere|none|16|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Dennis Koppen |none|16|Goncalo Morgado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Dennis Koppen |none|13|Goncalo Morgado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|21|Uriel Francisco Canjura Artiga |none|13|Tomas Coelho|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|21|Uriel Francisco Canjura Artiga |none|15|Tomas Coelho|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Alonso Medel |none|17|Simao Ferreira|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Alonso Medel |none|13|Simao Ferreira|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:19|21|Christo Popov |none|4|Sergio Alvarez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:19|21|Christo Popov |none|8|Sergio Alvarez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Giovanni Toti |none|11|Daniel Costa|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Giovanni Toti |none|15|Daniel Costa|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Cyprien Samson|none|7|Hugo Fernandes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Cyprien Samson|none|13|Hugo Fernandes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:21|21|Joao Chang|none|15|Calle Fredholm|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:21|21|Joao Chang|none|18|Calle Fredholm|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:43|21|Ernesto Baschwitz|none|18|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:43|14|Ernesto Baschwitz|none|21|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:43|21|Ernesto Baschwitz|none|16|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:42|18|Nicolas A. Mueller |none|21|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:42|22|Nicolas A. Mueller |none|20|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:42|21|Nicolas A. Mueller |none|16|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:26|21|Markus Barth |none|13|Alvaro Leal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:26|21|Markus Barth |none|5|Alvaro Leal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Theo Lanier|none|9|Oliver Gausmann|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Theo Lanier|none|12|Oliver Gausmann|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Antonio Iglesias|none|15|Brynjar Mar Ellertsson|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Antonio Iglesias|none|12|Brynjar Mar Ellertsson|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Daniel Popescu |none|15|Marco Bailetti|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Daniel Popescu |none|7|Marco Bailetti|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Christopher Alexander Martinez Salvador |none|13|Clement Allain|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Christopher Alexander Martinez Salvador |none|17|Clement Allain|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:50|19|Vincent Ziegler|none|21|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:50|23|Vincent Ziegler|none|21|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:50|21|Vincent Ziegler|none|13|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|21|Fabricio Farias |none|9|Jorge Galvez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:30|21|Fabricio Farias |none|7|Jorge Galvez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:18|21|Pedro Mendes|none|8|Aymeric Cantin|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:18|21|Pedro Mendes|none|10|Aymeric Cantin|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:24|21|Dimitri Jacquart|none|16|Kevin Selvarajah|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:24|21|Dimitri Jacquart|none|11|Kevin Selvarajah|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Alberto Perals|none|5|Tomas Correia|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Alberto Perals|none|8|Tomas Correia|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Jorge Rodriguez |none|7|Luis A. Silva|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Jorge Rodriguez |none|12|Luis A. Silva|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:40|21|Miguel San Luis|none|13|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:40|19|Miguel San Luis|none|21|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:40|21|Miguel San Luis|none|19|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:46|19|Maximilien Lamblot|none|21|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:46|21|Maximilien Lamblot|none|14|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:46|21|Maximilien Lamblot|none|13|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:12|21|Marc Cardona|none|3|Pedro Rocha|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:12|21|Marc Cardona|none|8|Pedro Rocha|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:26|21|Lara Villacorta|none|16|Mariana Afonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:26|21|Lara Villacorta|none|19|Mariana Afonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Ana Fernandes|none|10|Maria Martinez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Ana Fernandes|none|15|Maria Martinez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Ruhi Raju|none|14|Ania Setien|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Ruhi Raju|none|8|Ania Setien|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Laura Chillon|none|15|Claudia Lourenço|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Laura Chillon|none|13|Claudia Lourenço|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Ruth Veiguela|none|6|Maria Dias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:20|21|Ruth Veiguela|none|9|Maria Dias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:37|21|Adika Carulla|none|18|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:37|12|Adika Carulla|none|21|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:37|21|Adika Carulla|none|16|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:33|21|Martina Corsini|none|11|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:33|19|Martina Corsini|none|21|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:33|21|Martina Corsini|none|14|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:17|21|Ana Carbon|none|4|Ines Lencastre|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:17|21|Ana Carbon|none|6|Ines Lencastre|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Candela Arcos|none|15|Teresa Lopes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Candela Arcos|none|15|Teresa Lopes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Ainoa Desmons|none|8|Myrian Alonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Ainoa Desmons|none|12|Myrian Alonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216||Walkover Win|Ana Ramirez|none|Walkover Loss|Clara Lassaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:21|21|Clara Cotte|none|6|Maria De La O Perez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:21|21|Clara Cotte|none|8|Maria De La O Perez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:34|16|Juliana Viana|none|21|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:34|21|Juliana Viana|none|14|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:34|21|Juliana Viana|none|14|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Elena Lorenzo|none|19|Juliette Moinard|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Elena Lorenzo|none|16|Juliette Moinard|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Romane Cloteaux-Foucault|none|18|Andrea Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:23|21|Romane Cloteaux-Foucault|none|16|Andrea Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:19|21|Nanami Akechi|none|12|Celia Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:19|21|Nanami Akechi|none|4|Celia Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:18|21|Nerea Diaz|none|10|Ana Marques|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:18|21|Nerea Diaz|none|14|Ana Marques|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Naia Daza|none|17|Constanca Soares|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:25|21|Naia Daza|none|15|Constanca Soares|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216||Walkover Win|Marig Brouxel|none|Walkover Loss|Albin Fatima|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:45|18|Claudia Leal|none|21|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:45|21|Claudia Leal|none|16|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:45|21|Claudia Leal|none|15|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:50|21|Marion Le Turdu|none|19|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:50|19|Marion Le Turdu|none|21|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:50|21|Marion Le Turdu|none|18|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Rebecca Woods|none|18|Lucia Barrio|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:22|21|Rebecca Woods|none|19|Lucia Barrio|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:29|21|Carlota Viejo|none|19|Joana Eduardo|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:29|21|Carlota Viejo|none|18|Joana Eduardo|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180216|0:37|22|Sergio Alvarez|Vicente Miguel Gazquez|20|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:37|17|Sergio Alvarez|Vicente Miguel Gazquez|21|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:37|21|Sergio Alvarez|Vicente Miguel Gazquez|17|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:32|21|Theo Lanier|Aymeric Mispelaere|16|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:32|16|Theo Lanier|Aymeric Mispelaere|21|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:32|21|Theo Lanier|Aymeric Mispelaere|15|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:17|21|Nicolas A. Mueller|Soen Rimmer|17|Adrian Melero|Guillem Rodriguez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:17|21|Nicolas A. Mueller|Soen Rimmer|11|Adrian Melero|Guillem Rodriguez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Ernesto Baschwitz|Tomas Toledano|12|Kevin Selvarajah|Rui Tremoceiro|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Ernesto Baschwitz|Tomas Toledano|18|Kevin Selvarajah|Rui Tremoceiro|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:42|20|Ania Setien|Ruth Veiguela|22|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:42|21|Ania Setien|Ruth Veiguela|19|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:42|21|Ania Setien|Ruth Veiguela|18|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:18|21|Martin Barbado|Sergio Vidal|13|Pedro Rocha|Luis A. Silva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:18|21|Martin Barbado|Sergio Vidal|6|Pedro Rocha|Luis A. Silva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Tomas Coelho|Simao Ferreira|19|Enrique Navarro|Ivan Pantoja|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Tomas Coelho|Simao Ferreira|19|Enrique Navarro|Ivan Pantoja|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Cyprien Samson|Vincent Ziegler|12|Gabriel Fernandez|Antonio Iglesias|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Cyprien Samson|Vincent Ziegler|17|Gabriel Fernandez|Antonio Iglesias|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:28|21|Ana Fernandes|Claudia Lourenço|15|Myrian Alonso|Lara Villacorta|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:28|21|Ana Fernandes|Claudia Lourenço|18|Myrian Alonso|Lara Villacorta|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Dimitri Jacquart|Alexis Vanhaecke|14|Enrique Rodriguez|Miguel San Luis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:25|21|Dimitri Jacquart|Alexis Vanhaecke|16|Enrique Rodriguez|Miguel San Luis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Hugo Hanecart|Maximilien Lamblot|19|Joao Chang|Pedro Mendes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:30|21|Hugo Hanecart|Maximilien Lamblot|14|Joao Chang|Pedro Mendes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:23|21|Clement Allain|Adam Mcallister|16|Daniel Costa|Goncalo Morgado|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:23|21|Clement Allain|Adam Mcallister|15|Daniel Costa|Goncalo Morgado|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:35|21|Enrico Baroni|Giovanni Toti|19|Joan Monroy|Carlos Piris|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180216|0:35|21|Enrico Baroni|Giovanni Toti|18|Joan Monroy|Carlos Piris|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:24|22|Pedro Mendes|Teresa Lopes|20|Jorge Galvez|Lucia Barrio|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:24|21|Pedro Mendes|Teresa Lopes|9|Jorge Galvez|Lucia Barrio|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Alberto Perals|Ana Ramirez|9|Kevin Selvarajah|Ana Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Alberto Perals|Ana Ramirez|12|Kevin Selvarajah|Ana Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:15|21|Maxime Briot |Charlotte Ganci|7|Simao Ferreira|Ana Marques|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:15|21|Maxime Briot |Charlotte Ganci|11|Simao Ferreira|Ana Marques|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:23|21|Enrico Baroni|Chiara Passeri|15|Clement Allain|Lynn Brecheteau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:23|21|Enrico Baroni|Chiara Passeri|12|Clement Allain|Lynn Brecheteau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:31|21|Theo Lanier|Romane Cloteaux-Foucault|17|Hugo Hanecart|Camille Benetreau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:31|24|Theo Lanier|Romane Cloteaux-Foucault|22|Hugo Hanecart|Camille Benetreau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Fabien Delrue |Juliette Moinard|14|Alvaro Leal|Laura Solis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Fabien Delrue |Juliette Moinard|11|Alvaro Leal|Laura Solis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Cyprien Samson|Emmy Guilbard|12|Adam Mcallister|Rachael Woods|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|25|Cyprien Samson|Emmy Guilbard|23|Adam Mcallister|Rachael Woods|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:20|21|Jose Miguel Rodriguez|Ainoa Cuervas|11|Jacobo Fernandez|Maria De La O Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:20|21|Jose Miguel Rodriguez|Ainoa Cuervas|15|Jacobo Fernandez|Maria De La O Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:40|15|Calle Fredholm|Martina Corsini|21|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:40|21|Calle Fredholm|Martina Corsini|14|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:40|21|Calle Fredholm|Martina Corsini|19|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:23|21|Kenji Lovang |Ainoa Desmons|11|Salvador Franco|Candela Arcos|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:23|21|Kenji Lovang |Ainoa Desmons|15|Salvador Franco|Candela Arcos|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Gonzalo La Peña|Elena Lorenzo|14|Fernando Civico|Adika Carulla|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Gonzalo La Peña|Elena Lorenzo|15|Fernando Civico|Adika Carulla|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:26|21|William Villeger |Sharone Bauer|7|Luis A. Silva|Mariana Afonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:26|21|William Villeger |Sharone Bauer|13|Luis A. Silva|Mariana Afonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|24|Aymeric Mispelaere|Rebecca Woods|22|Pelayo Pinto|Carlota Viejo|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Aymeric Mispelaere|Rebecca Woods|19|Pelayo Pinto|Carlota Viejo|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Daniel Popescu |Maria Alexandra Dutu|19|Alejandro De Pablo|Celia Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Daniel Popescu |Maria Alexandra Dutu|12|Alejandro De Pablo|Celia Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:20|21|Fabricio Farias |Jaqueline Lima|13|Enrique Navarro|Myrian Alonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:20|21|Fabricio Farias |Jaqueline Lima|12|Enrique Navarro|Myrian Alonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:20|21|Arnaud Merkle |none|11|Gabriel Fernandez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Arnaud Merkle |none|10|Gabriel Fernandez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Alexis Vanhaecke|none|16|Sergio Vidal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Alexis Vanhaecke|none|11|Sergio Vidal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:29|21|Rory Easton |none|12|Martin Ouazzen|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:29|21|Rory Easton |none|10|Martin Ouazzen|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|21|Carlos Piris|none|14|Rui Tremoceiro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|21|Carlos Piris|none|11|Rui Tremoceiro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|23|Enrique Rodriguez|none|21|Victor Lindahl [15]|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|21|Enrique Rodriguez|none|12|Victor Lindahl [15]|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:32|9|Pedro Mendes|Teresa Lopes|21|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:32|21|Pedro Mendes|Teresa Lopes|17|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:32|21|Pedro Mendes|Teresa Lopes|15|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:11|21|Alberto Perals|Ana Ramirez|9|Pedro Rocha|Ines Lencastre|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:11|21|Alberto Perals|Ana Ramirez|2|Pedro Rocha|Ines Lencastre|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:43|16|Joao Fernandes|none|21|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:43|21|Joao Fernandes|none|12|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:43|21|Joao Fernandes|none|15|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Tomas Toledano|none|14|Rafael Gavois|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Tomas Toledano|none|15|Rafael Gavois|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:35|21|Zach Russ |none|18|Joan Monroy|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:35|21|Zach Russ |none|12|Joan Monroy|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:45|21|Aymeric Mispelaere|none|14|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:45|19|Aymeric Mispelaere|none|21|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:45|21|Aymeric Mispelaere|none|16|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Dennis Koppen |none|16|Goncalo Morgado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Dennis Koppen |none|13|Goncalo Morgado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|21|Uriel Francisco Canjura Artiga |none|13|Tomas Coelho|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|21|Uriel Francisco Canjura Artiga |none|15|Tomas Coelho|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Alonso Medel |none|17|Simao Ferreira|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Alonso Medel |none|13|Simao Ferreira|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:19|21|Christo Popov |none|4|Sergio Alvarez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:19|21|Christo Popov |none|8|Sergio Alvarez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Giovanni Toti |none|11|Daniel Costa|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Giovanni Toti |none|15|Daniel Costa|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Cyprien Samson|none|7|Hugo Fernandes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Cyprien Samson|none|13|Hugo Fernandes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:21|21|Joao Chang|none|15|Calle Fredholm|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:21|21|Joao Chang|none|18|Calle Fredholm|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:43|21|Ernesto Baschwitz|none|18|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:43|14|Ernesto Baschwitz|none|21|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:43|21|Ernesto Baschwitz|none|16|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:42|18|Nicolas A. Mueller |none|21|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:42|22|Nicolas A. Mueller |none|20|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:42|21|Nicolas A. Mueller |none|16|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:26|21|Markus Barth |none|13|Alvaro Leal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:26|21|Markus Barth |none|5|Alvaro Leal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Theo Lanier|none|9|Oliver Gausmann|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Theo Lanier|none|12|Oliver Gausmann|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Antonio Iglesias|none|15|Brynjar Mar Ellertsson|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Antonio Iglesias|none|12|Brynjar Mar Ellertsson|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Daniel Popescu |none|15|Marco Bailetti|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Daniel Popescu |none|7|Marco Bailetti|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Christopher Alexander Martinez Salvador |none|13|Clement Allain|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Christopher Alexander Martinez Salvador |none|17|Clement Allain|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:50|19|Vincent Ziegler|none|21|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:50|23|Vincent Ziegler|none|21|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:50|21|Vincent Ziegler|none|13|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|21|Fabricio Farias |none|9|Jorge Galvez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:30|21|Fabricio Farias |none|7|Jorge Galvez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:18|21|Pedro Mendes|none|8|Aymeric Cantin|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:18|21|Pedro Mendes|none|10|Aymeric Cantin|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:24|21|Dimitri Jacquart|none|16|Kevin Selvarajah|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:24|21|Dimitri Jacquart|none|11|Kevin Selvarajah|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Alberto Perals|none|5|Tomas Correia|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Alberto Perals|none|8|Tomas Correia|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Jorge Rodriguez |none|7|Luis A. Silva|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Jorge Rodriguez |none|12|Luis A. Silva|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:40|21|Miguel San Luis|none|13|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:40|19|Miguel San Luis|none|21|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:40|21|Miguel San Luis|none|19|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:46|19|Maximilien Lamblot|none|21|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:46|21|Maximilien Lamblot|none|14|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:46|21|Maximilien Lamblot|none|13|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:12|21|Marc Cardona|none|3|Pedro Rocha|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:12|21|Marc Cardona|none|8|Pedro Rocha|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:26|21|Lara Villacorta|none|16|Mariana Afonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:26|21|Lara Villacorta|none|19|Mariana Afonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Ana Fernandes|none|10|Maria Martinez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Ana Fernandes|none|15|Maria Martinez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Ruhi Raju|none|14|Ania Setien|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Ruhi Raju|none|8|Ania Setien|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Laura Chillon|none|15|Claudia Lourenço|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Laura Chillon|none|13|Claudia Lourenço|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Ruth Veiguela|none|6|Maria Dias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:20|21|Ruth Veiguela|none|9|Maria Dias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:37|21|Adika Carulla|none|18|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:37|12|Adika Carulla|none|21|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:37|21|Adika Carulla|none|16|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:33|21|Martina Corsini|none|11|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:33|19|Martina Corsini|none|21|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:33|21|Martina Corsini|none|14|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:17|21|Ana Carbon|none|4|Ines Lencastre|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:17|21|Ana Carbon|none|6|Ines Lencastre|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Candela Arcos|none|15|Teresa Lopes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Candela Arcos|none|15|Teresa Lopes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Ainoa Desmons|none|8|Myrian Alonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Ainoa Desmons|none|12|Myrian Alonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217||Walkover Win|Ana Ramirez|none|Walkover Loss|Clara Lassaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:21|21|Clara Cotte|none|6|Maria De La O Perez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:21|21|Clara Cotte|none|8|Maria De La O Perez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:34|16|Juliana Viana|none|21|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:34|21|Juliana Viana|none|14|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:34|21|Juliana Viana|none|14|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Elena Lorenzo|none|19|Juliette Moinard|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Elena Lorenzo|none|16|Juliette Moinard|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Romane Cloteaux-Foucault|none|18|Andrea Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:23|21|Romane Cloteaux-Foucault|none|16|Andrea Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:19|21|Nanami Akechi|none|12|Celia Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:19|21|Nanami Akechi|none|4|Celia Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:18|21|Nerea Diaz|none|10|Ana Marques|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:18|21|Nerea Diaz|none|14|Ana Marques|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Naia Daza|none|17|Constanca Soares|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:25|21|Naia Daza|none|15|Constanca Soares|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217||Walkover Win|Marig Brouxel|none|Walkover Loss|Albin Fatima|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:45|18|Claudia Leal|none|21|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:45|21|Claudia Leal|none|16|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:45|21|Claudia Leal|none|15|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:50|21|Marion Le Turdu|none|19|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:50|19|Marion Le Turdu|none|21|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:50|21|Marion Le Turdu|none|18|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Rebecca Woods|none|18|Lucia Barrio|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:22|21|Rebecca Woods|none|19|Lucia Barrio|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:29|21|Carlota Viejo|none|19|Joana Eduardo|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:29|21|Carlota Viejo|none|18|Joana Eduardo|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180217|0:37|22|Sergio Alvarez|Vicente Miguel Gazquez|20|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:37|17|Sergio Alvarez|Vicente Miguel Gazquez|21|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:37|21|Sergio Alvarez|Vicente Miguel Gazquez|17|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:32|21|Theo Lanier|Aymeric Mispelaere|16|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:32|16|Theo Lanier|Aymeric Mispelaere|21|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:32|21|Theo Lanier|Aymeric Mispelaere|15|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:17|21|Nicolas A. Mueller|Soen Rimmer|17|Adrian Melero|Guillem Rodriguez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:17|21|Nicolas A. Mueller|Soen Rimmer|11|Adrian Melero|Guillem Rodriguez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Ernesto Baschwitz|Tomas Toledano|12|Kevin Selvarajah|Rui Tremoceiro|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Ernesto Baschwitz|Tomas Toledano|18|Kevin Selvarajah|Rui Tremoceiro|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:42|20|Ania Setien|Ruth Veiguela|22|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:42|21|Ania Setien|Ruth Veiguela|19|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:42|21|Ania Setien|Ruth Veiguela|18|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:18|21|Martin Barbado|Sergio Vidal|13|Pedro Rocha|Luis A. Silva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:18|21|Martin Barbado|Sergio Vidal|6|Pedro Rocha|Luis A. Silva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Tomas Coelho|Simao Ferreira|19|Enrique Navarro|Ivan Pantoja|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Tomas Coelho|Simao Ferreira|19|Enrique Navarro|Ivan Pantoja|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Cyprien Samson|Vincent Ziegler|12|Gabriel Fernandez|Antonio Iglesias|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Cyprien Samson|Vincent Ziegler|17|Gabriel Fernandez|Antonio Iglesias|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:28|21|Ana Fernandes|Claudia Lourenço|15|Myrian Alonso|Lara Villacorta|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:28|21|Ana Fernandes|Claudia Lourenço|18|Myrian Alonso|Lara Villacorta|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Dimitri Jacquart|Alexis Vanhaecke|14|Enrique Rodriguez|Miguel San Luis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:25|21|Dimitri Jacquart|Alexis Vanhaecke|16|Enrique Rodriguez|Miguel San Luis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Hugo Hanecart|Maximilien Lamblot|19|Joao Chang|Pedro Mendes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:30|21|Hugo Hanecart|Maximilien Lamblot|14|Joao Chang|Pedro Mendes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:23|21|Clement Allain|Adam Mcallister|16|Daniel Costa|Goncalo Morgado|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:23|21|Clement Allain|Adam Mcallister|15|Daniel Costa|Goncalo Morgado|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:35|21|Enrico Baroni|Giovanni Toti|19|Joan Monroy|Carlos Piris|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180217|0:35|21|Enrico Baroni|Giovanni Toti|18|Joan Monroy|Carlos Piris|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:24|22|Pedro Mendes|Teresa Lopes|20|Jorge Galvez|Lucia Barrio|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:24|21|Pedro Mendes|Teresa Lopes|9|Jorge Galvez|Lucia Barrio|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Alberto Perals|Ana Ramirez|9|Kevin Selvarajah|Ana Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Alberto Perals|Ana Ramirez|12|Kevin Selvarajah|Ana Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:15|21|Maxime Briot |Charlotte Ganci|7|Simao Ferreira|Ana Marques|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:15|21|Maxime Briot |Charlotte Ganci|11|Simao Ferreira|Ana Marques|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:23|21|Enrico Baroni|Chiara Passeri|15|Clement Allain|Lynn Brecheteau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:23|21|Enrico Baroni|Chiara Passeri|12|Clement Allain|Lynn Brecheteau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:31|21|Theo Lanier|Romane Cloteaux-Foucault|17|Hugo Hanecart|Camille Benetreau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:31|24|Theo Lanier|Romane Cloteaux-Foucault|22|Hugo Hanecart|Camille Benetreau|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Fabien Delrue |Juliette Moinard|14|Alvaro Leal|Laura Solis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Fabien Delrue |Juliette Moinard|11|Alvaro Leal|Laura Solis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Cyprien Samson|Emmy Guilbard|12|Adam Mcallister|Rachael Woods|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|25|Cyprien Samson|Emmy Guilbard|23|Adam Mcallister|Rachael Woods|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:20|21|Jose Miguel Rodriguez|Ainoa Cuervas|11|Jacobo Fernandez|Maria De La O Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:20|21|Jose Miguel Rodriguez|Ainoa Cuervas|15|Jacobo Fernandez|Maria De La O Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:40|15|Calle Fredholm|Martina Corsini|21|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:40|21|Calle Fredholm|Martina Corsini|14|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:40|21|Calle Fredholm|Martina Corsini|19|Nicolas Macias [2]|Fernanda Saponara Rivva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:23|21|Kenji Lovang |Ainoa Desmons|11|Salvador Franco|Candela Arcos|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:23|21|Kenji Lovang |Ainoa Desmons|15|Salvador Franco|Candela Arcos|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Gonzalo La Peña|Elena Lorenzo|14|Fernando Civico|Adika Carulla|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Gonzalo La Peña|Elena Lorenzo|15|Fernando Civico|Adika Carulla|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:26|21|William Villeger |Sharone Bauer|7|Luis A. Silva|Mariana Afonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:26|21|William Villeger |Sharone Bauer|13|Luis A. Silva|Mariana Afonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|24|Aymeric Mispelaere|Rebecca Woods|22|Pelayo Pinto|Carlota Viejo|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Aymeric Mispelaere|Rebecca Woods|19|Pelayo Pinto|Carlota Viejo|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Daniel Popescu |Maria Alexandra Dutu|19|Alejandro De Pablo|Celia Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Daniel Popescu |Maria Alexandra Dutu|12|Alejandro De Pablo|Celia Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:20|21|Fabricio Farias |Jaqueline Lima|13|Enrique Navarro|Myrian Alonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:20|21|Fabricio Farias |Jaqueline Lima|12|Enrique Navarro|Myrian Alonso|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:20|21|Arnaud Merkle |none|11|Gabriel Fernandez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Arnaud Merkle |none|10|Gabriel Fernandez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Alexis Vanhaecke|none|16|Sergio Vidal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Alexis Vanhaecke|none|11|Sergio Vidal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:29|21|Rory Easton |none|12|Martin Ouazzen|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:29|21|Rory Easton |none|10|Martin Ouazzen|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|21|Carlos Piris|none|14|Rui Tremoceiro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|21|Carlos Piris|none|11|Rui Tremoceiro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|23|Enrique Rodriguez|none|21|Victor Lindahl [15]|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|21|Enrique Rodriguez|none|12|Victor Lindahl [15]|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:32|9|Pedro Mendes|Teresa Lopes|21|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:32|21|Pedro Mendes|Teresa Lopes|17|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:32|21|Pedro Mendes|Teresa Lopes|15|Marc Cardona|Andrea Ibañez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:11|21|Alberto Perals|Ana Ramirez|9|Pedro Rocha|Ines Lencastre|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:11|21|Alberto Perals|Ana Ramirez|2|Pedro Rocha|Ines Lencastre|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:43|16|Joao Fernandes|none|21|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:43|21|Joao Fernandes|none|12|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:43|21|Joao Fernandes|none|15|Martin Barbado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Tomas Toledano|none|14|Rafael Gavois|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Tomas Toledano|none|15|Rafael Gavois|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:35|21|Zach Russ |none|18|Joan Monroy|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:35|21|Zach Russ |none|12|Joan Monroy|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:45|21|Aymeric Mispelaere|none|14|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:45|19|Aymeric Mispelaere|none|21|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:45|21|Aymeric Mispelaere|none|16|Soen Rimmer|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Dennis Koppen |none|16|Goncalo Morgado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Dennis Koppen |none|13|Goncalo Morgado|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|21|Uriel Francisco Canjura Artiga |none|13|Tomas Coelho|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|21|Uriel Francisco Canjura Artiga |none|15|Tomas Coelho|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Alonso Medel |none|17|Simao Ferreira|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Alonso Medel |none|13|Simao Ferreira|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:19|21|Christo Popov |none|4|Sergio Alvarez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:19|21|Christo Popov |none|8|Sergio Alvarez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Giovanni Toti |none|11|Daniel Costa|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Giovanni Toti |none|15|Daniel Costa|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Cyprien Samson|none|7|Hugo Fernandes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Cyprien Samson|none|13|Hugo Fernandes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:21|21|Joao Chang|none|15|Calle Fredholm|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:21|21|Joao Chang|none|18|Calle Fredholm|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:43|21|Ernesto Baschwitz|none|18|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:43|14|Ernesto Baschwitz|none|21|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:43|21|Ernesto Baschwitz|none|16|Nicolas Macias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:42|18|Nicolas A. Mueller |none|21|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:42|22|Nicolas A. Mueller |none|20|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:42|21|Nicolas A. Mueller |none|16|Enrico Baroni|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:26|21|Markus Barth |none|13|Alvaro Leal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:26|21|Markus Barth |none|5|Alvaro Leal|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Theo Lanier|none|9|Oliver Gausmann|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Theo Lanier|none|12|Oliver Gausmann|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Antonio Iglesias|none|15|Brynjar Mar Ellertsson|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Antonio Iglesias|none|12|Brynjar Mar Ellertsson|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Daniel Popescu |none|15|Marco Bailetti|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Daniel Popescu |none|7|Marco Bailetti|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Christopher Alexander Martinez Salvador |none|13|Clement Allain|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Christopher Alexander Martinez Salvador |none|17|Clement Allain|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:50|19|Vincent Ziegler|none|21|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:50|23|Vincent Ziegler|none|21|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:50|21|Vincent Ziegler|none|13|Jose Miguel Rodriguez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|21|Fabricio Farias |none|9|Jorge Galvez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:30|21|Fabricio Farias |none|7|Jorge Galvez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:18|21|Pedro Mendes|none|8|Aymeric Cantin|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:18|21|Pedro Mendes|none|10|Aymeric Cantin|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:24|21|Dimitri Jacquart|none|16|Kevin Selvarajah|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:24|21|Dimitri Jacquart|none|11|Kevin Selvarajah|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Alberto Perals|none|5|Tomas Correia|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Alberto Perals|none|8|Tomas Correia|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Jorge Rodriguez |none|7|Luis A. Silva|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Jorge Rodriguez |none|12|Luis A. Silva|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:40|21|Miguel San Luis|none|13|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:40|19|Miguel San Luis|none|21|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:40|21|Miguel San Luis|none|19|Guilhem Hoyaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:46|19|Maximilien Lamblot|none|21|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:46|21|Maximilien Lamblot|none|14|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:46|21|Maximilien Lamblot|none|13|Adam Mcallister|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:12|21|Marc Cardona|none|3|Pedro Rocha|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:12|21|Marc Cardona|none|8|Pedro Rocha|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:26|21|Lara Villacorta|none|16|Mariana Afonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:26|21|Lara Villacorta|none|19|Mariana Afonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Ana Fernandes|none|10|Maria Martinez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Ana Fernandes|none|15|Maria Martinez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Ruhi Raju|none|14|Ania Setien|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Ruhi Raju|none|8|Ania Setien|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Laura Chillon|none|15|Claudia Lourenço|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Laura Chillon|none|13|Claudia Lourenço|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Ruth Veiguela|none|6|Maria Dias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:20|21|Ruth Veiguela|none|9|Maria Dias|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:37|21|Adika Carulla|none|18|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:37|12|Adika Carulla|none|21|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:37|21|Adika Carulla|none|16|Chiara Passeri|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:33|21|Martina Corsini|none|11|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:33|19|Martina Corsini|none|21|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:33|21|Martina Corsini|none|14|Maria Navarro|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:17|21|Ana Carbon|none|4|Ines Lencastre|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:17|21|Ana Carbon|none|6|Ines Lencastre|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Candela Arcos|none|15|Teresa Lopes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Candela Arcos|none|15|Teresa Lopes|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Ainoa Desmons|none|8|Myrian Alonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Ainoa Desmons|none|12|Myrian Alonso|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218||Walkover Win|Ana Ramirez|none|Walkover Loss|Clara Lassaux|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:21|21|Clara Cotte|none|6|Maria De La O Perez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:21|21|Clara Cotte|none|8|Maria De La O Perez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:34|16|Juliana Viana|none|21|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:34|21|Juliana Viana|none|14|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:34|21|Juliana Viana|none|14|Rachael Woods|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Elena Lorenzo|none|19|Juliette Moinard|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Elena Lorenzo|none|16|Juliette Moinard|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Romane Cloteaux-Foucault|none|18|Andrea Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:23|21|Romane Cloteaux-Foucault|none|16|Andrea Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:19|21|Nanami Akechi|none|12|Celia Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:19|21|Nanami Akechi|none|4|Celia Ibañez|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:18|21|Nerea Diaz|none|10|Ana Marques|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:18|21|Nerea Diaz|none|14|Ana Marques|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Naia Daza|none|17|Constanca Soares|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:25|21|Naia Daza|none|15|Constanca Soares|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218||Walkover Win|Marig Brouxel|none|Walkover Loss|Albin Fatima|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:45|18|Claudia Leal|none|21|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:45|21|Claudia Leal|none|16|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:45|21|Claudia Leal|none|15|Maria Alexandra Dutu|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:50|21|Marion Le Turdu|none|19|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:50|19|Marion Le Turdu|none|21|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:50|21|Marion Le Turdu|none|18|Carmen Lara|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Rebecca Woods|none|18|Lucia Barrio|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:22|21|Rebecca Woods|none|19|Lucia Barrio|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:29|21|Carlota Viejo|none|19|Joana Eduardo|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:29|21|Carlota Viejo|none|18|Joana Eduardo|none|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|singles
+20180218|0:37|22|Sergio Alvarez|Vicente Miguel Gazquez|20|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:37|17|Sergio Alvarez|Vicente Miguel Gazquez|21|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:37|21|Sergio Alvarez|Vicente Miguel Gazquez|17|Hugo Fernandes|Joao Fernandes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:32|21|Theo Lanier|Aymeric Mispelaere|16|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:32|16|Theo Lanier|Aymeric Mispelaere|21|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:32|21|Theo Lanier|Aymeric Mispelaere|15|Angel Lopez Moreno|Juan De Dios Perez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:17|21|Nicolas A. Mueller|Soen Rimmer|17|Adrian Melero|Guillem Rodriguez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:17|21|Nicolas A. Mueller|Soen Rimmer|11|Adrian Melero|Guillem Rodriguez|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Ernesto Baschwitz|Tomas Toledano|12|Kevin Selvarajah|Rui Tremoceiro|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Ernesto Baschwitz|Tomas Toledano|18|Kevin Selvarajah|Rui Tremoceiro|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:42|20|Ania Setien|Ruth Veiguela|22|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:42|21|Ania Setien|Ruth Veiguela|19|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:42|21|Ania Setien|Ruth Veiguela|18|Martina Corsini|Chiara Passeri|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:18|21|Martin Barbado|Sergio Vidal|13|Pedro Rocha|Luis A. Silva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:18|21|Martin Barbado|Sergio Vidal|6|Pedro Rocha|Luis A. Silva|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Tomas Coelho|Simao Ferreira|19|Enrique Navarro|Ivan Pantoja|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Tomas Coelho|Simao Ferreira|19|Enrique Navarro|Ivan Pantoja|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Cyprien Samson|Vincent Ziegler|12|Gabriel Fernandez|Antonio Iglesias|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Cyprien Samson|Vincent Ziegler|17|Gabriel Fernandez|Antonio Iglesias|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:28|21|Ana Fernandes|Claudia Lourenço|15|Myrian Alonso|Lara Villacorta|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:28|21|Ana Fernandes|Claudia Lourenço|18|Myrian Alonso|Lara Villacorta|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Dimitri Jacquart|Alexis Vanhaecke|14|Enrique Rodriguez|Miguel San Luis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:25|21|Dimitri Jacquart|Alexis Vanhaecke|16|Enrique Rodriguez|Miguel San Luis|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Hugo Hanecart|Maximilien Lamblot|19|Joao Chang|Pedro Mendes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:30|21|Hugo Hanecart|Maximilien Lamblot|14|Joao Chang|Pedro Mendes|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:23|21|Clement Allain|Adam Mcallister|16|Daniel Costa|Goncalo Morgado|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:23|21|Clement Allain|Adam Mcallister|15|Daniel Costa|Goncalo Morgado|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:35|21|Enrico Baroni|Giovanni Toti|19|Joan Monroy|Carlos Piris|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles
+20180218|0:35|21|Enrico Baroni|Giovanni Toti|18|Joan Monroy|Carlos Piris|4C571737-6B27-4B43-A7EC-AF47F0D6BB72|doubles

@@ -1,0 +1,861 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20181213|0:31|18|Gorkem Ersoy|Aslihan Ayna|21|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:31|21|Gorkem Ersoy|Aslihan Ayna|11|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:31|21|Gorkem Ersoy|Aslihan Ayna|18|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|16|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|11|Cuma Durnaoglu|Tuba Koyuncu|21|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|13|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:29|22|Emre Duyurucu|Unzile Esma Durukan|20|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:29|21|Emre Duyurucu|Unzile Esma Durukan|17|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Mehmet Sahilogullari|Ebru Kececi|7|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Mehmet Sahilogullari|Ebru Kececi|9|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:23|21|Seyfettin Serdar|Aybuke Baran|15|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:23|21|Seyfettin Serdar|Aybuke Baran|16|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|15|Ismail Berat Özdemir|Zumre Onan|21|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|21|Ismail Berat Özdemir|Zumre Onan|19|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|21|Ismail Berat Özdemir|Zumre Onan|12|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:21|21|Abdulsamet Kezer|Rumeysa Firat|19|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:21|21|Abdulsamet Kezer|Rumeysa Firat|16|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:18|21|Ogulcan Genç|Ayca Hava|3|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:18|21|Ogulcan Genç|Ayca Hava|8|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:15|21|Yasin Torun|Edanur Demİr|7|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:15|21|Yasin Torun|Edanur Demİr|10|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|15|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|16|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213||Walkover Win|Taha Emirhan Budak|Yasemen Bektaş|Walkover Loss|Vasileios Rafail Kiosses|Grammatoula Sotiriou|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:22|21|Baris Ozkan|Selen Özdemİr|9|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:22|21|Baris Ozkan|Selen Özdemİr|13|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:16|21|Emre Türk|Nursin Sevgin|10|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:16|21|Emre Türk|Nursin Sevgin|8|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Enes Pars|Gulsah Küçüksari|10|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Enes Pars|Gulsah Küçüksari|14|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:15|21|Yusuf Boran|Zeynep Efe|10|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:15|21|Yusuf Boran|Zeynep Efe|17|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:15|21|Erenturk Özder|Zeynep Özgen|7|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:15|21|Erenturk Özder|Zeynep Özgen|9|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:17|21|Berkay Gunes|Berfu Taskiran|10|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:17|21|Berkay Gunes|Berfu Taskiran|15|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|22|Muhammed Emin Ucar|Ayse Sinem Kahraman|20|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Muhammed Emin Ucar|Ayse Sinem Kahraman|14|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|19|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|16|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Muhammet Tekel|Neslihan Karsavuran|9|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Muhammet Tekel|Neslihan Karsavuran|16|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|18|Omer Ucar|Kader Cotur|21|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|21|Omer Ucar|Kader Cotur|11|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|21|Omer Ucar|Kader Cotur|16|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Arda Semercioglu|none|8|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Arda Semercioglu|none|11|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:21|21|Anil Ulaç Atan|none|15|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:21|21|Anil Ulaç Atan|none|17|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mehmet Salih Oz|none|14|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mehmet Salih Oz|none|13|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Bedirhan Kariman|none|6|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Bedirhan Kariman|none|9|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Ozgur Koray Bayram|none|19|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Ozgur Koray Bayram|none|16|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:22|21|Emre Güzel|none|13|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:22|21|Emre Güzel|none|17|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mesut Sezer|none|19|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mesut Sezer|none|10|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mertcan Yilmaz|none|17|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mertcan Yilmaz|none|13|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:36|22|Mert Can Çakmakci|none|20|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:36|21|Mert Can Çakmakci|none|9|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Nurullah Saraç|none|13|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Nurullah Saraç|none|10|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Mazhar Buyukgoze|none|18|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Mazhar Buyukgoze|none|14|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|21|Halil Acar|none|14|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|21|Halil Acar|none|16|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:34|18|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:34|23|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:34|21|Yasin Karayel|none|15|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|19|Muhammed Yasin Yigit|none|21|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|21|Muhammed Yasin Yigit|none|18|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|21|Muhammed Yasin Yigit|none|14|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:14|21|Semih Ozgur Doğruer|none|7|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:14|21|Semih Ozgur Doğruer|none|8|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Cengiz Dag|none|16|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Cengiz Dag|none|13|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mehmetcan Pilan|none|19|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Mehmetcan Pilan|none|16|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Muhammet Ozdemir|none|8|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Muhammet Ozdemir|none|10|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Hilmican Şimşek|none|8|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Hilmican Şimşek|none|7|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Serkan Ugurlu|none|10|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Serkan Ugurlu|none|14|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:17|21|Furkan Kisacik|none|10|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:17|21|Furkan Kisacik|none|8|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:16|21|Semih Gülmez|none|10|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:16|21|Semih Gülmez|none|16|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Orcun Ozturk|none|18|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Orcun Ozturk|none|12|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Mikhail Shepyrev|none|3|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Mikhail Shepyrev|none|8|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:41|17|Yasin Torun|none|21|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:41|21|Yasin Torun|none|16|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:41|21|Yasin Torun|none|18|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:40|25|Emre Akyol|none|23|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:40|17|Emre Akyol|none|21|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:40|21|Emre Akyol|none|10|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:19|21|Batuhan Uğurlu|none|8|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:19|21|Batuhan Uğurlu|none|7|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Mete Kaan Uçan|none|14|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Mete Kaan Uçan|none|15|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:17|21|Aybars Akeren|none|8|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:17|21|Aybars Akeren|none|9|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:21|21|Berkay Gunes|none|11|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:21|21|Berkay Gunes|none|14|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Erenturk Özder|none|6|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Erenturk Özder|none|9|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:26|21|Sila Cigdem|none|17|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:26|21|Sila Cigdem|none|11|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:29|14|Zeynep Devrilmez|none|21|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:29|21|Zeynep Devrilmez|none|15|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:29|21|Zeynep Devrilmez|none|12|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:35|21|Ayse Sinem Kahraman|none|16|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:35|19|Ayse Sinem Kahraman|none|21|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:35|21|Ayse Sinem Kahraman|none|15|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:50|17|Ceyda Çakir|none|21|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:50|21|Ceyda Çakir|none|18|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:50|21|Ceyda Çakir|none|11|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:23|21|Birsu Tuna|none|18|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:23|21|Birsu Tuna|none|14|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:11|21|Fadime Metin|none|17|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:11|21|Fadime Metin|none|11|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Ravza Bodur|none|12|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:20|21|Ravza Bodur|none|11|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:32|21|Zehra Güldal|none|9|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:32|19|Zehra Güldal|none|21|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:32|21|Zehra Güldal|none|19|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Yaren Turhan|none|16|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Yaren Turhan|none|19|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|22|Elmas Nur Şencan|none|20|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|21|Elmas Nur Şencan|none|14|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|22|Gonul Durukan|none|20|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|23|Gonul Durukan|none|21|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Bahar Yavru|none|9|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:15|21|Bahar Yavru|none|6|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:18|21|Mervenur Yetisgen|none|11|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:18|21|Mervenur Yetisgen|none|9|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:22|21|Edanur Demİr|none|8|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:22|21|Edanur Demİr|none|3|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:26|21|Zeynep Celik|none|10|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:26|21|Zeynep Celik|none|13|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:40|21|Gizem Avci|none|15|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:40|21|Gizem Avci|none|8|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Buse Beyaz|none|19|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:25|21|Buse Beyaz|none|16|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|21|Cevriye Iscan|none|19|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:30|21|Cevriye Iscan|none|18|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181213|0:40|22|Mert Can Çakmakci|Mertcan Yilmaz|20|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|16|Mert Can Çakmakci|Mertcan Yilmaz|21|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|21|Mert Can Çakmakci|Mertcan Yilmaz|11|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|19|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|15|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|18|Huseyin Akif Koç|Melih Kagan Yavuz|21|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|17|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|8|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|11|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|10|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:16|21|Yazgan Calisir|Mesut Sezer|2|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:16|21|Yazgan Calisir|Mesut Sezer|10|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|12|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|7|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Furkan Gulec|Sezgin Kelebek|9|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Furkan Gulec|Sezgin Kelebek|14|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:22|21|Omer Ucar|Batuhan Uğurlu|7|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:22|21|Omer Ucar|Batuhan Uğurlu|17|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|18|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|15|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|3|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|8|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:21|21|Yasar Bozar|Batuhan Yilmaz|17|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:21|20|Yasar Bozar|Batuhan Yilmaz|22|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:21|21|Yasar Bozar|Batuhan Yilmaz|15|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:33|12|Furkan Inanc|Kadir Karsavuran|21|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:50|21|Mehmet Salih Oz|Arda Semercioglu|15|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:50|21|Mehmet Salih Oz|Arda Semercioglu|18|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|10|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|16|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|19|Egemen Isen|Enes Pars|21|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|22|Egemen Isen|Enes Pars|20|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:35|21|Egemen Isen|Enes Pars|18|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:23|21|Tugce Engin|Gozde Gulsen|12|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:23|21|Tugce Engin|Gozde Gulsen|10|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:39|9|Kardelen Naile Cimen|Raz Karakecili|21|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:39|21|Kardelen Naile Cimen|Raz Karakecili|16|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:39|21|Kardelen Naile Cimen|Raz Karakecili|10|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:22|21|Gulsah Küçüksari|Sila Orak|14|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:22|22|Gulsah Küçüksari|Sila Orak|20|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:38|21|Gizem Ayna|Ayca Hava|17|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:38|13|Gizem Ayna|Ayca Hava|21|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:38|21|Gizem Ayna|Ayca Hava|13|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|15|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:18|17|Cevriye Iscan|Akkadin Nur Yalcinkaya|21|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|17|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:19|21|Sude Naz Duyar|Zehra Güldal|16|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:19|21|Sude Naz Duyar|Zehra Güldal|7|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Raziyenur Bakir|Seydanur Bicer|17|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181213|0:25|21|Raziyenur Bakir|Seydanur Bicer|10|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:31|18|Gorkem Ersoy|Aslihan Ayna|21|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:31|21|Gorkem Ersoy|Aslihan Ayna|11|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:31|21|Gorkem Ersoy|Aslihan Ayna|18|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|16|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|11|Cuma Durnaoglu|Tuba Koyuncu|21|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|13|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:29|22|Emre Duyurucu|Unzile Esma Durukan|20|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:29|21|Emre Duyurucu|Unzile Esma Durukan|17|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Mehmet Sahilogullari|Ebru Kececi|7|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Mehmet Sahilogullari|Ebru Kececi|9|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:23|21|Seyfettin Serdar|Aybuke Baran|15|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:23|21|Seyfettin Serdar|Aybuke Baran|16|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|15|Ismail Berat Özdemir|Zumre Onan|21|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|21|Ismail Berat Özdemir|Zumre Onan|19|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|21|Ismail Berat Özdemir|Zumre Onan|12|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:21|21|Abdulsamet Kezer|Rumeysa Firat|19|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:21|21|Abdulsamet Kezer|Rumeysa Firat|16|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:18|21|Ogulcan Genç|Ayca Hava|3|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:18|21|Ogulcan Genç|Ayca Hava|8|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:15|21|Yasin Torun|Edanur Demİr|7|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:15|21|Yasin Torun|Edanur Demİr|10|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|15|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|16|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214||Walkover Win|Taha Emirhan Budak|Yasemen Bektaş|Walkover Loss|Vasileios Rafail Kiosses|Grammatoula Sotiriou|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:22|21|Baris Ozkan|Selen Özdemİr|9|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:22|21|Baris Ozkan|Selen Özdemİr|13|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:16|21|Emre Türk|Nursin Sevgin|10|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:16|21|Emre Türk|Nursin Sevgin|8|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Enes Pars|Gulsah Küçüksari|10|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Enes Pars|Gulsah Küçüksari|14|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:15|21|Yusuf Boran|Zeynep Efe|10|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:15|21|Yusuf Boran|Zeynep Efe|17|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:15|21|Erenturk Özder|Zeynep Özgen|7|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:15|21|Erenturk Özder|Zeynep Özgen|9|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:17|21|Berkay Gunes|Berfu Taskiran|10|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:17|21|Berkay Gunes|Berfu Taskiran|15|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|22|Muhammed Emin Ucar|Ayse Sinem Kahraman|20|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Muhammed Emin Ucar|Ayse Sinem Kahraman|14|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|19|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|16|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Muhammet Tekel|Neslihan Karsavuran|9|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Muhammet Tekel|Neslihan Karsavuran|16|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|18|Omer Ucar|Kader Cotur|21|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|21|Omer Ucar|Kader Cotur|11|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|21|Omer Ucar|Kader Cotur|16|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Arda Semercioglu|none|8|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Arda Semercioglu|none|11|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:21|21|Anil Ulaç Atan|none|15|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:21|21|Anil Ulaç Atan|none|17|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mehmet Salih Oz|none|14|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mehmet Salih Oz|none|13|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Bedirhan Kariman|none|6|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Bedirhan Kariman|none|9|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Ozgur Koray Bayram|none|19|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Ozgur Koray Bayram|none|16|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:22|21|Emre Güzel|none|13|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:22|21|Emre Güzel|none|17|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mesut Sezer|none|19|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mesut Sezer|none|10|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mertcan Yilmaz|none|17|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mertcan Yilmaz|none|13|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:36|22|Mert Can Çakmakci|none|20|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:36|21|Mert Can Çakmakci|none|9|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Nurullah Saraç|none|13|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Nurullah Saraç|none|10|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Mazhar Buyukgoze|none|18|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Mazhar Buyukgoze|none|14|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|21|Halil Acar|none|14|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|21|Halil Acar|none|16|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:34|18|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:34|23|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:34|21|Yasin Karayel|none|15|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|19|Muhammed Yasin Yigit|none|21|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|21|Muhammed Yasin Yigit|none|18|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|21|Muhammed Yasin Yigit|none|14|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:14|21|Semih Ozgur Doğruer|none|7|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:14|21|Semih Ozgur Doğruer|none|8|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Cengiz Dag|none|16|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Cengiz Dag|none|13|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mehmetcan Pilan|none|19|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Mehmetcan Pilan|none|16|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Muhammet Ozdemir|none|8|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Muhammet Ozdemir|none|10|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Hilmican Şimşek|none|8|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Hilmican Şimşek|none|7|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Serkan Ugurlu|none|10|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Serkan Ugurlu|none|14|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:17|21|Furkan Kisacik|none|10|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:17|21|Furkan Kisacik|none|8|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:16|21|Semih Gülmez|none|10|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:16|21|Semih Gülmez|none|16|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Orcun Ozturk|none|18|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Orcun Ozturk|none|12|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Mikhail Shepyrev|none|3|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Mikhail Shepyrev|none|8|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:41|17|Yasin Torun|none|21|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:41|21|Yasin Torun|none|16|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:41|21|Yasin Torun|none|18|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:40|25|Emre Akyol|none|23|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:40|17|Emre Akyol|none|21|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:40|21|Emre Akyol|none|10|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:19|21|Batuhan Uğurlu|none|8|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:19|21|Batuhan Uğurlu|none|7|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Mete Kaan Uçan|none|14|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Mete Kaan Uçan|none|15|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:17|21|Aybars Akeren|none|8|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:17|21|Aybars Akeren|none|9|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:21|21|Berkay Gunes|none|11|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:21|21|Berkay Gunes|none|14|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Erenturk Özder|none|6|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Erenturk Özder|none|9|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:26|21|Sila Cigdem|none|17|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:26|21|Sila Cigdem|none|11|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:29|14|Zeynep Devrilmez|none|21|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:29|21|Zeynep Devrilmez|none|15|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:29|21|Zeynep Devrilmez|none|12|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:35|21|Ayse Sinem Kahraman|none|16|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:35|19|Ayse Sinem Kahraman|none|21|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:35|21|Ayse Sinem Kahraman|none|15|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:50|17|Ceyda Çakir|none|21|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:50|21|Ceyda Çakir|none|18|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:50|21|Ceyda Çakir|none|11|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:23|21|Birsu Tuna|none|18|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:23|21|Birsu Tuna|none|14|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:11|21|Fadime Metin|none|17|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:11|21|Fadime Metin|none|11|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Ravza Bodur|none|12|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:20|21|Ravza Bodur|none|11|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:32|21|Zehra Güldal|none|9|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:32|19|Zehra Güldal|none|21|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:32|21|Zehra Güldal|none|19|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Yaren Turhan|none|16|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Yaren Turhan|none|19|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|22|Elmas Nur Şencan|none|20|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|21|Elmas Nur Şencan|none|14|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|22|Gonul Durukan|none|20|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|23|Gonul Durukan|none|21|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Bahar Yavru|none|9|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:15|21|Bahar Yavru|none|6|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:18|21|Mervenur Yetisgen|none|11|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:18|21|Mervenur Yetisgen|none|9|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:22|21|Edanur Demİr|none|8|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:22|21|Edanur Demİr|none|3|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:26|21|Zeynep Celik|none|10|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:26|21|Zeynep Celik|none|13|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:40|21|Gizem Avci|none|15|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:40|21|Gizem Avci|none|8|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Buse Beyaz|none|19|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:25|21|Buse Beyaz|none|16|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|21|Cevriye Iscan|none|19|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:30|21|Cevriye Iscan|none|18|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181214|0:40|22|Mert Can Çakmakci|Mertcan Yilmaz|20|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|16|Mert Can Çakmakci|Mertcan Yilmaz|21|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|21|Mert Can Çakmakci|Mertcan Yilmaz|11|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|19|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|15|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|18|Huseyin Akif Koç|Melih Kagan Yavuz|21|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|17|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|8|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|11|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|10|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:16|21|Yazgan Calisir|Mesut Sezer|2|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:16|21|Yazgan Calisir|Mesut Sezer|10|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|12|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|7|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Furkan Gulec|Sezgin Kelebek|9|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Furkan Gulec|Sezgin Kelebek|14|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:22|21|Omer Ucar|Batuhan Uğurlu|7|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:22|21|Omer Ucar|Batuhan Uğurlu|17|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|18|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|15|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|3|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|8|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:21|21|Yasar Bozar|Batuhan Yilmaz|17|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:21|20|Yasar Bozar|Batuhan Yilmaz|22|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:21|21|Yasar Bozar|Batuhan Yilmaz|15|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:33|12|Furkan Inanc|Kadir Karsavuran|21|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:50|21|Mehmet Salih Oz|Arda Semercioglu|15|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:50|21|Mehmet Salih Oz|Arda Semercioglu|18|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|10|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|16|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|19|Egemen Isen|Enes Pars|21|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|22|Egemen Isen|Enes Pars|20|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:35|21|Egemen Isen|Enes Pars|18|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:23|21|Tugce Engin|Gozde Gulsen|12|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:23|21|Tugce Engin|Gozde Gulsen|10|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:39|9|Kardelen Naile Cimen|Raz Karakecili|21|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:39|21|Kardelen Naile Cimen|Raz Karakecili|16|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:39|21|Kardelen Naile Cimen|Raz Karakecili|10|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:22|21|Gulsah Küçüksari|Sila Orak|14|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:22|22|Gulsah Küçüksari|Sila Orak|20|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:38|21|Gizem Ayna|Ayca Hava|17|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:38|13|Gizem Ayna|Ayca Hava|21|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:38|21|Gizem Ayna|Ayca Hava|13|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|15|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:18|17|Cevriye Iscan|Akkadin Nur Yalcinkaya|21|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|17|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:19|21|Sude Naz Duyar|Zehra Güldal|16|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:19|21|Sude Naz Duyar|Zehra Güldal|7|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Raziyenur Bakir|Seydanur Bicer|17|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181214|0:25|21|Raziyenur Bakir|Seydanur Bicer|10|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:31|18|Gorkem Ersoy|Aslihan Ayna|21|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:31|21|Gorkem Ersoy|Aslihan Ayna|11|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:31|21|Gorkem Ersoy|Aslihan Ayna|18|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|16|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|11|Cuma Durnaoglu|Tuba Koyuncu|21|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|13|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:29|22|Emre Duyurucu|Unzile Esma Durukan|20|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:29|21|Emre Duyurucu|Unzile Esma Durukan|17|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Mehmet Sahilogullari|Ebru Kececi|7|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Mehmet Sahilogullari|Ebru Kececi|9|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:23|21|Seyfettin Serdar|Aybuke Baran|15|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:23|21|Seyfettin Serdar|Aybuke Baran|16|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|15|Ismail Berat Özdemir|Zumre Onan|21|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|21|Ismail Berat Özdemir|Zumre Onan|19|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|21|Ismail Berat Özdemir|Zumre Onan|12|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:21|21|Abdulsamet Kezer|Rumeysa Firat|19|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:21|21|Abdulsamet Kezer|Rumeysa Firat|16|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:18|21|Ogulcan Genç|Ayca Hava|3|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:18|21|Ogulcan Genç|Ayca Hava|8|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:15|21|Yasin Torun|Edanur Demİr|7|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:15|21|Yasin Torun|Edanur Demİr|10|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|15|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|16|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215||Walkover Win|Taha Emirhan Budak|Yasemen Bektaş|Walkover Loss|Vasileios Rafail Kiosses|Grammatoula Sotiriou|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:22|21|Baris Ozkan|Selen Özdemİr|9|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:22|21|Baris Ozkan|Selen Özdemİr|13|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:16|21|Emre Türk|Nursin Sevgin|10|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:16|21|Emre Türk|Nursin Sevgin|8|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Enes Pars|Gulsah Küçüksari|10|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Enes Pars|Gulsah Küçüksari|14|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:15|21|Yusuf Boran|Zeynep Efe|10|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:15|21|Yusuf Boran|Zeynep Efe|17|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:15|21|Erenturk Özder|Zeynep Özgen|7|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:15|21|Erenturk Özder|Zeynep Özgen|9|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:17|21|Berkay Gunes|Berfu Taskiran|10|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:17|21|Berkay Gunes|Berfu Taskiran|15|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|22|Muhammed Emin Ucar|Ayse Sinem Kahraman|20|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Muhammed Emin Ucar|Ayse Sinem Kahraman|14|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|19|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|16|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Muhammet Tekel|Neslihan Karsavuran|9|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Muhammet Tekel|Neslihan Karsavuran|16|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|18|Omer Ucar|Kader Cotur|21|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|21|Omer Ucar|Kader Cotur|11|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|21|Omer Ucar|Kader Cotur|16|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Arda Semercioglu|none|8|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Arda Semercioglu|none|11|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:21|21|Anil Ulaç Atan|none|15|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:21|21|Anil Ulaç Atan|none|17|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mehmet Salih Oz|none|14|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mehmet Salih Oz|none|13|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Bedirhan Kariman|none|6|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Bedirhan Kariman|none|9|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Ozgur Koray Bayram|none|19|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Ozgur Koray Bayram|none|16|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:22|21|Emre Güzel|none|13|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:22|21|Emre Güzel|none|17|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mesut Sezer|none|19|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mesut Sezer|none|10|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mertcan Yilmaz|none|17|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mertcan Yilmaz|none|13|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:36|22|Mert Can Çakmakci|none|20|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:36|21|Mert Can Çakmakci|none|9|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Nurullah Saraç|none|13|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Nurullah Saraç|none|10|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Mazhar Buyukgoze|none|18|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Mazhar Buyukgoze|none|14|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|21|Halil Acar|none|14|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|21|Halil Acar|none|16|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:34|18|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:34|23|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:34|21|Yasin Karayel|none|15|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|19|Muhammed Yasin Yigit|none|21|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|21|Muhammed Yasin Yigit|none|18|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|21|Muhammed Yasin Yigit|none|14|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:14|21|Semih Ozgur Doğruer|none|7|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:14|21|Semih Ozgur Doğruer|none|8|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Cengiz Dag|none|16|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Cengiz Dag|none|13|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mehmetcan Pilan|none|19|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Mehmetcan Pilan|none|16|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Muhammet Ozdemir|none|8|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Muhammet Ozdemir|none|10|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Hilmican Şimşek|none|8|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Hilmican Şimşek|none|7|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Serkan Ugurlu|none|10|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Serkan Ugurlu|none|14|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:17|21|Furkan Kisacik|none|10|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:17|21|Furkan Kisacik|none|8|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:16|21|Semih Gülmez|none|10|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:16|21|Semih Gülmez|none|16|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Orcun Ozturk|none|18|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Orcun Ozturk|none|12|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Mikhail Shepyrev|none|3|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Mikhail Shepyrev|none|8|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:41|17|Yasin Torun|none|21|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:41|21|Yasin Torun|none|16|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:41|21|Yasin Torun|none|18|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:40|25|Emre Akyol|none|23|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:40|17|Emre Akyol|none|21|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:40|21|Emre Akyol|none|10|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:19|21|Batuhan Uğurlu|none|8|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:19|21|Batuhan Uğurlu|none|7|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Mete Kaan Uçan|none|14|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Mete Kaan Uçan|none|15|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:17|21|Aybars Akeren|none|8|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:17|21|Aybars Akeren|none|9|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:21|21|Berkay Gunes|none|11|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:21|21|Berkay Gunes|none|14|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Erenturk Özder|none|6|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Erenturk Özder|none|9|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:26|21|Sila Cigdem|none|17|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:26|21|Sila Cigdem|none|11|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:29|14|Zeynep Devrilmez|none|21|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:29|21|Zeynep Devrilmez|none|15|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:29|21|Zeynep Devrilmez|none|12|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:35|21|Ayse Sinem Kahraman|none|16|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:35|19|Ayse Sinem Kahraman|none|21|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:35|21|Ayse Sinem Kahraman|none|15|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:50|17|Ceyda Çakir|none|21|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:50|21|Ceyda Çakir|none|18|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:50|21|Ceyda Çakir|none|11|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:23|21|Birsu Tuna|none|18|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:23|21|Birsu Tuna|none|14|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:11|21|Fadime Metin|none|17|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:11|21|Fadime Metin|none|11|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Ravza Bodur|none|12|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:20|21|Ravza Bodur|none|11|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:32|21|Zehra Güldal|none|9|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:32|19|Zehra Güldal|none|21|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:32|21|Zehra Güldal|none|19|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Yaren Turhan|none|16|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Yaren Turhan|none|19|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|22|Elmas Nur Şencan|none|20|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|21|Elmas Nur Şencan|none|14|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|22|Gonul Durukan|none|20|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|23|Gonul Durukan|none|21|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Bahar Yavru|none|9|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:15|21|Bahar Yavru|none|6|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:18|21|Mervenur Yetisgen|none|11|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:18|21|Mervenur Yetisgen|none|9|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:22|21|Edanur Demİr|none|8|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:22|21|Edanur Demİr|none|3|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:26|21|Zeynep Celik|none|10|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:26|21|Zeynep Celik|none|13|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:40|21|Gizem Avci|none|15|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:40|21|Gizem Avci|none|8|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Buse Beyaz|none|19|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:25|21|Buse Beyaz|none|16|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|21|Cevriye Iscan|none|19|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:30|21|Cevriye Iscan|none|18|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181215|0:40|22|Mert Can Çakmakci|Mertcan Yilmaz|20|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|16|Mert Can Çakmakci|Mertcan Yilmaz|21|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|21|Mert Can Çakmakci|Mertcan Yilmaz|11|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|19|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|15|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|18|Huseyin Akif Koç|Melih Kagan Yavuz|21|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|17|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|8|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|11|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|10|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:16|21|Yazgan Calisir|Mesut Sezer|2|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:16|21|Yazgan Calisir|Mesut Sezer|10|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|12|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|7|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Furkan Gulec|Sezgin Kelebek|9|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Furkan Gulec|Sezgin Kelebek|14|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:22|21|Omer Ucar|Batuhan Uğurlu|7|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:22|21|Omer Ucar|Batuhan Uğurlu|17|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|18|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|15|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|3|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|8|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:21|21|Yasar Bozar|Batuhan Yilmaz|17|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:21|20|Yasar Bozar|Batuhan Yilmaz|22|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:21|21|Yasar Bozar|Batuhan Yilmaz|15|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:33|12|Furkan Inanc|Kadir Karsavuran|21|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:50|21|Mehmet Salih Oz|Arda Semercioglu|15|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:50|21|Mehmet Salih Oz|Arda Semercioglu|18|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|10|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|16|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|19|Egemen Isen|Enes Pars|21|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|22|Egemen Isen|Enes Pars|20|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:35|21|Egemen Isen|Enes Pars|18|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:23|21|Tugce Engin|Gozde Gulsen|12|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:23|21|Tugce Engin|Gozde Gulsen|10|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:39|9|Kardelen Naile Cimen|Raz Karakecili|21|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:39|21|Kardelen Naile Cimen|Raz Karakecili|16|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:39|21|Kardelen Naile Cimen|Raz Karakecili|10|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:22|21|Gulsah Küçüksari|Sila Orak|14|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:22|22|Gulsah Küçüksari|Sila Orak|20|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:38|21|Gizem Ayna|Ayca Hava|17|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:38|13|Gizem Ayna|Ayca Hava|21|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:38|21|Gizem Ayna|Ayca Hava|13|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|15|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:18|17|Cevriye Iscan|Akkadin Nur Yalcinkaya|21|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|17|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:19|21|Sude Naz Duyar|Zehra Güldal|16|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:19|21|Sude Naz Duyar|Zehra Güldal|7|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Raziyenur Bakir|Seydanur Bicer|17|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181215|0:25|21|Raziyenur Bakir|Seydanur Bicer|10|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:31|18|Gorkem Ersoy|Aslihan Ayna|21|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:31|21|Gorkem Ersoy|Aslihan Ayna|11|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:31|21|Gorkem Ersoy|Aslihan Ayna|18|Emirhan Kurtoglu|Raziyenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|16|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|11|Cuma Durnaoglu|Tuba Koyuncu|21|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|21|Cuma Durnaoglu|Tuba Koyuncu|13|Mehmet Can Toremis|Sumeyye Erkus|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:29|22|Emre Duyurucu|Unzile Esma Durukan|20|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:29|21|Emre Duyurucu|Unzile Esma Durukan|17|Halil Acar|Mercan Bacak|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Mehmet Sahilogullari|Ebru Kececi|7|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Mehmet Sahilogullari|Ebru Kececi|9|Mehmet Bugra Tatli|Sila Cigdem|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:23|21|Seyfettin Serdar|Aybuke Baran|15|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:23|21|Seyfettin Serdar|Aybuke Baran|16|Berat Cambaz|Sumeyye Tuncer|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|15|Ismail Berat Özdemir|Zumre Onan|21|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|21|Ismail Berat Özdemir|Zumre Onan|19|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|21|Ismail Berat Özdemir|Zumre Onan|12|Isa Celik|Ceylin Yaman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:21|21|Abdulsamet Kezer|Rumeysa Firat|19|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:21|21|Abdulsamet Kezer|Rumeysa Firat|16|Yasin Furkan Arslan|Yagmur Cevik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:18|21|Ogulcan Genç|Ayca Hava|3|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:18|21|Ogulcan Genç|Ayca Hava|8|Muhammed Enes Atay|Birsu Tuna|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:15|21|Yasin Torun|Edanur Demİr|7|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:15|21|Yasin Torun|Edanur Demİr|10|Cihat Akin|Irmak Buse Kiral|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|15|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Cengiz Dag|Ezgi Hazal Ulus|16|Muhammed Ali Atasoy|Elif Esin Sel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Semih Ozgur Doğruer|Edanur Alan|7|Burak Mert Alkaya|Sude Naz Duyar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216||Walkover Win|Taha Emirhan Budak|Yasemen Bektaş|Walkover Loss|Vasileios Rafail Kiosses|Grammatoula Sotiriou|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:22|21|Baris Ozkan|Selen Özdemİr|9|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:22|21|Baris Ozkan|Selen Özdemİr|13|Eren Dervisoğlu|Ece Kocanalbant|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:16|21|Emre Türk|Nursin Sevgin|10|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:16|21|Emre Türk|Nursin Sevgin|8|Mustafa Samet Tuncer|Iremsu Curuk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Enes Pars|Gulsah Küçüksari|10|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Enes Pars|Gulsah Küçüksari|14|Umut Ersoy|Ece Terzi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:15|21|Yusuf Boran|Zeynep Efe|10|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:15|21|Yusuf Boran|Zeynep Efe|17|Ahmet Hakikatoglu|Nazmiye Ozkan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:15|21|Erenturk Özder|Zeynep Özgen|7|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:15|21|Erenturk Özder|Zeynep Özgen|9|Berat Ayindi|Firdevs Karaaslan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:17|21|Berkay Gunes|Berfu Taskiran|10|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:17|21|Berkay Gunes|Berfu Taskiran|15|Hasan Huseyin Gok|Seyda Gokce|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|22|Muhammed Emin Ucar|Ayse Sinem Kahraman|20|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Muhammed Emin Ucar|Ayse Sinem Kahraman|14|Hilmi Yaser Guzen|Beyza Gunduz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|19|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Abdulsamet Özdemir|Sevda Nur Karatay|16|Ali Bekmez|Raz Karakecili|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Muhammet Tekel|Neslihan Karsavuran|9|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Muhammet Tekel|Neslihan Karsavuran|16|Vatan Tastan|Sevgi Yarlugluolan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|18|Omer Ucar|Kader Cotur|21|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|21|Omer Ucar|Kader Cotur|11|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|21|Omer Ucar|Kader Cotur|16|Suleyman Yavuzcan|Aysenur Bakir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Arda Semercioglu|none|8|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Arda Semercioglu|none|11|Mustafa Arkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:21|21|Anil Ulaç Atan|none|15|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:21|21|Anil Ulaç Atan|none|17|Esat Ozdemir|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mehmet Salih Oz|none|14|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mehmet Salih Oz|none|13|Alparslan Karaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Bedirhan Kariman|none|6|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Bedirhan Kariman|none|9|Seyfettin Serdar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Ozgur Koray Bayram|none|19|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Ozgur Koray Bayram|none|16|Burak Seloglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:22|21|Emre Güzel|none|13|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:22|21|Emre Güzel|none|17|Cebrail Uslu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mesut Sezer|none|19|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mesut Sezer|none|10|Omer Gules|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mertcan Yilmaz|none|17|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mertcan Yilmaz|none|13|Mert Ayyürü|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:36|22|Mert Can Çakmakci|none|20|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:36|21|Mert Can Çakmakci|none|9|Omer Vapurcu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Nurullah Saraç|none|13|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Nurullah Saraç|none|10|Egemen Isen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Mazhar Buyukgoze|none|18|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Mazhar Buyukgoze|none|14|Batuhan Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|21|Halil Acar|none|14|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|21|Halil Acar|none|16|Hamza Unal|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:34|18|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:34|23|Yasin Karayel|none|21|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:34|21|Yasin Karayel|none|15|Emre Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|19|Muhammed Yasin Yigit|none|21|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|21|Muhammed Yasin Yigit|none|18|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|21|Muhammed Yasin Yigit|none|14|Eren Dervisoğlu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:14|21|Semih Ozgur Doğruer|none|7|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:14|21|Semih Ozgur Doğruer|none|8|Kerem Acu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Cengiz Dag|none|16|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Cengiz Dag|none|13|Isa Celik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mehmetcan Pilan|none|19|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Mehmetcan Pilan|none|16|Bugra Aktas|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Mehmet Ali Gucuk|none|6|Seymen Gülay Deniz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Muhammet Ozdemir|none|8|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Muhammet Ozdemir|none|10|Kerem Ahmet Ozder|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Hilmican Şimşek|none|8|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Hilmican Şimşek|none|7|Yasar Bozar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Serkan Ugurlu|none|10|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Serkan Ugurlu|none|14|Yusuf Eren Nalbant|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:17|21|Furkan Kisacik|none|10|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:17|21|Furkan Kisacik|none|8|Efe Fehmi Ayraler|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:16|21|Semih Gülmez|none|10|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:16|21|Semih Gülmez|none|16|Furkan Aslan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Orcun Ozturk|none|18|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Orcun Ozturk|none|12|Vatan Tastan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Mikhail Shepyrev|none|3|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Mikhail Shepyrev|none|8|Burak Kircali|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:41|17|Yasin Torun|none|21|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:41|21|Yasin Torun|none|16|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:41|21|Yasin Torun|none|18|Furkan Saraç|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:40|25|Emre Akyol|none|23|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:40|17|Emre Akyol|none|21|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:40|21|Emre Akyol|none|10|Ismail Boğa|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:19|21|Batuhan Uğurlu|none|8|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:19|21|Batuhan Uğurlu|none|7|Umut Ersoy|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Mete Kaan Uçan|none|14|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Mete Kaan Uçan|none|15|Yakup Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:17|21|Aybars Akeren|none|8|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:17|21|Aybars Akeren|none|9|Cihan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:21|21|Berkay Gunes|none|11|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:21|21|Berkay Gunes|none|14|Ozan Ozen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Erenturk Özder|none|6|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Erenturk Özder|none|9|Hamit Atmaca|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:26|21|Sila Cigdem|none|17|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:26|21|Sila Cigdem|none|11|Seray Bayraktar|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:29|14|Zeynep Devrilmez|none|21|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:29|21|Zeynep Devrilmez|none|15|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:29|21|Zeynep Devrilmez|none|12|Nurgul Yilmaz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:35|21|Ayse Sinem Kahraman|none|16|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:35|19|Ayse Sinem Kahraman|none|21|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:35|21|Ayse Sinem Kahraman|none|15|Doga Simal Koçak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:50|17|Ceyda Çakir|none|21|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:50|21|Ceyda Çakir|none|18|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:50|21|Ceyda Çakir|none|11|Ceylin Yaman|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:23|21|Birsu Tuna|none|18|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:23|21|Birsu Tuna|none|14|Beren Naz Sen|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:11|21|Fadime Metin|none|17|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:11|21|Fadime Metin|none|11|Mercan Bacak|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Ravza Bodur|none|12|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:20|21|Ravza Bodur|none|11|Aybuke Baran|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:32|21|Zehra Güldal|none|9|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:32|19|Zehra Güldal|none|21|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:32|21|Zehra Güldal|none|19|Firdevs Nur Ayik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Yaren Turhan|none|16|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Yaren Turhan|none|19|Unzile Esma Durukan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|22|Elmas Nur Şencan|none|20|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|21|Elmas Nur Şencan|none|14|Nazmiye Ozkan|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|22|Gonul Durukan|none|20|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|23|Gonul Durukan|none|21|Kader Cotur|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Bahar Yavru|none|9|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:15|21|Bahar Yavru|none|6|Dilara Demircik|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:18|21|Mervenur Yetisgen|none|11|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:18|21|Mervenur Yetisgen|none|9|Kubra Getiren|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:22|21|Edanur Demİr|none|8|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:22|21|Edanur Demİr|none|3|Hilal Yildirim|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:26|21|Zeynep Celik|none|10|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:26|21|Zeynep Celik|none|13|Simaynur Sanuc|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:40|21|Gizem Avci|none|15|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:40|21|Gizem Avci|none|8|Sumeyye Tuncer|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:16|21|Aysegul Yemişen|none|4|Rabianur Hacioglu|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Buse Beyaz|none|19|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:25|21|Buse Beyaz|none|16|Meryem Sonnur Gunduz|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|21|Cevriye Iscan|none|19|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:30|21|Cevriye Iscan|none|18|Esma Dilekci|none|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|singles
+20181216|0:40|22|Mert Can Çakmakci|Mertcan Yilmaz|20|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|16|Mert Can Çakmakci|Mertcan Yilmaz|21|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|21|Mert Can Çakmakci|Mertcan Yilmaz|11|Burak Mert Alkaya|Furkan Saraç|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|19|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Mustafa Aydemir|Yusuf Eren Nalbant|15|Emre Celik|Yasin Karayel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Emre Akyol|Ismail Boğa|15|Omer Enes Unlu|Cagatay Yilmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|18|Huseyin Akif Koç|Melih Kagan Yavuz|21|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|17|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:40|21|Huseyin Akif Koç|Melih Kagan Yavuz|8|Alperen Kayaardi|Muhammet Kayiket|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|11|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Kerem Cinar|Kerem Ahmet Ozder|10|Burak Seloglu|Hamza Unal|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:16|21|Yazgan Calisir|Mesut Sezer|2|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:16|21|Yazgan Calisir|Mesut Sezer|10|Anil Ulaç Atan|Miraç Kantar|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|12|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:17|21|Hasan Berkay Günbaz|Yunus Emre Karakaş|7|Cihan Ozen|Yakup Ozen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Furkan Gulec|Sezgin Kelebek|9|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Furkan Gulec|Sezgin Kelebek|14|Yakup Durukan|Furkan Kisacik|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:22|21|Omer Ucar|Batuhan Uğurlu|7|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:22|21|Omer Ucar|Batuhan Uğurlu|17|Mert Ayyürü|Emre Türk|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|18|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:21|21|Taha Emirhan Budak|Abdulsamet Özdemir|15|Furkan Aslan|Bedirhan Kariman|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|3|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:17|21|Mazhar Buyukgoze|Cebrail Uslu|8|Hamit Atmaca|Hasan Huseyin Gok|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:21|21|Yasar Bozar|Batuhan Yilmaz|17|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:21|20|Yasar Bozar|Batuhan Yilmaz|22|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:21|21|Yasar Bozar|Batuhan Yilmaz|15|Gorkem Ersoy|Ismail Berat Özdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:33|12|Furkan Inanc|Kadir Karsavuran|21|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:33|21|Furkan Inanc|Kadir Karsavuran|19|Ozgur Koray Bayram|Serkan Bayram|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:50|21|Mehmet Salih Oz|Arda Semercioglu|15|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:50|21|Mehmet Salih Oz|Arda Semercioglu|18|Omer Gules|Esat Ozdemir|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|10|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:20|21|Berat Ayindi|Ahmet Hakikatoglu|16|Bugra Aktas|Mehmetcan Pilan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|19|Egemen Isen|Enes Pars|21|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|22|Egemen Isen|Enes Pars|20|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:35|21|Egemen Isen|Enes Pars|18|Abdulsamet Kezer|Muhammet Tekel|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:23|21|Tugce Engin|Gozde Gulsen|12|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:23|21|Tugce Engin|Gozde Gulsen|10|Ozlem Başaran|Sevim Kacmaz|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:39|9|Kardelen Naile Cimen|Raz Karakecili|21|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:39|21|Kardelen Naile Cimen|Raz Karakecili|16|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:39|21|Kardelen Naile Cimen|Raz Karakecili|10|Eda Rana Ergul|Hilal Yildirim|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:22|21|Gulsah Küçüksari|Sila Orak|14|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:22|22|Gulsah Küçüksari|Sila Orak|20|Kubra Getiren|Nursin Sevgin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Zeynep Devrilmez|Ece Kocanalbant|16|Sevval Naz Isik|Basak Seven|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:38|21|Gizem Ayna|Ayca Hava|17|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:38|13|Gizem Ayna|Ayca Hava|21|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:38|21|Gizem Ayna|Ayca Hava|13|Seyda Gokce|Ebru Kececi|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:29|21|Sedanur Kantar|Nisanur Tunçer|19|Behiye Bodur|Fadime Metin|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|15|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:18|17|Cevriye Iscan|Akkadin Nur Yalcinkaya|21|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:18|21|Cevriye Iscan|Akkadin Nur Yalcinkaya|17|Esma Dilekci|Mervenur Yetisgen|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:19|21|Sude Naz Duyar|Zehra Güldal|16|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:19|21|Sude Naz Duyar|Zehra Güldal|7|Zumre Onan|Yaren Turhan|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Raziyenur Bakir|Seydanur Bicer|17|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles
+20181216|0:25|21|Raziyenur Bakir|Seydanur Bicer|10|Meryem Sonnur Gunduz|Simaynur Sanuc|0FF43ADE-98B5-4B8C-8D10-62FC5368A5DB|doubles

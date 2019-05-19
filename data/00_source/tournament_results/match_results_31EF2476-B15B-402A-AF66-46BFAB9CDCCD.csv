@@ -1,0 +1,873 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20171129|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|17|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|16|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:18|21|Jack Macgregor|Toni Woods|6|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:18|21|Jack Macgregor|Toni Woods|11|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:22|21|Mathieu Gangloff |Marig Brouxel|17|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:22|21|Mathieu Gangloff |Marig Brouxel|10|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:28|22|Oliver Thomsen|Rikke Pedersen|20|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:28|21|Oliver Thomsen|Rikke Pedersen|19|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:16|21|Michael Roe|Jessica Hopton|7|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:16|21|Michael Roe|Jessica Hopton|9|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:20|21|Paul Reynolds|Rachael Darragh|11|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:20|21|Paul Reynolds|Rachael Darragh|16|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:20|21|Zachary Phillips|Kirsty Wilcox|12|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:20|21|Zachary Phillips|Kirsty Wilcox|18|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:23|21|George Priestman |none|15|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|George Priestman |none|11|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Rowan Scheurkogel|none|15|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Rowan Scheurkogel|none|12|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Leon Seiwald |none|10|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Leon Seiwald |none|15|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Matthew Abela|none|15|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Matthew Abela|none|17|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:21|21|Andreas Fleischer|none|14|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:21|21|Andreas Fleischer|none|5|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|21|Lennart Konder|none|7|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|11|Lennart Konder|none|21|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|21|Lennart Konder|none|19|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Marcin Nowak |none|17|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Marcin Nowak |none|10|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Tobias Kuenzi|none|4|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Tobias Kuenzi|none|1|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|19|Valentin Singer|none|21|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|21|Valentin Singer|none|15|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|21|Valentin Singer|none|14|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:29|21|Alexander Cook|none|11|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:29|27|Alexander Cook|none|25|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Jordan Edgar|none|5|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Jordan Edgar|none|9|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:52|21|Yoann Czech|none|15|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:52|19|Yoann Czech|none|21|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:52|22|Yoann Czech|none|20|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Adrian Dziolko |none|12|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Adrian Dziolko |none|10|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Johnnie Torjussen |none|11|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Johnnie Torjussen |none|12|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Richard Kuhl |none|12|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Richard Kuhl |none|9|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:34|21|Andrew Heinemann|none|14|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:34|21|Andrew Heinemann|none|17|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Mateusz Swierczynski |none|16|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Mateusz Swierczynski |none|12|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:49|21|Sam Lyle|none|17|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:49|16|Sam Lyle|none|21|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:49|21|Sam Lyle|none|18|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:46|21|Torjus Flaatten|none|19|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:46|22|Torjus Flaatten|none|24|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:46|21|Torjus Flaatten|none|15|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:45|14|Nathan Rossiter|none|21|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:45|21|Nathan Rossiter|none|19|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:45|21|Nathan Rossiter|none|13|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Jonas Arly|none|15|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Jonas Arly|none|17|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:49|17|Andrew Wainwright|none|21|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Luke Pearce |none|13|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Luke Pearce |none|9|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:17|21|Julien Scheiwiller|none|9|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:17|21|Julien Scheiwiller|none|4|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Jonathan Dolan |none|14|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Jonathan Dolan |none|19|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:39|11|Benjamin Li|none|21|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:39|21|Benjamin Li|none|17|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:39|21|Benjamin Li|none|13|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:29|21|Søren Hald|none|5|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:29|23|Søren Hald|none|21|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Adam Lam|none|11|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Adam Lam|none|12|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|21|Daniel Leers|none|15|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|15|Daniel Leers|none|21|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|22|Daniel Leers|none|20|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Patrick Abildgaard|none|11|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Patrick Abildgaard|none|6|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Gurusaidutt R. M. V. |none|9|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Gurusaidutt R. M. V. |none|10|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|21|Anna Bygum|none|10|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|13|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|23|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:21|21|Amalie Vestmar|none|14|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:21|21|Amalie Vestmar|none|11|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Kimberley Helen Clague|none|16|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Kimberley Helen Clague|none|15|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|16|Toni Woods|none|21|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|21|Toni Woods|none|10|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|24|Toni Woods|none|22|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:20|21|Alicia Molitor|none|7|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:20|21|Alicia Molitor|none|11|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:43|22|Emma Thorne|none|20|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:43|18|Emma Thorne|none|21|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:43|21|Emma Thorne|none|17|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Alexandra Oprisan|none|18|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Alexandra Oprisan|none|16|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Amy Hayhoe|none|10|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Amy Hayhoe|none|19|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:21|21|Theresa Isenberg|none|7|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:21|21|Theresa Isenberg|none|15|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Sian Kelly |none|18|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Sian Kelly |none|15|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Annalena Diks|none|17|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Annalena Diks|none|16|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Berfin Aslan|none|13|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Berfin Aslan|none|19|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|21|Justine Villegas |none|23|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|21|Justine Villegas |none|11|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:40|21|Justine Villegas |none|17|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Rikke Pedersen|none|14|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:25|21|Rikke Pedersen|none|10|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|16|Signe Schulz|none|21|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|21|Signe Schulz|none|14|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|21|Signe Schulz|none|15|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Jonas Arly|none|18|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Jonas Arly|none|5|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:31|21|George Priestman |none|14|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:31|21|George Priestman |none|19|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Leon Seiwald |none|11|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:19|21|Leon Seiwald |none|8|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:30|21|Andreas Fleischer|none|17|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:30|21|Andreas Fleischer|none|13|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:43|17|Tobias Kuenzi|none|21|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:43|21|Tobias Kuenzi|none|8|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:43|21|Tobias Kuenzi|none|13|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Adrian Dziolko |none|11|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Adrian Dziolko |none|9|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:20|21|Richard Kuhl |none|7|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:20|21|Richard Kuhl |none|8|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:17|21|Johnnie Torjussen |none|3|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:17|21|Johnnie Torjussen |none|7|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:35|21|Mateusz Swierczynski |none|15|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:35|21|Mateusz Swierczynski |none|17|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Sam Lyle|none|16|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Sam Lyle|none|19|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Luke Pearce |none|13|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Luke Pearce |none|15|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:59|21|Jonathan Dolan |none|13|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:59|21|Jonathan Dolan |none|23|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:59|28|Jonathan Dolan |none|26|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Søren Hald|none|14|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Søren Hald|none|11|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|24|Adam Lam|none|22|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:26|21|Adam Lam|none|8|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Gurusaidutt R. M. V. |none|12|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Gurusaidutt R. M. V. |none|9|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:17|21|Toni Woods|none|6|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:17|21|Toni Woods|none|7|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|22|Alicia Molitor|none|20|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:28|21|Alicia Molitor|none|18|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:41|21|Alexandra Oprisan|none|17|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:41|19|Alexandra Oprisan|none|21|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:41|21|Alexandra Oprisan|none|13|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Theresa Isenberg|none|14|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Theresa Isenberg|none|13|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|21|Annalena Diks|none|13|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|17|Annalena Diks|none|21|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:42|21|Annalena Diks|none|16|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:18|21|Berfin Aslan|none|14|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:18|21|Berfin Aslan|none|12|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Signe Schulz|none|14|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:22|21|Signe Schulz|none|15|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171129|0:24|21|Samuel Owens|Jamie Robertson|19|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:24|21|Samuel Owens|Jamie Robertson|14|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:41|23|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:41|13|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:41|21|Oliver Lee Nowak|Jeppe Theisen|15|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129||Walkover Win|Alexander Eames|Ben Muir|Walkover Loss|Dominic Ashton|Nick Hodgson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:20|21|Yu Hin Derek Choi|James Youle|12|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:20|21|Yu Hin Derek Choi|James Youle|14|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:26|21|Emil Lauritzen|Mads Muurholm|16|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:26|21|Emil Lauritzen|Mads Muurholm|19|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:19|21|Toby Leung|Ethan Rose|12|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:19|21|Toby Leung|Ethan Rose|6|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129||Walkover Win|Jed Arksey|David Robertson|Walkover Loss|David Orteu|Julien Scheiwiller|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:23|21|Rikke Pedersen|Signe Schulz|15|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:23|21|Rikke Pedersen|Signe Schulz|10|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:22|21|Emma Thorne|Toni Woods|17|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:22|21|Emma Thorne|Toni Woods|14|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:23|21|Cille Nielsen|Jenni Olesen|12|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:23|21|Cille Nielsen|Jenni Olesen|13|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129||Walkover Win|Pawel Smilowski |Przemyslaw Szydlowski|Walkover Loss|Ben Hunt|Sheunesu Mabhena Kimbugwe|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:26|21|Samuel Owens|Jamie Robertson|16|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:26|21|Samuel Owens|Jamie Robertson|11|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:28|23|Oliver Lee Nowak|Jeppe Theisen|21|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:28|21|Oliver Lee Nowak|Jeppe Theisen|18|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:19|21|Emil Lauritzen|Mads Muurholm|8|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:19|21|Emil Lauritzen|Mads Muurholm|14|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:23|21|Jed Arksey|David Robertson|19|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:23|21|Jed Arksey|David Robertson|14|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:36|20|Daniel Leers|Sam Lyle|22|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:36|21|Daniel Leers|Sam Lyle|12|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:36|21|Daniel Leers|Sam Lyle|19|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:40|14|Alex Luong |Filip Svensson|21|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:40|21|Alex Luong |Filip Svensson|16|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:40|21|Alex Luong |Filip Svensson|15|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:29|21|Cille Nielsen|Jenni Olesen|17|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:29|25|Cille Nielsen|Jenni Olesen|23|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:24|21|Mattias Sonderskov |Juno Thomas|17|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171129|0:24|21|Mattias Sonderskov |Juno Thomas|16|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|17|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|16|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:18|21|Jack Macgregor|Toni Woods|6|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:18|21|Jack Macgregor|Toni Woods|11|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:22|21|Mathieu Gangloff |Marig Brouxel|17|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:22|21|Mathieu Gangloff |Marig Brouxel|10|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:28|22|Oliver Thomsen|Rikke Pedersen|20|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:28|21|Oliver Thomsen|Rikke Pedersen|19|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:16|21|Michael Roe|Jessica Hopton|7|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:16|21|Michael Roe|Jessica Hopton|9|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:20|21|Paul Reynolds|Rachael Darragh|11|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:20|21|Paul Reynolds|Rachael Darragh|16|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:20|21|Zachary Phillips|Kirsty Wilcox|12|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:20|21|Zachary Phillips|Kirsty Wilcox|18|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:23|21|George Priestman |none|15|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|George Priestman |none|11|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Rowan Scheurkogel|none|15|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Rowan Scheurkogel|none|12|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Leon Seiwald |none|10|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Leon Seiwald |none|15|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Matthew Abela|none|15|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Matthew Abela|none|17|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:21|21|Andreas Fleischer|none|14|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:21|21|Andreas Fleischer|none|5|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|21|Lennart Konder|none|7|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|11|Lennart Konder|none|21|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|21|Lennart Konder|none|19|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Marcin Nowak |none|17|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Marcin Nowak |none|10|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Tobias Kuenzi|none|4|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Tobias Kuenzi|none|1|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|19|Valentin Singer|none|21|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|21|Valentin Singer|none|15|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|21|Valentin Singer|none|14|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:29|21|Alexander Cook|none|11|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:29|27|Alexander Cook|none|25|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Jordan Edgar|none|5|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Jordan Edgar|none|9|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:52|21|Yoann Czech|none|15|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:52|19|Yoann Czech|none|21|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:52|22|Yoann Czech|none|20|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Adrian Dziolko |none|12|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Adrian Dziolko |none|10|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Johnnie Torjussen |none|11|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Johnnie Torjussen |none|12|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Richard Kuhl |none|12|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Richard Kuhl |none|9|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:34|21|Andrew Heinemann|none|14|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:34|21|Andrew Heinemann|none|17|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Mateusz Swierczynski |none|16|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Mateusz Swierczynski |none|12|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:49|21|Sam Lyle|none|17|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:49|16|Sam Lyle|none|21|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:49|21|Sam Lyle|none|18|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:46|21|Torjus Flaatten|none|19|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:46|22|Torjus Flaatten|none|24|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:46|21|Torjus Flaatten|none|15|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:45|14|Nathan Rossiter|none|21|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:45|21|Nathan Rossiter|none|19|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:45|21|Nathan Rossiter|none|13|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Jonas Arly|none|15|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Jonas Arly|none|17|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:49|17|Andrew Wainwright|none|21|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Luke Pearce |none|13|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Luke Pearce |none|9|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:17|21|Julien Scheiwiller|none|9|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:17|21|Julien Scheiwiller|none|4|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Jonathan Dolan |none|14|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Jonathan Dolan |none|19|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:39|11|Benjamin Li|none|21|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:39|21|Benjamin Li|none|17|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:39|21|Benjamin Li|none|13|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:29|21|Søren Hald|none|5|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:29|23|Søren Hald|none|21|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Adam Lam|none|11|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Adam Lam|none|12|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|21|Daniel Leers|none|15|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|15|Daniel Leers|none|21|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|22|Daniel Leers|none|20|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Patrick Abildgaard|none|11|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Patrick Abildgaard|none|6|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Gurusaidutt R. M. V. |none|9|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Gurusaidutt R. M. V. |none|10|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|21|Anna Bygum|none|10|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|13|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|23|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:21|21|Amalie Vestmar|none|14|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:21|21|Amalie Vestmar|none|11|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Kimberley Helen Clague|none|16|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Kimberley Helen Clague|none|15|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|16|Toni Woods|none|21|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|21|Toni Woods|none|10|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|24|Toni Woods|none|22|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:20|21|Alicia Molitor|none|7|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:20|21|Alicia Molitor|none|11|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:43|22|Emma Thorne|none|20|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:43|18|Emma Thorne|none|21|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:43|21|Emma Thorne|none|17|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Alexandra Oprisan|none|18|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Alexandra Oprisan|none|16|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Amy Hayhoe|none|10|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Amy Hayhoe|none|19|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:21|21|Theresa Isenberg|none|7|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:21|21|Theresa Isenberg|none|15|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Sian Kelly |none|18|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Sian Kelly |none|15|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Annalena Diks|none|17|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Annalena Diks|none|16|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Berfin Aslan|none|13|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Berfin Aslan|none|19|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|21|Justine Villegas |none|23|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|21|Justine Villegas |none|11|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:40|21|Justine Villegas |none|17|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Rikke Pedersen|none|14|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:25|21|Rikke Pedersen|none|10|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|16|Signe Schulz|none|21|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|21|Signe Schulz|none|14|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|21|Signe Schulz|none|15|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Jonas Arly|none|18|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Jonas Arly|none|5|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:31|21|George Priestman |none|14|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:31|21|George Priestman |none|19|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Leon Seiwald |none|11|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:19|21|Leon Seiwald |none|8|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:30|21|Andreas Fleischer|none|17|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:30|21|Andreas Fleischer|none|13|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:43|17|Tobias Kuenzi|none|21|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:43|21|Tobias Kuenzi|none|8|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:43|21|Tobias Kuenzi|none|13|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Adrian Dziolko |none|11|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Adrian Dziolko |none|9|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:20|21|Richard Kuhl |none|7|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:20|21|Richard Kuhl |none|8|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:17|21|Johnnie Torjussen |none|3|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:17|21|Johnnie Torjussen |none|7|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:35|21|Mateusz Swierczynski |none|15|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:35|21|Mateusz Swierczynski |none|17|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Sam Lyle|none|16|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Sam Lyle|none|19|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Luke Pearce |none|13|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Luke Pearce |none|15|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:59|21|Jonathan Dolan |none|13|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:59|21|Jonathan Dolan |none|23|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:59|28|Jonathan Dolan |none|26|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Søren Hald|none|14|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Søren Hald|none|11|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|24|Adam Lam|none|22|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:26|21|Adam Lam|none|8|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Gurusaidutt R. M. V. |none|12|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Gurusaidutt R. M. V. |none|9|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:17|21|Toni Woods|none|6|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:17|21|Toni Woods|none|7|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|22|Alicia Molitor|none|20|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:28|21|Alicia Molitor|none|18|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:41|21|Alexandra Oprisan|none|17|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:41|19|Alexandra Oprisan|none|21|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:41|21|Alexandra Oprisan|none|13|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Theresa Isenberg|none|14|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Theresa Isenberg|none|13|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|21|Annalena Diks|none|13|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|17|Annalena Diks|none|21|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:42|21|Annalena Diks|none|16|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:18|21|Berfin Aslan|none|14|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:18|21|Berfin Aslan|none|12|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Signe Schulz|none|14|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:22|21|Signe Schulz|none|15|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171130|0:24|21|Samuel Owens|Jamie Robertson|19|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:24|21|Samuel Owens|Jamie Robertson|14|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:41|23|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:41|13|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:41|21|Oliver Lee Nowak|Jeppe Theisen|15|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130||Walkover Win|Alexander Eames|Ben Muir|Walkover Loss|Dominic Ashton|Nick Hodgson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:20|21|Yu Hin Derek Choi|James Youle|12|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:20|21|Yu Hin Derek Choi|James Youle|14|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:26|21|Emil Lauritzen|Mads Muurholm|16|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:26|21|Emil Lauritzen|Mads Muurholm|19|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:19|21|Toby Leung|Ethan Rose|12|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:19|21|Toby Leung|Ethan Rose|6|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130||Walkover Win|Jed Arksey|David Robertson|Walkover Loss|David Orteu|Julien Scheiwiller|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:23|21|Rikke Pedersen|Signe Schulz|15|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:23|21|Rikke Pedersen|Signe Schulz|10|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:22|21|Emma Thorne|Toni Woods|17|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:22|21|Emma Thorne|Toni Woods|14|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:23|21|Cille Nielsen|Jenni Olesen|12|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:23|21|Cille Nielsen|Jenni Olesen|13|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130||Walkover Win|Pawel Smilowski |Przemyslaw Szydlowski|Walkover Loss|Ben Hunt|Sheunesu Mabhena Kimbugwe|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:26|21|Samuel Owens|Jamie Robertson|16|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:26|21|Samuel Owens|Jamie Robertson|11|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:28|23|Oliver Lee Nowak|Jeppe Theisen|21|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:28|21|Oliver Lee Nowak|Jeppe Theisen|18|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:19|21|Emil Lauritzen|Mads Muurholm|8|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:19|21|Emil Lauritzen|Mads Muurholm|14|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:23|21|Jed Arksey|David Robertson|19|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:23|21|Jed Arksey|David Robertson|14|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:36|20|Daniel Leers|Sam Lyle|22|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:36|21|Daniel Leers|Sam Lyle|12|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:36|21|Daniel Leers|Sam Lyle|19|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:40|14|Alex Luong |Filip Svensson|21|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:40|21|Alex Luong |Filip Svensson|16|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:40|21|Alex Luong |Filip Svensson|15|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:29|21|Cille Nielsen|Jenni Olesen|17|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:29|25|Cille Nielsen|Jenni Olesen|23|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:24|21|Mattias Sonderskov |Juno Thomas|17|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171130|0:24|21|Mattias Sonderskov |Juno Thomas|16|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|17|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|16|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:18|21|Jack Macgregor|Toni Woods|6|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:18|21|Jack Macgregor|Toni Woods|11|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:22|21|Mathieu Gangloff |Marig Brouxel|17|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:22|21|Mathieu Gangloff |Marig Brouxel|10|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:28|22|Oliver Thomsen|Rikke Pedersen|20|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:28|21|Oliver Thomsen|Rikke Pedersen|19|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:16|21|Michael Roe|Jessica Hopton|7|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:16|21|Michael Roe|Jessica Hopton|9|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:20|21|Paul Reynolds|Rachael Darragh|11|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:20|21|Paul Reynolds|Rachael Darragh|16|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:20|21|Zachary Phillips|Kirsty Wilcox|12|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:20|21|Zachary Phillips|Kirsty Wilcox|18|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:23|21|George Priestman |none|15|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|George Priestman |none|11|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Rowan Scheurkogel|none|15|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Rowan Scheurkogel|none|12|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Leon Seiwald |none|10|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Leon Seiwald |none|15|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Matthew Abela|none|15|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Matthew Abela|none|17|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:21|21|Andreas Fleischer|none|14|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:21|21|Andreas Fleischer|none|5|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|21|Lennart Konder|none|7|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|11|Lennart Konder|none|21|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|21|Lennart Konder|none|19|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Marcin Nowak |none|17|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Marcin Nowak |none|10|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Tobias Kuenzi|none|4|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Tobias Kuenzi|none|1|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|19|Valentin Singer|none|21|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|21|Valentin Singer|none|15|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|21|Valentin Singer|none|14|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:29|21|Alexander Cook|none|11|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:29|27|Alexander Cook|none|25|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Jordan Edgar|none|5|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Jordan Edgar|none|9|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:52|21|Yoann Czech|none|15|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:52|19|Yoann Czech|none|21|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:52|22|Yoann Czech|none|20|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Adrian Dziolko |none|12|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Adrian Dziolko |none|10|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Johnnie Torjussen |none|11|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Johnnie Torjussen |none|12|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Richard Kuhl |none|12|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Richard Kuhl |none|9|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:34|21|Andrew Heinemann|none|14|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:34|21|Andrew Heinemann|none|17|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Mateusz Swierczynski |none|16|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Mateusz Swierczynski |none|12|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:49|21|Sam Lyle|none|17|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:49|16|Sam Lyle|none|21|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:49|21|Sam Lyle|none|18|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:46|21|Torjus Flaatten|none|19|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:46|22|Torjus Flaatten|none|24|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:46|21|Torjus Flaatten|none|15|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:45|14|Nathan Rossiter|none|21|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:45|21|Nathan Rossiter|none|19|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:45|21|Nathan Rossiter|none|13|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Jonas Arly|none|15|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Jonas Arly|none|17|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:49|17|Andrew Wainwright|none|21|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Luke Pearce |none|13|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Luke Pearce |none|9|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:17|21|Julien Scheiwiller|none|9|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:17|21|Julien Scheiwiller|none|4|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Jonathan Dolan |none|14|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Jonathan Dolan |none|19|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:39|11|Benjamin Li|none|21|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:39|21|Benjamin Li|none|17|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:39|21|Benjamin Li|none|13|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:29|21|Søren Hald|none|5|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:29|23|Søren Hald|none|21|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Adam Lam|none|11|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Adam Lam|none|12|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|21|Daniel Leers|none|15|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|15|Daniel Leers|none|21|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|22|Daniel Leers|none|20|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Patrick Abildgaard|none|11|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Patrick Abildgaard|none|6|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Gurusaidutt R. M. V. |none|9|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Gurusaidutt R. M. V. |none|10|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|21|Anna Bygum|none|10|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|13|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|23|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:21|21|Amalie Vestmar|none|14|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:21|21|Amalie Vestmar|none|11|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Kimberley Helen Clague|none|16|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Kimberley Helen Clague|none|15|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|16|Toni Woods|none|21|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|21|Toni Woods|none|10|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|24|Toni Woods|none|22|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:20|21|Alicia Molitor|none|7|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:20|21|Alicia Molitor|none|11|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:43|22|Emma Thorne|none|20|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:43|18|Emma Thorne|none|21|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:43|21|Emma Thorne|none|17|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Alexandra Oprisan|none|18|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Alexandra Oprisan|none|16|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Amy Hayhoe|none|10|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Amy Hayhoe|none|19|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:21|21|Theresa Isenberg|none|7|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:21|21|Theresa Isenberg|none|15|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Sian Kelly |none|18|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Sian Kelly |none|15|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Annalena Diks|none|17|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Annalena Diks|none|16|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Berfin Aslan|none|13|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Berfin Aslan|none|19|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|21|Justine Villegas |none|23|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|21|Justine Villegas |none|11|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:40|21|Justine Villegas |none|17|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Rikke Pedersen|none|14|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:25|21|Rikke Pedersen|none|10|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|16|Signe Schulz|none|21|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|21|Signe Schulz|none|14|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|21|Signe Schulz|none|15|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Jonas Arly|none|18|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Jonas Arly|none|5|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:31|21|George Priestman |none|14|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:31|21|George Priestman |none|19|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Leon Seiwald |none|11|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:19|21|Leon Seiwald |none|8|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:30|21|Andreas Fleischer|none|17|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:30|21|Andreas Fleischer|none|13|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:43|17|Tobias Kuenzi|none|21|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:43|21|Tobias Kuenzi|none|8|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:43|21|Tobias Kuenzi|none|13|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Adrian Dziolko |none|11|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Adrian Dziolko |none|9|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:20|21|Richard Kuhl |none|7|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:20|21|Richard Kuhl |none|8|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:17|21|Johnnie Torjussen |none|3|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:17|21|Johnnie Torjussen |none|7|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:35|21|Mateusz Swierczynski |none|15|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:35|21|Mateusz Swierczynski |none|17|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Sam Lyle|none|16|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Sam Lyle|none|19|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Luke Pearce |none|13|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Luke Pearce |none|15|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:59|21|Jonathan Dolan |none|13|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:59|21|Jonathan Dolan |none|23|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:59|28|Jonathan Dolan |none|26|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Søren Hald|none|14|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Søren Hald|none|11|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|24|Adam Lam|none|22|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:26|21|Adam Lam|none|8|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Gurusaidutt R. M. V. |none|12|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Gurusaidutt R. M. V. |none|9|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:17|21|Toni Woods|none|6|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:17|21|Toni Woods|none|7|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|22|Alicia Molitor|none|20|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:28|21|Alicia Molitor|none|18|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:41|21|Alexandra Oprisan|none|17|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:41|19|Alexandra Oprisan|none|21|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:41|21|Alexandra Oprisan|none|13|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Theresa Isenberg|none|14|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Theresa Isenberg|none|13|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|21|Annalena Diks|none|13|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|17|Annalena Diks|none|21|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:42|21|Annalena Diks|none|16|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:18|21|Berfin Aslan|none|14|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:18|21|Berfin Aslan|none|12|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Signe Schulz|none|14|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:22|21|Signe Schulz|none|15|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171201|0:24|21|Samuel Owens|Jamie Robertson|19|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:24|21|Samuel Owens|Jamie Robertson|14|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:41|23|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:41|13|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:41|21|Oliver Lee Nowak|Jeppe Theisen|15|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201||Walkover Win|Alexander Eames|Ben Muir|Walkover Loss|Dominic Ashton|Nick Hodgson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:20|21|Yu Hin Derek Choi|James Youle|12|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:20|21|Yu Hin Derek Choi|James Youle|14|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:26|21|Emil Lauritzen|Mads Muurholm|16|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:26|21|Emil Lauritzen|Mads Muurholm|19|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:19|21|Toby Leung|Ethan Rose|12|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:19|21|Toby Leung|Ethan Rose|6|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201||Walkover Win|Jed Arksey|David Robertson|Walkover Loss|David Orteu|Julien Scheiwiller|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:23|21|Rikke Pedersen|Signe Schulz|15|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:23|21|Rikke Pedersen|Signe Schulz|10|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:22|21|Emma Thorne|Toni Woods|17|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:22|21|Emma Thorne|Toni Woods|14|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:23|21|Cille Nielsen|Jenni Olesen|12|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:23|21|Cille Nielsen|Jenni Olesen|13|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201||Walkover Win|Pawel Smilowski |Przemyslaw Szydlowski|Walkover Loss|Ben Hunt|Sheunesu Mabhena Kimbugwe|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:26|21|Samuel Owens|Jamie Robertson|16|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:26|21|Samuel Owens|Jamie Robertson|11|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:28|23|Oliver Lee Nowak|Jeppe Theisen|21|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:28|21|Oliver Lee Nowak|Jeppe Theisen|18|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:19|21|Emil Lauritzen|Mads Muurholm|8|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:19|21|Emil Lauritzen|Mads Muurholm|14|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:23|21|Jed Arksey|David Robertson|19|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:23|21|Jed Arksey|David Robertson|14|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:36|20|Daniel Leers|Sam Lyle|22|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:36|21|Daniel Leers|Sam Lyle|12|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:36|21|Daniel Leers|Sam Lyle|19|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:40|14|Alex Luong |Filip Svensson|21|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:40|21|Alex Luong |Filip Svensson|16|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:40|21|Alex Luong |Filip Svensson|15|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:29|21|Cille Nielsen|Jenni Olesen|17|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:29|25|Cille Nielsen|Jenni Olesen|23|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:24|21|Mattias Sonderskov |Juno Thomas|17|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171201|0:24|21|Mattias Sonderskov |Juno Thomas|16|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|17|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:28|21|Mads Hoelgaard Christensen|Lisa Kramer|16|Philip Birker [1]|Sonja Langthaler|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:18|21|Jack Macgregor|Toni Woods|6|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:18|21|Jack Macgregor|Toni Woods|11|Luke Hill|Rosemary Allen|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:22|21|Mathieu Gangloff |Marig Brouxel|17|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:22|21|Mathieu Gangloff |Marig Brouxel|10|Sam Smith|Tiara Samuel|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:28|22|Oliver Thomsen|Rikke Pedersen|20|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:28|21|Oliver Thomsen|Rikke Pedersen|19|Nathan Rossiter|Emily Robinson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:16|21|Michael Roe|Jessica Hopton|7|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:16|21|Michael Roe|Jessica Hopton|9|Matthew Howcroft|Megan Channon|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:18|21|William Jones|Lydia Ip|14|James Ellaway [4]|Chloe Le Tissier|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:20|21|Paul Reynolds|Rachael Darragh|11|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:20|21|Paul Reynolds|Rachael Darragh|16|Benjamin Li|Jessica Li|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:20|21|Zachary Phillips|Kirsty Wilcox|12|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:20|21|Zachary Phillips|Kirsty Wilcox|18|Karl Ødegård [2]|Emilie Hamang|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:23|21|George Priestman |none|15|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|George Priestman |none|11|Jorgen Rosenlund|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Rowan Scheurkogel|none|15|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Rowan Scheurkogel|none|12|William Kitching|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Leon Seiwald |none|10|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Leon Seiwald |none|15|Alan Ostrowski|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Matthew Abela|none|15|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Matthew Abela|none|17|Joshua Ryland-Langley|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:21|21|Andreas Fleischer|none|14|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:21|21|Andreas Fleischer|none|5|Mattias Sonderskov [13]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|21|Lennart Konder|none|7|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|11|Lennart Konder|none|21|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|21|Lennart Konder|none|19|George Nicolaou|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Marcin Nowak |none|17|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Marcin Nowak |none|10|Andrew Aspinal|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Tobias Kuenzi|none|4|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Tobias Kuenzi|none|1|Raymond Webster|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|19|Valentin Singer|none|21|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|21|Valentin Singer|none|15|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|21|Valentin Singer|none|14|Bedrich Valenta [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:29|21|Alexander Cook|none|11|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:29|27|Alexander Cook|none|25|Juno Thomas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Jordan Edgar|none|5|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Jordan Edgar|none|9|Hugo Jardim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:52|21|Yoann Czech|none|15|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:52|19|Yoann Czech|none|21|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:52|22|Yoann Czech|none|20|Oliver Lee Nowak|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Adrian Dziolko |none|12|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Adrian Dziolko |none|10|Jack Macgregor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:27|21|Bruno Carvalho|none|12|David Poole|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Johnnie Torjussen |none|11|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Johnnie Torjussen |none|12|Niks Podosinoviks|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Richard Kuhl |none|12|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Richard Kuhl |none|9|Luke Hill|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:34|21|Andrew Heinemann|none|14|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:34|21|Andrew Heinemann|none|17|Jonas Schwarz|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Mateusz Swierczynski |none|16|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Mateusz Swierczynski |none|12|Chris Williams|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:49|21|Sam Lyle|none|17|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:49|16|Sam Lyle|none|21|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:49|21|Sam Lyle|none|18|Mattias Xu|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:46|21|Torjus Flaatten|none|19|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:46|22|Torjus Flaatten|none|24|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:46|21|Torjus Flaatten|none|15|Mark Brady [15]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:45|14|Nathan Rossiter|none|21|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:45|21|Nathan Rossiter|none|19|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:45|21|Nathan Rossiter|none|13|Jeppe Theisen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Jonas Arly|none|15|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Jonas Arly|none|17|Oliver Thomsen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:49|17|Andrew Wainwright|none|21|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:49|21|Andrew Wainwright|none|18|Sameer Scott Aamir|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Luke Pearce |none|13|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Luke Pearce |none|9|Christakis Temereas|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:17|21|Julien Scheiwiller|none|9|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:17|21|Julien Scheiwiller|none|4|Karl Ødegård|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Jonathan Dolan |none|14|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Jonathan Dolan |none|19|Andrew Oates|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:39|11|Benjamin Li|none|21|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:39|21|Benjamin Li|none|17|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:39|21|Benjamin Li|none|13|Vegard Rikheim|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:29|21|Søren Hald|none|5|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:29|23|Søren Hald|none|21|Mateusz Danielak [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Adam Lam|none|11|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Adam Lam|none|12|Michal Kikosicki|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|21|Daniel Leers|none|15|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|15|Daniel Leers|none|21|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|22|Daniel Leers|none|20|James Youle|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Patrick Abildgaard|none|11|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Patrick Abildgaard|none|6|Ethan Rose|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Gurusaidutt R. M. V. |none|9|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Gurusaidutt R. M. V. |none|10|Flurin Furrer|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|21|Anna Bygum|none|10|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|13|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|23|Anna Bygum|none|21|Lisa Elliott|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:21|21|Amalie Vestmar|none|14|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:21|21|Amalie Vestmar|none|11|Emily Temple Redshaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Kimberley Helen Clague|none|16|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Kimberley Helen Clague|none|15|Thorunn Eylands [7]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|16|Toni Woods|none|21|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|21|Toni Woods|none|10|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|24|Toni Woods|none|22|Rosemary Allen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:20|21|Alicia Molitor|none|7|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:20|21|Alicia Molitor|none|11|Chloe Le Tissier [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:43|22|Emma Thorne|none|20|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:43|18|Emma Thorne|none|21|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:43|21|Emma Thorne|none|17|Til'Shiloh Shaw|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Alexandra Oprisan|none|18|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Alexandra Oprisan|none|16|Juliane Piron [5]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Amy Hayhoe|none|10|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Amy Hayhoe|none|19|Johanna Luostarinen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:21|21|Theresa Isenberg|none|7|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:21|21|Theresa Isenberg|none|15|Emily Robinson|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Sian Kelly |none|18|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Sian Kelly |none|15|Melanie Potin|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Annalena Diks|none|17|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Annalena Diks|none|16|Megan Channon|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Sofie Zacho |none|14|Hannah Boden|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Berfin Aslan|none|13|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Berfin Aslan|none|19|Sarah Preece|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|21|Justine Villegas |none|23|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|21|Justine Villegas |none|11|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:40|21|Justine Villegas |none|17|Grace Taylor|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Rikke Pedersen|none|14|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:25|21|Rikke Pedersen|none|10|Evie Burbidge|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|16|Signe Schulz|none|21|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|21|Signe Schulz|none|14|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|21|Signe Schulz|none|15|Gunjan Randhawa|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Jonas Arly|none|18|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Jonas Arly|none|5|Nathan Rossiter|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:31|21|George Priestman |none|14|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:31|21|George Priestman |none|19|Rowan Scheurkogel|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Leon Seiwald |none|11|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:19|21|Leon Seiwald |none|8|Matthew Abela|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:30|21|Andreas Fleischer|none|17|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:30|21|Andreas Fleischer|none|13|Lennart Konder|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:43|17|Tobias Kuenzi|none|21|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:43|21|Tobias Kuenzi|none|8|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:43|21|Tobias Kuenzi|none|13|Marcin Nowak [4]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Adrian Dziolko |none|11|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Adrian Dziolko |none|9|Bruno Carvalho|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:33|21|Valentin Singer|none|18|Alexander Cook|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:20|21|Richard Kuhl |none|7|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:20|21|Richard Kuhl |none|8|Jordan Edgar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:17|21|Johnnie Torjussen |none|3|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:17|21|Johnnie Torjussen |none|7|Yoann Czech|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:35|21|Mateusz Swierczynski |none|15|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:35|21|Mateusz Swierczynski |none|17|Andrew Heinemann|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Sam Lyle|none|16|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Sam Lyle|none|19|Torjus Flaatten|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Luke Pearce |none|13|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Luke Pearce |none|15|Andrew Wainwright|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:59|21|Jonathan Dolan |none|13|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:59|21|Jonathan Dolan |none|23|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:59|28|Jonathan Dolan |none|26|Julien Scheiwiller|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Søren Hald|none|14|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Søren Hald|none|11|Benjamin Li|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|24|Adam Lam|none|22|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:26|21|Adam Lam|none|8|Daniel Leers|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Gurusaidutt R. M. V. |none|12|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Gurusaidutt R. M. V. |none|9|Patrick Abildgaard|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:17|21|Toni Woods|none|6|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:17|21|Toni Woods|none|7|Kimberley Helen Clague|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|22|Alicia Molitor|none|20|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:28|21|Alicia Molitor|none|18|Emma Thorne|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:41|21|Alexandra Oprisan|none|17|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:41|19|Alexandra Oprisan|none|21|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:41|21|Alexandra Oprisan|none|13|Amy Hayhoe|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:23|21|Anna Bygum|none|15|Amalie Vestmar|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Theresa Isenberg|none|14|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Theresa Isenberg|none|13|Sian Kelly [6]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|21|Annalena Diks|none|13|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|17|Annalena Diks|none|21|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:42|21|Annalena Diks|none|16|Sofie Zacho [3]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:18|21|Berfin Aslan|none|14|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:18|21|Berfin Aslan|none|12|Justine Villegas [8]|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Signe Schulz|none|14|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:22|21|Signe Schulz|none|15|Rikke Pedersen|none|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|singles
+20171202|0:24|21|Samuel Owens|Jamie Robertson|19|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:24|21|Samuel Owens|Jamie Robertson|14|Nathan Hale|Danny Hyde|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:41|23|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:41|13|Oliver Lee Nowak|Jeppe Theisen|21|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:41|21|Oliver Lee Nowak|Jeppe Theisen|15|William Jones|James Penver|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202||Walkover Win|Alexander Eames|Ben Muir|Walkover Loss|Dominic Ashton|Nick Hodgson|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:20|21|Yu Hin Derek Choi|James Youle|12|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:20|21|Yu Hin Derek Choi|James Youle|14|Matthew Appleby|Andrew Aspinal|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:26|21|Emil Lauritzen|Mads Muurholm|16|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:26|21|Emil Lauritzen|Mads Muurholm|19|Harry Arksey|Sam Smith|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:19|21|Toby Leung|Ethan Rose|12|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:19|21|Toby Leung|Ethan Rose|6|Sameer Scott Aamir|Shaun Ally Aamir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202||Walkover Win|Jed Arksey|David Robertson|Walkover Loss|David Orteu|Julien Scheiwiller|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:23|21|Rikke Pedersen|Signe Schulz|15|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:23|21|Rikke Pedersen|Signe Schulz|10|Megan Channon|Tanya Pinto|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:22|21|Emma Thorne|Toni Woods|17|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:22|21|Emma Thorne|Toni Woods|14|Caroline Cooper|Sarah Preece|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:23|21|Cille Nielsen|Jenni Olesen|12|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:23|21|Cille Nielsen|Jenni Olesen|13|Alexandra Oprisan|Gunjan Randhawa|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202||Walkover Win|Pawel Smilowski |Przemyslaw Szydlowski|Walkover Loss|Ben Hunt|Sheunesu Mabhena Kimbugwe|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:26|21|Samuel Owens|Jamie Robertson|16|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:26|21|Samuel Owens|Jamie Robertson|11|Luke Hill|David Poole|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:28|23|Oliver Lee Nowak|Jeppe Theisen|21|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:28|21|Oliver Lee Nowak|Jeppe Theisen|18|Gareth Cox [4]|Scott Oates|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:19|21|Emil Lauritzen|Mads Muurholm|8|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:19|21|Emil Lauritzen|Mads Muurholm|14|Kishan Hathi|Matthew Howcroft|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:23|21|Jed Arksey|David Robertson|19|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:23|21|Jed Arksey|David Robertson|14|Jake-Li Lim|Zhi Lun Ng|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:36|20|Daniel Leers|Sam Lyle|22|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:36|21|Daniel Leers|Sam Lyle|12|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:36|21|Daniel Leers|Sam Lyle|19|Toby Leung|Ethan Rose|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:40|14|Alex Luong |Filip Svensson|21|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:40|21|Alex Luong |Filip Svensson|16|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:40|21|Alex Luong |Filip Svensson|15|Yu Hin Derek Choi|James Youle|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:33|21|Ka Kei Chien|Serena Midha|19|Rikke Pedersen|Signe Schulz|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:29|21|Cille Nielsen|Jenni Olesen|17|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:29|25|Cille Nielsen|Jenni Olesen|23|Emma Thorne|Toni Woods|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:24|21|Mattias Sonderskov |Juno Thomas|17|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles
+20171202|0:24|21|Mattias Sonderskov |Juno Thomas|16|Alexander Eames|Ben Muir|31EF2476-B15B-402A-AF66-46BFAB9CDCCD|doubles

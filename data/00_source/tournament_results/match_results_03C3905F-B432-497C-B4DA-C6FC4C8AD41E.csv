@@ -1,0 +1,901 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20140925|0:23|7|Scott Williams|Jessica Hopton|11|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:23|11|Scott Williams|Jessica Hopton|9|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:23|11|Scott Williams|Jessica Hopton|6|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:23|11|Scott Williams|Jessica Hopton|7|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:14|11|Morgan Lidmann|Moa Sjoo|5|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:14|11|Morgan Lidmann|Moa Sjoo|9|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:14|11|Morgan Lidmann|Moa Sjoo|7|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:15|11|Matthew Clare|Devon Minnis|6|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:15|11|Matthew Clare|Devon Minnis|5|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:15|11|Matthew Clare|Devon Minnis|9|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925||Walkover Win|Ryan Quek|none|Walkover Loss|Clément Werkmeister|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Rover Jay Babatido|none|8|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Lakshya Sen|none|3|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Toma Popov |none|5|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Gregor Dunikowski|none|6|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|11|Andi Tsai |none|3|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|9|Andi Tsai |none|11|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|11|Andi Tsai |none|7|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|11|Andi Tsai |none|9|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Benedikt Schaller|none|6|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Benedikt Schaller|none|5|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Benedikt Schaller|none|8|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:20|11|Sean Vendy |none|8|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Bohumil Kasela|none|7|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Bohumil Kasela|none|9|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Bohumil Kasela|none|6|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|6|Sahil Sipani|none|11|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|11|Sahil Sipani|none|5|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Vincent Medina|none|8|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Vincent Medina|none|5|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Vincent Medina|none|4|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:19|11|Christoph Syrch |none|5|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:19|11|Christoph Syrch |none|2|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:19|11|Christoph Syrch |none|8|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|6|Julien Lehmann|none|11|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Julien Lehmann|none|4|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:30|6|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:30|7|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:30|11|Michal Hubacek|none|7|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Dominik Buetikofer |none|4|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Dominik Buetikofer |none|6|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Dominik Buetikofer |none|7|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Simon Wang|none|5|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Simon Wang|none|10|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|Simon Wang|none|9|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|9|Kim Zeber|none|11|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Daan Philips |none|9|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Daan Philips |none|5|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Daan Philips |none|8|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:27|9|Bernardo Atilano|none|11|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:27|11|Bernardo Atilano|none|8|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|10|Lukas Osele|none|11|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Lukas Osele|none|4|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Lukas Osele|none|7|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Lukas Osele|none|5|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Milan Dratva|none|5|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Milan Dratva|none|4|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Milan Dratva|none|8|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925||Walkover Win|Matthew Widdicombe |none|Walkover Loss|Jimmy Noblecourt|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Anthony Chaye|none|4|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|10|Anthony Chaye|none|11|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Anthony Chaye|none|8|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Anthony Chaye|none|3|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:24|11|Alexandre Hammer |none|7|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:24|11|Alexandre Hammer |none|10|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:24|11|Alexandre Hammer |none|5|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925||Walkover Win|Timon Schwarz|none|Walkover Loss|Matthew Clare|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|10|Morgan Lidmann|none|11|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|11|Morgan Lidmann|none|5|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|11|Morgan Lidmann|none|10|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|11|Morgan Lidmann|none|9|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:19|11|Olivier Hjalm|none|10|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:19|11|Olivier Hjalm|none|9|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:19|11|Olivier Hjalm|none|7|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|10|Miha Ivanic|none|11|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:31|11|Miha Ivanic|none|9|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:05|Walkover Win|Michael Giesinger|none|Walkover Loss|Maxime Pierrehumbert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:16|11|Martin Cerkovnik |none|4|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:16|11|Martin Cerkovnik |none|5|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:16|11|Martin Cerkovnik |none|7|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|David Jones|none|5|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|David Jones|none|7|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:18|11|David Jones|none|8|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|4|Rahul Bharadwaj Bangalore Manjunath|none|11|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|4|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|7|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|5|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:22|9|Ronja Stern|none|11|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:22|11|Ronja Stern|none|7|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|6|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|9|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Emilie Beaujean|none|5|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Emilie Beaujean|none|7|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:15|11|Emilie Beaujean|none|1|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:12|11|Ben Lane |Jessica Pugh|10|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:12|11|Ben Lane |Jessica Pugh|0|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:12|11|Ben Lane |Jessica Pugh|5|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:21|10|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|11|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|7|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|7|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|10|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|11|David King|Nicola Gresty|3|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:22|10|Alexandre Hammer |Joanna Chaube|11|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:22|11|Alexandre Hammer |Joanna Chaube|7|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:22|11|Alexandre Hammer |Joanna Chaube|8|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:22|11|Alexandre Hammer |Joanna Chaube|9|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Bohumil Kasela|Angelika Vargova|8|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Bohumil Kasela|Angelika Vargova|9|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Bohumil Kasela|Angelika Vargova|10|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925||Walkover Win|Ronan Gueguin|Verlaine Faulmann|Walkover Loss|Thomas Vallez [2]|Delphine Delrue|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|10|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|6|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|8|Gregor Dunikowski |Yaelle Hoyaux|11|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|9|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Scott Williams|Jessica Hopton|7|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Scott Williams|Jessica Hopton|8|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Scott Williams|Jessica Hopton|5|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:15|11|Morgan Lidmann|Moa Sjoo|5|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:15|11|Morgan Lidmann|Moa Sjoo|10|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:15|11|Morgan Lidmann|Moa Sjoo|3|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|6|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925||Walkover Win|Andreas Stocker|Karin Maran|Walkover Loss|Silvan Furrer|Celine Dagelet|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:19|10|Bjarne Geiss |Eva Janssens|11|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:19|11|Bjarne Geiss |Eva Janssens|8|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Matthew Clare|Devon Minnis|10|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Matthew Clare|Devon Minnis|6|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:16|11|Matthew Clare|Devon Minnis|8|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:14|11|Miha Ivanic |Ema Cizelij|9|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925||Walkover Win|Michael Giesinger|Nathalie Herbst|Walkover Loss|Lawrence De Pauw|Amy Bronselaer|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:17|11|Clara Azurmendi |none|7|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Clara Azurmendi |none|2|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Clara Azurmendi |none|9|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:32|11|Zan Laznik |Katarina Beton|6|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:32|11|Zan Laznik |Katarina Beton|9|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:32|11|Zan Laznik |Katarina Beton|5|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140925|0:34|2|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|5|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|11|Alice Arnou|none|9|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|5|Ronja Stern|none|11|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Ronja Stern|none|10|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Ronja Stern|none|6|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:23|11|Ronja Stern|none|8|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|11|Jessica Hopton |none|8|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|9|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|5|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|11|Jessica Hopton |none|5|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:34|11|Jessica Hopton |none|10|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|10|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|11|Ira Banerjee |none|8|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|11|Ira Banerjee |none|7|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|8|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:33|11|Ira Banerjee |none|3|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:24|4|Joanna Chaube|none|11|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:24|11|Joanna Chaube|none|6|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:14|11|Yaelle Hoyaux |none|1|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:14|11|Yaelle Hoyaux |none|6|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:14|11|Yaelle Hoyaux |none|5|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:16|11|Lydia Powell |none|4|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|11|Karin Maran|none|6|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|8|Karin Maran|none|11|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|11|Karin Maran|none|10|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:25|11|Karin Maran|none|3|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925||Walkover Win|Verlaine Faulmann |none|Walkover Loss|Elin Svensson|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Devon Minnis|none|10|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Devon Minnis|none|7|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:17|11|Devon Minnis|none|6|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925||Walkover Win|Emilie Beaujean|none|Walkover Loss|Nicole Perroud|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Judith Petrikowski|none|4|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:28|11|Simone Von Rotz|none|10|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:28|9|Simone Von Rotz|none|11|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:28|11|Simone Von Rotz|none|3|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:28|11|Simone Von Rotz|none|5|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925||Walkover Win|Angelika Vargova|none|Walkover Loss|Lole Courtois [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|11|Sofia Setim|none|5|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|6|Sofia Setim|none|11|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140925|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|7|Scott Williams|Jessica Hopton|11|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:23|11|Scott Williams|Jessica Hopton|9|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:23|11|Scott Williams|Jessica Hopton|6|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:23|11|Scott Williams|Jessica Hopton|7|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:14|11|Morgan Lidmann|Moa Sjoo|5|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:14|11|Morgan Lidmann|Moa Sjoo|9|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:14|11|Morgan Lidmann|Moa Sjoo|7|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:15|11|Matthew Clare|Devon Minnis|6|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:15|11|Matthew Clare|Devon Minnis|5|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:15|11|Matthew Clare|Devon Minnis|9|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926||Walkover Win|Ryan Quek|none|Walkover Loss|Clément Werkmeister|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Rover Jay Babatido|none|8|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Lakshya Sen|none|3|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Toma Popov |none|5|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Gregor Dunikowski|none|6|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|11|Andi Tsai |none|3|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|9|Andi Tsai |none|11|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|11|Andi Tsai |none|7|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|11|Andi Tsai |none|9|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Benedikt Schaller|none|6|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Benedikt Schaller|none|5|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Benedikt Schaller|none|8|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:20|11|Sean Vendy |none|8|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Bohumil Kasela|none|7|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Bohumil Kasela|none|9|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Bohumil Kasela|none|6|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|6|Sahil Sipani|none|11|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|11|Sahil Sipani|none|5|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Vincent Medina|none|8|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Vincent Medina|none|5|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Vincent Medina|none|4|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:19|11|Christoph Syrch |none|5|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:19|11|Christoph Syrch |none|2|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:19|11|Christoph Syrch |none|8|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|6|Julien Lehmann|none|11|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Julien Lehmann|none|4|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:30|6|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:30|7|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:30|11|Michal Hubacek|none|7|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Dominik Buetikofer |none|4|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Dominik Buetikofer |none|6|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Dominik Buetikofer |none|7|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Simon Wang|none|5|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Simon Wang|none|10|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|Simon Wang|none|9|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|9|Kim Zeber|none|11|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Daan Philips |none|9|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Daan Philips |none|5|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Daan Philips |none|8|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:27|9|Bernardo Atilano|none|11|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:27|11|Bernardo Atilano|none|8|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|10|Lukas Osele|none|11|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Lukas Osele|none|4|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Lukas Osele|none|7|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Lukas Osele|none|5|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Milan Dratva|none|5|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Milan Dratva|none|4|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Milan Dratva|none|8|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926||Walkover Win|Matthew Widdicombe |none|Walkover Loss|Jimmy Noblecourt|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Anthony Chaye|none|4|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|10|Anthony Chaye|none|11|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Anthony Chaye|none|8|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Anthony Chaye|none|3|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:24|11|Alexandre Hammer |none|7|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:24|11|Alexandre Hammer |none|10|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:24|11|Alexandre Hammer |none|5|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926||Walkover Win|Timon Schwarz|none|Walkover Loss|Matthew Clare|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|10|Morgan Lidmann|none|11|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|11|Morgan Lidmann|none|5|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|11|Morgan Lidmann|none|10|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|11|Morgan Lidmann|none|9|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:19|11|Olivier Hjalm|none|10|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:19|11|Olivier Hjalm|none|9|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:19|11|Olivier Hjalm|none|7|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|10|Miha Ivanic|none|11|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:31|11|Miha Ivanic|none|9|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:05|Walkover Win|Michael Giesinger|none|Walkover Loss|Maxime Pierrehumbert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:16|11|Martin Cerkovnik |none|4|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:16|11|Martin Cerkovnik |none|5|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:16|11|Martin Cerkovnik |none|7|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|David Jones|none|5|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|David Jones|none|7|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:18|11|David Jones|none|8|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|4|Rahul Bharadwaj Bangalore Manjunath|none|11|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|4|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|7|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|5|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:22|9|Ronja Stern|none|11|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:22|11|Ronja Stern|none|7|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|6|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|9|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Emilie Beaujean|none|5|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Emilie Beaujean|none|7|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:15|11|Emilie Beaujean|none|1|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:12|11|Ben Lane |Jessica Pugh|10|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:12|11|Ben Lane |Jessica Pugh|0|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:12|11|Ben Lane |Jessica Pugh|5|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:21|10|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|11|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|7|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|7|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|10|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|11|David King|Nicola Gresty|3|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:22|10|Alexandre Hammer |Joanna Chaube|11|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:22|11|Alexandre Hammer |Joanna Chaube|7|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:22|11|Alexandre Hammer |Joanna Chaube|8|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:22|11|Alexandre Hammer |Joanna Chaube|9|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Bohumil Kasela|Angelika Vargova|8|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Bohumil Kasela|Angelika Vargova|9|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Bohumil Kasela|Angelika Vargova|10|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926||Walkover Win|Ronan Gueguin|Verlaine Faulmann|Walkover Loss|Thomas Vallez [2]|Delphine Delrue|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|10|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|6|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|8|Gregor Dunikowski |Yaelle Hoyaux|11|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|9|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Scott Williams|Jessica Hopton|7|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Scott Williams|Jessica Hopton|8|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Scott Williams|Jessica Hopton|5|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:15|11|Morgan Lidmann|Moa Sjoo|5|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:15|11|Morgan Lidmann|Moa Sjoo|10|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:15|11|Morgan Lidmann|Moa Sjoo|3|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|6|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926||Walkover Win|Andreas Stocker|Karin Maran|Walkover Loss|Silvan Furrer|Celine Dagelet|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:19|10|Bjarne Geiss |Eva Janssens|11|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:19|11|Bjarne Geiss |Eva Janssens|8|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Matthew Clare|Devon Minnis|10|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Matthew Clare|Devon Minnis|6|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:16|11|Matthew Clare|Devon Minnis|8|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:14|11|Miha Ivanic |Ema Cizelij|9|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926||Walkover Win|Michael Giesinger|Nathalie Herbst|Walkover Loss|Lawrence De Pauw|Amy Bronselaer|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:17|11|Clara Azurmendi |none|7|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Clara Azurmendi |none|2|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Clara Azurmendi |none|9|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:32|11|Zan Laznik |Katarina Beton|6|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:32|11|Zan Laznik |Katarina Beton|9|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:32|11|Zan Laznik |Katarina Beton|5|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140926|0:34|2|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|5|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|11|Alice Arnou|none|9|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|5|Ronja Stern|none|11|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Ronja Stern|none|10|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Ronja Stern|none|6|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:23|11|Ronja Stern|none|8|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|11|Jessica Hopton |none|8|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|9|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|5|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|11|Jessica Hopton |none|5|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:34|11|Jessica Hopton |none|10|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|10|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|11|Ira Banerjee |none|8|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|11|Ira Banerjee |none|7|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|8|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:33|11|Ira Banerjee |none|3|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:24|4|Joanna Chaube|none|11|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:24|11|Joanna Chaube|none|6|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:14|11|Yaelle Hoyaux |none|1|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:14|11|Yaelle Hoyaux |none|6|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:14|11|Yaelle Hoyaux |none|5|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:16|11|Lydia Powell |none|4|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|11|Karin Maran|none|6|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|8|Karin Maran|none|11|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|11|Karin Maran|none|10|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:25|11|Karin Maran|none|3|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926||Walkover Win|Verlaine Faulmann |none|Walkover Loss|Elin Svensson|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Devon Minnis|none|10|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Devon Minnis|none|7|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:17|11|Devon Minnis|none|6|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926||Walkover Win|Emilie Beaujean|none|Walkover Loss|Nicole Perroud|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Judith Petrikowski|none|4|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:28|11|Simone Von Rotz|none|10|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:28|9|Simone Von Rotz|none|11|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:28|11|Simone Von Rotz|none|3|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:28|11|Simone Von Rotz|none|5|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926||Walkover Win|Angelika Vargova|none|Walkover Loss|Lole Courtois [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|11|Sofia Setim|none|5|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|6|Sofia Setim|none|11|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140926|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|7|Scott Williams|Jessica Hopton|11|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:23|11|Scott Williams|Jessica Hopton|9|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:23|11|Scott Williams|Jessica Hopton|6|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:23|11|Scott Williams|Jessica Hopton|7|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:14|11|Morgan Lidmann|Moa Sjoo|5|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:14|11|Morgan Lidmann|Moa Sjoo|9|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:14|11|Morgan Lidmann|Moa Sjoo|7|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:15|11|Matthew Clare|Devon Minnis|6|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:15|11|Matthew Clare|Devon Minnis|5|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:15|11|Matthew Clare|Devon Minnis|9|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927||Walkover Win|Ryan Quek|none|Walkover Loss|Clément Werkmeister|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Rover Jay Babatido|none|8|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Lakshya Sen|none|3|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Toma Popov |none|5|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Gregor Dunikowski|none|6|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|11|Andi Tsai |none|3|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|9|Andi Tsai |none|11|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|11|Andi Tsai |none|7|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|11|Andi Tsai |none|9|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Benedikt Schaller|none|6|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Benedikt Schaller|none|5|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Benedikt Schaller|none|8|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:20|11|Sean Vendy |none|8|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Bohumil Kasela|none|7|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Bohumil Kasela|none|9|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Bohumil Kasela|none|6|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|6|Sahil Sipani|none|11|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|11|Sahil Sipani|none|5|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Vincent Medina|none|8|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Vincent Medina|none|5|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Vincent Medina|none|4|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:19|11|Christoph Syrch |none|5|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:19|11|Christoph Syrch |none|2|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:19|11|Christoph Syrch |none|8|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|6|Julien Lehmann|none|11|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Julien Lehmann|none|4|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:30|6|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:30|7|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:30|11|Michal Hubacek|none|7|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Dominik Buetikofer |none|4|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Dominik Buetikofer |none|6|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Dominik Buetikofer |none|7|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Simon Wang|none|5|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Simon Wang|none|10|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|Simon Wang|none|9|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|9|Kim Zeber|none|11|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Daan Philips |none|9|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Daan Philips |none|5|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Daan Philips |none|8|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:27|9|Bernardo Atilano|none|11|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:27|11|Bernardo Atilano|none|8|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|10|Lukas Osele|none|11|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Lukas Osele|none|4|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Lukas Osele|none|7|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Lukas Osele|none|5|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Milan Dratva|none|5|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Milan Dratva|none|4|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Milan Dratva|none|8|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927||Walkover Win|Matthew Widdicombe |none|Walkover Loss|Jimmy Noblecourt|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Anthony Chaye|none|4|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|10|Anthony Chaye|none|11|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Anthony Chaye|none|8|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Anthony Chaye|none|3|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:24|11|Alexandre Hammer |none|7|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:24|11|Alexandre Hammer |none|10|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:24|11|Alexandre Hammer |none|5|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927||Walkover Win|Timon Schwarz|none|Walkover Loss|Matthew Clare|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|10|Morgan Lidmann|none|11|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|11|Morgan Lidmann|none|5|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|11|Morgan Lidmann|none|10|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|11|Morgan Lidmann|none|9|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:19|11|Olivier Hjalm|none|10|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:19|11|Olivier Hjalm|none|9|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:19|11|Olivier Hjalm|none|7|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|10|Miha Ivanic|none|11|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:31|11|Miha Ivanic|none|9|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:05|Walkover Win|Michael Giesinger|none|Walkover Loss|Maxime Pierrehumbert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:16|11|Martin Cerkovnik |none|4|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:16|11|Martin Cerkovnik |none|5|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:16|11|Martin Cerkovnik |none|7|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|David Jones|none|5|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|David Jones|none|7|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:18|11|David Jones|none|8|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|4|Rahul Bharadwaj Bangalore Manjunath|none|11|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|4|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|7|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|5|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:22|9|Ronja Stern|none|11|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:22|11|Ronja Stern|none|7|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|6|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|9|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Emilie Beaujean|none|5|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Emilie Beaujean|none|7|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:15|11|Emilie Beaujean|none|1|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:12|11|Ben Lane |Jessica Pugh|10|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:12|11|Ben Lane |Jessica Pugh|0|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:12|11|Ben Lane |Jessica Pugh|5|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:21|10|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|11|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|7|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|7|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|10|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|11|David King|Nicola Gresty|3|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:22|10|Alexandre Hammer |Joanna Chaube|11|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:22|11|Alexandre Hammer |Joanna Chaube|7|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:22|11|Alexandre Hammer |Joanna Chaube|8|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:22|11|Alexandre Hammer |Joanna Chaube|9|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Bohumil Kasela|Angelika Vargova|8|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Bohumil Kasela|Angelika Vargova|9|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Bohumil Kasela|Angelika Vargova|10|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927||Walkover Win|Ronan Gueguin|Verlaine Faulmann|Walkover Loss|Thomas Vallez [2]|Delphine Delrue|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|10|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|6|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|8|Gregor Dunikowski |Yaelle Hoyaux|11|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|9|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Scott Williams|Jessica Hopton|7|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Scott Williams|Jessica Hopton|8|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Scott Williams|Jessica Hopton|5|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:15|11|Morgan Lidmann|Moa Sjoo|5|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:15|11|Morgan Lidmann|Moa Sjoo|10|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:15|11|Morgan Lidmann|Moa Sjoo|3|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|6|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927||Walkover Win|Andreas Stocker|Karin Maran|Walkover Loss|Silvan Furrer|Celine Dagelet|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:19|10|Bjarne Geiss |Eva Janssens|11|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:19|11|Bjarne Geiss |Eva Janssens|8|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Matthew Clare|Devon Minnis|10|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Matthew Clare|Devon Minnis|6|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:16|11|Matthew Clare|Devon Minnis|8|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:14|11|Miha Ivanic |Ema Cizelij|9|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927||Walkover Win|Michael Giesinger|Nathalie Herbst|Walkover Loss|Lawrence De Pauw|Amy Bronselaer|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:17|11|Clara Azurmendi |none|7|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Clara Azurmendi |none|2|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Clara Azurmendi |none|9|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:32|11|Zan Laznik |Katarina Beton|6|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:32|11|Zan Laznik |Katarina Beton|9|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:32|11|Zan Laznik |Katarina Beton|5|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140927|0:34|2|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|5|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|11|Alice Arnou|none|9|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|5|Ronja Stern|none|11|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Ronja Stern|none|10|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Ronja Stern|none|6|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:23|11|Ronja Stern|none|8|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|11|Jessica Hopton |none|8|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|9|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|5|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|11|Jessica Hopton |none|5|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:34|11|Jessica Hopton |none|10|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|10|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|11|Ira Banerjee |none|8|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|11|Ira Banerjee |none|7|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|8|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:33|11|Ira Banerjee |none|3|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:24|4|Joanna Chaube|none|11|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:24|11|Joanna Chaube|none|6|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:14|11|Yaelle Hoyaux |none|1|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:14|11|Yaelle Hoyaux |none|6|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:14|11|Yaelle Hoyaux |none|5|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:16|11|Lydia Powell |none|4|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|11|Karin Maran|none|6|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|8|Karin Maran|none|11|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|11|Karin Maran|none|10|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:25|11|Karin Maran|none|3|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927||Walkover Win|Verlaine Faulmann |none|Walkover Loss|Elin Svensson|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Devon Minnis|none|10|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Devon Minnis|none|7|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:17|11|Devon Minnis|none|6|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927||Walkover Win|Emilie Beaujean|none|Walkover Loss|Nicole Perroud|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Judith Petrikowski|none|4|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:28|11|Simone Von Rotz|none|10|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:28|9|Simone Von Rotz|none|11|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:28|11|Simone Von Rotz|none|3|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:28|11|Simone Von Rotz|none|5|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927||Walkover Win|Angelika Vargova|none|Walkover Loss|Lole Courtois [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|11|Sofia Setim|none|5|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|6|Sofia Setim|none|11|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140927|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|7|Scott Williams|Jessica Hopton|11|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:23|11|Scott Williams|Jessica Hopton|9|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:23|11|Scott Williams|Jessica Hopton|6|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:23|11|Scott Williams|Jessica Hopton|7|Daan Philips|Anna Bogemanns|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:14|11|Morgan Lidmann|Moa Sjoo|5|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:14|11|Morgan Lidmann|Moa Sjoo|9|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:14|11|Morgan Lidmann|Moa Sjoo|7|Lukas Osele|Lisa Iversen|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:15|11|Matthew Clare|Devon Minnis|6|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:15|11|Matthew Clare|Devon Minnis|5|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:15|11|Matthew Clare|Devon Minnis|9|Cyril Hohl|Chantal Von Rotz|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928||Walkover Win|Ryan Quek|none|Walkover Loss|Clément Werkmeister|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Rover Jay Babatido|none|8|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Rover Jay Babatido|none|10|Nico Giger|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Lakshya Sen|none|3|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Lakshya Sen|none|9|Ben Rausch|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Toma Popov |none|8|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Toma Popov |none|5|Hannes Gerberich|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Gregor Dunikowski|none|6|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Gregor Dunikowski|none|5|Jan Vorlik|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|11|Andi Tsai |none|3|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|9|Andi Tsai |none|11|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|11|Andi Tsai |none|7|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|11|Andi Tsai |none|9|Lukas Holub|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Benedikt Schaller|none|6|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Benedikt Schaller|none|5|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Benedikt Schaller|none|8|Kevin Strobl|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Sean Vendy |none|7|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:20|11|Sean Vendy |none|8|Rinoy Manavalan|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Bohumil Kasela|none|7|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Bohumil Kasela|none|9|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Bohumil Kasela|none|6|Dominik Tripet|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|6|Sahil Sipani|none|11|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|11|Sahil Sipani|none|5|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|11|Sahil Sipani|none|7|Andraz Krapez [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Vincent Medina|none|8|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Vincent Medina|none|5|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Vincent Medina|none|4|Lawrence De Pauw|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:19|11|Christoph Syrch |none|5|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:19|11|Christoph Syrch |none|2|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:19|11|Christoph Syrch |none|8|Silvan Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|6|Julien Lehmann|none|11|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Julien Lehmann|none|8|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Julien Lehmann|none|4|Daniel Seifert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:30|11|Michal Hubacek|none|6|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:30|6|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:30|7|Michal Hubacek|none|11|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:30|11|Michal Hubacek|none|7|Duarte Nuno Anjo|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Dominik Buetikofer |none|4|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Dominik Buetikofer |none|6|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Dominik Buetikofer |none|7|Nathan Laemmel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Simon Wang|none|5|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Simon Wang|none|10|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|Simon Wang|none|9|Andreas Stocker|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|9|Kim Zeber|none|11|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:29|11|Kim Zeber|none|10|Zan Laznik [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Daan Philips |none|9|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Daan Philips |none|5|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Daan Philips |none|8|Patrick Scheiel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:27|9|Bernardo Atilano|none|11|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:27|11|Bernardo Atilano|none|8|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:27|11|Bernardo Atilano|none|10|Scott Williams|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|10|Lukas Osele|none|11|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Lukas Osele|none|4|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Lukas Osele|none|7|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Lukas Osele|none|5|Urban Herman|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Milan Dratva|none|5|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Milan Dratva|none|4|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Milan Dratva|none|8|Flurin Furrer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928||Walkover Win|Matthew Widdicombe |none|Walkover Loss|Jimmy Noblecourt|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Anthony Chaye|none|4|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|10|Anthony Chaye|none|11|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Anthony Chaye|none|8|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Anthony Chaye|none|3|Jonas Schwarz|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:24|11|Alexandre Hammer |none|7|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:24|11|Alexandre Hammer |none|10|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:24|11|Alexandre Hammer |none|5|Kartikey Gulshan Kumar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928||Walkover Win|Timon Schwarz|none|Walkover Loss|Matthew Clare|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|10|Morgan Lidmann|none|11|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|11|Morgan Lidmann|none|5|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|11|Morgan Lidmann|none|10|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|11|Morgan Lidmann|none|9|David King [9/16]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:19|11|Olivier Hjalm|none|10|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:19|11|Olivier Hjalm|none|9|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:19|11|Olivier Hjalm|none|7|Ward Van Boven|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|10|Miha Ivanic|none|11|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|11|Miha Ivanic|none|8|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:31|11|Miha Ivanic|none|9|Ronan Gueguin [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:05|Walkover Win|Michael Giesinger|none|Walkover Loss|Maxime Pierrehumbert|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:16|11|Martin Cerkovnik |none|4|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:16|11|Martin Cerkovnik |none|5|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:16|11|Martin Cerkovnik |none|7|Dean Brabec|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|David Jones|none|5|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|David Jones|none|7|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:18|11|David Jones|none|8|Bence Pytel|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|4|Rahul Bharadwaj Bangalore Manjunath|none|11|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|4|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|7|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|11|Rahul Bharadwaj Bangalore Manjunath|none|5|David Peng [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:22|9|Ronja Stern|none|11|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:22|11|Ronja Stern|none|4|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:22|11|Ronja Stern|none|7|Iza Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|6|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|9|Kuhoo Garg|none|11|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|11|Kuhoo Garg|none|7|Katarina Beton|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Emilie Beaujean|none|5|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Emilie Beaujean|none|7|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:15|11|Emilie Beaujean|none|1|Lisa Iversen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:12|11|Ben Lane |Jessica Pugh|10|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:12|11|Ben Lane |Jessica Pugh|0|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:12|11|Ben Lane |Jessica Pugh|5|Andraz Krapez|Cecilija Barut|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|6|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:21|10|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|11|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:21|11|Chirag Chandrashekhar Shetty|Ningshi Block Hazarika|7|Urban Herman|Lia Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|7|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|10|David King|Nicola Gresty|11|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|11|David King|Nicola Gresty|5|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|11|David King|Nicola Gresty|3|Matthew Widdicombe|Alice Arnou|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:22|10|Alexandre Hammer |Joanna Chaube|11|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:22|11|Alexandre Hammer |Joanna Chaube|7|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:22|11|Alexandre Hammer |Joanna Chaube|8|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:22|11|Alexandre Hammer |Joanna Chaube|9|Duarte Nuno Anjo|Sofia Setim|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Bohumil Kasela|Angelika Vargova|8|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Bohumil Kasela|Angelika Vargova|9|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Bohumil Kasela|Angelika Vargova|10|Daniel Seifert|Judith Petrikowski|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928||Walkover Win|Ronan Gueguin|Verlaine Faulmann|Walkover Loss|Thomas Vallez [2]|Delphine Delrue|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|10|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|6|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|8|Gregor Dunikowski |Yaelle Hoyaux|11|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:25|11|Gregor Dunikowski |Yaelle Hoyaux|9|Marc Laporte|Flavie Souillard|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Scott Williams|Jessica Hopton|7|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Scott Williams|Jessica Hopton|8|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Scott Williams|Jessica Hopton|5|Kevin Strobl|Marah Punter|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:15|11|Morgan Lidmann|Moa Sjoo|5|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:15|11|Morgan Lidmann|Moa Sjoo|10|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:15|11|Morgan Lidmann|Moa Sjoo|3|Martin Cerkovnik|Iza Salehar|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|9|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:17|11|Arjun Madathil Ramachandran|Kuhoo Garg|6|Sean Vendy [5/8]|Lydia Powell|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928||Walkover Win|Andreas Stocker|Karin Maran|Walkover Loss|Silvan Furrer|Celine Dagelet|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:19|11|Bjarne Geiss |Eva Janssens|4|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:19|10|Bjarne Geiss |Eva Janssens|11|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:19|11|Bjarne Geiss |Eva Janssens|8|Ryan Quek|Tsui Yee Lau|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Matthew Clare|Devon Minnis|10|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Matthew Clare|Devon Minnis|6|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:16|11|Matthew Clare|Devon Minnis|8|Thomas Baures|Emilie Beaujean|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:14|11|Miha Ivanic |Ema Cizelij|9|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:14|11|Miha Ivanic |Ema Cizelij|4|Milan Dratva|Katarina Sariscanova|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928||Walkover Win|Michael Giesinger|Nathalie Herbst|Walkover Loss|Lawrence De Pauw|Amy Bronselaer|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:17|11|Clara Azurmendi |none|7|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Clara Azurmendi |none|2|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Clara Azurmendi |none|9|Ann Knaepen|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:32|11|Zan Laznik |Katarina Beton|6|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:32|11|Zan Laznik |Katarina Beton|9|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:32|8|Zan Laznik |Katarina Beton|11|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:32|11|Zan Laznik |Katarina Beton|5|Thibault Bernetti|Michelle Greber|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|doubles
+20140928|0:34|2|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|5|Alice Arnou|none|11|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|11|Alice Arnou|none|9|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|11|Alice Arnou|none|10|Nicola Gresty|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|5|Ronja Stern|none|11|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Ronja Stern|none|10|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Ronja Stern|none|6|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:23|11|Ronja Stern|none|8|Cecilija Barut|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|11|Jessica Hopton |none|8|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|9|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|5|Jessica Hopton |none|11|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|11|Jessica Hopton |none|5|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:34|11|Jessica Hopton |none|10|Lia Salehar|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|10|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|11|Ira Banerjee |none|8|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|11|Ira Banerjee |none|7|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|8|Ira Banerjee |none|11|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:33|11|Ira Banerjee |none|3|Flavie Souillard|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:24|4|Joanna Chaube|none|11|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:24|11|Joanna Chaube|none|6|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:24|11|Joanna Chaube|none|9|Tsui Yee Lau|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:14|11|Yaelle Hoyaux |none|1|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:14|11|Yaelle Hoyaux |none|6|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:14|11|Yaelle Hoyaux |none|5|Katarina Sariscanova|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:16|11|Lydia Powell |none|4|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:16|11|Lydia Powell |none|7|Ema Cizelij|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|11|Karin Maran|none|6|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|8|Karin Maran|none|11|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|11|Karin Maran|none|10|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:25|11|Karin Maran|none|3|Amy Bronselaer|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928||Walkover Win|Verlaine Faulmann |none|Walkover Loss|Elin Svensson|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Devon Minnis|none|10|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Devon Minnis|none|7|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:17|11|Devon Minnis|none|6|Marah Punter|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928||Walkover Win|Emilie Beaujean|none|Walkover Loss|Nicole Perroud|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Judith Petrikowski|none|4|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:21|11|Judith Petrikowski|none|9|Presence Beelen [5/8]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:28|11|Simone Von Rotz|none|10|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:28|9|Simone Von Rotz|none|11|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:28|11|Simone Von Rotz|none|3|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:28|11|Simone Von Rotz|none|5|Anna Bogemanns|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928||Walkover Win|Angelika Vargova|none|Walkover Loss|Lole Courtois [2]|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|11|Sofia Setim|none|5|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|6|Sofia Setim|none|11|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles
+20140928|0:26|11|Sofia Setim|none|10|Kuhoo Garg|none|03C3905F-B432-497C-B4DA-C6FC4C8AD41E|singles

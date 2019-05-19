@@ -1,0 +1,835 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20151127|0:20|21|Carl Harrbacka|Tilda Sjoo|7|Vitor Ferreira|Ana Folques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Carl Harrbacka|Tilda Sjoo|12|Vitor Ferreira|Ana Folques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Daniel Mendes|Joana Lopes|13|Jose Molares|Natalia Morejon|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Daniel Mendes|Joana Lopes|11|Jose Molares|Natalia Morejon|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127||Walkover Win|Joao Fernandes|Gabriela Simoes|Walkover Loss|Ivan Darriba|Eva Murio|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:18|21|Marcus Moore|Ashwathi Pillai|8|Ruben Figueiredo|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:18|21|Marcus Moore|Ashwathi Pillai|14|Ruben Figueiredo|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:17|21|Daniel Gholiof|Sara-Louise Wittstrom|11|Rafael Antunes|Mariana Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:17|21|Daniel Gholiof|Sara-Louise Wittstrom|7|Rafael Antunes|Mariana Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Cyril Hohl|Lotte Derudder|8|Joao Chang|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Cyril Hohl|Lotte Derudder|15|Joao Chang|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Samy Corvee|Léonice Huet|10|Francisco B. Mendes|Patricia Estrompa|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Samy Corvee|Léonice Huet|7|Francisco B. Mendes|Patricia Estrompa|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:27|21|Rodion Alimov |none|16|Rinoy Manavalan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:27|21|Rodion Alimov |none|12|Rinoy Manavalan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Alvaro Vazquez|none|5|Hugo Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Alvaro Vazquez|none|9|Hugo Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Miguel Rocha |none|9|Jon Mccreedy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Miguel Rocha |none|9|Jon Mccreedy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Filip Svensson|none|17|Francisco Oliveira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Filip Svensson|none|6|Francisco Oliveira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:42|21|Mathieu Gangloff |none|17|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:42|16|Mathieu Gangloff |none|21|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:42|21|Mathieu Gangloff |none|14|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|1:00|21|Marc Laporte |none|11|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|1:00|17|Marc Laporte |none|21|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|1:00|21|Marc Laporte |none|18|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:31|21|Manuel Brea Filloy|none|15|Timon Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:31|21|Manuel Brea Filloy|none|11|Timon Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:24|21|Thibault Bernetti|none|14|Guilherme Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:24|21|Thibault Bernetti|none|8|Guilherme Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:40|16|Maxime Ortali|none|21|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:40|21|Maxime Ortali|none|19|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:40|21|Maxime Ortali|none|12|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Jere Övermark |none|12|Ivan Darriba|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|23|Jere Övermark |none|21|Ivan Darriba|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Jose Molares|none|13|Vitor Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Jose Molares|none|17|Vitor Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Tom Rodrigues |none|12|Daniel Gholiof|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Tom Rodrigues |none|10|Daniel Gholiof|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Adam Gozzi|none|8|Fabio Sa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Adam Gozzi|none|7|Fabio Sa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:40|21|André R. Pito|none|19|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:40|11|André R. Pito|none|21|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:40|21|André R. Pito|none|18|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|20|Sam Mckay |none|22|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|21|Sam Mckay |none|7|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|21|Sam Mckay |none|18|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Eloi Adam|none|11|Mario Luis|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Eloi Adam|none|16|Mario Luis|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|13|Samy Corvee|none|21|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|21|Samy Corvee|none|10|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|21|Samy Corvee|none|19|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:52|21|Nhat Nguyen |none|13|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:52|13|Nhat Nguyen |none|21|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:52|21|Nhat Nguyen |none|16|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:48|21|Rui Tremoceiro|none|16|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:48|16|Rui Tremoceiro|none|21|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:48|23|Rui Tremoceiro|none|21|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Erik Angervall |none|15|Pedro Santos|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Erik Angervall |none|8|Pedro Santos|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Barbado Miguel|none|12|Afonso Mendonça|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Barbado Miguel|none|10|Afonso Mendonça|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:42|21|Valentin Singer|none|13|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:42|20|Valentin Singer|none|22|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:42|21|Valentin Singer|none|10|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:26|21|Louis Ducrot|none|7|Alex Alcala Dominguez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:26|22|Louis Ducrot|none|20|Alex Alcala Dominguez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Leo Rossi |none|8|Goncalo Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Leo Rossi |none|12|Goncalo Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:39|21|Cyril Hohl|none|12|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:39|16|Cyril Hohl|none|21|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:39|21|Cyril Hohl|none|17|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Tobias Kuenzi |none|11|Juan Minguez Picasso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Tobias Kuenzi |none|4|Juan Minguez Picasso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Jérémy Poy|none|15|Francisco Coronado|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Jérémy Poy|none|15|Francisco Coronado|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Nikita Lemeshko |none|16|Marcus Moore|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Nikita Lemeshko |none|15|Marcus Moore|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:35|21|Frederic Elfeber|none|16|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:35|16|Frederic Elfeber|none|21|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:35|21|Frederic Elfeber|none|9|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:49|22|Maxime Briot|none|20|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:49|10|Maxime Briot|none|21|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:49|21|Maxime Briot|none|19|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:48|10|Jonas Schwarz|none|21|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:48|23|Jonas Schwarz|none|21|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:48|21|Jonas Schwarz|none|16|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:50|21|Ricardo Silva |none|10|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:50|17|Ricardo Silva |none|21|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:50|21|Ricardo Silva |none|15|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Elina Niiranen|none|13|Catarina M. Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Elina Niiranen|none|13|Catarina M. Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Sofia Setim|none|4|Jade Blondeel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Sofia Setim|none|10|Jade Blondeel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Sara-Louise Wittstrom|none|8|Ana Fernandes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Sara-Louise Wittstrom|none|10|Ana Fernandes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Marlene Wåland|none|12|Mariana Paiva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Marlene Wåland|none|13|Mariana Paiva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:18|21|Léonice Huet|none|6|Mariana Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:18|21|Léonice Huet|none|7|Mariana Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Camilla Taramelli|none|8|Gabriela Simoes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Camilla Taramelli|none|7|Gabriela Simoes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|25|Gabriela Pereira|none|23|Natalia Morejon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Gabriela Pereira|none|15|Natalia Morejon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:15|21|Claudia Leal|none|6|Sara Cardoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:15|21|Claudia Leal|none|5|Sara Cardoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:32|24|Aline Müller|none|22|Flavie Souillard|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:32|21|Aline Müller|none|15|Flavie Souillard|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Melanie Potin|none|7|Mariana Leite|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:19|21|Melanie Potin|none|16|Mariana Leite|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127||Walkover Win|Adriana F. Goncalves|none|Walkover Loss|Hanna Sidvall|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:35|22|Mariana Chang|none|20|Meline Metaireau|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:35|21|Mariana Chang|none|19|Meline Metaireau|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:21|21|Candice Lesne|none|11|Viorica Pogor|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:21|21|Candice Lesne|none|13|Viorica Pogor|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Ashwathi Pillai|none|6|Jacqueline Schaer|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Ashwathi Pillai|none|11|Jacqueline Schaer|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:41|21|Nolia Gestoso|none|16|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:41|16|Nolia Gestoso|none|21|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:41|21|Nolia Gestoso|none|18|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Ana Carbon|none|10|Ines Pardilho|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Ana Carbon|none|17|Ines Pardilho|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Marie Demeyere|none|8|Ana Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Marie Demeyere|none|11|Ana Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:29|21|Moya Ryan|none|17|Catarina C. Silva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:29|21|Moya Ryan|none|10|Catarina C. Silva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:16|21|Hanna Karkaus|none|9|Ana Folques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:16|21|Hanna Karkaus|none|7|Ana Folques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Liza Vanangamoudiar|none|5|Ana Andrade|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Liza Vanangamoudiar|none|11|Ana Andrade|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Rodion Alimov |Alina Davletova|8|Pedro Mendes|Teresa Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Rodion Alimov |Alina Davletova|11|Pedro Mendes|Teresa Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:24|21|Elias Bracke |Lise Jaques|13|Rui Tremoceiro|Mariana Leite|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:24|21|Elias Bracke |Lise Jaques|10|Rui Tremoceiro|Mariana Leite|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:19|21|Jere Övermark |Elina Niiranen|16|Fabio Sa|Catarina M. Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:19|21|Jere Övermark |Elina Niiranen|15|Fabio Sa|Catarina M. Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Marc Laporte |Meline Metaireau|13|Kevin Selvarajah|Adriana F. Goncalves|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Marc Laporte |Meline Metaireau|12|Kevin Selvarajah|Adriana F. Goncalves|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127||Walkover Win|Joao Fernandes|Gabriela Simoes|Walkover Loss|Erik Angervall|Hanna Sidvall|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:32|20|Ricardo Silva|Sofia Setim|22|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:32|21|Ricardo Silva|Sofia Setim|11|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:32|21|Ricardo Silva|Sofia Setim|10|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|21|Mathieu Gangloff|Flavie Souillard|14|Daniel Mendes|Joana Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|21|Mathieu Gangloff|Flavie Souillard|17|Daniel Mendes|Joana Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:15|21|Nikita Lemeshko |Anastasia Semyonova|3|Francisco Oliveira|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:15|21|Nikita Lemeshko |Anastasia Semyonova|6|Francisco Oliveira|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Marcus Moore|Ashwathi Pillai|14|Fabien Delrue|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Marcus Moore|Ashwathi Pillai|17|Fabien Delrue|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:39|17|Alex Alcala Dominguez|Cristina Poy Granados|21|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:39|21|Alex Alcala Dominguez|Cristina Poy Granados|14|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:39|21|Alex Alcala Dominguez|Cristina Poy Granados|19|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:22|21|Martin Cardenas|Melanie Potin|14|Cyril Hohl|Lotte Derudder|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:22|21|Martin Cardenas|Melanie Potin|17|Cyril Hohl|Lotte Derudder|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:19|21|Mark Leith|Hanna Karkaus|16|Barbado Miguel|Nolia Gestoso|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:19|21|Mark Leith|Hanna Karkaus|13|Barbado Miguel|Nolia Gestoso|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:19|21|Carl Harrbacka|Tilda Sjoo|14|Miguel Rocha|Gabriela Pereira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:19|21|Carl Harrbacka|Tilda Sjoo|10|Miguel Rocha|Gabriela Pereira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:40|23|Tom Rodrigues|Liza Vanangamoudiar|21|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:40|17|Tom Rodrigues|Liza Vanangamoudiar|21|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:40|21|Tom Rodrigues|Liza Vanangamoudiar|19|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Samy Corvee|Léonice Huet|13|Joao Alves|Mariana Paiva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Samy Corvee|Léonice Huet|4|Joao Alves|Mariana Paiva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:27|21|Thibault Bernetti |Chantal Von Rotz|10|Hugo Vasconcelos|Mariana Chang|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:27|22|Thibault Bernetti |Chantal Von Rotz|20|Hugo Vasconcelos|Mariana Chang|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:24|21|Marc Laporte |none|16|Manuel Brea Filloy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:24|21|Marc Laporte |none|15|Manuel Brea Filloy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:22|21|Adam Gozzi|none|5|André R. Pito|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:22|21|Adam Gozzi|none|8|André R. Pito|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Rodion Alimov |none|16|Alvaro Vazquez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Rodion Alimov |none|18|Alvaro Vazquez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Mathieu Gangloff |none|11|Maxime Ortali|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:20|21|Mathieu Gangloff |none|15|Maxime Ortali|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|21|Sam Mckay |none|17|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|19|Sam Mckay |none|21|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|22|Sam Mckay |none|20|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Miguel Rocha |none|13|Filip Svensson|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Miguel Rocha |none|13|Filip Svensson|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:21|21|Jere Övermark |none|16|Jose Molares|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:21|21|Jere Övermark |none|14|Jose Molares|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:35|21|Tom Rodrigues |none|19|Thibault Bernetti|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:35|22|Tom Rodrigues |none|20|Thibault Bernetti|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Nhat Nguyen |none|9|Samy Corvee|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Nhat Nguyen |none|6|Samy Corvee|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:21|21|Erik Angervall |none|15|Rui Tremoceiro|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:21|21|Erik Angervall |none|7|Rui Tremoceiro|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Valentin Singer|none|12|Barbado Miguel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Valentin Singer|none|16|Barbado Miguel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:26|21|Leo Rossi |none|15|Louis Ducrot|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:26|21|Leo Rossi |none|7|Louis Ducrot|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Tobias Kuenzi |none|14|Cyril Hohl|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Tobias Kuenzi |none|5|Cyril Hohl|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:38|21|Jérémy Poy|none|9|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:38|14|Jérémy Poy|none|21|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:38|21|Jérémy Poy|none|9|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Maxime Briot|none|15|Frederic Elfeber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Maxime Briot|none|13|Frederic Elfeber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:30|21|Ricardo Silva |none|11|Jonas Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:30|21|Ricardo Silva |none|19|Jonas Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|23|Alina Davletova |none|21|Elina Niiranen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Alina Davletova |none|12|Elina Niiranen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Sofia Setim|none|4|Patricia Estrompa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:17|21|Sofia Setim|none|6|Patricia Estrompa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:22|21|Sara Penalver Pereira |none|19|Sara-Louise Wittstrom|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:22|21|Sara Penalver Pereira |none|13|Sara-Louise Wittstrom|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Léonice Huet|none|7|Marlene Wåland|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Léonice Huet|none|10|Marlene Wåland|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127||Walkover Win|Camilla Taramelli|none|Walkover Loss|Elin Svensson [4]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Julie Ferrier|none|12|Gabriela Pereira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:23|21|Julie Ferrier|none|15|Gabriela Pereira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:29|21|Tilda Sjoo |none|18|Claudia Leal|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:29|21|Tilda Sjoo |none|18|Claudia Leal|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Aline Müller|none|18|Melanie Potin|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:28|21|Aline Müller|none|15|Melanie Potin|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Mariana Chang|none|18|Adriana F. Goncalves|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Mariana Chang|none|14|Adriana F. Goncalves|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127||Walkover Win|Candice Lesne|none|Walkover Loss|Eva Murio [7]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Ashwathi Pillai|none|9|Sereina Hofstetter|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Ashwathi Pillai|none|12|Sereina Hofstetter|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:38|23|Anastasia Semyonova |none|21|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:38|18|Anastasia Semyonova |none|21|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:38|21|Anastasia Semyonova |none|10|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:31|21|Marie Demeyere|none|12|Ana Carbon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:31|21|Marie Demeyere|none|19|Ana Carbon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|21|Vilde Espeseth |none|14|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|17|Vilde Espeseth |none|21|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:45|21|Vilde Espeseth |none|19|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Hanna Karkaus|none|18|Teresa Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Hanna Karkaus|none|10|Teresa Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:33|21|Ella Soderstrom |none|19|Liza Vanangamoudiar|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:33|21|Ella Soderstrom |none|19|Liza Vanangamoudiar|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151127|0:25|21|Rodion Alimov |Nikita Lemeshko|18|Martin Cardenas|Valentin Singer|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Rodion Alimov |Nikita Lemeshko|11|Martin Cardenas|Valentin Singer|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:28|21|Elias Bracke|Cyril Hohl|12|Ricardo Silva|Hugo Vasconcelos|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:28|21|Elias Bracke|Cyril Hohl|16|Ricardo Silva|Hugo Vasconcelos|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Mathieu Gangloff |Tom Rodrigues|14|André R. Pito|Duarte Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Mathieu Gangloff |Tom Rodrigues|13|André R. Pito|Duarte Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:18|21|Alex Alcala Dominguez|Francisco Coronado|11|Joao Fernandes|Francisco Oliveira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:18|21|Alex Alcala Dominguez|Francisco Coronado|11|Joao Fernandes|Francisco Oliveira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:35|21|Louis Ducrot|Maxime Ortali|10|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:35|14|Louis Ducrot|Maxime Ortali|21|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:35|21|Louis Ducrot|Maxime Ortali|15|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Erik Angervall|Filip Svensson|9|Guilherme Ferreira|Goncalo Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Erik Angervall|Filip Svensson|13|Guilherme Ferreira|Goncalo Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|21|Jonas Schwarz |Timon Schwarz|14|Ruben Figueiredo|Kevin Selvarajah|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|21|Jonas Schwarz |Timon Schwarz|7|Ruben Figueiredo|Kevin Selvarajah|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Maxime Briot|Fabien Delrue|14|Jose Molares|Alvaro Vazquez|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Maxime Briot|Fabien Delrue|17|Jose Molares|Alvaro Vazquez|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|21|David Orteu|Julien Scheiwiller|15|Juan Minguez Picasso|Ivan Villanueva Diaz|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|21|David Orteu|Julien Scheiwiller|16|Juan Minguez Picasso|Ivan Villanueva Diaz|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|21|Mark Leith |Sam Mckay|13|Marco Jorge|Daniel Mendes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:23|22|Mark Leith |Sam Mckay|20|Marco Jorge|Daniel Mendes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Eloi Adam|Samy Corvee|11|Simao Ferreira|Hugo Jorge|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Eloi Adam|Samy Corvee|10|Simao Ferreira|Hugo Jorge|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:27|18|Adam Gozzi|Carl Harrbacka|21|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:27|21|Adam Gozzi|Carl Harrbacka|15|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:27|21|Adam Gozzi|Carl Harrbacka|14|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Nogueira Castro Alex|Manuel Brea Filloy|5|Jere Övermark|Jan Pasanen|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:25|21|Nogueira Castro Alex|Manuel Brea Filloy|13|Jere Övermark|Jan Pasanen|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Nhat Nguyen |Paul Reynolds|7|Joao Chang|Rui Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:20|21|Nhat Nguyen |Paul Reynolds|12|Joao Chang|Rui Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:30|23|Joao Alves|Miguel Rocha|21|Robin Gerber|Jérémy Poy|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:30|21|Joao Alves|Miguel Rocha|19|Robin Gerber|Jérémy Poy|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:18|21|Marc Laporte|Leo Rossi|6|Alexandre Batista|Mario Fonseca|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:18|21|Marc Laporte|Leo Rossi|10|Alexandre Batista|Mario Fonseca|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:24|22|Claudia Leal|Natalia Morejon|20|Mariana Leite|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:24|21|Claudia Leal|Natalia Morejon|18|Mariana Leite|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:17|21|Flavie Souillard|Liza Vanangamoudiar|13|Ana Folques|Gabriela Simoes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:17|21|Flavie Souillard|Liza Vanangamoudiar|11|Ana Folques|Gabriela Simoes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:26|21|Sereina Hofstetter|Jacqueline Schaer|11|Adriana F. Goncalves|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:26|21|Sereina Hofstetter|Jacqueline Schaer|14|Adriana F. Goncalves|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:22|21|Vilde Espeseth|Marlene Wåland|12|Teresa Lopes|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:22|21|Vilde Espeseth|Marlene Wåland|12|Teresa Lopes|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:17|21|Aline Müller|Chantal Von Rotz|4|Ana Andrade|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:17|21|Aline Müller|Chantal Von Rotz|5|Ana Andrade|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:40|21|Meline Metaireau|Melanie Potin|8|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:40|20|Meline Metaireau|Melanie Potin|22|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151127|0:40|21|Meline Metaireau|Melanie Potin|14|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Carl Harrbacka|Tilda Sjoo|7|Vitor Ferreira|Ana Folques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Carl Harrbacka|Tilda Sjoo|12|Vitor Ferreira|Ana Folques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Daniel Mendes|Joana Lopes|13|Jose Molares|Natalia Morejon|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Daniel Mendes|Joana Lopes|11|Jose Molares|Natalia Morejon|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128||Walkover Win|Joao Fernandes|Gabriela Simoes|Walkover Loss|Ivan Darriba|Eva Murio|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:18|21|Marcus Moore|Ashwathi Pillai|8|Ruben Figueiredo|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:18|21|Marcus Moore|Ashwathi Pillai|14|Ruben Figueiredo|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:17|21|Daniel Gholiof|Sara-Louise Wittstrom|11|Rafael Antunes|Mariana Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:17|21|Daniel Gholiof|Sara-Louise Wittstrom|7|Rafael Antunes|Mariana Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Cyril Hohl|Lotte Derudder|8|Joao Chang|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Cyril Hohl|Lotte Derudder|15|Joao Chang|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Samy Corvee|Léonice Huet|10|Francisco B. Mendes|Patricia Estrompa|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Samy Corvee|Léonice Huet|7|Francisco B. Mendes|Patricia Estrompa|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:27|21|Rodion Alimov |none|16|Rinoy Manavalan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:27|21|Rodion Alimov |none|12|Rinoy Manavalan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Alvaro Vazquez|none|5|Hugo Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Alvaro Vazquez|none|9|Hugo Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Miguel Rocha |none|9|Jon Mccreedy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Miguel Rocha |none|9|Jon Mccreedy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Filip Svensson|none|17|Francisco Oliveira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Filip Svensson|none|6|Francisco Oliveira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:42|21|Mathieu Gangloff |none|17|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:42|16|Mathieu Gangloff |none|21|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:42|21|Mathieu Gangloff |none|14|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|1:00|21|Marc Laporte |none|11|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|1:00|17|Marc Laporte |none|21|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|1:00|21|Marc Laporte |none|18|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:31|21|Manuel Brea Filloy|none|15|Timon Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:31|21|Manuel Brea Filloy|none|11|Timon Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:24|21|Thibault Bernetti|none|14|Guilherme Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:24|21|Thibault Bernetti|none|8|Guilherme Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:40|16|Maxime Ortali|none|21|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:40|21|Maxime Ortali|none|19|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:40|21|Maxime Ortali|none|12|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Jere Övermark |none|12|Ivan Darriba|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|23|Jere Övermark |none|21|Ivan Darriba|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Jose Molares|none|13|Vitor Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Jose Molares|none|17|Vitor Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Tom Rodrigues |none|12|Daniel Gholiof|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Tom Rodrigues |none|10|Daniel Gholiof|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Adam Gozzi|none|8|Fabio Sa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Adam Gozzi|none|7|Fabio Sa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:40|21|André R. Pito|none|19|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:40|11|André R. Pito|none|21|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:40|21|André R. Pito|none|18|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|20|Sam Mckay |none|22|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|21|Sam Mckay |none|7|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|21|Sam Mckay |none|18|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Eloi Adam|none|11|Mario Luis|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Eloi Adam|none|16|Mario Luis|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|13|Samy Corvee|none|21|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|21|Samy Corvee|none|10|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|21|Samy Corvee|none|19|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:52|21|Nhat Nguyen |none|13|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:52|13|Nhat Nguyen |none|21|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:52|21|Nhat Nguyen |none|16|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:48|21|Rui Tremoceiro|none|16|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:48|16|Rui Tremoceiro|none|21|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:48|23|Rui Tremoceiro|none|21|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Erik Angervall |none|15|Pedro Santos|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Erik Angervall |none|8|Pedro Santos|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Barbado Miguel|none|12|Afonso Mendonça|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Barbado Miguel|none|10|Afonso Mendonça|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:42|21|Valentin Singer|none|13|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:42|20|Valentin Singer|none|22|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:42|21|Valentin Singer|none|10|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:26|21|Louis Ducrot|none|7|Alex Alcala Dominguez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:26|22|Louis Ducrot|none|20|Alex Alcala Dominguez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Leo Rossi |none|8|Goncalo Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Leo Rossi |none|12|Goncalo Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:39|21|Cyril Hohl|none|12|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:39|16|Cyril Hohl|none|21|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:39|21|Cyril Hohl|none|17|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Tobias Kuenzi |none|11|Juan Minguez Picasso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Tobias Kuenzi |none|4|Juan Minguez Picasso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Jérémy Poy|none|15|Francisco Coronado|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Jérémy Poy|none|15|Francisco Coronado|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Nikita Lemeshko |none|16|Marcus Moore|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Nikita Lemeshko |none|15|Marcus Moore|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:35|21|Frederic Elfeber|none|16|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:35|16|Frederic Elfeber|none|21|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:35|21|Frederic Elfeber|none|9|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:49|22|Maxime Briot|none|20|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:49|10|Maxime Briot|none|21|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:49|21|Maxime Briot|none|19|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:48|10|Jonas Schwarz|none|21|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:48|23|Jonas Schwarz|none|21|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:48|21|Jonas Schwarz|none|16|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:50|21|Ricardo Silva |none|10|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:50|17|Ricardo Silva |none|21|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:50|21|Ricardo Silva |none|15|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Elina Niiranen|none|13|Catarina M. Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Elina Niiranen|none|13|Catarina M. Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Sofia Setim|none|4|Jade Blondeel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Sofia Setim|none|10|Jade Blondeel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Sara-Louise Wittstrom|none|8|Ana Fernandes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Sara-Louise Wittstrom|none|10|Ana Fernandes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Marlene Wåland|none|12|Mariana Paiva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Marlene Wåland|none|13|Mariana Paiva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:18|21|Léonice Huet|none|6|Mariana Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:18|21|Léonice Huet|none|7|Mariana Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Camilla Taramelli|none|8|Gabriela Simoes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Camilla Taramelli|none|7|Gabriela Simoes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|25|Gabriela Pereira|none|23|Natalia Morejon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Gabriela Pereira|none|15|Natalia Morejon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:15|21|Claudia Leal|none|6|Sara Cardoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:15|21|Claudia Leal|none|5|Sara Cardoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:32|24|Aline Müller|none|22|Flavie Souillard|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:32|21|Aline Müller|none|15|Flavie Souillard|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Melanie Potin|none|7|Mariana Leite|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:19|21|Melanie Potin|none|16|Mariana Leite|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128||Walkover Win|Adriana F. Goncalves|none|Walkover Loss|Hanna Sidvall|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:35|22|Mariana Chang|none|20|Meline Metaireau|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:35|21|Mariana Chang|none|19|Meline Metaireau|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:21|21|Candice Lesne|none|11|Viorica Pogor|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:21|21|Candice Lesne|none|13|Viorica Pogor|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Ashwathi Pillai|none|6|Jacqueline Schaer|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Ashwathi Pillai|none|11|Jacqueline Schaer|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:41|21|Nolia Gestoso|none|16|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:41|16|Nolia Gestoso|none|21|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:41|21|Nolia Gestoso|none|18|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Ana Carbon|none|10|Ines Pardilho|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Ana Carbon|none|17|Ines Pardilho|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Marie Demeyere|none|8|Ana Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Marie Demeyere|none|11|Ana Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:29|21|Moya Ryan|none|17|Catarina C. Silva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:29|21|Moya Ryan|none|10|Catarina C. Silva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:16|21|Hanna Karkaus|none|9|Ana Folques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:16|21|Hanna Karkaus|none|7|Ana Folques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Liza Vanangamoudiar|none|5|Ana Andrade|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Liza Vanangamoudiar|none|11|Ana Andrade|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Rodion Alimov |Alina Davletova|8|Pedro Mendes|Teresa Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Rodion Alimov |Alina Davletova|11|Pedro Mendes|Teresa Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:24|21|Elias Bracke |Lise Jaques|13|Rui Tremoceiro|Mariana Leite|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:24|21|Elias Bracke |Lise Jaques|10|Rui Tremoceiro|Mariana Leite|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:19|21|Jere Övermark |Elina Niiranen|16|Fabio Sa|Catarina M. Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:19|21|Jere Övermark |Elina Niiranen|15|Fabio Sa|Catarina M. Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Marc Laporte |Meline Metaireau|13|Kevin Selvarajah|Adriana F. Goncalves|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Marc Laporte |Meline Metaireau|12|Kevin Selvarajah|Adriana F. Goncalves|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128||Walkover Win|Joao Fernandes|Gabriela Simoes|Walkover Loss|Erik Angervall|Hanna Sidvall|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:32|20|Ricardo Silva|Sofia Setim|22|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:32|21|Ricardo Silva|Sofia Setim|11|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:32|21|Ricardo Silva|Sofia Setim|10|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|21|Mathieu Gangloff|Flavie Souillard|14|Daniel Mendes|Joana Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|21|Mathieu Gangloff|Flavie Souillard|17|Daniel Mendes|Joana Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:15|21|Nikita Lemeshko |Anastasia Semyonova|3|Francisco Oliveira|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:15|21|Nikita Lemeshko |Anastasia Semyonova|6|Francisco Oliveira|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Marcus Moore|Ashwathi Pillai|14|Fabien Delrue|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Marcus Moore|Ashwathi Pillai|17|Fabien Delrue|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:39|17|Alex Alcala Dominguez|Cristina Poy Granados|21|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:39|21|Alex Alcala Dominguez|Cristina Poy Granados|14|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:39|21|Alex Alcala Dominguez|Cristina Poy Granados|19|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:22|21|Martin Cardenas|Melanie Potin|14|Cyril Hohl|Lotte Derudder|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:22|21|Martin Cardenas|Melanie Potin|17|Cyril Hohl|Lotte Derudder|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:19|21|Mark Leith|Hanna Karkaus|16|Barbado Miguel|Nolia Gestoso|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:19|21|Mark Leith|Hanna Karkaus|13|Barbado Miguel|Nolia Gestoso|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:19|21|Carl Harrbacka|Tilda Sjoo|14|Miguel Rocha|Gabriela Pereira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:19|21|Carl Harrbacka|Tilda Sjoo|10|Miguel Rocha|Gabriela Pereira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:40|23|Tom Rodrigues|Liza Vanangamoudiar|21|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:40|17|Tom Rodrigues|Liza Vanangamoudiar|21|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:40|21|Tom Rodrigues|Liza Vanangamoudiar|19|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Samy Corvee|Léonice Huet|13|Joao Alves|Mariana Paiva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Samy Corvee|Léonice Huet|4|Joao Alves|Mariana Paiva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:27|21|Thibault Bernetti |Chantal Von Rotz|10|Hugo Vasconcelos|Mariana Chang|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:27|22|Thibault Bernetti |Chantal Von Rotz|20|Hugo Vasconcelos|Mariana Chang|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:24|21|Marc Laporte |none|16|Manuel Brea Filloy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:24|21|Marc Laporte |none|15|Manuel Brea Filloy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:22|21|Adam Gozzi|none|5|André R. Pito|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:22|21|Adam Gozzi|none|8|André R. Pito|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Rodion Alimov |none|16|Alvaro Vazquez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Rodion Alimov |none|18|Alvaro Vazquez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Mathieu Gangloff |none|11|Maxime Ortali|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:20|21|Mathieu Gangloff |none|15|Maxime Ortali|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|21|Sam Mckay |none|17|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|19|Sam Mckay |none|21|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|22|Sam Mckay |none|20|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Miguel Rocha |none|13|Filip Svensson|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Miguel Rocha |none|13|Filip Svensson|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:21|21|Jere Övermark |none|16|Jose Molares|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:21|21|Jere Övermark |none|14|Jose Molares|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:35|21|Tom Rodrigues |none|19|Thibault Bernetti|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:35|22|Tom Rodrigues |none|20|Thibault Bernetti|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Nhat Nguyen |none|9|Samy Corvee|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Nhat Nguyen |none|6|Samy Corvee|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:21|21|Erik Angervall |none|15|Rui Tremoceiro|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:21|21|Erik Angervall |none|7|Rui Tremoceiro|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Valentin Singer|none|12|Barbado Miguel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Valentin Singer|none|16|Barbado Miguel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:26|21|Leo Rossi |none|15|Louis Ducrot|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:26|21|Leo Rossi |none|7|Louis Ducrot|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Tobias Kuenzi |none|14|Cyril Hohl|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Tobias Kuenzi |none|5|Cyril Hohl|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:38|21|Jérémy Poy|none|9|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:38|14|Jérémy Poy|none|21|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:38|21|Jérémy Poy|none|9|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Maxime Briot|none|15|Frederic Elfeber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Maxime Briot|none|13|Frederic Elfeber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:30|21|Ricardo Silva |none|11|Jonas Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:30|21|Ricardo Silva |none|19|Jonas Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|23|Alina Davletova |none|21|Elina Niiranen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Alina Davletova |none|12|Elina Niiranen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Sofia Setim|none|4|Patricia Estrompa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:17|21|Sofia Setim|none|6|Patricia Estrompa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:22|21|Sara Penalver Pereira |none|19|Sara-Louise Wittstrom|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:22|21|Sara Penalver Pereira |none|13|Sara-Louise Wittstrom|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Léonice Huet|none|7|Marlene Wåland|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Léonice Huet|none|10|Marlene Wåland|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128||Walkover Win|Camilla Taramelli|none|Walkover Loss|Elin Svensson [4]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Julie Ferrier|none|12|Gabriela Pereira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:23|21|Julie Ferrier|none|15|Gabriela Pereira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:29|21|Tilda Sjoo |none|18|Claudia Leal|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:29|21|Tilda Sjoo |none|18|Claudia Leal|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Aline Müller|none|18|Melanie Potin|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:28|21|Aline Müller|none|15|Melanie Potin|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Mariana Chang|none|18|Adriana F. Goncalves|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Mariana Chang|none|14|Adriana F. Goncalves|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128||Walkover Win|Candice Lesne|none|Walkover Loss|Eva Murio [7]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Ashwathi Pillai|none|9|Sereina Hofstetter|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Ashwathi Pillai|none|12|Sereina Hofstetter|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:38|23|Anastasia Semyonova |none|21|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:38|18|Anastasia Semyonova |none|21|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:38|21|Anastasia Semyonova |none|10|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:31|21|Marie Demeyere|none|12|Ana Carbon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:31|21|Marie Demeyere|none|19|Ana Carbon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|21|Vilde Espeseth |none|14|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|17|Vilde Espeseth |none|21|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:45|21|Vilde Espeseth |none|19|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Hanna Karkaus|none|18|Teresa Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Hanna Karkaus|none|10|Teresa Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:33|21|Ella Soderstrom |none|19|Liza Vanangamoudiar|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:33|21|Ella Soderstrom |none|19|Liza Vanangamoudiar|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151128|0:25|21|Rodion Alimov |Nikita Lemeshko|18|Martin Cardenas|Valentin Singer|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Rodion Alimov |Nikita Lemeshko|11|Martin Cardenas|Valentin Singer|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:28|21|Elias Bracke|Cyril Hohl|12|Ricardo Silva|Hugo Vasconcelos|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:28|21|Elias Bracke|Cyril Hohl|16|Ricardo Silva|Hugo Vasconcelos|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Mathieu Gangloff |Tom Rodrigues|14|André R. Pito|Duarte Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Mathieu Gangloff |Tom Rodrigues|13|André R. Pito|Duarte Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:18|21|Alex Alcala Dominguez|Francisco Coronado|11|Joao Fernandes|Francisco Oliveira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:18|21|Alex Alcala Dominguez|Francisco Coronado|11|Joao Fernandes|Francisco Oliveira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:35|21|Louis Ducrot|Maxime Ortali|10|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:35|14|Louis Ducrot|Maxime Ortali|21|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:35|21|Louis Ducrot|Maxime Ortali|15|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Erik Angervall|Filip Svensson|9|Guilherme Ferreira|Goncalo Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Erik Angervall|Filip Svensson|13|Guilherme Ferreira|Goncalo Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|21|Jonas Schwarz |Timon Schwarz|14|Ruben Figueiredo|Kevin Selvarajah|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|21|Jonas Schwarz |Timon Schwarz|7|Ruben Figueiredo|Kevin Selvarajah|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Maxime Briot|Fabien Delrue|14|Jose Molares|Alvaro Vazquez|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Maxime Briot|Fabien Delrue|17|Jose Molares|Alvaro Vazquez|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|21|David Orteu|Julien Scheiwiller|15|Juan Minguez Picasso|Ivan Villanueva Diaz|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|21|David Orteu|Julien Scheiwiller|16|Juan Minguez Picasso|Ivan Villanueva Diaz|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|21|Mark Leith |Sam Mckay|13|Marco Jorge|Daniel Mendes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:23|22|Mark Leith |Sam Mckay|20|Marco Jorge|Daniel Mendes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Eloi Adam|Samy Corvee|11|Simao Ferreira|Hugo Jorge|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Eloi Adam|Samy Corvee|10|Simao Ferreira|Hugo Jorge|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:27|18|Adam Gozzi|Carl Harrbacka|21|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:27|21|Adam Gozzi|Carl Harrbacka|15|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:27|21|Adam Gozzi|Carl Harrbacka|14|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Nogueira Castro Alex|Manuel Brea Filloy|5|Jere Övermark|Jan Pasanen|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:25|21|Nogueira Castro Alex|Manuel Brea Filloy|13|Jere Övermark|Jan Pasanen|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Nhat Nguyen |Paul Reynolds|7|Joao Chang|Rui Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:20|21|Nhat Nguyen |Paul Reynolds|12|Joao Chang|Rui Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:30|23|Joao Alves|Miguel Rocha|21|Robin Gerber|Jérémy Poy|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:30|21|Joao Alves|Miguel Rocha|19|Robin Gerber|Jérémy Poy|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:18|21|Marc Laporte|Leo Rossi|6|Alexandre Batista|Mario Fonseca|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:18|21|Marc Laporte|Leo Rossi|10|Alexandre Batista|Mario Fonseca|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:24|22|Claudia Leal|Natalia Morejon|20|Mariana Leite|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:24|21|Claudia Leal|Natalia Morejon|18|Mariana Leite|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:17|21|Flavie Souillard|Liza Vanangamoudiar|13|Ana Folques|Gabriela Simoes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:17|21|Flavie Souillard|Liza Vanangamoudiar|11|Ana Folques|Gabriela Simoes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:26|21|Sereina Hofstetter|Jacqueline Schaer|11|Adriana F. Goncalves|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:26|21|Sereina Hofstetter|Jacqueline Schaer|14|Adriana F. Goncalves|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:22|21|Vilde Espeseth|Marlene Wåland|12|Teresa Lopes|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:22|21|Vilde Espeseth|Marlene Wåland|12|Teresa Lopes|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:17|21|Aline Müller|Chantal Von Rotz|4|Ana Andrade|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:17|21|Aline Müller|Chantal Von Rotz|5|Ana Andrade|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:40|21|Meline Metaireau|Melanie Potin|8|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:40|20|Meline Metaireau|Melanie Potin|22|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151128|0:40|21|Meline Metaireau|Melanie Potin|14|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Carl Harrbacka|Tilda Sjoo|7|Vitor Ferreira|Ana Folques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Carl Harrbacka|Tilda Sjoo|12|Vitor Ferreira|Ana Folques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Daniel Mendes|Joana Lopes|13|Jose Molares|Natalia Morejon|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Daniel Mendes|Joana Lopes|11|Jose Molares|Natalia Morejon|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129||Walkover Win|Joao Fernandes|Gabriela Simoes|Walkover Loss|Ivan Darriba|Eva Murio|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:18|21|Marcus Moore|Ashwathi Pillai|8|Ruben Figueiredo|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:18|21|Marcus Moore|Ashwathi Pillai|14|Ruben Figueiredo|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:17|21|Daniel Gholiof|Sara-Louise Wittstrom|11|Rafael Antunes|Mariana Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:17|21|Daniel Gholiof|Sara-Louise Wittstrom|7|Rafael Antunes|Mariana Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Cyril Hohl|Lotte Derudder|8|Joao Chang|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Cyril Hohl|Lotte Derudder|15|Joao Chang|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Samy Corvee|Léonice Huet|10|Francisco B. Mendes|Patricia Estrompa|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Samy Corvee|Léonice Huet|7|Francisco B. Mendes|Patricia Estrompa|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:27|21|Rodion Alimov |none|16|Rinoy Manavalan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:27|21|Rodion Alimov |none|12|Rinoy Manavalan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Alvaro Vazquez|none|5|Hugo Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Alvaro Vazquez|none|9|Hugo Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Miguel Rocha |none|9|Jon Mccreedy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Miguel Rocha |none|9|Jon Mccreedy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Filip Svensson|none|17|Francisco Oliveira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Filip Svensson|none|6|Francisco Oliveira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:42|21|Mathieu Gangloff |none|17|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:42|16|Mathieu Gangloff |none|21|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:42|21|Mathieu Gangloff |none|14|David Orteu|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|1:00|21|Marc Laporte |none|11|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|1:00|17|Marc Laporte |none|21|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|1:00|21|Marc Laporte |none|18|Julien Scheiwiller|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:31|21|Manuel Brea Filloy|none|15|Timon Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:31|21|Manuel Brea Filloy|none|11|Timon Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:24|21|Thibault Bernetti|none|14|Guilherme Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:24|21|Thibault Bernetti|none|8|Guilherme Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:40|16|Maxime Ortali|none|21|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:40|21|Maxime Ortali|none|19|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:40|21|Maxime Ortali|none|12|Ruben Figueiredo|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Jere Övermark |none|12|Ivan Darriba|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|23|Jere Övermark |none|21|Ivan Darriba|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Jose Molares|none|13|Vitor Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Jose Molares|none|17|Vitor Ferreira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Tom Rodrigues |none|12|Daniel Gholiof|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Tom Rodrigues |none|10|Daniel Gholiof|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Adam Gozzi|none|8|Fabio Sa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Adam Gozzi|none|7|Fabio Sa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:40|21|André R. Pito|none|19|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:40|11|André R. Pito|none|21|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:40|21|André R. Pito|none|18|Robin Gerber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|20|Sam Mckay |none|22|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|21|Sam Mckay |none|7|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|21|Sam Mckay |none|18|Joao Chang|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Eloi Adam|none|11|Mario Luis|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Eloi Adam|none|16|Mario Luis|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|13|Samy Corvee|none|21|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|21|Samy Corvee|none|10|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|21|Samy Corvee|none|19|Nogueira Castro Alex|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:52|21|Nhat Nguyen |none|13|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:52|13|Nhat Nguyen |none|21|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:52|21|Nhat Nguyen |none|16|Daniel Mendes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:48|21|Rui Tremoceiro|none|16|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:48|16|Rui Tremoceiro|none|21|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:48|23|Rui Tremoceiro|none|21|Mark Leith|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Erik Angervall |none|15|Pedro Santos|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Erik Angervall |none|8|Pedro Santos|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Barbado Miguel|none|12|Afonso Mendonça|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Barbado Miguel|none|10|Afonso Mendonça|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:42|21|Valentin Singer|none|13|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:42|20|Valentin Singer|none|22|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:42|21|Valentin Singer|none|10|Elias Bracke [10]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:26|21|Louis Ducrot|none|7|Alex Alcala Dominguez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:26|22|Louis Ducrot|none|20|Alex Alcala Dominguez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Leo Rossi |none|8|Goncalo Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Leo Rossi |none|12|Goncalo Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:39|21|Cyril Hohl|none|12|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:39|16|Cyril Hohl|none|21|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:39|21|Cyril Hohl|none|17|Jan Pasanen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Tobias Kuenzi |none|11|Juan Minguez Picasso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Tobias Kuenzi |none|4|Juan Minguez Picasso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Jérémy Poy|none|15|Francisco Coronado|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Jérémy Poy|none|15|Francisco Coronado|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Nikita Lemeshko |none|16|Marcus Moore|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Nikita Lemeshko |none|15|Marcus Moore|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:35|21|Frederic Elfeber|none|16|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:35|16|Frederic Elfeber|none|21|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:35|21|Frederic Elfeber|none|9|Marco Jorge|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:49|22|Maxime Briot|none|20|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:49|10|Maxime Briot|none|21|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:49|21|Maxime Briot|none|19|Joao Alves [16]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:48|10|Jonas Schwarz|none|21|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:48|23|Jonas Schwarz|none|21|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:48|21|Jonas Schwarz|none|16|Martin Cardenas|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:50|21|Ricardo Silva |none|10|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:50|17|Ricardo Silva |none|21|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:50|21|Ricardo Silva |none|15|Fabien Delrue|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Elina Niiranen|none|13|Catarina M. Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Elina Niiranen|none|13|Catarina M. Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Sofia Setim|none|4|Jade Blondeel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Sofia Setim|none|10|Jade Blondeel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Sara-Louise Wittstrom|none|8|Ana Fernandes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Sara-Louise Wittstrom|none|10|Ana Fernandes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Marlene Wåland|none|12|Mariana Paiva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Marlene Wåland|none|13|Mariana Paiva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:18|21|Léonice Huet|none|6|Mariana Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:18|21|Léonice Huet|none|7|Mariana Martins|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Camilla Taramelli|none|8|Gabriela Simoes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Camilla Taramelli|none|7|Gabriela Simoes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|25|Gabriela Pereira|none|23|Natalia Morejon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Gabriela Pereira|none|15|Natalia Morejon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:15|21|Claudia Leal|none|6|Sara Cardoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:15|21|Claudia Leal|none|5|Sara Cardoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:32|24|Aline Müller|none|22|Flavie Souillard|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:32|21|Aline Müller|none|15|Flavie Souillard|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Melanie Potin|none|7|Mariana Leite|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:19|21|Melanie Potin|none|16|Mariana Leite|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129||Walkover Win|Adriana F. Goncalves|none|Walkover Loss|Hanna Sidvall|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:35|22|Mariana Chang|none|20|Meline Metaireau|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:35|21|Mariana Chang|none|19|Meline Metaireau|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:21|21|Candice Lesne|none|11|Viorica Pogor|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:21|21|Candice Lesne|none|13|Viorica Pogor|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Ashwathi Pillai|none|6|Jacqueline Schaer|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Ashwathi Pillai|none|11|Jacqueline Schaer|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:41|21|Nolia Gestoso|none|16|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:41|16|Nolia Gestoso|none|21|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:41|21|Nolia Gestoso|none|18|Joana Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Ana Carbon|none|10|Ines Pardilho|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Ana Carbon|none|17|Ines Pardilho|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Marie Demeyere|none|8|Ana Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Marie Demeyere|none|11|Ana Marques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:29|21|Moya Ryan|none|17|Catarina C. Silva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:29|21|Moya Ryan|none|10|Catarina C. Silva|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:16|21|Hanna Karkaus|none|9|Ana Folques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:16|21|Hanna Karkaus|none|7|Ana Folques|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Liza Vanangamoudiar|none|5|Ana Andrade|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Liza Vanangamoudiar|none|11|Ana Andrade|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Rodion Alimov |Alina Davletova|8|Pedro Mendes|Teresa Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Rodion Alimov |Alina Davletova|11|Pedro Mendes|Teresa Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:24|21|Elias Bracke |Lise Jaques|13|Rui Tremoceiro|Mariana Leite|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:24|21|Elias Bracke |Lise Jaques|10|Rui Tremoceiro|Mariana Leite|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:19|21|Jere Övermark |Elina Niiranen|16|Fabio Sa|Catarina M. Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:19|21|Jere Övermark |Elina Niiranen|15|Fabio Sa|Catarina M. Martins|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Marc Laporte |Meline Metaireau|13|Kevin Selvarajah|Adriana F. Goncalves|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Marc Laporte |Meline Metaireau|12|Kevin Selvarajah|Adriana F. Goncalves|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129||Walkover Win|Joao Fernandes|Gabriela Simoes|Walkover Loss|Erik Angervall|Hanna Sidvall|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:32|20|Ricardo Silva|Sofia Setim|22|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:32|21|Ricardo Silva|Sofia Setim|11|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:32|21|Ricardo Silva|Sofia Setim|10|Daniel Gholiof|Sara-Louise Wittstrom|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|21|Mathieu Gangloff|Flavie Souillard|14|Daniel Mendes|Joana Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|21|Mathieu Gangloff|Flavie Souillard|17|Daniel Mendes|Joana Lopes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:15|21|Nikita Lemeshko |Anastasia Semyonova|3|Francisco Oliveira|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:15|21|Nikita Lemeshko |Anastasia Semyonova|6|Francisco Oliveira|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Marcus Moore|Ashwathi Pillai|14|Fabien Delrue|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Marcus Moore|Ashwathi Pillai|17|Fabien Delrue|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:39|17|Alex Alcala Dominguez|Cristina Poy Granados|21|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:39|21|Alex Alcala Dominguez|Cristina Poy Granados|14|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:39|21|Alex Alcala Dominguez|Cristina Poy Granados|19|Paul Reynolds [6]|Moya Ryan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:22|21|Martin Cardenas|Melanie Potin|14|Cyril Hohl|Lotte Derudder|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:22|21|Martin Cardenas|Melanie Potin|17|Cyril Hohl|Lotte Derudder|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:19|21|Mark Leith|Hanna Karkaus|16|Barbado Miguel|Nolia Gestoso|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:19|21|Mark Leith|Hanna Karkaus|13|Barbado Miguel|Nolia Gestoso|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:19|21|Carl Harrbacka|Tilda Sjoo|14|Miguel Rocha|Gabriela Pereira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:19|21|Carl Harrbacka|Tilda Sjoo|10|Miguel Rocha|Gabriela Pereira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:40|23|Tom Rodrigues|Liza Vanangamoudiar|21|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:40|17|Tom Rodrigues|Liza Vanangamoudiar|21|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:40|21|Tom Rodrigues|Liza Vanangamoudiar|19|Louis Ducrot [7]|Candice Lesne|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Samy Corvee|Léonice Huet|13|Joao Alves|Mariana Paiva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Samy Corvee|Léonice Huet|4|Joao Alves|Mariana Paiva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:27|21|Thibault Bernetti |Chantal Von Rotz|10|Hugo Vasconcelos|Mariana Chang|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:27|22|Thibault Bernetti |Chantal Von Rotz|20|Hugo Vasconcelos|Mariana Chang|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:24|21|Marc Laporte |none|16|Manuel Brea Filloy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:24|21|Marc Laporte |none|15|Manuel Brea Filloy|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:22|21|Adam Gozzi|none|5|André R. Pito|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:22|21|Adam Gozzi|none|8|André R. Pito|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Rodion Alimov |none|16|Alvaro Vazquez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Rodion Alimov |none|18|Alvaro Vazquez|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Mathieu Gangloff |none|11|Maxime Ortali|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:20|21|Mathieu Gangloff |none|15|Maxime Ortali|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|21|Sam Mckay |none|17|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|19|Sam Mckay |none|21|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|22|Sam Mckay |none|20|Eloi Adam|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Miguel Rocha |none|13|Filip Svensson|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Miguel Rocha |none|13|Filip Svensson|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:21|21|Jere Övermark |none|16|Jose Molares|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:21|21|Jere Övermark |none|14|Jose Molares|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:35|21|Tom Rodrigues |none|19|Thibault Bernetti|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:35|22|Tom Rodrigues |none|20|Thibault Bernetti|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Nhat Nguyen |none|9|Samy Corvee|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Nhat Nguyen |none|6|Samy Corvee|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:21|21|Erik Angervall |none|15|Rui Tremoceiro|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:21|21|Erik Angervall |none|7|Rui Tremoceiro|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Valentin Singer|none|12|Barbado Miguel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Valentin Singer|none|16|Barbado Miguel|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:26|21|Leo Rossi |none|15|Louis Ducrot|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:26|21|Leo Rossi |none|7|Louis Ducrot|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Tobias Kuenzi |none|14|Cyril Hohl|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Tobias Kuenzi |none|5|Cyril Hohl|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:38|21|Jérémy Poy|none|9|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:38|14|Jérémy Poy|none|21|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:38|21|Jérémy Poy|none|9|Nikita Lemeshko [5]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Maxime Briot|none|15|Frederic Elfeber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Maxime Briot|none|13|Frederic Elfeber|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:30|21|Ricardo Silva |none|11|Jonas Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:30|21|Ricardo Silva |none|19|Jonas Schwarz|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|23|Alina Davletova |none|21|Elina Niiranen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Alina Davletova |none|12|Elina Niiranen|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Sofia Setim|none|4|Patricia Estrompa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:17|21|Sofia Setim|none|6|Patricia Estrompa|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:22|21|Sara Penalver Pereira |none|19|Sara-Louise Wittstrom|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:22|21|Sara Penalver Pereira |none|13|Sara-Louise Wittstrom|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Léonice Huet|none|7|Marlene Wåland|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Léonice Huet|none|10|Marlene Wåland|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129||Walkover Win|Camilla Taramelli|none|Walkover Loss|Elin Svensson [4]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Julie Ferrier|none|12|Gabriela Pereira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:23|21|Julie Ferrier|none|15|Gabriela Pereira|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:29|21|Tilda Sjoo |none|18|Claudia Leal|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:29|21|Tilda Sjoo |none|18|Claudia Leal|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Aline Müller|none|18|Melanie Potin|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:28|21|Aline Müller|none|15|Melanie Potin|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Mariana Chang|none|18|Adriana F. Goncalves|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Mariana Chang|none|14|Adriana F. Goncalves|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129||Walkover Win|Candice Lesne|none|Walkover Loss|Eva Murio [7]|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Ashwathi Pillai|none|9|Sereina Hofstetter|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Ashwathi Pillai|none|12|Sereina Hofstetter|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:38|23|Anastasia Semyonova |none|21|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:38|18|Anastasia Semyonova |none|21|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:38|21|Anastasia Semyonova |none|10|Nolia Gestoso|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:31|21|Marie Demeyere|none|12|Ana Carbon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:31|21|Marie Demeyere|none|19|Ana Carbon|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|21|Vilde Espeseth |none|14|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|17|Vilde Espeseth |none|21|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:45|21|Vilde Espeseth |none|19|Moya Ryan|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Hanna Karkaus|none|18|Teresa Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Hanna Karkaus|none|10|Teresa Lopes|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:33|21|Ella Soderstrom |none|19|Liza Vanangamoudiar|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:33|21|Ella Soderstrom |none|19|Liza Vanangamoudiar|none|58520663-661E-47F4-906D-B2B127F3BC17|singles
+20151129|0:25|21|Rodion Alimov |Nikita Lemeshko|18|Martin Cardenas|Valentin Singer|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Rodion Alimov |Nikita Lemeshko|11|Martin Cardenas|Valentin Singer|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:28|21|Elias Bracke|Cyril Hohl|12|Ricardo Silva|Hugo Vasconcelos|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:28|21|Elias Bracke|Cyril Hohl|16|Ricardo Silva|Hugo Vasconcelos|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Mathieu Gangloff |Tom Rodrigues|14|André R. Pito|Duarte Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Mathieu Gangloff |Tom Rodrigues|13|André R. Pito|Duarte Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:18|21|Alex Alcala Dominguez|Francisco Coronado|11|Joao Fernandes|Francisco Oliveira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:18|21|Alex Alcala Dominguez|Francisco Coronado|11|Joao Fernandes|Francisco Oliveira|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:35|21|Louis Ducrot|Maxime Ortali|10|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:35|14|Louis Ducrot|Maxime Ortali|21|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:35|21|Louis Ducrot|Maxime Ortali|15|Thibault Bernetti [4]|Rinoy Manavalan|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Erik Angervall|Filip Svensson|9|Guilherme Ferreira|Goncalo Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Erik Angervall|Filip Svensson|13|Guilherme Ferreira|Goncalo Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|21|Jonas Schwarz |Timon Schwarz|14|Ruben Figueiredo|Kevin Selvarajah|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|21|Jonas Schwarz |Timon Schwarz|7|Ruben Figueiredo|Kevin Selvarajah|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Maxime Briot|Fabien Delrue|14|Jose Molares|Alvaro Vazquez|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Maxime Briot|Fabien Delrue|17|Jose Molares|Alvaro Vazquez|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|21|David Orteu|Julien Scheiwiller|15|Juan Minguez Picasso|Ivan Villanueva Diaz|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|21|David Orteu|Julien Scheiwiller|16|Juan Minguez Picasso|Ivan Villanueva Diaz|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|21|Mark Leith |Sam Mckay|13|Marco Jorge|Daniel Mendes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:23|22|Mark Leith |Sam Mckay|20|Marco Jorge|Daniel Mendes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Eloi Adam|Samy Corvee|11|Simao Ferreira|Hugo Jorge|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Eloi Adam|Samy Corvee|10|Simao Ferreira|Hugo Jorge|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:27|18|Adam Gozzi|Carl Harrbacka|21|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:27|21|Adam Gozzi|Carl Harrbacka|15|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:27|21|Adam Gozzi|Carl Harrbacka|14|Silvan Furrer [3]|Tobias Kuenzi|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Nogueira Castro Alex|Manuel Brea Filloy|5|Jere Övermark|Jan Pasanen|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:25|21|Nogueira Castro Alex|Manuel Brea Filloy|13|Jere Övermark|Jan Pasanen|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Nhat Nguyen |Paul Reynolds|7|Joao Chang|Rui Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:20|21|Nhat Nguyen |Paul Reynolds|12|Joao Chang|Rui Tremoceiro|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:30|23|Joao Alves|Miguel Rocha|21|Robin Gerber|Jérémy Poy|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:30|21|Joao Alves|Miguel Rocha|19|Robin Gerber|Jérémy Poy|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:18|21|Marc Laporte|Leo Rossi|6|Alexandre Batista|Mario Fonseca|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:18|21|Marc Laporte|Leo Rossi|10|Alexandre Batista|Mario Fonseca|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:24|22|Claudia Leal|Natalia Morejon|20|Mariana Leite|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:24|21|Claudia Leal|Natalia Morejon|18|Mariana Leite|Ines Pardilho|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:17|21|Flavie Souillard|Liza Vanangamoudiar|13|Ana Folques|Gabriela Simoes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:17|21|Flavie Souillard|Liza Vanangamoudiar|11|Ana Folques|Gabriela Simoes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:26|21|Sereina Hofstetter|Jacqueline Schaer|11|Adriana F. Goncalves|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:26|21|Sereina Hofstetter|Jacqueline Schaer|14|Adriana F. Goncalves|Catarina C. Silva|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:22|21|Vilde Espeseth|Marlene Wåland|12|Teresa Lopes|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:22|21|Vilde Espeseth|Marlene Wåland|12|Teresa Lopes|Ana Marques|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:17|21|Aline Müller|Chantal Von Rotz|4|Ana Andrade|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:17|21|Aline Müller|Chantal Von Rotz|5|Ana Andrade|Mariana Antunes|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:40|21|Meline Metaireau|Melanie Potin|8|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:40|20|Meline Metaireau|Melanie Potin|22|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles
+20151129|0:40|21|Meline Metaireau|Melanie Potin|14|Joana Lopes|Sofia Setim|58520663-661E-47F4-906D-B2B127F3BC17|doubles

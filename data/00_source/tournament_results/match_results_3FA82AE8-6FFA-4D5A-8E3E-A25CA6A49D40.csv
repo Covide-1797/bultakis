@@ -1,0 +1,793 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20140904||Walkover Win|Vladyslav Sterin|none|Walkover Loss|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:23|11|Vladyslav Sterin|none|10|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:23|5|Vladyslav Sterin|none|11|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:23|11|Vladyslav Sterin|none|6|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:23|11|Vladyslav Sterin|none|5|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|10|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Artem Pochtarev|Elena Prus|8|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Artem Pochtarev|Elena Prus|4|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Artem Pochtarev|Elena Prus|3|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:25|8|Artem Tkachuk|Anna Mikhalkova|11|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:25|11|Artem Tkachuk|Anna Mikhalkova|10|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|4|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:17|11|Dmytro Zavadsky |none|9|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:17|11|Dmytro Zavadsky |none|6|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:17|11|Dmytro Zavadsky |none|2|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Oleksandr Kolesnik|none|3|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Oleksandr Kolesnik|none|9|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Oleksandr Kolesnik|none|8|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904||11|Milan Ludik |none|4|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904||11|Milan Ludik |none|5|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904||11|Milan Ludik |none|9|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:14|11|Rasmus Fladberg |none|4|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:14|11|Rasmus Fladberg |none|6|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:14|11|Rasmus Fladberg |none|2|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|4|Iztok Utrosa |none|11|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|11|Iztok Utrosa |none|5|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:04|Walkover Win|Valery Famin|none|Walkover Loss|Prakash Vijayanath|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Blagovest Kisyov|none|4|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Blagovest Kisyov|none|3|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Blagovest Kisyov|none|8|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|9|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|11|Valeriy Zhuravlyov|none|6|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|10|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|11|Valeriy Zhuravlyov|none|4|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|11|Valeriy Zhuravlyov|none|5|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:11|11|Artem Tkachuk|none|7|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:11|11|Artem Tkachuk|none|6|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:11|11|Artem Tkachuk|none|2|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:13|11|Joachim Persson |none|5|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:13|11|Joachim Persson |none|10|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:13|11|Joachim Persson |none|7|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:28|11|Samet Koyun|none|10|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:28|11|Samet Koyun|none|8|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:28|11|Samet Koyun|none|9|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:42|3|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:42|11|Emil Holst |none|4|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:42|5|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Artem Pochtarev|none|3|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Artem Pochtarev|none|5|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Artem Pochtarev|none|6|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:49|10|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:49|9|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:49|11|Shai Geffen|none|10|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:40|7|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:40|8|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:40|11|Valeriy Atrashchenkov |none|7|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Yelyzaveta Zharka|none|5|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:12|11|Nadtochiy Olga|none|2|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:12|11|Nadtochiy Olga|none|3|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:12|11|Nadtochiy Olga|none|4|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:33|11|Gushcha Viktoriya|none|5|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:33|9|Gushcha Viktoriya|none|11|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:33|11|Gushcha Viktoriya|none|9|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:33|11|Gushcha Viktoriya|none|3|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:31|11|Maryna Ilyinskaya|none|10|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:31|11|Maryna Ilyinskaya|none|7|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:31|5|Maryna Ilyinskaya|none|11|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:31|11|Maryna Ilyinskaya|none|4|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|11|Ebru Yazgan|none|6|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|11|Ebru Yazgan|none|8|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|4|Ebru Yazgan|none|11|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:32|11|Ebru Yazgan|none|10|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:14|11|Anna Mikhalkova|none|4|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:27|10|Yelyzaveta Kryachko|none|11|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:27|11|Yelyzaveta Kryachko|none|7|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:29|11|Dana Grinenko|none|6|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:29|7|Dana Grinenko|none|11|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:29|11|Dana Grinenko|none|4|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:29|11|Dana Grinenko|none|9|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:10|1|Progrebnyak Viktoriya|none|0|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:10|Walkover Win|Progrebnyak Viktoriya|none|Walkover Loss|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|4|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|5|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|8|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|5|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|7|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:30|10|Valeriy Atrashchenkov|Yelyzaveta Zharka|11|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|9|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|2|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|6|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:31|6|Eugeny Pochtarev|Nadtochiy Olga|11|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|4|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|3|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|9|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Vitaly Konov |Darya Samarchants|8|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Vitaly Konov |Darya Samarchants|3|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Vitaly Konov |Darya Samarchants|10|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:21|11|Artem Pochtarev|Elena Prus|8|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:21|11|Artem Pochtarev|Elena Prus|2|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:21|11|Artem Pochtarev|Elena Prus|5|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904||Walkover Win|Vladislav Volnyavskiy|Gushcha Viktoriya|Walkover Loss|Dmytro Zavadsky [2]|Anastasiya Dmytryshyn|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:20|11|Milan Ludik |none|1|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:20|11|Milan Ludik |none|9|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:20|11|Milan Ludik |none|4|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:11|11|Iztok Utrosa |none|4|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Blagovest Kisyov|none|5|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Blagovest Kisyov|none|3|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Blagovest Kisyov|none|7|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Valeriy Atrashchenkov |none|6|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Valeriy Atrashchenkov |none|5|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Valeriy Atrashchenkov |none|3|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:17|11|Emil Holst |none|4|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:17|11|Emil Holst |none|6|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:17|11|Emil Holst |none|9|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:20|11|Dmytro Zavadsky |none|6|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:20|11|Dmytro Zavadsky |none|9|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:20|11|Dmytro Zavadsky |none|8|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|11|Rasmus Fladberg |none|7|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|8|Rasmus Fladberg |none|11|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|11|Rasmus Fladberg |none|5|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:35|11|Rasmus Fladberg |none|10|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:19|11|Joachim Persson |none|7|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Linda Zetchiri |none|3|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Linda Zetchiri |none|6|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Linda Zetchiri |none|8|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:23|11|Maryna Ilyinskaya|none|5|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:23|11|Maryna Ilyinskaya|none|6|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:23|11|Maryna Ilyinskaya|none|9|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Natalya Voytsekh|none|7|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Natalya Voytsekh|none|4|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Natalya Voytsekh|none|5|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904||Walkover Win|Gushcha Viktoriya|none|Walkover Loss|Matilda Petersen [4]|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|8|Ebru Yazgan|none|11|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:22|11|Ebru Yazgan|none|9|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Ozge Bayrak |none|7|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:21|11|Vladyslava Lesnaya|none|6|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:21|11|Vladyslava Lesnaya|none|10|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:21|11|Vladyslava Lesnaya|none|9|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Marija Ulitina |none|3|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Marija Ulitina |none|1|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:15|11|Marija Ulitina |none|8|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140904|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|9|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|3|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|7|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|10|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|2|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|1|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:16|11|Shai Geffen|Georgiy Natarov|2|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|9|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|4|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|10|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:15|11|Vitaly Konov|Dmytro Zavadsky|1|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:15|11|Vitaly Konov|Dmytro Zavadsky|5|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:15|11|Vitaly Konov|Dmytro Zavadsky|9|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|0|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|9|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|2|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|9|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:26|9|Maryna Ilyinskaya|Yelyzaveta Kryachko|11|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140904|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905||Walkover Win|Vladyslav Sterin|none|Walkover Loss|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:23|11|Vladyslav Sterin|none|10|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:23|5|Vladyslav Sterin|none|11|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:23|11|Vladyslav Sterin|none|6|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:23|11|Vladyslav Sterin|none|5|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|10|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Artem Pochtarev|Elena Prus|8|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Artem Pochtarev|Elena Prus|4|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Artem Pochtarev|Elena Prus|3|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:25|8|Artem Tkachuk|Anna Mikhalkova|11|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:25|11|Artem Tkachuk|Anna Mikhalkova|10|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|4|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:17|11|Dmytro Zavadsky |none|9|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:17|11|Dmytro Zavadsky |none|6|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:17|11|Dmytro Zavadsky |none|2|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Oleksandr Kolesnik|none|3|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Oleksandr Kolesnik|none|9|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Oleksandr Kolesnik|none|8|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905||11|Milan Ludik |none|4|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905||11|Milan Ludik |none|5|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905||11|Milan Ludik |none|9|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:14|11|Rasmus Fladberg |none|4|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:14|11|Rasmus Fladberg |none|6|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:14|11|Rasmus Fladberg |none|2|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|4|Iztok Utrosa |none|11|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|11|Iztok Utrosa |none|5|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:04|Walkover Win|Valery Famin|none|Walkover Loss|Prakash Vijayanath|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Blagovest Kisyov|none|4|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Blagovest Kisyov|none|3|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Blagovest Kisyov|none|8|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|9|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|11|Valeriy Zhuravlyov|none|6|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|10|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|11|Valeriy Zhuravlyov|none|4|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|11|Valeriy Zhuravlyov|none|5|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:11|11|Artem Tkachuk|none|7|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:11|11|Artem Tkachuk|none|6|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:11|11|Artem Tkachuk|none|2|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:13|11|Joachim Persson |none|5|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:13|11|Joachim Persson |none|10|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:13|11|Joachim Persson |none|7|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:28|11|Samet Koyun|none|10|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:28|11|Samet Koyun|none|8|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:28|11|Samet Koyun|none|9|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:42|3|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:42|11|Emil Holst |none|4|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:42|5|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Artem Pochtarev|none|3|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Artem Pochtarev|none|5|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Artem Pochtarev|none|6|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:49|10|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:49|9|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:49|11|Shai Geffen|none|10|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:40|7|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:40|8|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:40|11|Valeriy Atrashchenkov |none|7|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Yelyzaveta Zharka|none|5|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:12|11|Nadtochiy Olga|none|2|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:12|11|Nadtochiy Olga|none|3|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:12|11|Nadtochiy Olga|none|4|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:33|11|Gushcha Viktoriya|none|5|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:33|9|Gushcha Viktoriya|none|11|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:33|11|Gushcha Viktoriya|none|9|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:33|11|Gushcha Viktoriya|none|3|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:31|11|Maryna Ilyinskaya|none|10|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:31|11|Maryna Ilyinskaya|none|7|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:31|5|Maryna Ilyinskaya|none|11|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:31|11|Maryna Ilyinskaya|none|4|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|11|Ebru Yazgan|none|6|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|11|Ebru Yazgan|none|8|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|4|Ebru Yazgan|none|11|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:32|11|Ebru Yazgan|none|10|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:14|11|Anna Mikhalkova|none|4|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:27|10|Yelyzaveta Kryachko|none|11|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:27|11|Yelyzaveta Kryachko|none|7|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:29|11|Dana Grinenko|none|6|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:29|7|Dana Grinenko|none|11|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:29|11|Dana Grinenko|none|4|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:29|11|Dana Grinenko|none|9|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:10|1|Progrebnyak Viktoriya|none|0|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:10|Walkover Win|Progrebnyak Viktoriya|none|Walkover Loss|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|4|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|5|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|8|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|5|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|7|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:30|10|Valeriy Atrashchenkov|Yelyzaveta Zharka|11|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|9|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|2|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|6|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:31|6|Eugeny Pochtarev|Nadtochiy Olga|11|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|4|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|3|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|9|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Vitaly Konov |Darya Samarchants|8|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Vitaly Konov |Darya Samarchants|3|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Vitaly Konov |Darya Samarchants|10|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:21|11|Artem Pochtarev|Elena Prus|8|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:21|11|Artem Pochtarev|Elena Prus|2|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:21|11|Artem Pochtarev|Elena Prus|5|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905||Walkover Win|Vladislav Volnyavskiy|Gushcha Viktoriya|Walkover Loss|Dmytro Zavadsky [2]|Anastasiya Dmytryshyn|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:20|11|Milan Ludik |none|1|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:20|11|Milan Ludik |none|9|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:20|11|Milan Ludik |none|4|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:11|11|Iztok Utrosa |none|4|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Blagovest Kisyov|none|5|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Blagovest Kisyov|none|3|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Blagovest Kisyov|none|7|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Valeriy Atrashchenkov |none|6|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Valeriy Atrashchenkov |none|5|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Valeriy Atrashchenkov |none|3|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:17|11|Emil Holst |none|4|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:17|11|Emil Holst |none|6|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:17|11|Emil Holst |none|9|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:20|11|Dmytro Zavadsky |none|6|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:20|11|Dmytro Zavadsky |none|9|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:20|11|Dmytro Zavadsky |none|8|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|11|Rasmus Fladberg |none|7|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|8|Rasmus Fladberg |none|11|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|11|Rasmus Fladberg |none|5|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:35|11|Rasmus Fladberg |none|10|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:19|11|Joachim Persson |none|7|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Linda Zetchiri |none|3|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Linda Zetchiri |none|6|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Linda Zetchiri |none|8|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:23|11|Maryna Ilyinskaya|none|5|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:23|11|Maryna Ilyinskaya|none|6|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:23|11|Maryna Ilyinskaya|none|9|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Natalya Voytsekh|none|7|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Natalya Voytsekh|none|4|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Natalya Voytsekh|none|5|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905||Walkover Win|Gushcha Viktoriya|none|Walkover Loss|Matilda Petersen [4]|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|8|Ebru Yazgan|none|11|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:22|11|Ebru Yazgan|none|9|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Ozge Bayrak |none|7|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:21|11|Vladyslava Lesnaya|none|6|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:21|11|Vladyslava Lesnaya|none|10|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:21|11|Vladyslava Lesnaya|none|9|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Marija Ulitina |none|3|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Marija Ulitina |none|1|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:15|11|Marija Ulitina |none|8|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140905|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|9|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|3|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|7|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|10|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|2|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|1|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:16|11|Shai Geffen|Georgiy Natarov|2|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|9|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|4|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|10|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:15|11|Vitaly Konov|Dmytro Zavadsky|1|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:15|11|Vitaly Konov|Dmytro Zavadsky|5|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:15|11|Vitaly Konov|Dmytro Zavadsky|9|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|0|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|9|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|2|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|9|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:26|9|Maryna Ilyinskaya|Yelyzaveta Kryachko|11|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140905|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906||Walkover Win|Vladyslav Sterin|none|Walkover Loss|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:23|11|Vladyslav Sterin|none|10|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:23|5|Vladyslav Sterin|none|11|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:23|11|Vladyslav Sterin|none|6|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:23|11|Vladyslav Sterin|none|5|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|10|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Artem Pochtarev|Elena Prus|8|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Artem Pochtarev|Elena Prus|4|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Artem Pochtarev|Elena Prus|3|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:25|8|Artem Tkachuk|Anna Mikhalkova|11|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:25|11|Artem Tkachuk|Anna Mikhalkova|10|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|4|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:17|11|Dmytro Zavadsky |none|9|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:17|11|Dmytro Zavadsky |none|6|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:17|11|Dmytro Zavadsky |none|2|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Oleksandr Kolesnik|none|3|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Oleksandr Kolesnik|none|9|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Oleksandr Kolesnik|none|8|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906||11|Milan Ludik |none|4|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906||11|Milan Ludik |none|5|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906||11|Milan Ludik |none|9|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:14|11|Rasmus Fladberg |none|4|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:14|11|Rasmus Fladberg |none|6|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:14|11|Rasmus Fladberg |none|2|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|4|Iztok Utrosa |none|11|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|11|Iztok Utrosa |none|5|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:04|Walkover Win|Valery Famin|none|Walkover Loss|Prakash Vijayanath|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Blagovest Kisyov|none|4|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Blagovest Kisyov|none|3|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Blagovest Kisyov|none|8|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|9|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|11|Valeriy Zhuravlyov|none|6|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|10|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|11|Valeriy Zhuravlyov|none|4|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|11|Valeriy Zhuravlyov|none|5|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:11|11|Artem Tkachuk|none|7|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:11|11|Artem Tkachuk|none|6|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:11|11|Artem Tkachuk|none|2|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:13|11|Joachim Persson |none|5|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:13|11|Joachim Persson |none|10|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:13|11|Joachim Persson |none|7|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:28|11|Samet Koyun|none|10|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:28|11|Samet Koyun|none|8|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:28|11|Samet Koyun|none|9|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:42|3|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:42|11|Emil Holst |none|4|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:42|5|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Artem Pochtarev|none|3|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Artem Pochtarev|none|5|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Artem Pochtarev|none|6|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:49|10|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:49|9|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:49|11|Shai Geffen|none|10|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:40|7|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:40|8|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:40|11|Valeriy Atrashchenkov |none|7|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Yelyzaveta Zharka|none|5|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:12|11|Nadtochiy Olga|none|2|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:12|11|Nadtochiy Olga|none|3|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:12|11|Nadtochiy Olga|none|4|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:33|11|Gushcha Viktoriya|none|5|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:33|9|Gushcha Viktoriya|none|11|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:33|11|Gushcha Viktoriya|none|9|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:33|11|Gushcha Viktoriya|none|3|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:31|11|Maryna Ilyinskaya|none|10|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:31|11|Maryna Ilyinskaya|none|7|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:31|5|Maryna Ilyinskaya|none|11|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:31|11|Maryna Ilyinskaya|none|4|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|11|Ebru Yazgan|none|6|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|11|Ebru Yazgan|none|8|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|4|Ebru Yazgan|none|11|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:32|11|Ebru Yazgan|none|10|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:14|11|Anna Mikhalkova|none|4|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:27|10|Yelyzaveta Kryachko|none|11|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:27|11|Yelyzaveta Kryachko|none|7|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:29|11|Dana Grinenko|none|6|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:29|7|Dana Grinenko|none|11|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:29|11|Dana Grinenko|none|4|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:29|11|Dana Grinenko|none|9|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:10|1|Progrebnyak Viktoriya|none|0|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:10|Walkover Win|Progrebnyak Viktoriya|none|Walkover Loss|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|4|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|5|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|8|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|5|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|7|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:30|10|Valeriy Atrashchenkov|Yelyzaveta Zharka|11|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|9|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|2|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|6|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:31|6|Eugeny Pochtarev|Nadtochiy Olga|11|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|4|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|3|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|9|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Vitaly Konov |Darya Samarchants|8|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Vitaly Konov |Darya Samarchants|3|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Vitaly Konov |Darya Samarchants|10|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:21|11|Artem Pochtarev|Elena Prus|8|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:21|11|Artem Pochtarev|Elena Prus|2|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:21|11|Artem Pochtarev|Elena Prus|5|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906||Walkover Win|Vladislav Volnyavskiy|Gushcha Viktoriya|Walkover Loss|Dmytro Zavadsky [2]|Anastasiya Dmytryshyn|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:20|11|Milan Ludik |none|1|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:20|11|Milan Ludik |none|9|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:20|11|Milan Ludik |none|4|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:11|11|Iztok Utrosa |none|4|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Blagovest Kisyov|none|5|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Blagovest Kisyov|none|3|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Blagovest Kisyov|none|7|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Valeriy Atrashchenkov |none|6|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Valeriy Atrashchenkov |none|5|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Valeriy Atrashchenkov |none|3|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:17|11|Emil Holst |none|4|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:17|11|Emil Holst |none|6|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:17|11|Emil Holst |none|9|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:20|11|Dmytro Zavadsky |none|6|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:20|11|Dmytro Zavadsky |none|9|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:20|11|Dmytro Zavadsky |none|8|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|11|Rasmus Fladberg |none|7|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|8|Rasmus Fladberg |none|11|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|11|Rasmus Fladberg |none|5|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:35|11|Rasmus Fladberg |none|10|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:19|11|Joachim Persson |none|7|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Linda Zetchiri |none|3|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Linda Zetchiri |none|6|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Linda Zetchiri |none|8|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:23|11|Maryna Ilyinskaya|none|5|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:23|11|Maryna Ilyinskaya|none|6|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:23|11|Maryna Ilyinskaya|none|9|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Natalya Voytsekh|none|7|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Natalya Voytsekh|none|4|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Natalya Voytsekh|none|5|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906||Walkover Win|Gushcha Viktoriya|none|Walkover Loss|Matilda Petersen [4]|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|8|Ebru Yazgan|none|11|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:22|11|Ebru Yazgan|none|9|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Ozge Bayrak |none|7|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:21|11|Vladyslava Lesnaya|none|6|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:21|11|Vladyslava Lesnaya|none|10|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:21|11|Vladyslava Lesnaya|none|9|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Marija Ulitina |none|3|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Marija Ulitina |none|1|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:15|11|Marija Ulitina |none|8|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140906|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|9|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|3|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|7|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|10|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|2|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|1|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:16|11|Shai Geffen|Georgiy Natarov|2|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|9|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|4|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|10|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:15|11|Vitaly Konov|Dmytro Zavadsky|1|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:15|11|Vitaly Konov|Dmytro Zavadsky|5|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:15|11|Vitaly Konov|Dmytro Zavadsky|9|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|0|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|9|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|2|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|9|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:26|9|Maryna Ilyinskaya|Yelyzaveta Kryachko|11|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140906|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907||Walkover Win|Vladyslav Sterin|none|Walkover Loss|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:23|11|Vladyslav Sterin|none|10|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:23|5|Vladyslav Sterin|none|11|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:23|11|Vladyslav Sterin|none|6|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:23|11|Vladyslav Sterin|none|5|Ivan Medynskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|10|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Vladyslav Gurkalo|Anastasiya Buryan|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Artem Pochtarev|Elena Prus|8|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Artem Pochtarev|Elena Prus|4|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Artem Pochtarev|Elena Prus|3|Shai Geffen|Progrebnyak Viktoriya|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:25|11|Artem Tkachuk|Anna Mikhalkova|8|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:25|8|Artem Tkachuk|Anna Mikhalkova|11|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:25|11|Artem Tkachuk|Anna Mikhalkova|10|Ruslan Sarsekenov|Anastasiya Kucher|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|4|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:14|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|5|Vladyslav Sterin|Dana Grinenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:17|11|Dmytro Zavadsky |none|9|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:17|11|Dmytro Zavadsky |none|6|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:17|11|Dmytro Zavadsky |none|2|Vitaly Konov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Oleksandr Kolesnik|none|3|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Oleksandr Kolesnik|none|9|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Oleksandr Kolesnik|none|8|Mykhaylo Makhnovskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907||11|Milan Ludik |none|4|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907||11|Milan Ludik |none|5|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907||11|Milan Ludik |none|9|Oleynik Vyacheslav|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:14|11|Rasmus Fladberg |none|4|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:14|11|Rasmus Fladberg |none|6|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:14|11|Rasmus Fladberg |none|2|Artem Shevchenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|4|Iztok Utrosa |none|11|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|11|Iztok Utrosa |none|5|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|11|Iztok Utrosa |none|8|Valdyslav Tregubenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:04|Walkover Win|Valery Famin|none|Walkover Loss|Prakash Vijayanath|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Blagovest Kisyov|none|4|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Blagovest Kisyov|none|3|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Blagovest Kisyov|none|8|Kyryll Nesterenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|9|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|11|Valeriy Zhuravlyov|none|6|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|10|Valeriy Zhuravlyov|none|11|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|11|Valeriy Zhuravlyov|none|4|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|11|Valeriy Zhuravlyov|none|5|Kyrylo Shchur|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:11|11|Artem Tkachuk|none|7|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:11|11|Artem Tkachuk|none|6|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:11|11|Artem Tkachuk|none|2|Vladyslav Sterin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:13|11|Joachim Persson |none|5|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:13|11|Joachim Persson |none|10|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:13|11|Joachim Persson |none|7|Vladyslav Stepanets|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:28|11|Samet Koyun|none|10|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:28|11|Samet Koyun|none|8|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:28|11|Samet Koyun|none|9|Badista Valeriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:42|3|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:42|11|Emil Holst |none|4|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:42|5|Emil Holst |none|11|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:42|11|Emil Holst |none|6|Kyrylo Leonov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Artem Pochtarev|none|3|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Artem Pochtarev|none|5|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Artem Pochtarev|none|6|Ruslan Sarsekenov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:49|11|Shai Geffen|none|8|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:49|10|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:49|9|Shai Geffen|none|11|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:49|11|Shai Geffen|none|10|Vladislav Volnyavskiy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:40|7|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:40|8|Valeriy Atrashchenkov |none|11|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:40|11|Valeriy Atrashchenkov |none|7|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:40|11|Valeriy Atrashchenkov |none|5|Zinukhov Andriy|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Vladyslav Gurkalo|none|4|Oleg Lemeshev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Yelyzaveta Zharka|none|3|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Yelyzaveta Zharka|none|5|Viktoriya Shalaeva|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:12|11|Nadtochiy Olga|none|2|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:12|11|Nadtochiy Olga|none|3|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:12|11|Nadtochiy Olga|none|4|Anastasiya Buryan|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:33|11|Gushcha Viktoriya|none|5|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:33|9|Gushcha Viktoriya|none|11|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:33|11|Gushcha Viktoriya|none|9|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:33|11|Gushcha Viktoriya|none|3|Darya Samarchants|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:31|11|Maryna Ilyinskaya|none|10|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:31|11|Maryna Ilyinskaya|none|7|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:31|5|Maryna Ilyinskaya|none|11|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:31|11|Maryna Ilyinskaya|none|4|Neslihan Yigit|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|11|Ebru Yazgan|none|6|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|11|Ebru Yazgan|none|8|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|4|Ebru Yazgan|none|11|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:32|11|Ebru Yazgan|none|10|Elena Prus|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:14|11|Anna Mikhalkova|none|4|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:14|11|Anna Mikhalkova|none|5|Kateryna Arkhipova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:27|10|Yelyzaveta Kryachko|none|11|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:27|11|Yelyzaveta Kryachko|none|8|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:27|11|Yelyzaveta Kryachko|none|7|Anastasiya Prozorova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:29|11|Dana Grinenko|none|6|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:29|7|Dana Grinenko|none|11|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:29|11|Dana Grinenko|none|4|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:29|11|Dana Grinenko|none|9|Anastasia Petrenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:10|1|Progrebnyak Viktoriya|none|0|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:10|Walkover Win|Progrebnyak Viktoriya|none|Walkover Loss|Anastasiya Dmytryshyn|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|4|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|5|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:14|11|Gennadiy Natarov |Yuliya Kazarinova|8|Valery Famin|Nataliia Golovkina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|9|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|5|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:17|11|Georgiy Natarov|Viktoriya Shalaeva|7|Kyrylo Shchur|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:30|10|Valeriy Atrashchenkov|Yelyzaveta Zharka|11|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:30|11|Valeriy Atrashchenkov|Yelyzaveta Zharka|10|Zinukhov Andriy|Marija Ulitina|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|9|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|2|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:21|11|Kyryll Nesterenko |Maryna Ilyinskaya|6|Artem Shevchenko|Anastasia Petrenko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:31|6|Eugeny Pochtarev|Nadtochiy Olga|11|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|4|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|3|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:31|11|Eugeny Pochtarev|Nadtochiy Olga|9|Artem Tkachuk|Anna Mikhalkova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Vitaly Konov |Darya Samarchants|8|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Vitaly Konov |Darya Samarchants|3|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Vitaly Konov |Darya Samarchants|10|Martynenko Mykola|Natalya Voytsekh|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:21|11|Artem Pochtarev|Elena Prus|8|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:21|11|Artem Pochtarev|Elena Prus|2|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:21|11|Artem Pochtarev|Elena Prus|5|Valdyslav Tregubenko|Yelyzaveta Kryachko|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907||Walkover Win|Vladislav Volnyavskiy|Gushcha Viktoriya|Walkover Loss|Dmytro Zavadsky [2]|Anastasiya Dmytryshyn|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:20|11|Milan Ludik |none|1|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:20|11|Milan Ludik |none|9|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:20|11|Milan Ludik |none|4|Artem Tkachuk|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:11|11|Iztok Utrosa |none|4|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:11|11|Iztok Utrosa |none|2|Valery Famin|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Blagovest Kisyov|none|5|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Blagovest Kisyov|none|3|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Blagovest Kisyov|none|7|Valeriy Zhuravlyov|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Valeriy Atrashchenkov |none|6|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Valeriy Atrashchenkov |none|5|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Valeriy Atrashchenkov |none|3|Samet Koyun|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:17|11|Emil Holst |none|4|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:17|11|Emil Holst |none|6|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:17|11|Emil Holst |none|9|Vladyslav Gurkalo|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:20|11|Dmytro Zavadsky |none|6|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:20|11|Dmytro Zavadsky |none|9|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:20|11|Dmytro Zavadsky |none|8|Oleksandr Kolesnik|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|11|Rasmus Fladberg |none|7|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|8|Rasmus Fladberg |none|11|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|11|Rasmus Fladberg |none|5|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:35|11|Rasmus Fladberg |none|10|Artem Pochtarev|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:19|11|Joachim Persson |none|8|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:19|11|Joachim Persson |none|7|Shai Geffen|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Linda Zetchiri |none|3|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Linda Zetchiri |none|6|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Linda Zetchiri |none|8|Yelyzaveta Zharka|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:23|11|Maryna Ilyinskaya|none|5|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:23|11|Maryna Ilyinskaya|none|6|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:23|11|Maryna Ilyinskaya|none|9|Nataliia Golovkina|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Natalya Voytsekh|none|7|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Natalya Voytsekh|none|4|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Natalya Voytsekh|none|5|Nadtochiy Olga|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907||Walkover Win|Gushcha Viktoriya|none|Walkover Loss|Matilda Petersen [4]|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|8|Ebru Yazgan|none|11|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Ebru Yazgan|none|6|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:22|11|Ebru Yazgan|none|9|Anna Mikhalkova|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Ozge Bayrak |none|7|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:18|11|Ozge Bayrak |none|4|Yelyzaveta Kryachko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:21|11|Vladyslava Lesnaya|none|6|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:21|11|Vladyslava Lesnaya|none|10|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:21|11|Vladyslava Lesnaya|none|9|Dana Grinenko|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Marija Ulitina |none|3|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Marija Ulitina |none|1|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:15|11|Marija Ulitina |none|8|Progrebnyak Viktoriya|none|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|singles
+20140907|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|9|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|3|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:19|11|Oleksandr Kolesnik|Ruslan Sarsekenov|7|Mykhaylo Makhnovskiy|Valeriy Zhuravlyov|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|10|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|2|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:10|11|Artem Shevchenko|Vladislav Volnyavskiy|1|Ivan Medynskiy|Kyrylo Shchur|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:16|11|Shai Geffen|Georgiy Natarov|2|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:16|11|Shai Geffen|Georgiy Natarov|7|Roman Konstantinov|Badista Valeriy|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|9|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|4|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:23|11|Kyryll Nesterenko|Valdyslav Tregubenko|10|Valery Famin|Oleg Lemeshev|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:15|11|Vitaly Konov|Dmytro Zavadsky|1|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:15|11|Vitaly Konov|Dmytro Zavadsky|5|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:15|11|Vitaly Konov|Dmytro Zavadsky|9|Vladyslav Stepanets|Oleynik Vyacheslav|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|0|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|9|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:18|11|Vladyslava Lesnaya|Anna Mikhalkova|2|Kateryna Arkhipova|Anastasiya Prozorova|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|9|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:26|9|Maryna Ilyinskaya|Yelyzaveta Kryachko|11|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles
+20140907|0:26|11|Maryna Ilyinskaya|Yelyzaveta Kryachko|6|Anastasia Petrenko|Viktoriya Shalaeva|3FA82AE8-6FFA-4D5A-8E3E-A25CA6A49D40|doubles

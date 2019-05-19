@@ -1,0 +1,816 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20180509|0:20|21|Yuri Stepanov|none|5|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Yuri Stepanov|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|David Toupe |none|7|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|David Toupe |none|17|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:28|21|Konstantin Afinogenov|none|15|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:28|21|Konstantin Afinogenov|none|17|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:40|21|Meepian Subpong|none|14|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:40|22|Meepian Subpong|none|20|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Umesh Vikram Kumar|none|7|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Umesh Vikram Kumar|none|18|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Mustafa Tugra Nur|none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Mustafa Tugra Nur|none|14|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:17|21|Osamu Nagashima |none|7|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:17|21|Osamu Nagashima |none|8|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:23|21|Kouhei Kobayashi|none|11|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:23|21|Kouhei Kobayashi|none|2|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Jakarin Homhaul |none|17|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Jakarin Homhaul |none|13|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Tomasz Szwedo|none|10|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Tomasz Szwedo|none|8|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Kumar Nitesh|none|13|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Kumar Nitesh|none|16|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|20|Sedat Tuemkaya|none|22|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|16|Alexander Polstyankin|none|21|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Alexander Polstyankin|none|8|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Alexander Polstyankin|none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Chatchai Kornpekanok|none|14|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Chatchai Kornpekanok|none|17|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Henriett Koosz|none|17|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Henriett Koosz|none|8|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|15|Kemal Erdem Orhon|none|21|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Kemal Erdem Orhon|none|19|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Kemal Erdem Orhon|none|15|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Chawarat Kitichokwattana|none|15|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Chawarat Kitichokwattana|none|16|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:21|21|Lalinakere Yathiraj Suhas |none|13|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:21|21|Lalinakere Yathiraj Suhas |none|14|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:57|28|Sujirat Pookkham|none|26|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:57|18|Sujirat Pookkham|none|21|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:57|21|Sujirat Pookkham|none|10|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Junthong Dumnern|none|18|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Junthong Dumnern|none|14|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Atsuya Watanabe|none|6|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Atsuya Watanabe|none|9|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:16|21|Liek Hou Cheah |none|5|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:16|21|Liek Hou Cheah |none|11|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Yuma Yamazaki |none|13|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Yuma Yamazaki |none|3|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Emine Seckin|none|19|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Emine Seckin|none|13|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Amnouy Wetwithan |none|12|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Amnouy Wetwithan |none|8|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Taiyo Imai |none|6|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Taiyo Imai |none|8|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:21|21|Tetsuo Ura|none|4|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:21|21|Tetsuo Ura|none|10|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:42|17|Ilker Tuzcu|none|21|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Yohei Hatakeyama|none|8|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Yohei Hatakeyama|none|18|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Faustine Noel|none|10|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Faustine Noel|none|6|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Veronique Braud|none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|19|Veronique Braud|none|21|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|Veronique Braud|none|17|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|23|Nipada Seangsupa|none|21|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Nipada Seangsupa|none|18|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Mamoru Oe|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Mamoru Oe|none|13|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Osamu Nagashima |none|6|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Osamu Nagashima |none|7|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Ayako Suzuki |none|11|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Ayako Suzuki |none|7|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Aydanur Sen|none|16|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Aydanur Sen|none|15|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:28|21|Mamiko Toyoda |none|17|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:28|21|Mamiko Toyoda |none|6|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Jakarin Homhaul |none|16|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|22|Jakarin Homhaul |none|20|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:45|14|Sebastien Martin|none|21|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:45|21|Sebastien Martin|none|15|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:45|21|Sebastien Martin|none|16|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:37|16|Zehra Baglar|none|21|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:37|21|Zehra Baglar|none|15|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:37|21|Zehra Baglar|none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:23|21|Manoj Sarkar |none|12|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:23|21|Manoj Sarkar |none|9|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:40|21|Daisuke Fujihara |none|11|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:40|21|Daisuke Fujihara |none|17|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Hiroshi Murayama |none|13|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Hiroshi Murayama |none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Chatchai Kornpekanok|none|14|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Chatchai Kornpekanok|none|8|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Narin Uluc|none|4|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Narin Uluc|none|11|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Mary Margaret Wilson |none|18|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Mary Margaret Wilson |none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Nipada Seangsupa|none|13|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Nipada Seangsupa|none|18|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Yuma Yamazaki |none|18|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Yuma Yamazaki |none|12|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Pramod Bhagat |none|13|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Pramod Bhagat |none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:17|21|Mathieu Thomas |none|11|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:17|21|Mathieu Thomas |none|15|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:12|21|Kumar Nitesh|none|4|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:12|21|Kumar Nitesh|none|7|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|1:00|14|Junthong Dumnern |Jakarin Homhaul|21|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|1:00|22|Junthong Dumnern |Jakarin Homhaul|20|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|1:00|21|Junthong Dumnern |Jakarin Homhaul|16|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|16|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|14|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:40|21|Pavel Popov |Yuri Stepanov|13|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:40|18|Pavel Popov |Yuri Stepanov|21|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:40|21|Pavel Popov |Yuri Stepanov|18|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:28|21|Lucas Mazur |none|17|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:28|21|Lucas Mazur |none|8|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Sukant Kadam |none|9|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Sukant Kadam |none|6|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Siripong Teamarrom |none|12|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Siripong Teamarrom |none|11|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Osamu Nagashima|Atsuya Watanabe|11|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:30|21|Osamu Nagashima|Atsuya Watanabe|17|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180509|0:25|21|Lalinakere Yathiraj Suhas |none|11|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Lalinakere Yathiraj Suhas |none|9|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Rickard Nilsson|none|8|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:24|21|Rickard Nilsson|none|11|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:23|21|Gen Shogaki|none|7|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:23|21|Gen Shogaki|none|17|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|24|Taiyo Imai |none|22|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Taiyo Imai |none|5|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:34|21|Mikhail Chiviksin|none|19|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:34|19|Mikhail Chiviksin|none|21|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:34|21|Mikhail Chiviksin|none|12|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Ilker Tuzcu|none|7|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Ilker Tuzcu|none|12|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Bartłomiej Mroz |none|9|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Bartłomiej Mroz |none|14|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Akiko Sugino|none|14|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:25|21|Akiko Sugino|none|11|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:16|21|Ayako Suzuki |none|2|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:16|21|Ayako Suzuki |none|0|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Kaede Kameyama|none|18|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180509|0:30|21|Kaede Kameyama|none|19|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Yuri Stepanov|none|5|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Yuri Stepanov|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|David Toupe |none|7|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|David Toupe |none|17|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:28|21|Konstantin Afinogenov|none|15|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:28|21|Konstantin Afinogenov|none|17|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:40|21|Meepian Subpong|none|14|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:40|22|Meepian Subpong|none|20|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Umesh Vikram Kumar|none|7|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Umesh Vikram Kumar|none|18|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Mustafa Tugra Nur|none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Mustafa Tugra Nur|none|14|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:17|21|Osamu Nagashima |none|7|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:17|21|Osamu Nagashima |none|8|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:23|21|Kouhei Kobayashi|none|11|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:23|21|Kouhei Kobayashi|none|2|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Jakarin Homhaul |none|17|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Jakarin Homhaul |none|13|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Tomasz Szwedo|none|10|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Tomasz Szwedo|none|8|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Kumar Nitesh|none|13|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Kumar Nitesh|none|16|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|20|Sedat Tuemkaya|none|22|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|16|Alexander Polstyankin|none|21|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Alexander Polstyankin|none|8|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Alexander Polstyankin|none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Chatchai Kornpekanok|none|14|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Chatchai Kornpekanok|none|17|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Henriett Koosz|none|17|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Henriett Koosz|none|8|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|15|Kemal Erdem Orhon|none|21|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Kemal Erdem Orhon|none|19|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Kemal Erdem Orhon|none|15|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Chawarat Kitichokwattana|none|15|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Chawarat Kitichokwattana|none|16|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:21|21|Lalinakere Yathiraj Suhas |none|13|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:21|21|Lalinakere Yathiraj Suhas |none|14|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:57|28|Sujirat Pookkham|none|26|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:57|18|Sujirat Pookkham|none|21|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:57|21|Sujirat Pookkham|none|10|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Junthong Dumnern|none|18|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Junthong Dumnern|none|14|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Atsuya Watanabe|none|6|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Atsuya Watanabe|none|9|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:16|21|Liek Hou Cheah |none|5|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:16|21|Liek Hou Cheah |none|11|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Yuma Yamazaki |none|13|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Yuma Yamazaki |none|3|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Emine Seckin|none|19|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Emine Seckin|none|13|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Amnouy Wetwithan |none|12|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Amnouy Wetwithan |none|8|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Taiyo Imai |none|6|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Taiyo Imai |none|8|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:21|21|Tetsuo Ura|none|4|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:21|21|Tetsuo Ura|none|10|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:42|17|Ilker Tuzcu|none|21|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Yohei Hatakeyama|none|8|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Yohei Hatakeyama|none|18|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Faustine Noel|none|10|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Faustine Noel|none|6|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Veronique Braud|none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|19|Veronique Braud|none|21|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|Veronique Braud|none|17|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|23|Nipada Seangsupa|none|21|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Nipada Seangsupa|none|18|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Mamoru Oe|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Mamoru Oe|none|13|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Osamu Nagashima |none|6|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Osamu Nagashima |none|7|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Ayako Suzuki |none|11|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Ayako Suzuki |none|7|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Aydanur Sen|none|16|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Aydanur Sen|none|15|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:28|21|Mamiko Toyoda |none|17|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:28|21|Mamiko Toyoda |none|6|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Jakarin Homhaul |none|16|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|22|Jakarin Homhaul |none|20|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:45|14|Sebastien Martin|none|21|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:45|21|Sebastien Martin|none|15|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:45|21|Sebastien Martin|none|16|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:37|16|Zehra Baglar|none|21|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:37|21|Zehra Baglar|none|15|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:37|21|Zehra Baglar|none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:23|21|Manoj Sarkar |none|12|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:23|21|Manoj Sarkar |none|9|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:40|21|Daisuke Fujihara |none|11|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:40|21|Daisuke Fujihara |none|17|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Hiroshi Murayama |none|13|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Hiroshi Murayama |none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Chatchai Kornpekanok|none|14|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Chatchai Kornpekanok|none|8|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Narin Uluc|none|4|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Narin Uluc|none|11|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Mary Margaret Wilson |none|18|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Mary Margaret Wilson |none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Nipada Seangsupa|none|13|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Nipada Seangsupa|none|18|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Yuma Yamazaki |none|18|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Yuma Yamazaki |none|12|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Pramod Bhagat |none|13|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Pramod Bhagat |none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:17|21|Mathieu Thomas |none|11|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:17|21|Mathieu Thomas |none|15|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:12|21|Kumar Nitesh|none|4|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:12|21|Kumar Nitesh|none|7|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|1:00|14|Junthong Dumnern |Jakarin Homhaul|21|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|1:00|22|Junthong Dumnern |Jakarin Homhaul|20|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|1:00|21|Junthong Dumnern |Jakarin Homhaul|16|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|16|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|14|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:40|21|Pavel Popov |Yuri Stepanov|13|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:40|18|Pavel Popov |Yuri Stepanov|21|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:40|21|Pavel Popov |Yuri Stepanov|18|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:28|21|Lucas Mazur |none|17|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:28|21|Lucas Mazur |none|8|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Sukant Kadam |none|9|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Sukant Kadam |none|6|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Siripong Teamarrom |none|12|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Siripong Teamarrom |none|11|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Osamu Nagashima|Atsuya Watanabe|11|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:30|21|Osamu Nagashima|Atsuya Watanabe|17|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180510|0:25|21|Lalinakere Yathiraj Suhas |none|11|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Lalinakere Yathiraj Suhas |none|9|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Rickard Nilsson|none|8|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:24|21|Rickard Nilsson|none|11|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:23|21|Gen Shogaki|none|7|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:23|21|Gen Shogaki|none|17|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|24|Taiyo Imai |none|22|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Taiyo Imai |none|5|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:34|21|Mikhail Chiviksin|none|19|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:34|19|Mikhail Chiviksin|none|21|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:34|21|Mikhail Chiviksin|none|12|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Ilker Tuzcu|none|7|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Ilker Tuzcu|none|12|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Bartłomiej Mroz |none|9|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Bartłomiej Mroz |none|14|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Akiko Sugino|none|14|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:25|21|Akiko Sugino|none|11|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:16|21|Ayako Suzuki |none|2|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:16|21|Ayako Suzuki |none|0|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Kaede Kameyama|none|18|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180510|0:30|21|Kaede Kameyama|none|19|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Yuri Stepanov|none|5|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Yuri Stepanov|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|David Toupe |none|7|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|David Toupe |none|17|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:28|21|Konstantin Afinogenov|none|15|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:28|21|Konstantin Afinogenov|none|17|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:40|21|Meepian Subpong|none|14|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:40|22|Meepian Subpong|none|20|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Umesh Vikram Kumar|none|7|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Umesh Vikram Kumar|none|18|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Mustafa Tugra Nur|none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Mustafa Tugra Nur|none|14|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:17|21|Osamu Nagashima |none|7|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:17|21|Osamu Nagashima |none|8|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:23|21|Kouhei Kobayashi|none|11|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:23|21|Kouhei Kobayashi|none|2|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Jakarin Homhaul |none|17|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Jakarin Homhaul |none|13|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Tomasz Szwedo|none|10|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Tomasz Szwedo|none|8|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Kumar Nitesh|none|13|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Kumar Nitesh|none|16|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|20|Sedat Tuemkaya|none|22|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|16|Alexander Polstyankin|none|21|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Alexander Polstyankin|none|8|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Alexander Polstyankin|none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Chatchai Kornpekanok|none|14|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Chatchai Kornpekanok|none|17|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Henriett Koosz|none|17|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Henriett Koosz|none|8|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|15|Kemal Erdem Orhon|none|21|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Kemal Erdem Orhon|none|19|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Kemal Erdem Orhon|none|15|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Chawarat Kitichokwattana|none|15|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Chawarat Kitichokwattana|none|16|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:21|21|Lalinakere Yathiraj Suhas |none|13|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:21|21|Lalinakere Yathiraj Suhas |none|14|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:57|28|Sujirat Pookkham|none|26|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:57|18|Sujirat Pookkham|none|21|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:57|21|Sujirat Pookkham|none|10|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Junthong Dumnern|none|18|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Junthong Dumnern|none|14|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Atsuya Watanabe|none|6|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Atsuya Watanabe|none|9|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:16|21|Liek Hou Cheah |none|5|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:16|21|Liek Hou Cheah |none|11|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Yuma Yamazaki |none|13|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Yuma Yamazaki |none|3|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Emine Seckin|none|19|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Emine Seckin|none|13|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Amnouy Wetwithan |none|12|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Amnouy Wetwithan |none|8|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Taiyo Imai |none|6|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Taiyo Imai |none|8|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:21|21|Tetsuo Ura|none|4|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:21|21|Tetsuo Ura|none|10|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:42|17|Ilker Tuzcu|none|21|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Yohei Hatakeyama|none|8|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Yohei Hatakeyama|none|18|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Faustine Noel|none|10|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Faustine Noel|none|6|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Veronique Braud|none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|19|Veronique Braud|none|21|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|Veronique Braud|none|17|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|23|Nipada Seangsupa|none|21|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Nipada Seangsupa|none|18|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Mamoru Oe|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Mamoru Oe|none|13|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Osamu Nagashima |none|6|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Osamu Nagashima |none|7|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Ayako Suzuki |none|11|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Ayako Suzuki |none|7|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Aydanur Sen|none|16|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Aydanur Sen|none|15|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:28|21|Mamiko Toyoda |none|17|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:28|21|Mamiko Toyoda |none|6|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Jakarin Homhaul |none|16|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|22|Jakarin Homhaul |none|20|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:45|14|Sebastien Martin|none|21|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:45|21|Sebastien Martin|none|15|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:45|21|Sebastien Martin|none|16|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:37|16|Zehra Baglar|none|21|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:37|21|Zehra Baglar|none|15|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:37|21|Zehra Baglar|none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:23|21|Manoj Sarkar |none|12|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:23|21|Manoj Sarkar |none|9|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:40|21|Daisuke Fujihara |none|11|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:40|21|Daisuke Fujihara |none|17|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Hiroshi Murayama |none|13|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Hiroshi Murayama |none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Chatchai Kornpekanok|none|14|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Chatchai Kornpekanok|none|8|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Narin Uluc|none|4|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Narin Uluc|none|11|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Mary Margaret Wilson |none|18|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Mary Margaret Wilson |none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Nipada Seangsupa|none|13|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Nipada Seangsupa|none|18|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Yuma Yamazaki |none|18|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Yuma Yamazaki |none|12|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Pramod Bhagat |none|13|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Pramod Bhagat |none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:17|21|Mathieu Thomas |none|11|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:17|21|Mathieu Thomas |none|15|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:12|21|Kumar Nitesh|none|4|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:12|21|Kumar Nitesh|none|7|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|1:00|14|Junthong Dumnern |Jakarin Homhaul|21|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|1:00|22|Junthong Dumnern |Jakarin Homhaul|20|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|1:00|21|Junthong Dumnern |Jakarin Homhaul|16|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|16|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|14|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:40|21|Pavel Popov |Yuri Stepanov|13|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:40|18|Pavel Popov |Yuri Stepanov|21|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:40|21|Pavel Popov |Yuri Stepanov|18|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:28|21|Lucas Mazur |none|17|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:28|21|Lucas Mazur |none|8|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Sukant Kadam |none|9|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Sukant Kadam |none|6|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Siripong Teamarrom |none|12|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Siripong Teamarrom |none|11|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Osamu Nagashima|Atsuya Watanabe|11|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:30|21|Osamu Nagashima|Atsuya Watanabe|17|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180511|0:25|21|Lalinakere Yathiraj Suhas |none|11|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Lalinakere Yathiraj Suhas |none|9|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Rickard Nilsson|none|8|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:24|21|Rickard Nilsson|none|11|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:23|21|Gen Shogaki|none|7|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:23|21|Gen Shogaki|none|17|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|24|Taiyo Imai |none|22|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Taiyo Imai |none|5|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:34|21|Mikhail Chiviksin|none|19|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:34|19|Mikhail Chiviksin|none|21|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:34|21|Mikhail Chiviksin|none|12|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Ilker Tuzcu|none|7|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Ilker Tuzcu|none|12|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Bartłomiej Mroz |none|9|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Bartłomiej Mroz |none|14|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Akiko Sugino|none|14|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:25|21|Akiko Sugino|none|11|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:16|21|Ayako Suzuki |none|2|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:16|21|Ayako Suzuki |none|0|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Kaede Kameyama|none|18|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180511|0:30|21|Kaede Kameyama|none|19|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Yuri Stepanov|none|5|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Yuri Stepanov|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|David Toupe |none|7|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|David Toupe |none|17|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:28|21|Konstantin Afinogenov|none|15|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:28|21|Konstantin Afinogenov|none|17|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:40|21|Meepian Subpong|none|14|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:40|22|Meepian Subpong|none|20|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Umesh Vikram Kumar|none|7|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Umesh Vikram Kumar|none|18|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Mustafa Tugra Nur|none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Mustafa Tugra Nur|none|14|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:17|21|Osamu Nagashima |none|7|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:17|21|Osamu Nagashima |none|8|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:23|21|Kouhei Kobayashi|none|11|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:23|21|Kouhei Kobayashi|none|2|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Jakarin Homhaul |none|17|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Jakarin Homhaul |none|13|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Tomasz Szwedo|none|10|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Tomasz Szwedo|none|8|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Kumar Nitesh|none|13|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Kumar Nitesh|none|16|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|20|Sedat Tuemkaya|none|22|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|16|Alexander Polstyankin|none|21|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Alexander Polstyankin|none|8|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Alexander Polstyankin|none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Chatchai Kornpekanok|none|14|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Chatchai Kornpekanok|none|17|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Henriett Koosz|none|17|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Henriett Koosz|none|8|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|15|Kemal Erdem Orhon|none|21|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Kemal Erdem Orhon|none|19|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Kemal Erdem Orhon|none|15|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Chawarat Kitichokwattana|none|15|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Chawarat Kitichokwattana|none|16|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:21|21|Lalinakere Yathiraj Suhas |none|13|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:21|21|Lalinakere Yathiraj Suhas |none|14|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:57|28|Sujirat Pookkham|none|26|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:57|18|Sujirat Pookkham|none|21|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:57|21|Sujirat Pookkham|none|10|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Junthong Dumnern|none|18|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Junthong Dumnern|none|14|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Atsuya Watanabe|none|6|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Atsuya Watanabe|none|9|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:16|21|Liek Hou Cheah |none|5|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:16|21|Liek Hou Cheah |none|11|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Yuma Yamazaki |none|13|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Yuma Yamazaki |none|3|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Emine Seckin|none|19|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Emine Seckin|none|13|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Amnouy Wetwithan |none|12|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Amnouy Wetwithan |none|8|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Taiyo Imai |none|6|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Taiyo Imai |none|8|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:21|21|Tetsuo Ura|none|4|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:21|21|Tetsuo Ura|none|10|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:42|17|Ilker Tuzcu|none|21|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Yohei Hatakeyama|none|8|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Yohei Hatakeyama|none|18|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Faustine Noel|none|10|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Faustine Noel|none|6|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Veronique Braud|none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|19|Veronique Braud|none|21|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|Veronique Braud|none|17|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|23|Nipada Seangsupa|none|21|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Nipada Seangsupa|none|18|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Mamoru Oe|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Mamoru Oe|none|13|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Osamu Nagashima |none|6|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Osamu Nagashima |none|7|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Ayako Suzuki |none|11|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Ayako Suzuki |none|7|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Aydanur Sen|none|16|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Aydanur Sen|none|15|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:28|21|Mamiko Toyoda |none|17|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:28|21|Mamiko Toyoda |none|6|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Jakarin Homhaul |none|16|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|22|Jakarin Homhaul |none|20|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:45|14|Sebastien Martin|none|21|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:45|21|Sebastien Martin|none|15|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:45|21|Sebastien Martin|none|16|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:37|16|Zehra Baglar|none|21|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:37|21|Zehra Baglar|none|15|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:37|21|Zehra Baglar|none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:23|21|Manoj Sarkar |none|12|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:23|21|Manoj Sarkar |none|9|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:40|21|Daisuke Fujihara |none|11|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:40|21|Daisuke Fujihara |none|17|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Hiroshi Murayama |none|13|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Hiroshi Murayama |none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Chatchai Kornpekanok|none|14|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Chatchai Kornpekanok|none|8|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Narin Uluc|none|4|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Narin Uluc|none|11|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Mary Margaret Wilson |none|18|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Mary Margaret Wilson |none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Nipada Seangsupa|none|13|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Nipada Seangsupa|none|18|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Yuma Yamazaki |none|18|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Yuma Yamazaki |none|12|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Pramod Bhagat |none|13|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Pramod Bhagat |none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:17|21|Mathieu Thomas |none|11|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:17|21|Mathieu Thomas |none|15|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:12|21|Kumar Nitesh|none|4|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:12|21|Kumar Nitesh|none|7|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|1:00|14|Junthong Dumnern |Jakarin Homhaul|21|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|1:00|22|Junthong Dumnern |Jakarin Homhaul|20|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|1:00|21|Junthong Dumnern |Jakarin Homhaul|16|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|16|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|14|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:40|21|Pavel Popov |Yuri Stepanov|13|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:40|18|Pavel Popov |Yuri Stepanov|21|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:40|21|Pavel Popov |Yuri Stepanov|18|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:28|21|Lucas Mazur |none|17|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:28|21|Lucas Mazur |none|8|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Sukant Kadam |none|9|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Sukant Kadam |none|6|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Siripong Teamarrom |none|12|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Siripong Teamarrom |none|11|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Osamu Nagashima|Atsuya Watanabe|11|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:30|21|Osamu Nagashima|Atsuya Watanabe|17|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180512|0:25|21|Lalinakere Yathiraj Suhas |none|11|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Lalinakere Yathiraj Suhas |none|9|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Rickard Nilsson|none|8|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:24|21|Rickard Nilsson|none|11|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:23|21|Gen Shogaki|none|7|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:23|21|Gen Shogaki|none|17|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|24|Taiyo Imai |none|22|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Taiyo Imai |none|5|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:34|21|Mikhail Chiviksin|none|19|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:34|19|Mikhail Chiviksin|none|21|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:34|21|Mikhail Chiviksin|none|12|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Ilker Tuzcu|none|7|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Ilker Tuzcu|none|12|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Bartłomiej Mroz |none|9|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Bartłomiej Mroz |none|14|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Akiko Sugino|none|14|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:25|21|Akiko Sugino|none|11|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:16|21|Ayako Suzuki |none|2|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:16|21|Ayako Suzuki |none|0|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Kaede Kameyama|none|18|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180512|0:30|21|Kaede Kameyama|none|19|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Yuri Stepanov|none|5|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Yuri Stepanov|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|David Toupe |none|7|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|David Toupe |none|17|Mamoru Oe|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:28|21|Konstantin Afinogenov|none|15|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:28|21|Konstantin Afinogenov|none|17|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:40|21|Meepian Subpong|none|14|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:40|22|Meepian Subpong|none|20|Taku Hiroi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Umesh Vikram Kumar|none|7|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Umesh Vikram Kumar|none|18|Muammer Cankaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Mustafa Tugra Nur|none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Mustafa Tugra Nur|none|14|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:17|21|Osamu Nagashima |none|7|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:17|21|Osamu Nagashima |none|8|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:23|21|Kouhei Kobayashi|none|11|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:23|21|Kouhei Kobayashi|none|2|Sebastien Martin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Jakarin Homhaul |none|17|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Jakarin Homhaul |none|13|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Tomasz Szwedo|none|10|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Tomasz Szwedo|none|8|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Kumar Nitesh|none|13|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Kumar Nitesh|none|16|Mathieu Thomas [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|20|Sedat Tuemkaya|none|22|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Sedat Tuemkaya|none|12|Pavel Kulikov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|16|Alexander Polstyankin|none|21|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Alexander Polstyankin|none|8|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Alexander Polstyankin|none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Chatchai Kornpekanok|none|14|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Chatchai Kornpekanok|none|17|Hiroshi Murayama [3/4]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Henriett Koosz|none|17|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Henriett Koosz|none|8|Irina Kuzmenko|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|15|Kemal Erdem Orhon|none|21|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Kemal Erdem Orhon|none|19|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Kemal Erdem Orhon|none|15|Denis Grzesiuk|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:19|21|Oleg Dontsov|none|17|Fuat Soruklu|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Chawarat Kitichokwattana|none|15|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Chawarat Kitichokwattana|none|16|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:21|21|Lalinakere Yathiraj Suhas |none|13|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:21|21|Lalinakere Yathiraj Suhas |none|14|Rickard Nilsson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:57|28|Sujirat Pookkham|none|26|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:57|18|Sujirat Pookkham|none|21|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:57|21|Sujirat Pookkham|none|10|Etsuko Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Junthong Dumnern|none|18|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Junthong Dumnern|none|14|Aphichat Sumpradit|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Atsuya Watanabe|none|6|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Atsuya Watanabe|none|9|Ilya Pargeev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:16|21|Liek Hou Cheah |none|5|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:16|21|Liek Hou Cheah |none|11|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|David Jack Wilson|none|18|Mikhail Chiviksin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Yuma Yamazaki |none|13|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Yuma Yamazaki |none|3|Rie Ogura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Emine Seckin|none|19|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Emine Seckin|none|13|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Amnouy Wetwithan |none|12|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Amnouy Wetwithan |none|8|Narin Uluc|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Taiyo Imai |none|6|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Taiyo Imai |none|8|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:21|21|Tetsuo Ura|none|4|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:21|21|Tetsuo Ura|none|10|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:42|17|Ilker Tuzcu|none|21|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:42|21|Ilker Tuzcu|none|19|Bartłomiej Mroz [3]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Yohei Hatakeyama|none|8|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Yohei Hatakeyama|none|18|Fabien Morat|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Niall Mcveigh|none|13|Alexander Mekhdiev|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Faustine Noel|none|10|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Faustine Noel|none|6|Katarzyna Ziebik|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Veronique Braud|none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|19|Veronique Braud|none|21|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|Veronique Braud|none|17|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|23|Nipada Seangsupa|none|21|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Nipada Seangsupa|none|18|Mary Margaret Wilson [2]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:35|21|David Toupe |none|17|Yuri Stepanov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Mamoru Oe|none|9|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Mamoru Oe|none|13|Aslan Sahin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Osamu Nagashima |none|6|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Osamu Nagashima |none|7|Avni Kertmen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Ayako Suzuki |none|11|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Ayako Suzuki |none|7|Akiko Sugino|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Aydanur Sen|none|16|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Aydanur Sen|none|15|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:28|21|Mamiko Toyoda |none|17|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:28|21|Mamiko Toyoda |none|6|Kaede Kameyama|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Konstantin Afinogenov|none|10|Francisco Motero|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Jakarin Homhaul |none|16|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|22|Jakarin Homhaul |none|20|Kouhei Kobayashi|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:45|14|Sebastien Martin|none|21|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:45|21|Sebastien Martin|none|15|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:45|21|Sebastien Martin|none|16|Pavel Popov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:37|16|Zehra Baglar|none|21|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:37|21|Zehra Baglar|none|15|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:37|21|Zehra Baglar|none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:23|21|Manoj Sarkar |none|12|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:23|21|Manoj Sarkar |none|9|Meepian Subpong|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:40|21|Daisuke Fujihara |none|11|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:40|21|Daisuke Fujihara |none|17|Umesh Vikram Kumar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Hiroshi Murayama |none|13|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Hiroshi Murayama |none|14|Javier Fernandez|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Chatchai Kornpekanok|none|14|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Chatchai Kornpekanok|none|8|Alexander Polstyankin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Narin Uluc|none|4|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Narin Uluc|none|11|Esther Torres|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Faustine Noel|none|16|Chanida Srinavakul [1]|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Mary Margaret Wilson |none|18|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Mary Margaret Wilson |none|14|Halime Yildiz|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Nipada Seangsupa|none|13|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Nipada Seangsupa|none|18|Veronique Braud|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Yuma Yamazaki |none|18|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Yuma Yamazaki |none|12|Emine Seckin|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Rie Ogura|none|8|Marcela Quinteros|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Pramod Bhagat |none|13|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Pramod Bhagat |none|19|Thomas Numitor|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:17|21|Mathieu Thomas |none|11|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:17|21|Mathieu Thomas |none|15|Tomasz Szwedo|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:12|21|Kumar Nitesh|none|4|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:12|21|Kumar Nitesh|none|7|Kazim Durak|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|1:00|14|Junthong Dumnern |Jakarin Homhaul|21|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|1:00|22|Junthong Dumnern |Jakarin Homhaul|20|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|1:00|21|Junthong Dumnern |Jakarin Homhaul|16|Kouhei Kobayashi|Hiroshi Murayama|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|16|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:30|21|Chatchai Kornpekanok |Aphichat Sumpradit|14|Mamoru Oe|Alexander Polstyankin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:40|21|Pavel Popov |Yuri Stepanov|13|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:40|18|Pavel Popov |Yuri Stepanov|21|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:40|21|Pavel Popov |Yuri Stepanov|18|Javier Fernandez|Francisco Motero|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:28|21|Lucas Mazur |none|17|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:28|21|Lucas Mazur |none|8|Sedat Tuemkaya|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Sukant Kadam |none|9|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Sukant Kadam |none|6|Kemal Erdem Orhon|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Siripong Teamarrom |none|12|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Siripong Teamarrom |none|11|Oleg Dontsov|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Osamu Nagashima|Atsuya Watanabe|11|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:30|21|Osamu Nagashima|Atsuya Watanabe|17|Avni Kertmen|Aslan Sahin|9AC02B6C-876C-4BA9-ACBF-93483E291A02|doubles
+20180513|0:25|21|Lalinakere Yathiraj Suhas |none|11|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Lalinakere Yathiraj Suhas |none|9|Chawarat Kitichokwattana|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Rickard Nilsson|none|8|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:24|21|Rickard Nilsson|none|11|Sukru Gul|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:23|21|Gen Shogaki|none|7|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:23|21|Gen Shogaki|none|17|Burak May|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|24|Taiyo Imai |none|22|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Taiyo Imai |none|5|David Jack Wilson|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:34|21|Mikhail Chiviksin|none|19|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:34|19|Mikhail Chiviksin|none|21|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:34|21|Mikhail Chiviksin|none|12|Florian Charles-Edouard Cantais|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Ilker Tuzcu|none|7|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Ilker Tuzcu|none|12|Joshua Donker|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Bartłomiej Mroz |none|9|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Bartłomiej Mroz |none|14|Tetsuo Ura|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Akiko Sugino|none|14|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:25|21|Akiko Sugino|none|11|Aydanur Sen|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:16|21|Ayako Suzuki |none|2|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:16|21|Ayako Suzuki |none|0|Rabia Kurt|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:20|21|Mamiko Toyoda |none|13|Megan Hollander|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Kaede Kameyama|none|18|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles
+20180513|0:30|21|Kaede Kameyama|none|19|Zehra Baglar|none|9AC02B6C-876C-4BA9-ACBF-93483E291A02|singles

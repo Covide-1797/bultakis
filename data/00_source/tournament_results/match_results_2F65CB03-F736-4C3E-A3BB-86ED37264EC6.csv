@@ -1,0 +1,655 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20160322|0:18|21|Edward Lau|Tamara Otene|11|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:18|21|Edward Lau|Tamara Otene|13|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:24|21|Alistair Casey|Melinda Sun|14|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:24|21|Alistair Casey|Melinda Sun|17|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:25|21|Niccolo Tagle|Deborah Yin|15|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:25|22|Niccolo Tagle|Deborah Yin|20|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:02|1|Manu Attri|Ashwini Ponnappa|0|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:02|Walkover Win|Manu Attri|Ashwini Ponnappa|Walkover Loss|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:17|21|Takuto Inoue|Naru Shinoya|7|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:17|21|Takuto Inoue|Naru Shinoya|6|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:31|24|Kevin Dennerly-Minturn|Danielle Tahuri|22|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:31|21|Kevin Dennerly-Minturn|Danielle Tahuri|13|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:36|22|Huaidong Tang|Joy Lai|20|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:36|18|Huaidong Tang|Joy Lai|21|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:36|21|Huaidong Tang|Joy Lai|18|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:35|17|Catelyn Rozario|none|21|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:35|21|Catelyn Rozario|none|14|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:35|22|Catelyn Rozario|none|20|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Yu Jen Chi|Kuo Ching-Hung|10|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:19|21|Yu Jen Chi|Kuo Ching-Hung|12|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:23|21|Alistair Casey|Melinda Sun|14|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:23|21|Alistair Casey|Melinda Sun|15|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:18|21|Manu Attri|Ashwini Ponnappa|10|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:18|21|Manu Attri|Ashwini Ponnappa|11|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:23|21|Takuto Inoue|Naru Shinoya|13|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:23|21|Takuto Inoue|Naru Shinoya|5|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:27|21|Huaidong Tang|Joy Lai|17|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:27|21|Huaidong Tang|Joy Lai|19|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:16|21|Wei Chi Liu|Shih Kuei Chun|6|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:16|21|Wei Chi Liu|Shih Kuei Chun|3|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:35|21|Tamara Otene|none|12|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:35|19|Tamara Otene|none|21|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:35|21|Tamara Otene|none|7|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:18|21|Peter Gabriel Magnaye|Alvin Morada|9|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:18|21|Peter Gabriel Magnaye|Alvin Morada|13|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:25|21|Selena Wu|none|19|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:25|21|Selena Wu|none|13|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:15|21|Minh Bao|Bao Duc Duong|4|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:15|21|Minh Bao|Bao Duc Duong|16|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:37|15|Kelly Stern|none|21|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:37|21|Kelly Stern|none|12|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:37|21|Kelly Stern|none|18|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Cheng Heng Su|Yang Po-Hsuan|7|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:19|21|Cheng Heng Su|Yang Po-Hsuan|14|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:16|21|Wei Chi Liu|Shih Kuei Chun|14|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:16|21|Wei Chi Liu|Shih Kuei Chun|7|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:20|21|Vicki Copeland|none|12|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:20|21|Vicki Copeland|none|10|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:15|21|Peter Gabriel Magnaye|Alvin Morada|7|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:15|21|Peter Gabriel Magnaye|Alvin Morada|11|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322||Walkover Win|Minh Bao|Bao Duc Duong|Walkover Loss|Jack Boyle|Christopher Steeghs|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:32|21|Kelly Stern|none|8|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:32|10|Kelly Stern|none|21|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:32|21|Kelly Stern|none|19|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Cheng Heng Su|Yang Po-Hsuan|4|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:19|21|Cheng Heng Su|Yang Po-Hsuan|8|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160322|0:18|21|Son Wan Ho |none|5|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:18|21|Son Wan Ho |none|3|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:15|21|Jonathan Sun|none|6|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:15|21|Jonathan Sun|none|10|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Lin Guipu|none|5|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Lin Guipu|none|2|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:23|21|Huang Yuxiang |none|10|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:23|21|Huang Yuxiang |none|7|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Tien Minh Nguyen |none|8|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Tien Minh Nguyen |none|5|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|22|Kevin Zhang|none|20|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|21|Kevin Zhang|none|11|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:30|21|Pit Seng Low|none|18|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:30|22|Pit Seng Low|none|20|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:21|21|Kazumasa Sakai |none|5|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:21|21|Kazumasa Sakai |none|4|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Riichi Takeshita|none|13|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Riichi Takeshita|none|12|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:21|21|Lin Yu Hsien|none|6|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:21|21|Lin Yu Hsien|none|9|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322||Walkover Win|Huaidong Tang|none|Walkover Loss|Tzu Wei Wang [14]|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Qiao Bin |none|4|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Qiao Bin |none|13|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322||Walkover Win|Ihsan Maulana Mustofa |none|Walkover Loss|Zulhelmi Zulkiffli|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|21|Hsu Jen Hao |none|13|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|21|Hsu Jen Hao |none|12|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:18|21|Misha Zilberman|none|5|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:18|21|Misha Zilberman|none|7|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Shi Yuqi|none|18|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Shi Yuqi|none|9|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:34|21|Daren Liew|none|17|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:34|21|Daren Liew|none|13|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:23|21|Shih Kuei Chun|none|11|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:23|21|Shih Kuei Chun|none|13|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|21|Abhinav Manota|none|9|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:28|21|Abhinav Manota|none|18|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Lee Dong Keun |none|5|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:29|21|Lee Dong Keun |none|13|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:33|21|Ginting Anthony |none|17|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:33|21|Ginting Anthony |none|14|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Zi Liang Derek Wong |none|5|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:19|21|Zi Liang Derek Wong |none|6|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:27|21|Wibowo Kho Henrikho|none|7|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:27|21|Wibowo Kho Henrikho|none|12|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:16|21|Christie Jonatan |none|4|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:16|21|Christie Jonatan |none|5|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:16|21|Goh Soon Huat |none|4|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322|0:16|21|Goh Soon Huat |none|8|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160322||Walkover Win|Fikri Ihsandi Hadmadi|none|Walkover Loss|Christopher Steeghs|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:18|21|Edward Lau|Tamara Otene|11|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:18|21|Edward Lau|Tamara Otene|13|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:24|21|Alistair Casey|Melinda Sun|14|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:24|21|Alistair Casey|Melinda Sun|17|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:25|21|Niccolo Tagle|Deborah Yin|15|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:25|22|Niccolo Tagle|Deborah Yin|20|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:02|1|Manu Attri|Ashwini Ponnappa|0|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:02|Walkover Win|Manu Attri|Ashwini Ponnappa|Walkover Loss|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:17|21|Takuto Inoue|Naru Shinoya|7|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:17|21|Takuto Inoue|Naru Shinoya|6|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:31|24|Kevin Dennerly-Minturn|Danielle Tahuri|22|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:31|21|Kevin Dennerly-Minturn|Danielle Tahuri|13|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:36|22|Huaidong Tang|Joy Lai|20|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:36|18|Huaidong Tang|Joy Lai|21|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:36|21|Huaidong Tang|Joy Lai|18|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:35|17|Catelyn Rozario|none|21|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:35|21|Catelyn Rozario|none|14|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:35|22|Catelyn Rozario|none|20|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Yu Jen Chi|Kuo Ching-Hung|10|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:19|21|Yu Jen Chi|Kuo Ching-Hung|12|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:23|21|Alistair Casey|Melinda Sun|14|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:23|21|Alistair Casey|Melinda Sun|15|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:18|21|Manu Attri|Ashwini Ponnappa|10|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:18|21|Manu Attri|Ashwini Ponnappa|11|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:23|21|Takuto Inoue|Naru Shinoya|13|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:23|21|Takuto Inoue|Naru Shinoya|5|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:27|21|Huaidong Tang|Joy Lai|17|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:27|21|Huaidong Tang|Joy Lai|19|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:16|21|Wei Chi Liu|Shih Kuei Chun|6|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:16|21|Wei Chi Liu|Shih Kuei Chun|3|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:35|21|Tamara Otene|none|12|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:35|19|Tamara Otene|none|21|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:35|21|Tamara Otene|none|7|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:18|21|Peter Gabriel Magnaye|Alvin Morada|9|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:18|21|Peter Gabriel Magnaye|Alvin Morada|13|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:25|21|Selena Wu|none|19|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:25|21|Selena Wu|none|13|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:15|21|Minh Bao|Bao Duc Duong|4|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:15|21|Minh Bao|Bao Duc Duong|16|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:37|15|Kelly Stern|none|21|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:37|21|Kelly Stern|none|12|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:37|21|Kelly Stern|none|18|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Cheng Heng Su|Yang Po-Hsuan|7|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:19|21|Cheng Heng Su|Yang Po-Hsuan|14|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:16|21|Wei Chi Liu|Shih Kuei Chun|14|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:16|21|Wei Chi Liu|Shih Kuei Chun|7|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:20|21|Vicki Copeland|none|12|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:20|21|Vicki Copeland|none|10|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:15|21|Peter Gabriel Magnaye|Alvin Morada|7|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:15|21|Peter Gabriel Magnaye|Alvin Morada|11|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323||Walkover Win|Minh Bao|Bao Duc Duong|Walkover Loss|Jack Boyle|Christopher Steeghs|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:32|21|Kelly Stern|none|8|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:32|10|Kelly Stern|none|21|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:32|21|Kelly Stern|none|19|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Cheng Heng Su|Yang Po-Hsuan|4|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:19|21|Cheng Heng Su|Yang Po-Hsuan|8|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160323|0:18|21|Son Wan Ho |none|5|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:18|21|Son Wan Ho |none|3|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:15|21|Jonathan Sun|none|6|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:15|21|Jonathan Sun|none|10|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Lin Guipu|none|5|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Lin Guipu|none|2|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:23|21|Huang Yuxiang |none|10|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:23|21|Huang Yuxiang |none|7|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Tien Minh Nguyen |none|8|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Tien Minh Nguyen |none|5|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|22|Kevin Zhang|none|20|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|21|Kevin Zhang|none|11|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:30|21|Pit Seng Low|none|18|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:30|22|Pit Seng Low|none|20|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:21|21|Kazumasa Sakai |none|5|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:21|21|Kazumasa Sakai |none|4|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Riichi Takeshita|none|13|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Riichi Takeshita|none|12|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:21|21|Lin Yu Hsien|none|6|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:21|21|Lin Yu Hsien|none|9|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323||Walkover Win|Huaidong Tang|none|Walkover Loss|Tzu Wei Wang [14]|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Qiao Bin |none|4|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Qiao Bin |none|13|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323||Walkover Win|Ihsan Maulana Mustofa |none|Walkover Loss|Zulhelmi Zulkiffli|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|21|Hsu Jen Hao |none|13|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|21|Hsu Jen Hao |none|12|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:18|21|Misha Zilberman|none|5|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:18|21|Misha Zilberman|none|7|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Shi Yuqi|none|18|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Shi Yuqi|none|9|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:34|21|Daren Liew|none|17|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:34|21|Daren Liew|none|13|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:23|21|Shih Kuei Chun|none|11|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:23|21|Shih Kuei Chun|none|13|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|21|Abhinav Manota|none|9|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:28|21|Abhinav Manota|none|18|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Lee Dong Keun |none|5|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:29|21|Lee Dong Keun |none|13|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:33|21|Ginting Anthony |none|17|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:33|21|Ginting Anthony |none|14|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Zi Liang Derek Wong |none|5|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:19|21|Zi Liang Derek Wong |none|6|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:27|21|Wibowo Kho Henrikho|none|7|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:27|21|Wibowo Kho Henrikho|none|12|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:16|21|Christie Jonatan |none|4|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:16|21|Christie Jonatan |none|5|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:16|21|Goh Soon Huat |none|4|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323|0:16|21|Goh Soon Huat |none|8|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160323||Walkover Win|Fikri Ihsandi Hadmadi|none|Walkover Loss|Christopher Steeghs|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:18|21|Edward Lau|Tamara Otene|11|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:18|21|Edward Lau|Tamara Otene|13|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:24|21|Alistair Casey|Melinda Sun|14|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:24|21|Alistair Casey|Melinda Sun|17|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:25|21|Niccolo Tagle|Deborah Yin|15|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:25|22|Niccolo Tagle|Deborah Yin|20|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:02|1|Manu Attri|Ashwini Ponnappa|0|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:02|Walkover Win|Manu Attri|Ashwini Ponnappa|Walkover Loss|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:17|21|Takuto Inoue|Naru Shinoya|7|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:17|21|Takuto Inoue|Naru Shinoya|6|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:31|24|Kevin Dennerly-Minturn|Danielle Tahuri|22|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:31|21|Kevin Dennerly-Minturn|Danielle Tahuri|13|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:36|22|Huaidong Tang|Joy Lai|20|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:36|18|Huaidong Tang|Joy Lai|21|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:36|21|Huaidong Tang|Joy Lai|18|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:35|17|Catelyn Rozario|none|21|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:35|21|Catelyn Rozario|none|14|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:35|22|Catelyn Rozario|none|20|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Yu Jen Chi|Kuo Ching-Hung|10|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:19|21|Yu Jen Chi|Kuo Ching-Hung|12|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:23|21|Alistair Casey|Melinda Sun|14|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:23|21|Alistair Casey|Melinda Sun|15|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:18|21|Manu Attri|Ashwini Ponnappa|10|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:18|21|Manu Attri|Ashwini Ponnappa|11|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:23|21|Takuto Inoue|Naru Shinoya|13|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:23|21|Takuto Inoue|Naru Shinoya|5|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:27|21|Huaidong Tang|Joy Lai|17|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:27|21|Huaidong Tang|Joy Lai|19|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:16|21|Wei Chi Liu|Shih Kuei Chun|6|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:16|21|Wei Chi Liu|Shih Kuei Chun|3|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:35|21|Tamara Otene|none|12|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:35|19|Tamara Otene|none|21|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:35|21|Tamara Otene|none|7|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:18|21|Peter Gabriel Magnaye|Alvin Morada|9|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:18|21|Peter Gabriel Magnaye|Alvin Morada|13|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:25|21|Selena Wu|none|19|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:25|21|Selena Wu|none|13|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:15|21|Minh Bao|Bao Duc Duong|4|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:15|21|Minh Bao|Bao Duc Duong|16|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:37|15|Kelly Stern|none|21|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:37|21|Kelly Stern|none|12|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:37|21|Kelly Stern|none|18|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Cheng Heng Su|Yang Po-Hsuan|7|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:19|21|Cheng Heng Su|Yang Po-Hsuan|14|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:16|21|Wei Chi Liu|Shih Kuei Chun|14|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:16|21|Wei Chi Liu|Shih Kuei Chun|7|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:20|21|Vicki Copeland|none|12|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:20|21|Vicki Copeland|none|10|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:15|21|Peter Gabriel Magnaye|Alvin Morada|7|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:15|21|Peter Gabriel Magnaye|Alvin Morada|11|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324||Walkover Win|Minh Bao|Bao Duc Duong|Walkover Loss|Jack Boyle|Christopher Steeghs|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:32|21|Kelly Stern|none|8|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:32|10|Kelly Stern|none|21|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:32|21|Kelly Stern|none|19|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Cheng Heng Su|Yang Po-Hsuan|4|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:19|21|Cheng Heng Su|Yang Po-Hsuan|8|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160324|0:18|21|Son Wan Ho |none|5|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:18|21|Son Wan Ho |none|3|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:15|21|Jonathan Sun|none|6|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:15|21|Jonathan Sun|none|10|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Lin Guipu|none|5|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Lin Guipu|none|2|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:23|21|Huang Yuxiang |none|10|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:23|21|Huang Yuxiang |none|7|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Tien Minh Nguyen |none|8|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Tien Minh Nguyen |none|5|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|22|Kevin Zhang|none|20|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|21|Kevin Zhang|none|11|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:30|21|Pit Seng Low|none|18|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:30|22|Pit Seng Low|none|20|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:21|21|Kazumasa Sakai |none|5|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:21|21|Kazumasa Sakai |none|4|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Riichi Takeshita|none|13|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Riichi Takeshita|none|12|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:21|21|Lin Yu Hsien|none|6|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:21|21|Lin Yu Hsien|none|9|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324||Walkover Win|Huaidong Tang|none|Walkover Loss|Tzu Wei Wang [14]|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Qiao Bin |none|4|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Qiao Bin |none|13|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324||Walkover Win|Ihsan Maulana Mustofa |none|Walkover Loss|Zulhelmi Zulkiffli|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|21|Hsu Jen Hao |none|13|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|21|Hsu Jen Hao |none|12|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:18|21|Misha Zilberman|none|5|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:18|21|Misha Zilberman|none|7|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Shi Yuqi|none|18|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Shi Yuqi|none|9|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:34|21|Daren Liew|none|17|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:34|21|Daren Liew|none|13|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:23|21|Shih Kuei Chun|none|11|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:23|21|Shih Kuei Chun|none|13|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|21|Abhinav Manota|none|9|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:28|21|Abhinav Manota|none|18|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Lee Dong Keun |none|5|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:29|21|Lee Dong Keun |none|13|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:33|21|Ginting Anthony |none|17|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:33|21|Ginting Anthony |none|14|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Zi Liang Derek Wong |none|5|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:19|21|Zi Liang Derek Wong |none|6|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:27|21|Wibowo Kho Henrikho|none|7|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:27|21|Wibowo Kho Henrikho|none|12|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:16|21|Christie Jonatan |none|4|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:16|21|Christie Jonatan |none|5|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:16|21|Goh Soon Huat |none|4|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324|0:16|21|Goh Soon Huat |none|8|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160324||Walkover Win|Fikri Ihsandi Hadmadi|none|Walkover Loss|Christopher Steeghs|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:18|21|Edward Lau|Tamara Otene|11|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:18|21|Edward Lau|Tamara Otene|13|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:24|21|Alistair Casey|Melinda Sun|14|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:24|21|Alistair Casey|Melinda Sun|17|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:25|21|Niccolo Tagle|Deborah Yin|15|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:25|22|Niccolo Tagle|Deborah Yin|20|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:02|1|Manu Attri|Ashwini Ponnappa|0|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:02|Walkover Win|Manu Attri|Ashwini Ponnappa|Walkover Loss|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:17|21|Takuto Inoue|Naru Shinoya|7|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:17|21|Takuto Inoue|Naru Shinoya|6|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:31|24|Kevin Dennerly-Minturn|Danielle Tahuri|22|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:31|21|Kevin Dennerly-Minturn|Danielle Tahuri|13|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:36|22|Huaidong Tang|Joy Lai|20|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:36|18|Huaidong Tang|Joy Lai|21|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:36|21|Huaidong Tang|Joy Lai|18|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:35|17|Catelyn Rozario|none|21|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:35|21|Catelyn Rozario|none|14|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:35|22|Catelyn Rozario|none|20|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Yu Jen Chi|Kuo Ching-Hung|10|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:19|21|Yu Jen Chi|Kuo Ching-Hung|12|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:23|21|Alistair Casey|Melinda Sun|14|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:23|21|Alistair Casey|Melinda Sun|15|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:18|21|Manu Attri|Ashwini Ponnappa|10|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:18|21|Manu Attri|Ashwini Ponnappa|11|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:23|21|Takuto Inoue|Naru Shinoya|13|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:23|21|Takuto Inoue|Naru Shinoya|5|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:27|21|Huaidong Tang|Joy Lai|17|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:27|21|Huaidong Tang|Joy Lai|19|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:16|21|Wei Chi Liu|Shih Kuei Chun|6|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:16|21|Wei Chi Liu|Shih Kuei Chun|3|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:35|21|Tamara Otene|none|12|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:35|19|Tamara Otene|none|21|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:35|21|Tamara Otene|none|7|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:18|21|Peter Gabriel Magnaye|Alvin Morada|9|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:18|21|Peter Gabriel Magnaye|Alvin Morada|13|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:25|21|Selena Wu|none|19|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:25|21|Selena Wu|none|13|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:15|21|Minh Bao|Bao Duc Duong|4|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:15|21|Minh Bao|Bao Duc Duong|16|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:37|15|Kelly Stern|none|21|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:37|21|Kelly Stern|none|12|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:37|21|Kelly Stern|none|18|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Cheng Heng Su|Yang Po-Hsuan|7|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:19|21|Cheng Heng Su|Yang Po-Hsuan|14|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:16|21|Wei Chi Liu|Shih Kuei Chun|14|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:16|21|Wei Chi Liu|Shih Kuei Chun|7|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:20|21|Vicki Copeland|none|12|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:20|21|Vicki Copeland|none|10|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:15|21|Peter Gabriel Magnaye|Alvin Morada|7|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:15|21|Peter Gabriel Magnaye|Alvin Morada|11|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325||Walkover Win|Minh Bao|Bao Duc Duong|Walkover Loss|Jack Boyle|Christopher Steeghs|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:32|21|Kelly Stern|none|8|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:32|10|Kelly Stern|none|21|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:32|21|Kelly Stern|none|19|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Cheng Heng Su|Yang Po-Hsuan|4|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:19|21|Cheng Heng Su|Yang Po-Hsuan|8|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160325|0:18|21|Son Wan Ho |none|5|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:18|21|Son Wan Ho |none|3|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:15|21|Jonathan Sun|none|6|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:15|21|Jonathan Sun|none|10|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Lin Guipu|none|5|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Lin Guipu|none|2|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:23|21|Huang Yuxiang |none|10|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:23|21|Huang Yuxiang |none|7|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Tien Minh Nguyen |none|8|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Tien Minh Nguyen |none|5|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|22|Kevin Zhang|none|20|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|21|Kevin Zhang|none|11|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:30|21|Pit Seng Low|none|18|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:30|22|Pit Seng Low|none|20|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:21|21|Kazumasa Sakai |none|5|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:21|21|Kazumasa Sakai |none|4|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Riichi Takeshita|none|13|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Riichi Takeshita|none|12|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:21|21|Lin Yu Hsien|none|6|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:21|21|Lin Yu Hsien|none|9|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325||Walkover Win|Huaidong Tang|none|Walkover Loss|Tzu Wei Wang [14]|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Qiao Bin |none|4|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Qiao Bin |none|13|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325||Walkover Win|Ihsan Maulana Mustofa |none|Walkover Loss|Zulhelmi Zulkiffli|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|21|Hsu Jen Hao |none|13|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|21|Hsu Jen Hao |none|12|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:18|21|Misha Zilberman|none|5|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:18|21|Misha Zilberman|none|7|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Shi Yuqi|none|18|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Shi Yuqi|none|9|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:34|21|Daren Liew|none|17|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:34|21|Daren Liew|none|13|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:23|21|Shih Kuei Chun|none|11|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:23|21|Shih Kuei Chun|none|13|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|21|Abhinav Manota|none|9|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:28|21|Abhinav Manota|none|18|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Lee Dong Keun |none|5|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:29|21|Lee Dong Keun |none|13|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:33|21|Ginting Anthony |none|17|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:33|21|Ginting Anthony |none|14|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Zi Liang Derek Wong |none|5|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:19|21|Zi Liang Derek Wong |none|6|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:27|21|Wibowo Kho Henrikho|none|7|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:27|21|Wibowo Kho Henrikho|none|12|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:16|21|Christie Jonatan |none|4|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:16|21|Christie Jonatan |none|5|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:16|21|Goh Soon Huat |none|4|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325|0:16|21|Goh Soon Huat |none|8|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160325||Walkover Win|Fikri Ihsandi Hadmadi|none|Walkover Loss|Christopher Steeghs|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:18|21|Edward Lau|Tamara Otene|11|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:18|21|Edward Lau|Tamara Otene|13|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:24|21|Alistair Casey|Melinda Sun|14|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:24|21|Alistair Casey|Melinda Sun|17|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:25|21|Niccolo Tagle|Deborah Yin|15|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:25|22|Niccolo Tagle|Deborah Yin|20|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:02|1|Manu Attri|Ashwini Ponnappa|0|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:02|Walkover Win|Manu Attri|Ashwini Ponnappa|Walkover Loss|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:17|21|Takuto Inoue|Naru Shinoya|7|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:17|21|Takuto Inoue|Naru Shinoya|6|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:31|24|Kevin Dennerly-Minturn|Danielle Tahuri|22|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:31|21|Kevin Dennerly-Minturn|Danielle Tahuri|13|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:36|22|Huaidong Tang|Joy Lai|20|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:36|18|Huaidong Tang|Joy Lai|21|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:36|21|Huaidong Tang|Joy Lai|18|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:35|17|Catelyn Rozario|none|21|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:35|21|Catelyn Rozario|none|14|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:35|22|Catelyn Rozario|none|20|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Yu Jen Chi|Kuo Ching-Hung|10|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:19|21|Yu Jen Chi|Kuo Ching-Hung|12|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:23|21|Alistair Casey|Melinda Sun|14|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:23|21|Alistair Casey|Melinda Sun|15|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:18|21|Manu Attri|Ashwini Ponnappa|10|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:18|21|Manu Attri|Ashwini Ponnappa|11|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:23|21|Takuto Inoue|Naru Shinoya|13|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:23|21|Takuto Inoue|Naru Shinoya|5|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:27|21|Huaidong Tang|Joy Lai|17|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:27|21|Huaidong Tang|Joy Lai|19|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:16|21|Wei Chi Liu|Shih Kuei Chun|6|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:16|21|Wei Chi Liu|Shih Kuei Chun|3|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:35|21|Tamara Otene|none|12|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:35|19|Tamara Otene|none|21|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:35|21|Tamara Otene|none|7|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:18|21|Peter Gabriel Magnaye|Alvin Morada|9|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:18|21|Peter Gabriel Magnaye|Alvin Morada|13|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:25|21|Selena Wu|none|19|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:25|21|Selena Wu|none|13|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:15|21|Minh Bao|Bao Duc Duong|4|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:15|21|Minh Bao|Bao Duc Duong|16|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:37|15|Kelly Stern|none|21|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:37|21|Kelly Stern|none|12|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:37|21|Kelly Stern|none|18|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Cheng Heng Su|Yang Po-Hsuan|7|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:19|21|Cheng Heng Su|Yang Po-Hsuan|14|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:16|21|Wei Chi Liu|Shih Kuei Chun|14|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:16|21|Wei Chi Liu|Shih Kuei Chun|7|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:20|21|Vicki Copeland|none|12|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:20|21|Vicki Copeland|none|10|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:15|21|Peter Gabriel Magnaye|Alvin Morada|7|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:15|21|Peter Gabriel Magnaye|Alvin Morada|11|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326||Walkover Win|Minh Bao|Bao Duc Duong|Walkover Loss|Jack Boyle|Christopher Steeghs|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:32|21|Kelly Stern|none|8|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:32|10|Kelly Stern|none|21|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:32|21|Kelly Stern|none|19|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Cheng Heng Su|Yang Po-Hsuan|4|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:19|21|Cheng Heng Su|Yang Po-Hsuan|8|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160326|0:18|21|Son Wan Ho |none|5|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:18|21|Son Wan Ho |none|3|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:15|21|Jonathan Sun|none|6|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:15|21|Jonathan Sun|none|10|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Lin Guipu|none|5|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Lin Guipu|none|2|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:23|21|Huang Yuxiang |none|10|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:23|21|Huang Yuxiang |none|7|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Tien Minh Nguyen |none|8|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Tien Minh Nguyen |none|5|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|22|Kevin Zhang|none|20|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|21|Kevin Zhang|none|11|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:30|21|Pit Seng Low|none|18|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:30|22|Pit Seng Low|none|20|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:21|21|Kazumasa Sakai |none|5|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:21|21|Kazumasa Sakai |none|4|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Riichi Takeshita|none|13|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Riichi Takeshita|none|12|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:21|21|Lin Yu Hsien|none|6|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:21|21|Lin Yu Hsien|none|9|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326||Walkover Win|Huaidong Tang|none|Walkover Loss|Tzu Wei Wang [14]|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Qiao Bin |none|4|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Qiao Bin |none|13|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326||Walkover Win|Ihsan Maulana Mustofa |none|Walkover Loss|Zulhelmi Zulkiffli|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|21|Hsu Jen Hao |none|13|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|21|Hsu Jen Hao |none|12|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:18|21|Misha Zilberman|none|5|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:18|21|Misha Zilberman|none|7|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Shi Yuqi|none|18|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Shi Yuqi|none|9|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:34|21|Daren Liew|none|17|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:34|21|Daren Liew|none|13|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:23|21|Shih Kuei Chun|none|11|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:23|21|Shih Kuei Chun|none|13|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|21|Abhinav Manota|none|9|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:28|21|Abhinav Manota|none|18|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Lee Dong Keun |none|5|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:29|21|Lee Dong Keun |none|13|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:33|21|Ginting Anthony |none|17|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:33|21|Ginting Anthony |none|14|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Zi Liang Derek Wong |none|5|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:19|21|Zi Liang Derek Wong |none|6|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:27|21|Wibowo Kho Henrikho|none|7|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:27|21|Wibowo Kho Henrikho|none|12|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:16|21|Christie Jonatan |none|4|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:16|21|Christie Jonatan |none|5|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:16|21|Goh Soon Huat |none|4|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326|0:16|21|Goh Soon Huat |none|8|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160326||Walkover Win|Fikri Ihsandi Hadmadi|none|Walkover Loss|Christopher Steeghs|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:18|21|Edward Lau|Tamara Otene|11|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:18|21|Edward Lau|Tamara Otene|13|Callum Harfield|Selena Wu|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:24|21|Alistair Casey|Melinda Sun|14|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:24|21|Alistair Casey|Melinda Sun|17|Abhinav Manota|Justine Villegas|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:25|21|Niccolo Tagle|Deborah Yin|15|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:25|22|Niccolo Tagle|Deborah Yin|20|Maoni Hu He [4]|Alyse Derby|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:02|1|Manu Attri|Ashwini Ponnappa|0|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:02|Walkover Win|Manu Attri|Ashwini Ponnappa|Walkover Loss|Christopher Steeghs|Erena Calder -Hawkins|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:17|21|Takuto Inoue|Naru Shinoya|7|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:17|21|Takuto Inoue|Naru Shinoya|6|Shyam Purushothman|Kelly Stern|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:31|24|Kevin Dennerly-Minturn|Danielle Tahuri|22|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:31|21|Kevin Dennerly-Minturn|Danielle Tahuri|13|Anthony Joe [3]|Tiffany Ho|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:36|22|Huaidong Tang|Joy Lai|20|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:36|18|Huaidong Tang|Joy Lai|21|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:36|21|Huaidong Tang|Joy Lai|18|Dhanny Oud|Jasmin Chung Man Ng|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:35|17|Catelyn Rozario|none|21|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:35|21|Catelyn Rozario|none|14|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:35|22|Catelyn Rozario|none|20|Claudia Lam|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Yu Jen Chi|Kuo Ching-Hung|10|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:19|21|Yu Jen Chi|Kuo Ching-Hung|12|Oscar Guo|Dacmen Vong|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:23|21|Alistair Casey|Melinda Sun|14|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:23|21|Alistair Casey|Melinda Sun|15|Edward Lau|Tamara Otene|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:18|21|Manu Attri|Ashwini Ponnappa|10|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:18|21|Manu Attri|Ashwini Ponnappa|11|Niccolo Tagle|Deborah Yin|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:23|21|Takuto Inoue|Naru Shinoya|13|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:23|21|Takuto Inoue|Naru Shinoya|5|Kevin Dennerly-Minturn|Danielle Tahuri|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:27|21|Huaidong Tang|Joy Lai|17|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:27|21|Huaidong Tang|Joy Lai|19|Dylan Soedjasa|Vicki Copeland|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:16|21|Wei Chi Liu|Shih Kuei Chun|6|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:16|21|Wei Chi Liu|Shih Kuei Chun|3|Calvin Pang|Andrew Rouse|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:35|21|Tamara Otene|none|12|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:35|19|Tamara Otene|none|21|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:35|21|Tamara Otene|none|7|Emily Beach|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:18|21|Peter Gabriel Magnaye|Alvin Morada|9|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:18|21|Peter Gabriel Magnaye|Alvin Morada|13|Callum Harfield|Valens Sulaiman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:25|21|Selena Wu|none|19|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:25|21|Selena Wu|none|13|Alyse Derby|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:15|21|Minh Bao|Bao Duc Duong|4|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:15|21|Minh Bao|Bao Duc Duong|16|Edward Lau|Edwin Chaijing Lau|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:37|15|Kelly Stern|none|21|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:37|21|Kelly Stern|none|12|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:37|21|Kelly Stern|none|18|Deborah Yin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Cheng Heng Su|Yang Po-Hsuan|7|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:19|21|Cheng Heng Su|Yang Po-Hsuan|14|Shane Masinipeni|Shyam Purushothman|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:16|21|Wei Chi Liu|Shih Kuei Chun|14|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:16|21|Wei Chi Liu|Shih Kuei Chun|7|Yu Jen Chi|Kuo Ching-Hung|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:20|21|Vicki Copeland|none|12|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:20|21|Vicki Copeland|none|10|Catelyn Rozario|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:15|21|Peter Gabriel Magnaye|Alvin Morada|7|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:15|21|Peter Gabriel Magnaye|Alvin Morada|11|Daxxon Vong|Kevin Zhang|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327||Walkover Win|Minh Bao|Bao Duc Duong|Walkover Loss|Jack Boyle|Christopher Steeghs|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:32|21|Kelly Stern|none|8|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:32|10|Kelly Stern|none|21|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:32|21|Kelly Stern|none|19|Tamara Otene|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Cheng Heng Su|Yang Po-Hsuan|4|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:19|21|Cheng Heng Su|Yang Po-Hsuan|8|Chee Foong Lim|Kai Yi Lim|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|doubles
+20160327|0:18|21|Son Wan Ho |none|5|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:18|21|Son Wan Ho |none|3|Xiao Yang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:15|21|Jonathan Sun|none|6|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:15|21|Jonathan Sun|none|10|Kai Yi Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Lin Guipu|none|5|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Lin Guipu|none|2|Jack Boyle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:23|21|Huang Yuxiang |none|10|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:23|21|Huang Yuxiang |none|7|Calvin Pang|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Tien Minh Nguyen |none|8|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Tien Minh Nguyen |none|5|Chee Foong Lim|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|22|Kevin Zhang|none|20|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|21|Kevin Zhang|none|11|Joshua Curry|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:30|21|Pit Seng Low|none|18|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:30|22|Pit Seng Low|none|20|Jonathan Curtin|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:21|21|Kazumasa Sakai |none|5|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:21|21|Kazumasa Sakai |none|4|Dacmen Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Riichi Takeshita|none|13|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Riichi Takeshita|none|12|Anthony Joe|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:21|21|Lin Yu Hsien|none|6|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:21|21|Lin Yu Hsien|none|9|Cham Chen|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327||Walkover Win|Huaidong Tang|none|Walkover Loss|Tzu Wei Wang [14]|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Yu Jen Chi|none|9|Daxxon Vong|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|21|Mark Shelley Alcala|none|14|Niccolo Tagle|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Qiao Bin |none|4|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Qiao Bin |none|13|Dylan Soedjasa|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327||Walkover Win|Ihsan Maulana Mustofa |none|Walkover Loss|Zulhelmi Zulkiffli|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|21|Hsu Jen Hao |none|13|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|21|Hsu Jen Hao |none|12|Jaspar Woon Chai Yu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:18|21|Misha Zilberman|none|5|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:18|21|Misha Zilberman|none|7|Callum Harfield|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Shi Yuqi|none|18|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Shi Yuqi|none|9|Lin Chia Hsuan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:34|21|Daren Liew|none|17|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:34|21|Daren Liew|none|13|Wei Chi Liu|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:23|21|Shih Kuei Chun|none|11|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:23|21|Shih Kuei Chun|none|13|Oscar Guo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|21|Abhinav Manota|none|9|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:28|21|Abhinav Manota|none|18|Nathaniel Ernestan Sulistyo|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Lee Dong Keun |none|5|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:29|21|Lee Dong Keun |none|13|Ashwant Gobinathan|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:33|21|Ginting Anthony |none|17|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:33|21|Ginting Anthony |none|14|Kuo Ching-Hung|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Zi Liang Derek Wong |none|5|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:19|21|Zi Liang Derek Wong |none|6|Sagar Kumar|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:27|21|Wibowo Kho Henrikho|none|7|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:27|21|Wibowo Kho Henrikho|none|12|Maoni Hu He|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:16|21|Christie Jonatan |none|4|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:16|21|Christie Jonatan |none|5|Niklas Borg-Sigg|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:16|21|Goh Soon Huat |none|4|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327|0:16|21|Goh Soon Huat |none|8|Andrew Rouse|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles
+20160327||Walkover Win|Fikri Ihsandi Hadmadi|none|Walkover Loss|Christopher Steeghs|none|2F65CB03-F736-4C3E-A3BB-86ED37264EC6|singles

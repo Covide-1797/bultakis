@@ -1,0 +1,601 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20141001|0:32|18|Nguyen Hoang Anh|Nguyen Ngoc Huyen|21|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|18|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|15|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:25|21|To Gia Bao|Tran Huynh Nhu Tuyet|18|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:25|22|To Gia Bao|Tran Huynh Nhu Tuyet|20|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:50|20|Truong Thanh Long|Dang Kim Ngan|22|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:50|21|Truong Thanh Long|Dang Kim Ngan|14|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:50|21|Truong Thanh Long|Dang Kim Ngan|11|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:32|19|Pham Trung Luan|Hoang Thuy Van|21|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:32|21|Pham Trung Luan|Hoang Thuy Van|13|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:32|21|Pham Trung Luan|Hoang Thuy Van|16|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:20|21|Man Hung Woon|Teoh Mei Xing|11|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:20|21|Man Hung Woon|Teoh Mei Xing|12|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:15|21|Kim Thuan|Le Thi My Tra|18|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:15|21|Kim Thuan|Le Thi My Tra|17|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:27|21|Laksika Kanlaha|none|11|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:27|21|Laksika Kanlaha|none|14|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:37|16|Thipvatee Jaiareree|none|21|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:22|21|Nattcha Chatputtarn|none|13|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:22|21|Nattcha Chatputtarn|none|8|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|15|Muhammad Shakhier Ruhizad|none|21|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Muhammad Shakhier Ruhizad|none|10|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Muhammad Shakhier Ruhizad|none|15|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Nguyen Cong Hai|none|13|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Nguyen Cong Hai|none|11|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:20|21|Chang Hsin Ping|none|12|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:20|21|Chang Hsin Ping|none|10|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:44|21|Hsu Yu Chieh|Liao Chun Yao|5|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:44|21|Hsu Yu Chieh|Liao Chun Yao|15|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:30|21|Liao Chiung Chen|none|19|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:30|21|Liao Chiung Chen|none|18|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:22|21|Chang Lip Seng|none|10|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:22|21|Chang Lip Seng|none|8|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:26|21|An Thanh Huy|Pham Trung Luan|19|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:26|21|An Thanh Huy|Pham Trung Luan|17|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:50|13|Phan Thanh Nhan|none|21|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|21|Phan Thanh Nhan|none|18|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|21|Phan Thanh Nhan|none|19|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:30|21|Chen Chun Cheng|none|13|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:30|21|Chen Chun Cheng|none|14|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:48|17|Lim Yik Fong|none|21|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:48|21|Lim Yik Fong|none|14|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:48|21|Lim Yik Fong|none|10|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:22|21|Laksika Kanlaha|none|7|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:22|21|Laksika Kanlaha|none|4|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Tran Thi Thanh Xuan|none|17|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Tran Thi Thanh Xuan|none|10|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:40|21|Nguyen Thi Thao Mai|none|14|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:40|11|Nguyen Thi Thao Mai|none|21|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:40|21|Nguyen Thi Thao Mai|none|18|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:18|21|Ornnicha Jongsathapornparn|none|5|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:18|21|Ornnicha Jongsathapornparn|none|14|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:30|21|Chang Hsin Ping|none|15|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:30|21|Chang Hsin Ping|none|19|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:15|21|Nattcha Chatputtarn|none|10|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:15|21|Nattcha Chatputtarn|none|6|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:15|21|Truong Thanh Long|Dang Kim Ngan|8|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:15|21|Truong Thanh Long|Dang Kim Ngan|12|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:25|21|Ngo Viet Ngoc Huy|none|18|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:25|21|Ngo Viet Ngoc Huy|none|17|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:25|21|Pham Trung Luan|Hoang Thuy Van|12|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:25|21|Pham Trung Luan|Hoang Thuy Van|18|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:35|19|Pham Hong Nam |Le Ha Trang|21|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:35|21|Pham Hong Nam |Le Ha Trang|16|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:35|21|Pham Hong Nam |Le Ha Trang|19|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:24|21|Liao Chiung Chen|none|13|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:24|21|Liao Chiung Chen|none|11|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:24|21|Pham Duc Long|none|12|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:24|21|Pham Duc Long|none|14|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:36|8|Dang Quang Huy|none|21|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:36|21|Dang Quang Huy|none|8|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:36|21|Dang Quang Huy|none|5|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:29|21|Chen Chun Cheng|none|11|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:29|21|Chen Chun Cheng|none|14|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|21|Le Van Tu|none|16|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|19|Le Van Tu|none|21|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|21|Le Van Tu|none|18|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:37|21|Muhammad Shakhier Ruhizad|none|11|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:37|21|Muhammad Shakhier Ruhizad|none|14|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Chang Lip Seng|none|13|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:35|21|Chang Lip Seng|none|17|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|21|Nguyen Ngoc Huyen|none|13|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|14|Nguyen Ngoc Huyen|none|21|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:50|21|Nguyen Ngoc Huyen|none|11|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|5|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|6|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|8|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:40|15|Nguyen Xuan Thinh|Pham Duc Long|21|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|18|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|8|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|15|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:28|21|Tran Quoc Viet|Vu Hoang Viet|17|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:28|21|Tran Quoc Viet|Vu Hoang Viet|18|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:19|21|Hsu Yu Chieh|Liao Chun Yao|14|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:19|21|Hsu Yu Chieh|Liao Chun Yao|9|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|15|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:50|19|Nguyen Khac Tuan|Pham Hai Nam|21|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|19|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:42|21|Chang Hsin Ping|none|5|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:42|18|Chang Hsin Ping|none|21|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:42|22|Chang Hsin Ping|none|20|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:43|17|Nguyen Thi Thao Mai|none|21|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:43|21|Nguyen Thi Thao Mai|none|12|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:43|21|Nguyen Thi Thao Mai|none|17|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:33|19|Nattcha Chatputtarn|none|21|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:24|21|Laksika Kanlaha|none|10|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:24|21|Laksika Kanlaha|none|11|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141001|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|17|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:55|19|Nguyen Cong Hai|Nguyen Hoang Anh|21|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|18|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:20|11|Le Duc Phat|Tran Thanh Duy|7|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:20|Walkover Win|Le Duc Phat|Tran Thanh Duy|Walkover Loss|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:28|21|Hsu Yu Chieh|Liao Chun Yao|16|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141001|0:28|23|Hsu Yu Chieh|Liao Chun Yao|21|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:32|18|Nguyen Hoang Anh|Nguyen Ngoc Huyen|21|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|18|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|15|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:25|21|To Gia Bao|Tran Huynh Nhu Tuyet|18|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:25|22|To Gia Bao|Tran Huynh Nhu Tuyet|20|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:50|20|Truong Thanh Long|Dang Kim Ngan|22|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:50|21|Truong Thanh Long|Dang Kim Ngan|14|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:50|21|Truong Thanh Long|Dang Kim Ngan|11|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:32|19|Pham Trung Luan|Hoang Thuy Van|21|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:32|21|Pham Trung Luan|Hoang Thuy Van|13|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:32|21|Pham Trung Luan|Hoang Thuy Van|16|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:20|21|Man Hung Woon|Teoh Mei Xing|11|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:20|21|Man Hung Woon|Teoh Mei Xing|12|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:15|21|Kim Thuan|Le Thi My Tra|18|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:15|21|Kim Thuan|Le Thi My Tra|17|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:27|21|Laksika Kanlaha|none|11|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:27|21|Laksika Kanlaha|none|14|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:37|16|Thipvatee Jaiareree|none|21|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:22|21|Nattcha Chatputtarn|none|13|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:22|21|Nattcha Chatputtarn|none|8|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|15|Muhammad Shakhier Ruhizad|none|21|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Muhammad Shakhier Ruhizad|none|10|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Muhammad Shakhier Ruhizad|none|15|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Nguyen Cong Hai|none|13|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Nguyen Cong Hai|none|11|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:20|21|Chang Hsin Ping|none|12|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:20|21|Chang Hsin Ping|none|10|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:44|21|Hsu Yu Chieh|Liao Chun Yao|5|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:44|21|Hsu Yu Chieh|Liao Chun Yao|15|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:30|21|Liao Chiung Chen|none|19|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:30|21|Liao Chiung Chen|none|18|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:22|21|Chang Lip Seng|none|10|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:22|21|Chang Lip Seng|none|8|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:26|21|An Thanh Huy|Pham Trung Luan|19|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:26|21|An Thanh Huy|Pham Trung Luan|17|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:50|13|Phan Thanh Nhan|none|21|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|21|Phan Thanh Nhan|none|18|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|21|Phan Thanh Nhan|none|19|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:30|21|Chen Chun Cheng|none|13|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:30|21|Chen Chun Cheng|none|14|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:48|17|Lim Yik Fong|none|21|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:48|21|Lim Yik Fong|none|14|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:48|21|Lim Yik Fong|none|10|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:22|21|Laksika Kanlaha|none|7|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:22|21|Laksika Kanlaha|none|4|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Tran Thi Thanh Xuan|none|17|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Tran Thi Thanh Xuan|none|10|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:40|21|Nguyen Thi Thao Mai|none|14|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:40|11|Nguyen Thi Thao Mai|none|21|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:40|21|Nguyen Thi Thao Mai|none|18|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:18|21|Ornnicha Jongsathapornparn|none|5|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:18|21|Ornnicha Jongsathapornparn|none|14|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:30|21|Chang Hsin Ping|none|15|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:30|21|Chang Hsin Ping|none|19|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:15|21|Nattcha Chatputtarn|none|10|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:15|21|Nattcha Chatputtarn|none|6|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:15|21|Truong Thanh Long|Dang Kim Ngan|8|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:15|21|Truong Thanh Long|Dang Kim Ngan|12|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:25|21|Ngo Viet Ngoc Huy|none|18|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:25|21|Ngo Viet Ngoc Huy|none|17|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:25|21|Pham Trung Luan|Hoang Thuy Van|12|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:25|21|Pham Trung Luan|Hoang Thuy Van|18|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:35|19|Pham Hong Nam |Le Ha Trang|21|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:35|21|Pham Hong Nam |Le Ha Trang|16|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:35|21|Pham Hong Nam |Le Ha Trang|19|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:24|21|Liao Chiung Chen|none|13|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:24|21|Liao Chiung Chen|none|11|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:24|21|Pham Duc Long|none|12|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:24|21|Pham Duc Long|none|14|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:36|8|Dang Quang Huy|none|21|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:36|21|Dang Quang Huy|none|8|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:36|21|Dang Quang Huy|none|5|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:29|21|Chen Chun Cheng|none|11|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:29|21|Chen Chun Cheng|none|14|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|21|Le Van Tu|none|16|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|19|Le Van Tu|none|21|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|21|Le Van Tu|none|18|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:37|21|Muhammad Shakhier Ruhizad|none|11|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:37|21|Muhammad Shakhier Ruhizad|none|14|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Chang Lip Seng|none|13|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:35|21|Chang Lip Seng|none|17|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|21|Nguyen Ngoc Huyen|none|13|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|14|Nguyen Ngoc Huyen|none|21|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:50|21|Nguyen Ngoc Huyen|none|11|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|5|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|6|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|8|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:40|15|Nguyen Xuan Thinh|Pham Duc Long|21|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|18|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|8|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|15|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:28|21|Tran Quoc Viet|Vu Hoang Viet|17|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:28|21|Tran Quoc Viet|Vu Hoang Viet|18|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:19|21|Hsu Yu Chieh|Liao Chun Yao|14|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:19|21|Hsu Yu Chieh|Liao Chun Yao|9|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|15|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:50|19|Nguyen Khac Tuan|Pham Hai Nam|21|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|19|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:42|21|Chang Hsin Ping|none|5|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:42|18|Chang Hsin Ping|none|21|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:42|22|Chang Hsin Ping|none|20|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:43|17|Nguyen Thi Thao Mai|none|21|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:43|21|Nguyen Thi Thao Mai|none|12|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:43|21|Nguyen Thi Thao Mai|none|17|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:33|19|Nattcha Chatputtarn|none|21|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:24|21|Laksika Kanlaha|none|10|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:24|21|Laksika Kanlaha|none|11|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141002|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|17|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:55|19|Nguyen Cong Hai|Nguyen Hoang Anh|21|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|18|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:20|11|Le Duc Phat|Tran Thanh Duy|7|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:20|Walkover Win|Le Duc Phat|Tran Thanh Duy|Walkover Loss|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:28|21|Hsu Yu Chieh|Liao Chun Yao|16|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141002|0:28|23|Hsu Yu Chieh|Liao Chun Yao|21|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:32|18|Nguyen Hoang Anh|Nguyen Ngoc Huyen|21|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|18|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|15|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:25|21|To Gia Bao|Tran Huynh Nhu Tuyet|18|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:25|22|To Gia Bao|Tran Huynh Nhu Tuyet|20|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:50|20|Truong Thanh Long|Dang Kim Ngan|22|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:50|21|Truong Thanh Long|Dang Kim Ngan|14|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:50|21|Truong Thanh Long|Dang Kim Ngan|11|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:32|19|Pham Trung Luan|Hoang Thuy Van|21|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:32|21|Pham Trung Luan|Hoang Thuy Van|13|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:32|21|Pham Trung Luan|Hoang Thuy Van|16|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:20|21|Man Hung Woon|Teoh Mei Xing|11|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:20|21|Man Hung Woon|Teoh Mei Xing|12|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:15|21|Kim Thuan|Le Thi My Tra|18|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:15|21|Kim Thuan|Le Thi My Tra|17|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:27|21|Laksika Kanlaha|none|11|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:27|21|Laksika Kanlaha|none|14|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:37|16|Thipvatee Jaiareree|none|21|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:22|21|Nattcha Chatputtarn|none|13|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:22|21|Nattcha Chatputtarn|none|8|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|15|Muhammad Shakhier Ruhizad|none|21|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Muhammad Shakhier Ruhizad|none|10|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Muhammad Shakhier Ruhizad|none|15|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Nguyen Cong Hai|none|13|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Nguyen Cong Hai|none|11|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:20|21|Chang Hsin Ping|none|12|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:20|21|Chang Hsin Ping|none|10|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:44|21|Hsu Yu Chieh|Liao Chun Yao|5|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:44|21|Hsu Yu Chieh|Liao Chun Yao|15|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:30|21|Liao Chiung Chen|none|19|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:30|21|Liao Chiung Chen|none|18|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:22|21|Chang Lip Seng|none|10|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:22|21|Chang Lip Seng|none|8|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:26|21|An Thanh Huy|Pham Trung Luan|19|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:26|21|An Thanh Huy|Pham Trung Luan|17|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:50|13|Phan Thanh Nhan|none|21|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|21|Phan Thanh Nhan|none|18|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|21|Phan Thanh Nhan|none|19|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:30|21|Chen Chun Cheng|none|13|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:30|21|Chen Chun Cheng|none|14|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:48|17|Lim Yik Fong|none|21|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:48|21|Lim Yik Fong|none|14|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:48|21|Lim Yik Fong|none|10|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:22|21|Laksika Kanlaha|none|7|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:22|21|Laksika Kanlaha|none|4|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Tran Thi Thanh Xuan|none|17|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Tran Thi Thanh Xuan|none|10|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:40|21|Nguyen Thi Thao Mai|none|14|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:40|11|Nguyen Thi Thao Mai|none|21|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:40|21|Nguyen Thi Thao Mai|none|18|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:18|21|Ornnicha Jongsathapornparn|none|5|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:18|21|Ornnicha Jongsathapornparn|none|14|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:30|21|Chang Hsin Ping|none|15|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:30|21|Chang Hsin Ping|none|19|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:15|21|Nattcha Chatputtarn|none|10|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:15|21|Nattcha Chatputtarn|none|6|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:15|21|Truong Thanh Long|Dang Kim Ngan|8|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:15|21|Truong Thanh Long|Dang Kim Ngan|12|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:25|21|Ngo Viet Ngoc Huy|none|18|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:25|21|Ngo Viet Ngoc Huy|none|17|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:25|21|Pham Trung Luan|Hoang Thuy Van|12|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:25|21|Pham Trung Luan|Hoang Thuy Van|18|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:35|19|Pham Hong Nam |Le Ha Trang|21|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:35|21|Pham Hong Nam |Le Ha Trang|16|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:35|21|Pham Hong Nam |Le Ha Trang|19|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:24|21|Liao Chiung Chen|none|13|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:24|21|Liao Chiung Chen|none|11|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:24|21|Pham Duc Long|none|12|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:24|21|Pham Duc Long|none|14|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:36|8|Dang Quang Huy|none|21|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:36|21|Dang Quang Huy|none|8|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:36|21|Dang Quang Huy|none|5|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:29|21|Chen Chun Cheng|none|11|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:29|21|Chen Chun Cheng|none|14|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|21|Le Van Tu|none|16|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|19|Le Van Tu|none|21|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|21|Le Van Tu|none|18|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:37|21|Muhammad Shakhier Ruhizad|none|11|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:37|21|Muhammad Shakhier Ruhizad|none|14|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Chang Lip Seng|none|13|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:35|21|Chang Lip Seng|none|17|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|21|Nguyen Ngoc Huyen|none|13|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|14|Nguyen Ngoc Huyen|none|21|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:50|21|Nguyen Ngoc Huyen|none|11|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|5|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|6|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|8|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:40|15|Nguyen Xuan Thinh|Pham Duc Long|21|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|18|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|8|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|15|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:28|21|Tran Quoc Viet|Vu Hoang Viet|17|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:28|21|Tran Quoc Viet|Vu Hoang Viet|18|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:19|21|Hsu Yu Chieh|Liao Chun Yao|14|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:19|21|Hsu Yu Chieh|Liao Chun Yao|9|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|15|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:50|19|Nguyen Khac Tuan|Pham Hai Nam|21|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|19|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:42|21|Chang Hsin Ping|none|5|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:42|18|Chang Hsin Ping|none|21|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:42|22|Chang Hsin Ping|none|20|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:43|17|Nguyen Thi Thao Mai|none|21|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:43|21|Nguyen Thi Thao Mai|none|12|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:43|21|Nguyen Thi Thao Mai|none|17|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:33|19|Nattcha Chatputtarn|none|21|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:24|21|Laksika Kanlaha|none|10|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:24|21|Laksika Kanlaha|none|11|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141003|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|17|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:55|19|Nguyen Cong Hai|Nguyen Hoang Anh|21|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|18|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:20|11|Le Duc Phat|Tran Thanh Duy|7|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:20|Walkover Win|Le Duc Phat|Tran Thanh Duy|Walkover Loss|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:28|21|Hsu Yu Chieh|Liao Chun Yao|16|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141003|0:28|23|Hsu Yu Chieh|Liao Chun Yao|21|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:32|18|Nguyen Hoang Anh|Nguyen Ngoc Huyen|21|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|18|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|15|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:25|21|To Gia Bao|Tran Huynh Nhu Tuyet|18|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:25|22|To Gia Bao|Tran Huynh Nhu Tuyet|20|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:50|20|Truong Thanh Long|Dang Kim Ngan|22|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:50|21|Truong Thanh Long|Dang Kim Ngan|14|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:50|21|Truong Thanh Long|Dang Kim Ngan|11|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:32|19|Pham Trung Luan|Hoang Thuy Van|21|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:32|21|Pham Trung Luan|Hoang Thuy Van|13|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:32|21|Pham Trung Luan|Hoang Thuy Van|16|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:20|21|Man Hung Woon|Teoh Mei Xing|11|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:20|21|Man Hung Woon|Teoh Mei Xing|12|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:15|21|Kim Thuan|Le Thi My Tra|18|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:15|21|Kim Thuan|Le Thi My Tra|17|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:27|21|Laksika Kanlaha|none|11|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:27|21|Laksika Kanlaha|none|14|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:37|16|Thipvatee Jaiareree|none|21|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:22|21|Nattcha Chatputtarn|none|13|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:22|21|Nattcha Chatputtarn|none|8|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|15|Muhammad Shakhier Ruhizad|none|21|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Muhammad Shakhier Ruhizad|none|10|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Muhammad Shakhier Ruhizad|none|15|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Nguyen Cong Hai|none|13|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Nguyen Cong Hai|none|11|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:20|21|Chang Hsin Ping|none|12|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:20|21|Chang Hsin Ping|none|10|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:44|21|Hsu Yu Chieh|Liao Chun Yao|5|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:44|21|Hsu Yu Chieh|Liao Chun Yao|15|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:30|21|Liao Chiung Chen|none|19|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:30|21|Liao Chiung Chen|none|18|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:22|21|Chang Lip Seng|none|10|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:22|21|Chang Lip Seng|none|8|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:26|21|An Thanh Huy|Pham Trung Luan|19|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:26|21|An Thanh Huy|Pham Trung Luan|17|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:50|13|Phan Thanh Nhan|none|21|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|21|Phan Thanh Nhan|none|18|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|21|Phan Thanh Nhan|none|19|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:30|21|Chen Chun Cheng|none|13|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:30|21|Chen Chun Cheng|none|14|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:48|17|Lim Yik Fong|none|21|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:48|21|Lim Yik Fong|none|14|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:48|21|Lim Yik Fong|none|10|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:22|21|Laksika Kanlaha|none|7|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:22|21|Laksika Kanlaha|none|4|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Tran Thi Thanh Xuan|none|17|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Tran Thi Thanh Xuan|none|10|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:40|21|Nguyen Thi Thao Mai|none|14|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:40|11|Nguyen Thi Thao Mai|none|21|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:40|21|Nguyen Thi Thao Mai|none|18|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:18|21|Ornnicha Jongsathapornparn|none|5|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:18|21|Ornnicha Jongsathapornparn|none|14|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:30|21|Chang Hsin Ping|none|15|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:30|21|Chang Hsin Ping|none|19|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:15|21|Nattcha Chatputtarn|none|10|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:15|21|Nattcha Chatputtarn|none|6|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:15|21|Truong Thanh Long|Dang Kim Ngan|8|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:15|21|Truong Thanh Long|Dang Kim Ngan|12|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:25|21|Ngo Viet Ngoc Huy|none|18|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:25|21|Ngo Viet Ngoc Huy|none|17|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:25|21|Pham Trung Luan|Hoang Thuy Van|12|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:25|21|Pham Trung Luan|Hoang Thuy Van|18|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:35|19|Pham Hong Nam |Le Ha Trang|21|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:35|21|Pham Hong Nam |Le Ha Trang|16|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:35|21|Pham Hong Nam |Le Ha Trang|19|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:24|21|Liao Chiung Chen|none|13|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:24|21|Liao Chiung Chen|none|11|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:24|21|Pham Duc Long|none|12|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:24|21|Pham Duc Long|none|14|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:36|8|Dang Quang Huy|none|21|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:36|21|Dang Quang Huy|none|8|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:36|21|Dang Quang Huy|none|5|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:29|21|Chen Chun Cheng|none|11|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:29|21|Chen Chun Cheng|none|14|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|21|Le Van Tu|none|16|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|19|Le Van Tu|none|21|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|21|Le Van Tu|none|18|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:37|21|Muhammad Shakhier Ruhizad|none|11|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:37|21|Muhammad Shakhier Ruhizad|none|14|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Chang Lip Seng|none|13|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:35|21|Chang Lip Seng|none|17|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|21|Nguyen Ngoc Huyen|none|13|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|14|Nguyen Ngoc Huyen|none|21|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:50|21|Nguyen Ngoc Huyen|none|11|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|5|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|6|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|8|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:40|15|Nguyen Xuan Thinh|Pham Duc Long|21|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|18|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|8|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|15|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:28|21|Tran Quoc Viet|Vu Hoang Viet|17|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:28|21|Tran Quoc Viet|Vu Hoang Viet|18|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:19|21|Hsu Yu Chieh|Liao Chun Yao|14|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:19|21|Hsu Yu Chieh|Liao Chun Yao|9|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|15|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:50|19|Nguyen Khac Tuan|Pham Hai Nam|21|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|19|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:42|21|Chang Hsin Ping|none|5|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:42|18|Chang Hsin Ping|none|21|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:42|22|Chang Hsin Ping|none|20|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:43|17|Nguyen Thi Thao Mai|none|21|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:43|21|Nguyen Thi Thao Mai|none|12|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:43|21|Nguyen Thi Thao Mai|none|17|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:33|19|Nattcha Chatputtarn|none|21|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:24|21|Laksika Kanlaha|none|10|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:24|21|Laksika Kanlaha|none|11|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141004|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|17|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:55|19|Nguyen Cong Hai|Nguyen Hoang Anh|21|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|18|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:20|11|Le Duc Phat|Tran Thanh Duy|7|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:20|Walkover Win|Le Duc Phat|Tran Thanh Duy|Walkover Loss|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:28|21|Hsu Yu Chieh|Liao Chun Yao|16|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141004|0:28|23|Hsu Yu Chieh|Liao Chun Yao|21|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:32|18|Nguyen Hoang Anh|Nguyen Ngoc Huyen|21|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|18|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:32|21|Nguyen Hoang Anh|Nguyen Ngoc Huyen|15|Liao Chun Yao|Chang Hsin Ping|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:25|21|To Gia Bao|Tran Huynh Nhu Tuyet|18|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:25|22|To Gia Bao|Tran Huynh Nhu Tuyet|20|Pham Hong Hai|Pham Ngoc Bich|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:50|20|Truong Thanh Long|Dang Kim Ngan|22|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:50|21|Truong Thanh Long|Dang Kim Ngan|14|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:50|21|Truong Thanh Long|Dang Kim Ngan|11|Lim Fang Yang|Ng Sin Zou|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:32|19|Pham Trung Luan|Hoang Thuy Van|21|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:32|21|Pham Trung Luan|Hoang Thuy Van|13|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:32|21|Pham Trung Luan|Hoang Thuy Van|16|Lai Yu-Hua|Sung Shuo Yun|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:20|21|Man Hung Woon|Teoh Mei Xing|11|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:20|21|Man Hung Woon|Teoh Mei Xing|12|Nguyen Phi Hung|Dong Thi Thanh Hien|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:15|21|Kim Thuan|Le Thi My Tra|18|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:15|21|Kim Thuan|Le Thi My Tra|17|An Thanh Huy|Nguyen Thi Giang|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:27|21|Laksika Kanlaha|none|11|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:27|21|Laksika Kanlaha|none|14|Vo Thi Ha Nhi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:37|16|Thipvatee Jaiareree|none|21|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:37|21|Thipvatee Jaiareree|none|13|Tran Truong Bao Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:22|21|Nattcha Chatputtarn|none|13|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:22|21|Nattcha Chatputtarn|none|8|Tran Le Quyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|15|Muhammad Shakhier Ruhizad|none|21|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Muhammad Shakhier Ruhizad|none|10|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Muhammad Shakhier Ruhizad|none|15|Tran Quoc Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Nguyen Cong Hai|none|13|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Nguyen Cong Hai|none|11|Wei Song Law|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:20|21|Chang Hsin Ping|none|12|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:20|21|Chang Hsin Ping|none|10|Tran Thi Yen Chi|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:44|21|Hsu Yu Chieh|Liao Chun Yao|5|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:44|21|Hsu Yu Chieh|Liao Chun Yao|15|Nguyen Hoang Hai|Pham Ngoc Thiet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:30|21|Liao Chiung Chen|none|19|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:30|21|Liao Chiung Chen|none|18|Tran Van Tri|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:22|21|Chang Lip Seng|none|10|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:22|21|Chang Lip Seng|none|8|Pham Hong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:26|21|An Thanh Huy|Pham Trung Luan|19|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:26|21|An Thanh Huy|Pham Trung Luan|17|Wijaya Alfat|Hardianto Kurniawan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:50|13|Phan Thanh Nhan|none|21|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|21|Phan Thanh Nhan|none|18|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|21|Phan Thanh Nhan|none|19|Panachai Worasaktyanan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:30|21|Chen Chun Cheng|none|13|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:30|21|Chen Chun Cheng|none|14|Vu Hoang Viet|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:48|17|Lim Yik Fong|none|21|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:48|21|Lim Yik Fong|none|14|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:48|21|Lim Yik Fong|none|10|Le Duc Phat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:22|21|Laksika Kanlaha|none|7|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:22|21|Laksika Kanlaha|none|4|Tran Que Anh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Tran Thi Thanh Xuan|none|17|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Tran Thi Thanh Xuan|none|10|Tran Thuc Trang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:40|21|Nguyen Thi Thao Mai|none|14|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:40|11|Nguyen Thi Thao Mai|none|21|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:40|21|Nguyen Thi Thao Mai|none|18|Liu I-Ting|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:18|21|Ornnicha Jongsathapornparn|none|5|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:18|21|Ornnicha Jongsathapornparn|none|14|Nguyen Thach My Linh|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:30|21|Chang Hsin Ping|none|15|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:30|21|Chang Hsin Ping|none|19|Sararat Chueboca|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:15|21|Nattcha Chatputtarn|none|10|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:15|21|Nattcha Chatputtarn|none|6|Tran Thi Ha Vy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:15|21|Truong Thanh Long|Dang Kim Ngan|8|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:15|21|Truong Thanh Long|Dang Kim Ngan|12|To Gia Bao|Tran Huynh Nhu Tuyet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:25|21|Ngo Viet Ngoc Huy|none|18|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:25|21|Ngo Viet Ngoc Huy|none|17|Nguyen Van Duc|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:25|21|Pham Trung Luan|Hoang Thuy Van|12|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:25|21|Pham Trung Luan|Hoang Thuy Van|18|Man Hung Woon|Teoh Mei Xing|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:35|19|Pham Hong Nam |Le Ha Trang|21|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:35|21|Pham Hong Nam |Le Ha Trang|16|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:35|21|Pham Hong Nam |Le Ha Trang|19|Kim Thuan|Le Thi My Tra|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:24|21|Liao Chiung Chen|none|13|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:24|21|Liao Chiung Chen|none|11|Nguyen Cong Hai|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:24|21|Pham Duc Long|none|12|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:24|21|Pham Duc Long|none|14|Tran Thanh Duy|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:36|8|Dang Quang Huy|none|21|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:36|21|Dang Quang Huy|none|8|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:36|21|Dang Quang Huy|none|5|Liw Andrew, Zheng Zhou|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:29|21|Chen Chun Cheng|none|11|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:29|21|Chen Chun Cheng|none|14|Lim Yik Fong|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|21|Le Van Tu|none|16|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|19|Le Van Tu|none|21|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|21|Le Van Tu|none|18|Nguyen Duc Giang|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:37|21|Muhammad Shakhier Ruhizad|none|11|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:37|21|Muhammad Shakhier Ruhizad|none|14|Wijaya Alfat|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Chang Lip Seng|none|13|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:35|21|Chang Lip Seng|none|17|Phan Thanh Nhan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|21|Nguyen Ngoc Huyen|none|13|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|14|Nguyen Ngoc Huyen|none|21|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:50|21|Nguyen Ngoc Huyen|none|11|Pham Ngoc Bich|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|5|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:16|21|Nguyen Cong Hai|Nguyen Hoang Anh|6|Bui Quang Khai|Hoang Anh Cuong|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|8|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:40|15|Nguyen Xuan Thinh|Pham Duc Long|21|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:40|21|Nguyen Xuan Thinh|Pham Duc Long|18|Nghiem Dinh Tuan|Phung Minh Hieu|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|8|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:21|21|Peerapong Juprathansuk|Nathanan Tansayga|15|Nguyen Phi Hung|To Gia Bao|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:28|21|Tran Quoc Viet|Vu Hoang Viet|17|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:28|21|Tran Quoc Viet|Vu Hoang Viet|18|An Thanh Huy|Pham Trung Luan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:19|21|Hsu Yu Chieh|Liao Chun Yao|14|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:19|21|Hsu Yu Chieh|Liao Chun Yao|9|Le Van Tu|Nguyen Van Duc|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|15|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:50|19|Nguyen Khac Tuan|Pham Hai Nam|21|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:50|21|Nguyen Khac Tuan|Pham Hai Nam|19|Nonthawat Sattanako|Panachai Worasaktyanan|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:42|21|Chang Hsin Ping|none|5|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:42|18|Chang Hsin Ping|none|21|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:42|22|Chang Hsin Ping|none|20|Tran Thi Thanh Xuan|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:43|17|Nguyen Thi Thao Mai|none|21|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:43|21|Nguyen Thi Thao Mai|none|12|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:43|21|Nguyen Thi Thao Mai|none|17|Thipvatee Jaiareree|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:33|19|Nattcha Chatputtarn|none|21|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:33|21|Nattcha Chatputtarn|none|10|Ornnicha Jongsathapornparn|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:24|21|Laksika Kanlaha|none|10|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:24|21|Laksika Kanlaha|none|11|Nguyen Ngoc Huyen|none|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|singles
+20141005|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|17|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:55|19|Nguyen Cong Hai|Nguyen Hoang Anh|21|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:55|21|Nguyen Cong Hai|Nguyen Hoang Anh|18|Tran Quoc Viet|Vu Hoang Viet|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:20|21|Ngo Viet Ngoc Huy|Nguyen Quang Phong|14|Nguyen Xuan Thinh|Pham Duc Long|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:20|11|Le Duc Phat|Tran Thanh Duy|7|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:20|Walkover Win|Le Duc Phat|Tran Thanh Duy|Walkover Loss|Nguyen Khac Tuan|Pham Hai Nam|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:28|21|Hsu Yu Chieh|Liao Chun Yao|16|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles
+20141005|0:28|23|Hsu Yu Chieh|Liao Chun Yao|21|Peerapong Juprathansuk|Nathanan Tansayga|008BFA2F-C41C-4F9F-9244-3FE0293C6A72|doubles

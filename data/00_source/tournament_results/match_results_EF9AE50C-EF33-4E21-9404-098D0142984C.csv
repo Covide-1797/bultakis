@@ -1,0 +1,697 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20161101|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|9|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|4|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:24|21|Raphael Beck|Carla Nelte|13|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:24|21|Raphael Beck|Carla Nelte|11|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:23|21|Huang Kaixiang|Li Yinhui|13|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:23|21|Huang Kaixiang|Li Yinhui|14|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:36|21|Bjarne Geiss|Eva Janssens|10|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:36|16|Bjarne Geiss|Eva Janssens|21|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:36|21|Bjarne Geiss|Eva Janssens|14|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:25|21|Christopher Skrzeba|none|19|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:25|21|Christopher Skrzeba|none|18|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:44|15|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:44|21|Simon Wang|none|13|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:44|23|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:44|11|Hannes Gerberich|none|21|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:27|21|Rüdiger Gnedt|none|19|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:27|21|Rüdiger Gnedt|none|13|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:38|24|Alexander Roovers|none|22|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:38|21|Alexander Roovers|none|10|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:19|21|Alex Vlaar|none|7|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:19|21|Alex Vlaar|none|14|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:31|21|Maciej Poulakowski|none|18|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:31|21|Maciej Poulakowski|none|16|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:24|21|Priskila Siahaya|none|18|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:24|21|Priskila Siahaya|none|16|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:50|21|Victoria Slobodyanyuk|none|18|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:50|17|Victoria Slobodyanyuk|none|21|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:50|21|Victoria Slobodyanyuk|none|15|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:27|21|Katerina Tomalova|none|19|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:27|21|Katerina Tomalova|none|10|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:38|18|Woon Kok Hong|none|21|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:38|21|Woon Kok Hong|none|14|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:38|21|Woon Kok Hong|none|10|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:20|21|Adam Hall|Peter Mills|7|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:20|21|Adam Hall|Peter Mills|12|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|12|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:37|16|Yogendran Khrishnan|Kamaldeep Singh|21|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|19|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:32|21|Cendrine Hantz|none|14|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:32|24|Cendrine Hantz|none|22|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:18|21|Kasper Antonsen|Frederik Søgaard|6|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:18|21|Kasper Antonsen|Frederik Søgaard|13|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:20|21|Mathias Bonny|Gilles Tripet|12|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:20|21|Mathias Bonny|Gilles Tripet|15|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161101|0:20|21|Nick Fransman|none|7|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:20|21|Nick Fransman|none|9|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|22|Dieter Domke|none|20|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|21|Dieter Domke|none|13|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:29|21|Lars Schaenzler|none|11|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:29|21|Lars Schaenzler|none|15|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:43|21|Anders Antonsen |none|19|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:43|21|Anders Antonsen |none|16|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:32|21|Toby Penty|none|16|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:32|21|Toby Penty|none|19|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:41|21|Henri Hurskainen |none|16|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:41|21|Henri Hurskainen |none|19|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:27|21|Giap Chin Goh|none|16|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:27|21|Giap Chin Goh|none|12|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:40|21|Khosit Phetpradab|none|19|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:40|21|Khosit Phetpradab|none|14|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:37|15|Joshua Magee|none|21|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:37|18|Joshua Magee|none|14|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:37|Walkover Win|Joshua Magee|none|Walkover Loss|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:26|21|Vladimir Malkov|none|16|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:26|21|Vladimir Malkov|none|17|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:28|21|Eetu Heino|none|15|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:28|21|Eetu Heino|none|12|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|21|Ihsan Maulana Mustofa |none|17|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|21|Ihsan Maulana Mustofa |none|16|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:23|21|Marc Zwiebler |none|13|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:23|21|Marc Zwiebler |none|11|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:32|21|Mikael Westerback|none|9|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:32|21|Mikael Westerback|none|17|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:50|21|Ivan Rusev|none|9|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:50|17|Ivan Rusev|none|21|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:50|22|Ivan Rusev|none|20|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:39|21|Jonatan Christie |none|19|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:39|21|Jonatan Christie |none|18|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:53|20|Mark Caljouw|none|22|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:53|21|Mark Caljouw|none|15|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:53|21|Mark Caljouw|none|18|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:20|21|Sourabh Varma|none|16|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:20|21|Sourabh Varma|none|11|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:39|21|Kai Schaefer|none|14|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:39|21|Kai Schaefer|none|13|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:46|21|Maciej Poulakowski|none|16|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:46|18|Maciej Poulakowski|none|21|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:46|21|Maciej Poulakowski|none|13|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|21|Fabian Roth|none|7|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|21|Fabian Roth|none|13|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:31|21|Xue Song |none|13|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:31|21|Xue Song |none|16|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:35|21|Simon Wang|none|17|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:35|21|Simon Wang|none|18|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:51|19|Sergey Sirant|none|21|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:51|21|Sergey Sirant|none|14|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:51|22|Sergey Sirant|none|20|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:43|21|Artem Pochtarov|none|17|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:43|26|Artem Pochtarov|none|24|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:21|21|Erik Meijs|none|7|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:21|21|Erik Meijs|none|8|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:25|21|Huang Yuxiang |none|7|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:25|21|Huang Yuxiang |none|11|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|1:23|18|Kim Bruun|none|21|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|1:23|21|Kim Bruun|none|10|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|1:23|21|Kim Bruun|none|16|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:22|21|Shi Yuqi |none|9|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161101|0:22|21|Shi Yuqi |none|7|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|9|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|4|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:24|21|Raphael Beck|Carla Nelte|13|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:24|21|Raphael Beck|Carla Nelte|11|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:23|21|Huang Kaixiang|Li Yinhui|13|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:23|21|Huang Kaixiang|Li Yinhui|14|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:36|21|Bjarne Geiss|Eva Janssens|10|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:36|16|Bjarne Geiss|Eva Janssens|21|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:36|21|Bjarne Geiss|Eva Janssens|14|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:25|21|Christopher Skrzeba|none|19|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:25|21|Christopher Skrzeba|none|18|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:44|15|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:44|21|Simon Wang|none|13|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:44|23|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:44|11|Hannes Gerberich|none|21|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:27|21|Rüdiger Gnedt|none|19|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:27|21|Rüdiger Gnedt|none|13|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:38|24|Alexander Roovers|none|22|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:38|21|Alexander Roovers|none|10|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:19|21|Alex Vlaar|none|7|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:19|21|Alex Vlaar|none|14|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:31|21|Maciej Poulakowski|none|18|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:31|21|Maciej Poulakowski|none|16|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:24|21|Priskila Siahaya|none|18|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:24|21|Priskila Siahaya|none|16|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:50|21|Victoria Slobodyanyuk|none|18|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:50|17|Victoria Slobodyanyuk|none|21|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:50|21|Victoria Slobodyanyuk|none|15|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:27|21|Katerina Tomalova|none|19|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:27|21|Katerina Tomalova|none|10|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:38|18|Woon Kok Hong|none|21|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:38|21|Woon Kok Hong|none|14|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:38|21|Woon Kok Hong|none|10|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:20|21|Adam Hall|Peter Mills|7|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:20|21|Adam Hall|Peter Mills|12|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|12|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:37|16|Yogendran Khrishnan|Kamaldeep Singh|21|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|19|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:32|21|Cendrine Hantz|none|14|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:32|24|Cendrine Hantz|none|22|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:18|21|Kasper Antonsen|Frederik Søgaard|6|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:18|21|Kasper Antonsen|Frederik Søgaard|13|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:20|21|Mathias Bonny|Gilles Tripet|12|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:20|21|Mathias Bonny|Gilles Tripet|15|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161102|0:20|21|Nick Fransman|none|7|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:20|21|Nick Fransman|none|9|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|22|Dieter Domke|none|20|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|21|Dieter Domke|none|13|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:29|21|Lars Schaenzler|none|11|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:29|21|Lars Schaenzler|none|15|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:43|21|Anders Antonsen |none|19|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:43|21|Anders Antonsen |none|16|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:32|21|Toby Penty|none|16|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:32|21|Toby Penty|none|19|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:41|21|Henri Hurskainen |none|16|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:41|21|Henri Hurskainen |none|19|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:27|21|Giap Chin Goh|none|16|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:27|21|Giap Chin Goh|none|12|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:40|21|Khosit Phetpradab|none|19|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:40|21|Khosit Phetpradab|none|14|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:37|15|Joshua Magee|none|21|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:37|18|Joshua Magee|none|14|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:37|Walkover Win|Joshua Magee|none|Walkover Loss|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:26|21|Vladimir Malkov|none|16|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:26|21|Vladimir Malkov|none|17|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:28|21|Eetu Heino|none|15|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:28|21|Eetu Heino|none|12|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|21|Ihsan Maulana Mustofa |none|17|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|21|Ihsan Maulana Mustofa |none|16|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:23|21|Marc Zwiebler |none|13|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:23|21|Marc Zwiebler |none|11|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:32|21|Mikael Westerback|none|9|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:32|21|Mikael Westerback|none|17|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:50|21|Ivan Rusev|none|9|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:50|17|Ivan Rusev|none|21|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:50|22|Ivan Rusev|none|20|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:39|21|Jonatan Christie |none|19|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:39|21|Jonatan Christie |none|18|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:53|20|Mark Caljouw|none|22|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:53|21|Mark Caljouw|none|15|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:53|21|Mark Caljouw|none|18|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:20|21|Sourabh Varma|none|16|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:20|21|Sourabh Varma|none|11|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:39|21|Kai Schaefer|none|14|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:39|21|Kai Schaefer|none|13|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:46|21|Maciej Poulakowski|none|16|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:46|18|Maciej Poulakowski|none|21|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:46|21|Maciej Poulakowski|none|13|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|21|Fabian Roth|none|7|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|21|Fabian Roth|none|13|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:31|21|Xue Song |none|13|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:31|21|Xue Song |none|16|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:35|21|Simon Wang|none|17|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:35|21|Simon Wang|none|18|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:51|19|Sergey Sirant|none|21|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:51|21|Sergey Sirant|none|14|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:51|22|Sergey Sirant|none|20|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:43|21|Artem Pochtarov|none|17|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:43|26|Artem Pochtarov|none|24|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:21|21|Erik Meijs|none|7|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:21|21|Erik Meijs|none|8|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:25|21|Huang Yuxiang |none|7|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:25|21|Huang Yuxiang |none|11|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|1:23|18|Kim Bruun|none|21|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|1:23|21|Kim Bruun|none|10|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|1:23|21|Kim Bruun|none|16|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:22|21|Shi Yuqi |none|9|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161102|0:22|21|Shi Yuqi |none|7|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|9|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|4|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:24|21|Raphael Beck|Carla Nelte|13|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:24|21|Raphael Beck|Carla Nelte|11|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:23|21|Huang Kaixiang|Li Yinhui|13|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:23|21|Huang Kaixiang|Li Yinhui|14|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:36|21|Bjarne Geiss|Eva Janssens|10|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:36|16|Bjarne Geiss|Eva Janssens|21|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:36|21|Bjarne Geiss|Eva Janssens|14|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:25|21|Christopher Skrzeba|none|19|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:25|21|Christopher Skrzeba|none|18|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:44|15|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:44|21|Simon Wang|none|13|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:44|23|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:44|11|Hannes Gerberich|none|21|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:27|21|Rüdiger Gnedt|none|19|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:27|21|Rüdiger Gnedt|none|13|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:38|24|Alexander Roovers|none|22|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:38|21|Alexander Roovers|none|10|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:19|21|Alex Vlaar|none|7|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:19|21|Alex Vlaar|none|14|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:31|21|Maciej Poulakowski|none|18|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:31|21|Maciej Poulakowski|none|16|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:24|21|Priskila Siahaya|none|18|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:24|21|Priskila Siahaya|none|16|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:50|21|Victoria Slobodyanyuk|none|18|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:50|17|Victoria Slobodyanyuk|none|21|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:50|21|Victoria Slobodyanyuk|none|15|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:27|21|Katerina Tomalova|none|19|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:27|21|Katerina Tomalova|none|10|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:38|18|Woon Kok Hong|none|21|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:38|21|Woon Kok Hong|none|14|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:38|21|Woon Kok Hong|none|10|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:20|21|Adam Hall|Peter Mills|7|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:20|21|Adam Hall|Peter Mills|12|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|12|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:37|16|Yogendran Khrishnan|Kamaldeep Singh|21|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|19|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:32|21|Cendrine Hantz|none|14|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:32|24|Cendrine Hantz|none|22|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:18|21|Kasper Antonsen|Frederik Søgaard|6|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:18|21|Kasper Antonsen|Frederik Søgaard|13|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:20|21|Mathias Bonny|Gilles Tripet|12|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:20|21|Mathias Bonny|Gilles Tripet|15|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161103|0:20|21|Nick Fransman|none|7|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:20|21|Nick Fransman|none|9|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|22|Dieter Domke|none|20|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|21|Dieter Domke|none|13|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:29|21|Lars Schaenzler|none|11|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:29|21|Lars Schaenzler|none|15|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:43|21|Anders Antonsen |none|19|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:43|21|Anders Antonsen |none|16|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:32|21|Toby Penty|none|16|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:32|21|Toby Penty|none|19|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:41|21|Henri Hurskainen |none|16|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:41|21|Henri Hurskainen |none|19|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:27|21|Giap Chin Goh|none|16|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:27|21|Giap Chin Goh|none|12|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:40|21|Khosit Phetpradab|none|19|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:40|21|Khosit Phetpradab|none|14|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:37|15|Joshua Magee|none|21|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:37|18|Joshua Magee|none|14|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:37|Walkover Win|Joshua Magee|none|Walkover Loss|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:26|21|Vladimir Malkov|none|16|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:26|21|Vladimir Malkov|none|17|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:28|21|Eetu Heino|none|15|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:28|21|Eetu Heino|none|12|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|21|Ihsan Maulana Mustofa |none|17|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|21|Ihsan Maulana Mustofa |none|16|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:23|21|Marc Zwiebler |none|13|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:23|21|Marc Zwiebler |none|11|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:32|21|Mikael Westerback|none|9|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:32|21|Mikael Westerback|none|17|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:50|21|Ivan Rusev|none|9|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:50|17|Ivan Rusev|none|21|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:50|22|Ivan Rusev|none|20|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:39|21|Jonatan Christie |none|19|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:39|21|Jonatan Christie |none|18|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:53|20|Mark Caljouw|none|22|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:53|21|Mark Caljouw|none|15|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:53|21|Mark Caljouw|none|18|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:20|21|Sourabh Varma|none|16|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:20|21|Sourabh Varma|none|11|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:39|21|Kai Schaefer|none|14|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:39|21|Kai Schaefer|none|13|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:46|21|Maciej Poulakowski|none|16|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:46|18|Maciej Poulakowski|none|21|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:46|21|Maciej Poulakowski|none|13|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|21|Fabian Roth|none|7|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|21|Fabian Roth|none|13|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:31|21|Xue Song |none|13|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:31|21|Xue Song |none|16|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:35|21|Simon Wang|none|17|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:35|21|Simon Wang|none|18|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:51|19|Sergey Sirant|none|21|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:51|21|Sergey Sirant|none|14|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:51|22|Sergey Sirant|none|20|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:43|21|Artem Pochtarov|none|17|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:43|26|Artem Pochtarov|none|24|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:21|21|Erik Meijs|none|7|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:21|21|Erik Meijs|none|8|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:25|21|Huang Yuxiang |none|7|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:25|21|Huang Yuxiang |none|11|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|1:23|18|Kim Bruun|none|21|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|1:23|21|Kim Bruun|none|10|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|1:23|21|Kim Bruun|none|16|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:22|21|Shi Yuqi |none|9|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161103|0:22|21|Shi Yuqi |none|7|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|9|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|4|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:24|21|Raphael Beck|Carla Nelte|13|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:24|21|Raphael Beck|Carla Nelte|11|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:23|21|Huang Kaixiang|Li Yinhui|13|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:23|21|Huang Kaixiang|Li Yinhui|14|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:36|21|Bjarne Geiss|Eva Janssens|10|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:36|16|Bjarne Geiss|Eva Janssens|21|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:36|21|Bjarne Geiss|Eva Janssens|14|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:25|21|Christopher Skrzeba|none|19|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:25|21|Christopher Skrzeba|none|18|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:44|15|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:44|21|Simon Wang|none|13|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:44|23|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:44|11|Hannes Gerberich|none|21|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:27|21|Rüdiger Gnedt|none|19|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:27|21|Rüdiger Gnedt|none|13|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:38|24|Alexander Roovers|none|22|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:38|21|Alexander Roovers|none|10|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:19|21|Alex Vlaar|none|7|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:19|21|Alex Vlaar|none|14|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:31|21|Maciej Poulakowski|none|18|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:31|21|Maciej Poulakowski|none|16|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:24|21|Priskila Siahaya|none|18|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:24|21|Priskila Siahaya|none|16|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:50|21|Victoria Slobodyanyuk|none|18|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:50|17|Victoria Slobodyanyuk|none|21|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:50|21|Victoria Slobodyanyuk|none|15|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:27|21|Katerina Tomalova|none|19|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:27|21|Katerina Tomalova|none|10|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:38|18|Woon Kok Hong|none|21|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:38|21|Woon Kok Hong|none|14|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:38|21|Woon Kok Hong|none|10|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:20|21|Adam Hall|Peter Mills|7|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:20|21|Adam Hall|Peter Mills|12|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|12|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:37|16|Yogendran Khrishnan|Kamaldeep Singh|21|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|19|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:32|21|Cendrine Hantz|none|14|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:32|24|Cendrine Hantz|none|22|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:18|21|Kasper Antonsen|Frederik Søgaard|6|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:18|21|Kasper Antonsen|Frederik Søgaard|13|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:20|21|Mathias Bonny|Gilles Tripet|12|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:20|21|Mathias Bonny|Gilles Tripet|15|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161104|0:20|21|Nick Fransman|none|7|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:20|21|Nick Fransman|none|9|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|22|Dieter Domke|none|20|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|21|Dieter Domke|none|13|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:29|21|Lars Schaenzler|none|11|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:29|21|Lars Schaenzler|none|15|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:43|21|Anders Antonsen |none|19|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:43|21|Anders Antonsen |none|16|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:32|21|Toby Penty|none|16|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:32|21|Toby Penty|none|19|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:41|21|Henri Hurskainen |none|16|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:41|21|Henri Hurskainen |none|19|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:27|21|Giap Chin Goh|none|16|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:27|21|Giap Chin Goh|none|12|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:40|21|Khosit Phetpradab|none|19|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:40|21|Khosit Phetpradab|none|14|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:37|15|Joshua Magee|none|21|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:37|18|Joshua Magee|none|14|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:37|Walkover Win|Joshua Magee|none|Walkover Loss|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:26|21|Vladimir Malkov|none|16|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:26|21|Vladimir Malkov|none|17|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:28|21|Eetu Heino|none|15|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:28|21|Eetu Heino|none|12|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|21|Ihsan Maulana Mustofa |none|17|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|21|Ihsan Maulana Mustofa |none|16|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:23|21|Marc Zwiebler |none|13|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:23|21|Marc Zwiebler |none|11|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:32|21|Mikael Westerback|none|9|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:32|21|Mikael Westerback|none|17|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:50|21|Ivan Rusev|none|9|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:50|17|Ivan Rusev|none|21|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:50|22|Ivan Rusev|none|20|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:39|21|Jonatan Christie |none|19|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:39|21|Jonatan Christie |none|18|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:53|20|Mark Caljouw|none|22|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:53|21|Mark Caljouw|none|15|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:53|21|Mark Caljouw|none|18|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:20|21|Sourabh Varma|none|16|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:20|21|Sourabh Varma|none|11|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:39|21|Kai Schaefer|none|14|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:39|21|Kai Schaefer|none|13|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:46|21|Maciej Poulakowski|none|16|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:46|18|Maciej Poulakowski|none|21|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:46|21|Maciej Poulakowski|none|13|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|21|Fabian Roth|none|7|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|21|Fabian Roth|none|13|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:31|21|Xue Song |none|13|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:31|21|Xue Song |none|16|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:35|21|Simon Wang|none|17|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:35|21|Simon Wang|none|18|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:51|19|Sergey Sirant|none|21|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:51|21|Sergey Sirant|none|14|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:51|22|Sergey Sirant|none|20|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:43|21|Artem Pochtarov|none|17|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:43|26|Artem Pochtarov|none|24|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:21|21|Erik Meijs|none|7|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:21|21|Erik Meijs|none|8|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:25|21|Huang Yuxiang |none|7|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:25|21|Huang Yuxiang |none|11|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|1:23|18|Kim Bruun|none|21|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|1:23|21|Kim Bruun|none|10|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|1:23|21|Kim Bruun|none|16|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:22|21|Shi Yuqi |none|9|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161104|0:22|21|Shi Yuqi |none|7|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|9|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|4|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:24|21|Raphael Beck|Carla Nelte|13|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:24|21|Raphael Beck|Carla Nelte|11|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:23|21|Huang Kaixiang|Li Yinhui|13|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:23|21|Huang Kaixiang|Li Yinhui|14|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:36|21|Bjarne Geiss|Eva Janssens|10|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:36|16|Bjarne Geiss|Eva Janssens|21|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:36|21|Bjarne Geiss|Eva Janssens|14|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:25|21|Christopher Skrzeba|none|19|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:25|21|Christopher Skrzeba|none|18|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:44|15|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:44|21|Simon Wang|none|13|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:44|23|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:44|11|Hannes Gerberich|none|21|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:27|21|Rüdiger Gnedt|none|19|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:27|21|Rüdiger Gnedt|none|13|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:38|24|Alexander Roovers|none|22|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:38|21|Alexander Roovers|none|10|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:19|21|Alex Vlaar|none|7|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:19|21|Alex Vlaar|none|14|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:31|21|Maciej Poulakowski|none|18|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:31|21|Maciej Poulakowski|none|16|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:24|21|Priskila Siahaya|none|18|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:24|21|Priskila Siahaya|none|16|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:50|21|Victoria Slobodyanyuk|none|18|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:50|17|Victoria Slobodyanyuk|none|21|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:50|21|Victoria Slobodyanyuk|none|15|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:27|21|Katerina Tomalova|none|19|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:27|21|Katerina Tomalova|none|10|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:38|18|Woon Kok Hong|none|21|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:38|21|Woon Kok Hong|none|14|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:38|21|Woon Kok Hong|none|10|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:20|21|Adam Hall|Peter Mills|7|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:20|21|Adam Hall|Peter Mills|12|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|12|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:37|16|Yogendran Khrishnan|Kamaldeep Singh|21|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|19|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:32|21|Cendrine Hantz|none|14|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:32|24|Cendrine Hantz|none|22|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:18|21|Kasper Antonsen|Frederik Søgaard|6|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:18|21|Kasper Antonsen|Frederik Søgaard|13|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:20|21|Mathias Bonny|Gilles Tripet|12|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:20|21|Mathias Bonny|Gilles Tripet|15|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161105|0:20|21|Nick Fransman|none|7|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:20|21|Nick Fransman|none|9|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|22|Dieter Domke|none|20|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|21|Dieter Domke|none|13|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:29|21|Lars Schaenzler|none|11|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:29|21|Lars Schaenzler|none|15|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:43|21|Anders Antonsen |none|19|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:43|21|Anders Antonsen |none|16|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:32|21|Toby Penty|none|16|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:32|21|Toby Penty|none|19|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:41|21|Henri Hurskainen |none|16|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:41|21|Henri Hurskainen |none|19|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:27|21|Giap Chin Goh|none|16|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:27|21|Giap Chin Goh|none|12|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:40|21|Khosit Phetpradab|none|19|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:40|21|Khosit Phetpradab|none|14|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:37|15|Joshua Magee|none|21|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:37|18|Joshua Magee|none|14|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:37|Walkover Win|Joshua Magee|none|Walkover Loss|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:26|21|Vladimir Malkov|none|16|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:26|21|Vladimir Malkov|none|17|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:28|21|Eetu Heino|none|15|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:28|21|Eetu Heino|none|12|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|21|Ihsan Maulana Mustofa |none|17|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|21|Ihsan Maulana Mustofa |none|16|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:23|21|Marc Zwiebler |none|13|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:23|21|Marc Zwiebler |none|11|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:32|21|Mikael Westerback|none|9|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:32|21|Mikael Westerback|none|17|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:50|21|Ivan Rusev|none|9|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:50|17|Ivan Rusev|none|21|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:50|22|Ivan Rusev|none|20|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:39|21|Jonatan Christie |none|19|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:39|21|Jonatan Christie |none|18|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:53|20|Mark Caljouw|none|22|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:53|21|Mark Caljouw|none|15|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:53|21|Mark Caljouw|none|18|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:20|21|Sourabh Varma|none|16|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:20|21|Sourabh Varma|none|11|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:39|21|Kai Schaefer|none|14|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:39|21|Kai Schaefer|none|13|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:46|21|Maciej Poulakowski|none|16|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:46|18|Maciej Poulakowski|none|21|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:46|21|Maciej Poulakowski|none|13|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|21|Fabian Roth|none|7|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|21|Fabian Roth|none|13|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:31|21|Xue Song |none|13|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:31|21|Xue Song |none|16|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:35|21|Simon Wang|none|17|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:35|21|Simon Wang|none|18|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:51|19|Sergey Sirant|none|21|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:51|21|Sergey Sirant|none|14|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:51|22|Sergey Sirant|none|20|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:43|21|Artem Pochtarov|none|17|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:43|26|Artem Pochtarov|none|24|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:21|21|Erik Meijs|none|7|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:21|21|Erik Meijs|none|8|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:25|21|Huang Yuxiang |none|7|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:25|21|Huang Yuxiang |none|11|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|1:23|18|Kim Bruun|none|21|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|1:23|21|Kim Bruun|none|10|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|1:23|21|Kim Bruun|none|16|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:22|21|Shi Yuqi |none|9|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161105|0:22|21|Shi Yuqi |none|7|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|9|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:22|21|Anders Skaarup Rasmussen|Maiken Fruergaard|4|Daniel Benz|Theresa Wurm|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:24|21|Raphael Beck|Carla Nelte|13|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:24|21|Raphael Beck|Carla Nelte|11|Alex Vlaar|Petya Nedelcheva|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:23|21|Huang Kaixiang|Li Yinhui|13|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:23|21|Huang Kaixiang|Li Yinhui|14|Lin Yu Hsien|Hung Shih Han|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:36|21|Bjarne Geiss|Eva Janssens|10|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:36|16|Bjarne Geiss|Eva Janssens|21|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:36|21|Bjarne Geiss|Eva Janssens|14|Kamaldeep Singh|Zhi Qing Lee|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:25|21|Christopher Skrzeba|none|19|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:25|21|Christopher Skrzeba|none|18|Mohd Razlan Shah Mohd Ridzuan Shah|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:44|15|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:44|21|Simon Wang|none|13|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:44|23|Simon Wang|none|21|Benedikt Schaller|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:44|11|Hannes Gerberich|none|21|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:44|21|Hannes Gerberich|none|13|Stijn De Langhe|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:27|21|Rüdiger Gnedt|none|19|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:27|21|Rüdiger Gnedt|none|13|Nathan Laemmel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:38|24|Alexander Roovers|none|22|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:38|21|Alexander Roovers|none|10|Peter Lang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:19|21|Alex Vlaar|none|7|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:19|21|Alex Vlaar|none|14|Mike Vallenthini|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:31|21|Maciej Poulakowski|none|18|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:31|21|Maciej Poulakowski|none|16|Tobias Mund|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:24|21|Priskila Siahaya|none|18|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:24|21|Priskila Siahaya|none|16|Brid Stepper|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:50|21|Victoria Slobodyanyuk|none|18|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:50|17|Victoria Slobodyanyuk|none|21|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:50|21|Victoria Slobodyanyuk|none|15|Ayla Huser|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:27|21|Katerina Tomalova|none|19|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:27|21|Katerina Tomalova|none|10|Theresa Wurm|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:38|18|Woon Kok Hong|none|21|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:38|21|Woon Kok Hong|none|14|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:38|21|Woon Kok Hong|none|10|Sivin Manjaly|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:20|21|Adam Hall|Peter Mills|7|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:20|21|Adam Hall|Peter Mills|12|Fabian Demtröder|Jonas Hechler|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|12|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:37|16|Yogendran Khrishnan|Kamaldeep Singh|21|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:37|21|Yogendran Khrishnan|Kamaldeep Singh|19|Wolfgang Gnedt|Woon Kok Hong|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:32|21|Cendrine Hantz|none|14|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:32|24|Cendrine Hantz|none|22|Lisa Kaminski|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:18|21|Kasper Antonsen|Frederik Søgaard|6|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:18|21|Kasper Antonsen|Frederik Søgaard|13|Ben Rausch|Mike Vallenthini|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:20|21|Mathias Bonny|Gilles Tripet|12|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:20|21|Mathias Bonny|Gilles Tripet|15|Hannes Gerberich|Tobias Wadenka|EF9AE50C-EF33-4E21-9404-098D0142984C|doubles
+20161106|0:20|21|Nick Fransman|none|7|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:20|21|Nick Fransman|none|9|Michael Spencer-Smith|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|22|Dieter Domke|none|20|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|21|Dieter Domke|none|13|David Peng|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:29|21|Lars Schaenzler|none|11|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:29|21|Lars Schaenzler|none|15|Denis Grachev|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:43|21|Anders Antonsen |none|19|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:43|21|Anders Antonsen |none|16|Lin Yu Hsien|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:32|21|Toby Penty|none|16|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:32|21|Toby Penty|none|19|Marius Myhre|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:41|21|Henri Hurskainen |none|16|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:41|21|Henri Hurskainen |none|19|Job Castillo|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:27|21|Giap Chin Goh|none|16|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:27|21|Giap Chin Goh|none|12|Kalle Koljonen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:40|21|Khosit Phetpradab|none|19|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:40|21|Khosit Phetpradab|none|14|Anthony Sinisuka Ginting [11]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:37|15|Joshua Magee|none|21|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:37|18|Joshua Magee|none|14|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:37|Walkover Win|Joshua Magee|none|Walkover Loss|Alen Roj|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:26|21|Vladimir Malkov|none|16|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:26|21|Vladimir Malkov|none|17|Robert Mann|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:33|21|Kieran Merrilees|none|15|Bjorn Seguin|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:28|21|Eetu Heino|none|15|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:28|21|Eetu Heino|none|12|Wolfgang Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|21|Ihsan Maulana Mustofa |none|17|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|21|Ihsan Maulana Mustofa |none|16|Siril Verma|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:23|21|Marc Zwiebler |none|13|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:23|21|Marc Zwiebler |none|11|Philip Discher|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:32|21|Mikael Westerback|none|9|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:32|21|Mikael Westerback|none|17|Vilson Vattanirappel|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:50|21|Ivan Rusev|none|9|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:50|17|Ivan Rusev|none|21|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:50|22|Ivan Rusev|none|20|Hannes Gerberich|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:39|21|Jonatan Christie |none|19|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:39|21|Jonatan Christie |none|18|Subhankar Dey|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:53|20|Mark Caljouw|none|22|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:53|21|Mark Caljouw|none|15|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:53|21|Mark Caljouw|none|18|Luka Wraber|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:20|21|Sourabh Varma|none|16|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:20|21|Sourabh Varma|none|11|Rüdiger Gnedt|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:39|21|Kai Schaefer|none|14|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:39|21|Kai Schaefer|none|13|Emil Holst [13]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:46|21|Maciej Poulakowski|none|16|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:46|18|Maciej Poulakowski|none|21|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:46|21|Maciej Poulakowski|none|13|Nathan Vervaeke|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|21|Fabian Roth|none|7|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|21|Fabian Roth|none|13|Christian Lind Thomsen|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:31|21|Xue Song |none|13|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:31|21|Xue Song |none|16|Alex Vlaar|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:35|21|Simon Wang|none|17|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:35|21|Simon Wang|none|18|Mathias Bonny|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:51|19|Sergey Sirant|none|21|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:51|21|Sergey Sirant|none|14|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:51|22|Sergey Sirant|none|20|Woon Kok Hong|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:43|21|Artem Pochtarov|none|17|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:43|26|Artem Pochtarov|none|24|Joel Koenig|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:28|21|Sameer Verma |none|11|Alexander Roovers|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:21|21|Erik Meijs|none|7|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:21|21|Erik Meijs|none|8|Adam Mendrek|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:25|21|Huang Yuxiang |none|7|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:25|21|Huang Yuxiang |none|11|Tobias Wadenka|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|1:23|18|Kim Bruun|none|21|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|1:23|21|Kim Bruun|none|10|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|1:23|21|Kim Bruun|none|16|Hsu Jen Hao [8]|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:30|21|Matej Hlinican|none|19|Jiann Shiarng Chiang|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:22|21|Shi Yuqi |none|9|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles
+20161106|0:22|21|Shi Yuqi |none|7|Christopher Skrzeba|none|EF9AE50C-EF33-4E21-9404-098D0142984C|singles

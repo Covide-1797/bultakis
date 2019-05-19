@@ -1,0 +1,485 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20140313|0:11|Walkover Win|Denis Grachev|Sergey Sirant|Walkover Loss|Ilija Pavlovic|Jovica Rujevic|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313||Walkover Win|Marius Corciuc|Gradinaru Ionut|Walkover Loss|Vineeth Manuel|Pochana Arjun Reddy|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:16|21|Ronan Gueguin|Alexandre Hammer|14|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:16|21|Ronan Gueguin|Alexandre Hammer|18|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:19|21|Iikka Heino|Anton Kaisti|10|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:19|21|Iikka Heino|Anton Kaisti|9|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:32|21|Miodrag Kalicanin|Borko Petrovic|19|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:32|17|Miodrag Kalicanin|Borko Petrovic|21|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:32|21|Miodrag Kalicanin|Borko Petrovic|12|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:45|23|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:45|19|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:45|21|Eduard-Marius Ica|none|14|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:28|21|Justin Teeuwen|none|16|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:28|21|Justin Teeuwen|none|18|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:29|21|Gergely Krausz|none|11|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:29|21|Gergely Krausz|none|14|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:21|21|Vilson Vattanirappel|none|12|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:21|21|Vilson Vattanirappel|none|7|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:20|21|Luis Ramon Garrido|none|12|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:20|21|Luis Ramon Garrido|none|11|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|1:01|19|Morten Herschend|none|21|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|1:01|21|Morten Herschend|none|16|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|1:01|21|Morten Herschend|none|10|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|21|Pierrick Cajot|none|13|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|21|Pierrick Cajot|none|15|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:44|11|Martin Vicen|none|21|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:44|21|Martin Vicen|none|15|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:44|21|Martin Vicen|none|19|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:39|21|Tanguy Citron|none|18|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:39|21|Tanguy Citron|none|17|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:44|21|Mircea Vasiu|none|19|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:44|19|Mircea Vasiu|none|21|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:44|21|Mircea Vasiu|none|15|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:30|24|Borko Petrovic|none|22|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:30|21|Borko Petrovic|none|19|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:23|21|Alexandre Hammer|none|8|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:23|21|Alexandre Hammer|none|9|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313||Walkover Win|Piotr Wasiluk|none|Walkover Loss|Antoine Lodiot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313||Walkover Win|Radu Vasiu|none|Walkover Loss|Jovica Rujevic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:23|21|Swierczynki Mateusz|none|15|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:23|21|Swierczynki Mateusz|none|10|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|21|Romain Eudeline|none|11|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|21|Romain Eudeline|none|18|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:20|21|Marius Corciuc|none|15|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:20|21|Marius Corciuc|none|14|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313||Walkover Win|Gradinaru Ionut|none|Walkover Loss|Viky Anindita|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:25|21|Justin Teeuwen|none|14|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:25|21|Justin Teeuwen|none|16|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:50|21|Sergey Sirant|none|13|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:50|17|Sergey Sirant|none|21|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:50|21|Sergey Sirant|none|16|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:35|23|Robert Ciobotaru|none|21|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:35|21|Robert Ciobotaru|none|18|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:31|21|Adi Pratama |none|16|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:31|21|Adi Pratama |none|10|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|1:07|17|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|1:07|21|Tanguy Citron|none|16|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|1:07|23|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:40|21|Zvonimir Hoelbling|none|15|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:40|15|Zvonimir Hoelbling|none|21|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:40|21|Zvonimir Hoelbling|none|19|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|21|Sylvain Ternon |none|12|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|23|Sylvain Ternon |none|21|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:27|21|Iikka Heino |none|17|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:27|21|Iikka Heino |none|15|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:30|21|Vilson Vattanirappel|none|13|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:30|21|Vilson Vattanirappel|none|14|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:17|21|Luis Ramon Garrido|none|7|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:17|21|Luis Ramon Garrido|none|4|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:30|21|Zvonimir Durkinjak |none|19|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:30|21|Zvonimir Durkinjak |none|14|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:30|Walkover Win|Zvonimir Durkinjak |none|Walkover Loss|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|1
+20140313|0:28|21|Pierrick Cajot|none|15|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:28|21|Pierrick Cajot|none|13|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:21|21|Peter Letsch|none|17|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:21|21|Peter Letsch|none|19|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:19|21|Joanna Chaube|none|17|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:19|21|Joanna Chaube|none|11|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:46|21|Alzbeta Basova|none|15|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:46|16|Alzbeta Basova|none|21|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:46|21|Alzbeta Basova|none|19|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:17|21|Elisabeth Baldauf|none|10|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:17|21|Elisabeth Baldauf|none|12|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:36|21|Zinukhov Andriy |none|6|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:36|16|Zinukhov Andriy |none|21|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:36|21|Zinukhov Andriy |none|12|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:35|21|Denis Grachev |none|14|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:35|22|Denis Grachev |none|20|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:51|21|Iikka Heino |none|11|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:51|19|Iikka Heino |none|21|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:51|21|Iikka Heino |none|13|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:25|21|Luis Ramon Garrido|none|15|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:25|21|Luis Ramon Garrido|none|6|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:28|21|Romain Eudeline|none|3|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:28|21|Romain Eudeline|none|13|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:40|21|Adi Pratama |none|10|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:40|13|Adi Pratama |none|21|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:40|21|Adi Pratama |none|9|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:18|21|Tanguy Citron|none|8|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:18|21|Tanguy Citron|none|7|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:42|21|Joanna Chaube|none|23|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:42|21|Joanna Chaube|none|15|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:42|21|Joanna Chaube|none|12|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:36|21|Katia Normand|none|11|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:36|18|Katia Normand|none|21|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:36|21|Katia Normand|none|13|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|23|Elisabeth Baldauf|none|21|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:32|21|Elisabeth Baldauf|none|10|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313|0:18|21|Denis Grachev|Sergey Sirant|8|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313|0:18|21|Denis Grachev|Sergey Sirant|11|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313||Walkover Win|Ronan Gueguin|Alexandre Hammer|Walkover Loss|Marius Corciuc|Gradinaru Ionut|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140313||Walkover Win|Iikka Heino|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140313||Walkover Win|Miodrag Kalicanin|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:11|Walkover Win|Denis Grachev|Sergey Sirant|Walkover Loss|Ilija Pavlovic|Jovica Rujevic|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314||Walkover Win|Marius Corciuc|Gradinaru Ionut|Walkover Loss|Vineeth Manuel|Pochana Arjun Reddy|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:16|21|Ronan Gueguin|Alexandre Hammer|14|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:16|21|Ronan Gueguin|Alexandre Hammer|18|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:19|21|Iikka Heino|Anton Kaisti|10|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:19|21|Iikka Heino|Anton Kaisti|9|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:32|21|Miodrag Kalicanin|Borko Petrovic|19|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:32|17|Miodrag Kalicanin|Borko Petrovic|21|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:32|21|Miodrag Kalicanin|Borko Petrovic|12|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:45|23|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:45|19|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:45|21|Eduard-Marius Ica|none|14|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:28|21|Justin Teeuwen|none|16|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:28|21|Justin Teeuwen|none|18|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:29|21|Gergely Krausz|none|11|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:29|21|Gergely Krausz|none|14|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:21|21|Vilson Vattanirappel|none|12|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:21|21|Vilson Vattanirappel|none|7|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:20|21|Luis Ramon Garrido|none|12|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:20|21|Luis Ramon Garrido|none|11|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|1:01|19|Morten Herschend|none|21|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|1:01|21|Morten Herschend|none|16|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|1:01|21|Morten Herschend|none|10|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|21|Pierrick Cajot|none|13|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|21|Pierrick Cajot|none|15|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:44|11|Martin Vicen|none|21|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:44|21|Martin Vicen|none|15|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:44|21|Martin Vicen|none|19|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:39|21|Tanguy Citron|none|18|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:39|21|Tanguy Citron|none|17|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:44|21|Mircea Vasiu|none|19|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:44|19|Mircea Vasiu|none|21|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:44|21|Mircea Vasiu|none|15|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:30|24|Borko Petrovic|none|22|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:30|21|Borko Petrovic|none|19|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:23|21|Alexandre Hammer|none|8|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:23|21|Alexandre Hammer|none|9|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314||Walkover Win|Piotr Wasiluk|none|Walkover Loss|Antoine Lodiot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314||Walkover Win|Radu Vasiu|none|Walkover Loss|Jovica Rujevic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:23|21|Swierczynki Mateusz|none|15|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:23|21|Swierczynki Mateusz|none|10|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|21|Romain Eudeline|none|11|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|21|Romain Eudeline|none|18|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:20|21|Marius Corciuc|none|15|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:20|21|Marius Corciuc|none|14|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314||Walkover Win|Gradinaru Ionut|none|Walkover Loss|Viky Anindita|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:25|21|Justin Teeuwen|none|14|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:25|21|Justin Teeuwen|none|16|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:50|21|Sergey Sirant|none|13|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:50|17|Sergey Sirant|none|21|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:50|21|Sergey Sirant|none|16|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:35|23|Robert Ciobotaru|none|21|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:35|21|Robert Ciobotaru|none|18|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:31|21|Adi Pratama |none|16|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:31|21|Adi Pratama |none|10|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|1:07|17|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|1:07|21|Tanguy Citron|none|16|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|1:07|23|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:40|21|Zvonimir Hoelbling|none|15|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:40|15|Zvonimir Hoelbling|none|21|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:40|21|Zvonimir Hoelbling|none|19|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|21|Sylvain Ternon |none|12|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|23|Sylvain Ternon |none|21|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:27|21|Iikka Heino |none|17|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:27|21|Iikka Heino |none|15|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:30|21|Vilson Vattanirappel|none|13|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:30|21|Vilson Vattanirappel|none|14|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:17|21|Luis Ramon Garrido|none|7|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:17|21|Luis Ramon Garrido|none|4|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:30|21|Zvonimir Durkinjak |none|19|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:30|21|Zvonimir Durkinjak |none|14|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:30|Walkover Win|Zvonimir Durkinjak |none|Walkover Loss|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|1
+20140314|0:28|21|Pierrick Cajot|none|15|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:28|21|Pierrick Cajot|none|13|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:21|21|Peter Letsch|none|17|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:21|21|Peter Letsch|none|19|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:19|21|Joanna Chaube|none|17|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:19|21|Joanna Chaube|none|11|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:46|21|Alzbeta Basova|none|15|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:46|16|Alzbeta Basova|none|21|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:46|21|Alzbeta Basova|none|19|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:17|21|Elisabeth Baldauf|none|10|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:17|21|Elisabeth Baldauf|none|12|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:36|21|Zinukhov Andriy |none|6|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:36|16|Zinukhov Andriy |none|21|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:36|21|Zinukhov Andriy |none|12|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:35|21|Denis Grachev |none|14|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:35|22|Denis Grachev |none|20|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:51|21|Iikka Heino |none|11|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:51|19|Iikka Heino |none|21|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:51|21|Iikka Heino |none|13|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:25|21|Luis Ramon Garrido|none|15|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:25|21|Luis Ramon Garrido|none|6|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:28|21|Romain Eudeline|none|3|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:28|21|Romain Eudeline|none|13|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:40|21|Adi Pratama |none|10|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:40|13|Adi Pratama |none|21|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:40|21|Adi Pratama |none|9|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:18|21|Tanguy Citron|none|8|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:18|21|Tanguy Citron|none|7|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:42|21|Joanna Chaube|none|23|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:42|21|Joanna Chaube|none|15|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:42|21|Joanna Chaube|none|12|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:36|21|Katia Normand|none|11|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:36|18|Katia Normand|none|21|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:36|21|Katia Normand|none|13|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|23|Elisabeth Baldauf|none|21|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:32|21|Elisabeth Baldauf|none|10|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314|0:18|21|Denis Grachev|Sergey Sirant|8|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314|0:18|21|Denis Grachev|Sergey Sirant|11|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314||Walkover Win|Ronan Gueguin|Alexandre Hammer|Walkover Loss|Marius Corciuc|Gradinaru Ionut|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140314||Walkover Win|Iikka Heino|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140314||Walkover Win|Miodrag Kalicanin|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:11|Walkover Win|Denis Grachev|Sergey Sirant|Walkover Loss|Ilija Pavlovic|Jovica Rujevic|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315||Walkover Win|Marius Corciuc|Gradinaru Ionut|Walkover Loss|Vineeth Manuel|Pochana Arjun Reddy|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:16|21|Ronan Gueguin|Alexandre Hammer|14|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:16|21|Ronan Gueguin|Alexandre Hammer|18|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:19|21|Iikka Heino|Anton Kaisti|10|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:19|21|Iikka Heino|Anton Kaisti|9|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:32|21|Miodrag Kalicanin|Borko Petrovic|19|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:32|17|Miodrag Kalicanin|Borko Petrovic|21|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:32|21|Miodrag Kalicanin|Borko Petrovic|12|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:45|23|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:45|19|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:45|21|Eduard-Marius Ica|none|14|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:28|21|Justin Teeuwen|none|16|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:28|21|Justin Teeuwen|none|18|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:29|21|Gergely Krausz|none|11|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:29|21|Gergely Krausz|none|14|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:21|21|Vilson Vattanirappel|none|12|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:21|21|Vilson Vattanirappel|none|7|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:20|21|Luis Ramon Garrido|none|12|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:20|21|Luis Ramon Garrido|none|11|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|1:01|19|Morten Herschend|none|21|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|1:01|21|Morten Herschend|none|16|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|1:01|21|Morten Herschend|none|10|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|21|Pierrick Cajot|none|13|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|21|Pierrick Cajot|none|15|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:44|11|Martin Vicen|none|21|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:44|21|Martin Vicen|none|15|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:44|21|Martin Vicen|none|19|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:39|21|Tanguy Citron|none|18|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:39|21|Tanguy Citron|none|17|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:44|21|Mircea Vasiu|none|19|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:44|19|Mircea Vasiu|none|21|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:44|21|Mircea Vasiu|none|15|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:30|24|Borko Petrovic|none|22|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:30|21|Borko Petrovic|none|19|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:23|21|Alexandre Hammer|none|8|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:23|21|Alexandre Hammer|none|9|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315||Walkover Win|Piotr Wasiluk|none|Walkover Loss|Antoine Lodiot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315||Walkover Win|Radu Vasiu|none|Walkover Loss|Jovica Rujevic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:23|21|Swierczynki Mateusz|none|15|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:23|21|Swierczynki Mateusz|none|10|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|21|Romain Eudeline|none|11|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|21|Romain Eudeline|none|18|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:20|21|Marius Corciuc|none|15|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:20|21|Marius Corciuc|none|14|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315||Walkover Win|Gradinaru Ionut|none|Walkover Loss|Viky Anindita|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:25|21|Justin Teeuwen|none|14|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:25|21|Justin Teeuwen|none|16|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:50|21|Sergey Sirant|none|13|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:50|17|Sergey Sirant|none|21|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:50|21|Sergey Sirant|none|16|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:35|23|Robert Ciobotaru|none|21|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:35|21|Robert Ciobotaru|none|18|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:31|21|Adi Pratama |none|16|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:31|21|Adi Pratama |none|10|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|1:07|17|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|1:07|21|Tanguy Citron|none|16|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|1:07|23|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:40|21|Zvonimir Hoelbling|none|15|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:40|15|Zvonimir Hoelbling|none|21|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:40|21|Zvonimir Hoelbling|none|19|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|21|Sylvain Ternon |none|12|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|23|Sylvain Ternon |none|21|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:27|21|Iikka Heino |none|17|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:27|21|Iikka Heino |none|15|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:30|21|Vilson Vattanirappel|none|13|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:30|21|Vilson Vattanirappel|none|14|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:17|21|Luis Ramon Garrido|none|7|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:17|21|Luis Ramon Garrido|none|4|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:30|21|Zvonimir Durkinjak |none|19|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:30|21|Zvonimir Durkinjak |none|14|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:30|Walkover Win|Zvonimir Durkinjak |none|Walkover Loss|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|1
+20140315|0:28|21|Pierrick Cajot|none|15|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:28|21|Pierrick Cajot|none|13|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:21|21|Peter Letsch|none|17|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:21|21|Peter Letsch|none|19|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:19|21|Joanna Chaube|none|17|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:19|21|Joanna Chaube|none|11|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:46|21|Alzbeta Basova|none|15|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:46|16|Alzbeta Basova|none|21|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:46|21|Alzbeta Basova|none|19|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:17|21|Elisabeth Baldauf|none|10|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:17|21|Elisabeth Baldauf|none|12|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:36|21|Zinukhov Andriy |none|6|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:36|16|Zinukhov Andriy |none|21|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:36|21|Zinukhov Andriy |none|12|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:35|21|Denis Grachev |none|14|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:35|22|Denis Grachev |none|20|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:51|21|Iikka Heino |none|11|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:51|19|Iikka Heino |none|21|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:51|21|Iikka Heino |none|13|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:25|21|Luis Ramon Garrido|none|15|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:25|21|Luis Ramon Garrido|none|6|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:28|21|Romain Eudeline|none|3|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:28|21|Romain Eudeline|none|13|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:40|21|Adi Pratama |none|10|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:40|13|Adi Pratama |none|21|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:40|21|Adi Pratama |none|9|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:18|21|Tanguy Citron|none|8|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:18|21|Tanguy Citron|none|7|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:42|21|Joanna Chaube|none|23|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:42|21|Joanna Chaube|none|15|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:42|21|Joanna Chaube|none|12|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:36|21|Katia Normand|none|11|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:36|18|Katia Normand|none|21|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:36|21|Katia Normand|none|13|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|23|Elisabeth Baldauf|none|21|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:32|21|Elisabeth Baldauf|none|10|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315|0:18|21|Denis Grachev|Sergey Sirant|8|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315|0:18|21|Denis Grachev|Sergey Sirant|11|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315||Walkover Win|Ronan Gueguin|Alexandre Hammer|Walkover Loss|Marius Corciuc|Gradinaru Ionut|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140315||Walkover Win|Iikka Heino|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140315||Walkover Win|Miodrag Kalicanin|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:11|Walkover Win|Denis Grachev|Sergey Sirant|Walkover Loss|Ilija Pavlovic|Jovica Rujevic|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316||Walkover Win|Marius Corciuc|Gradinaru Ionut|Walkover Loss|Vineeth Manuel|Pochana Arjun Reddy|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:16|21|Ronan Gueguin|Alexandre Hammer|14|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:16|21|Ronan Gueguin|Alexandre Hammer|18|Robert Ciobotaru|Daniel Cojocaru|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:19|21|Iikka Heino|Anton Kaisti|10|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:19|21|Iikka Heino|Anton Kaisti|9|Swierczynki Mateusz|Piotr Wasiluk|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:32|21|Miodrag Kalicanin|Borko Petrovic|19|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:32|17|Miodrag Kalicanin|Borko Petrovic|21|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:32|21|Miodrag Kalicanin|Borko Petrovic|12|Mircea Vasiu|Radu Vasiu|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:45|23|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:45|19|Eduard-Marius Ica|none|21|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:45|21|Eduard-Marius Ica|none|14|Ellen Frederika Setiawan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:28|21|Justin Teeuwen|none|16|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:28|21|Justin Teeuwen|none|18|Thomas Vallez|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:29|21|Gergely Krausz|none|11|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:29|21|Gergely Krausz|none|14|Benjamin Schlemmer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:21|21|Vilson Vattanirappel|none|12|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:21|21|Vilson Vattanirappel|none|7|Jerome Lemaire|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:20|21|Luis Ramon Garrido|none|12|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:20|21|Luis Ramon Garrido|none|11|Andreas Thiel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|1:01|19|Morten Herschend|none|21|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|1:01|21|Morten Herschend|none|16|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|1:01|21|Morten Herschend|none|10|Ralph Bittenauer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|21|Pierrick Cajot|none|13|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|21|Pierrick Cajot|none|15|Igor Bjelan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:44|11|Martin Vicen|none|21|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:44|21|Martin Vicen|none|15|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:44|21|Martin Vicen|none|19|William Goudallier|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:39|21|Tanguy Citron|none|18|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:39|21|Tanguy Citron|none|17|Maximilian Koreny|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:44|21|Mircea Vasiu|none|19|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:44|19|Mircea Vasiu|none|21|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:44|21|Mircea Vasiu|none|15|Nikola Arsic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:30|24|Borko Petrovic|none|22|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:30|21|Borko Petrovic|none|19|Daniel Gradwohl|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:27|21|Daniel Cojocaru|none|15|Wirawan Ihsan Adam|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:23|21|Alexandre Hammer|none|8|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:23|21|Alexandre Hammer|none|9|Primoz Flis|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316||Walkover Win|Piotr Wasiluk|none|Walkover Loss|Antoine Lodiot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316||Walkover Win|Radu Vasiu|none|Walkover Loss|Jovica Rujevic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:23|21|Swierczynki Mateusz|none|15|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:23|21|Swierczynki Mateusz|none|10|Ronan Gueguin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|21|Romain Eudeline|none|11|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|21|Romain Eudeline|none|18|Ilija Pavlovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:20|21|Marius Corciuc|none|15|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:20|21|Marius Corciuc|none|14|Miodrag Kalicanin|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316||Walkover Win|Gradinaru Ionut|none|Walkover Loss|Viky Anindita|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:14|21|Denis Grachev |none|7|Eduard-Marius Ica|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:25|21|Justin Teeuwen|none|14|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:25|21|Justin Teeuwen|none|16|Dragoslav Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:50|21|Sergey Sirant|none|13|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:50|17|Sergey Sirant|none|21|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:50|21|Sergey Sirant|none|16|Gergely Krausz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:35|23|Robert Ciobotaru|none|21|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:35|21|Robert Ciobotaru|none|18|Morten Herschend|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:31|21|Adi Pratama |none|16|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:31|21|Adi Pratama |none|10|Martin Vicen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|1:07|17|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|1:07|21|Tanguy Citron|none|16|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|1:07|23|Tanguy Citron|none|21|N. V. S. Vijetha [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:27|21|Zinukhov Andriy |none|12|Mircea Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:40|21|Zvonimir Hoelbling|none|15|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:40|15|Zvonimir Hoelbling|none|21|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:40|21|Zvonimir Hoelbling|none|19|Borko Petrovic|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|21|Sylvain Ternon |none|12|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|23|Sylvain Ternon |none|21|Daniel Cojocaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:27|21|Iikka Heino |none|17|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:27|21|Iikka Heino |none|15|Alexandre Hammer|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:30|21|Vilson Vattanirappel|none|13|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:30|21|Vilson Vattanirappel|none|14|Piotr Wasiluk|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:17|21|Luis Ramon Garrido|none|7|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:17|21|Luis Ramon Garrido|none|4|Radu Vasiu|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:30|21|Zvonimir Durkinjak |none|19|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:30|21|Zvonimir Durkinjak |none|14|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:30|Walkover Win|Zvonimir Durkinjak |none|Walkover Loss|Swierczynki Mateusz|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|1
+20140316|0:28|21|Pierrick Cajot|none|15|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:28|21|Pierrick Cajot|none|13|Marius Corciuc|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:21|21|Peter Letsch|none|17|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:21|21|Peter Letsch|none|19|Gradinaru Ionut|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:19|21|Joanna Chaube|none|17|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:19|21|Joanna Chaube|none|11|Oana Violeta Ristea|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:46|21|Alzbeta Basova|none|15|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:46|16|Alzbeta Basova|none|21|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:46|21|Alzbeta Basova|none|19|Kristine Sefere|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:17|21|Elisabeth Baldauf|none|10|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:17|21|Elisabeth Baldauf|none|12|Ariana Prodan|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:36|21|Zinukhov Andriy |none|6|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:36|16|Zinukhov Andriy |none|21|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:36|21|Zinukhov Andriy |none|12|Zvonimir Hoelbling|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:35|21|Denis Grachev |none|14|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:35|22|Denis Grachev |none|20|Justin Teeuwen|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:39|21|Sergey Sirant|none|15|Sylvain Ternon [4]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:51|21|Iikka Heino |none|11|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:51|19|Iikka Heino |none|21|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:51|21|Iikka Heino |none|13|Vilson Vattanirappel|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:25|21|Luis Ramon Garrido|none|15|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:25|21|Luis Ramon Garrido|none|6|Zvonimir Durkinjak [5]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:28|21|Romain Eudeline|none|3|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:28|21|Romain Eudeline|none|13|Robert Ciobotaru|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:40|21|Adi Pratama |none|10|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:40|13|Adi Pratama |none|21|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:40|21|Adi Pratama |none|9|Pierrick Cajot|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:18|21|Tanguy Citron|none|8|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:18|21|Tanguy Citron|none|7|Peter Letsch|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:42|21|Joanna Chaube|none|23|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:42|21|Joanna Chaube|none|15|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:42|21|Joanna Chaube|none|12|Ieva Pope|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:36|21|Katia Normand|none|11|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:36|18|Katia Normand|none|21|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:36|21|Katia Normand|none|13|Alzbeta Basova|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|23|Elisabeth Baldauf|none|21|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:32|21|Elisabeth Baldauf|none|10|Weronika Grudzina [2]|none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316|0:18|21|Denis Grachev|Sergey Sirant|8|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316|0:18|21|Denis Grachev|Sergey Sirant|11|Eduard-Marius Ica|Andreas Thiel|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316||Walkover Win|Ronan Gueguin|Alexandre Hammer|Walkover Loss|Marius Corciuc|Gradinaru Ionut|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|doubles
+20140316||Walkover Win|Iikka Heino|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles
+20140316||Walkover Win|Miodrag Kalicanin|none|Walkover Loss||none|8D8CF113-C055-4DB2-8AEC-1E57D8CB9F62|singles

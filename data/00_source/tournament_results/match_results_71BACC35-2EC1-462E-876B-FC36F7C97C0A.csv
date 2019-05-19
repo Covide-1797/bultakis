@@ -1,0 +1,905 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20180813|0:25|21|Kevin Arokia Walter|none|9|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Kevin Arokia Walter|none|16|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Elias Bracke|none|15|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Elias Bracke|none|17|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:40|18|Maxim Grinblat|none|21|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:40|21|Maxim Grinblat|none|18|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:40|22|Maxim Grinblat|none|20|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:27|21|Dimitar Yanakiev|none|8|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:27|21|Dimitar Yanakiev|none|11|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:28|21|Mads Thøgersen|none|13|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:28|21|Mads Thøgersen|none|10|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:40|22|Azmy Qowimuramadhoni|none|20|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:40|21|Azmy Qowimuramadhoni|none|19|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:17|21|Julien Carraggi|none|8|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:17|21|Julien Carraggi|none|7|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:22|21|Niks Podosinoviks|none|14|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:22|21|Niks Podosinoviks|none|9|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:29|21|Luke Pearce|none|13|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:29|21|Luke Pearce|none|9|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:41|21|Johnnie Torjussen|none|23|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:41|21|Johnnie Torjussen|none|5|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:41|21|Johnnie Torjussen|none|16|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Luka Milic|none|7|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Luka Milic|none|17|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Philip Illum Klindt|none|13|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Philip Illum Klindt|none|12|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813||Walkover Win|Yonathan Levit|none|Walkover Loss|Munawar Mohammed|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Jonathan Dolan|none|18|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Jonathan Dolan|none|11|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:50|22|Georgii Karpov|none|20|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:50|12|Georgii Karpov|none|21|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:50|21|Georgii Karpov|none|13|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:24|21|Jakob Godt|none|13|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:24|21|Jakob Godt|none|9|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Ethan Van Leeuwen|Abbygael Harris|16|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:32|21|Ethan Van Leeuwen|Abbygael Harris|15|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:21|21|Sebastian Grønbjerg|Clara Graversen|9|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:21|21|Sebastian Grønbjerg|Clara Graversen|14|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|9|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:36|20|Mert Tunco|Ilayda Nur Ozelgul|22|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|12|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:23|21|Vladimir Shishkov |Stefani Stoeva|10|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:23|21|Vladimir Shishkov |Stefani Stoeva|18|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:29|21|Anton Kaisti|Inalotta Suutarinen|17|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:29|21|Anton Kaisti|Inalotta Suutarinen|14|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813||Walkover Win|Alexander Morari|Vlada Ginga|Walkover Loss|George Galvas|Polyvia Tzika|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:17|21|Frederikke Lund|none|15|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:17|21|Frederikke Lund|none|3|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:47|19|Katarina Galenic |none|21|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:47|21|Katarina Galenic |none|15|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:47|21|Katarina Galenic |none|19|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Steven Stallwood|Lizzie Tolman|6|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:20|21|Steven Stallwood|Lizzie Tolman|15|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:32|22|Rasmus Espersen|Christine Busch|20|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:32|21|Rasmus Espersen|Christine Busch|16|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:43|21|Lilit Poghosyan|none|17|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:43|18|Lilit Poghosyan|none|21|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:43|21|Lilit Poghosyan|none|18|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:51|13|Anastasiia Shapovalova |none|21|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:51|22|Anastasiia Shapovalova |none|20|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:51|21|Anastasiia Shapovalova |none|12|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Abbygael Harris|none|17|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|23|Abbygael Harris|none|21|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Bhavya Rishi |none|14|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Bhavya Rishi |none|15|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:23|21|Emma Thorne|none|18|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:23|21|Emma Thorne|none|13|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|13|Rachael Woods|none|21|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Rachael Woods|none|17|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Rachael Woods|none|19|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:27|21|Kanika Kanwal|none|13|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:27|21|Kanika Kanwal|none|14|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Viktoriia Kozyreva|none|15|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Viktoriia Kozyreva|none|7|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:28|21|Miranda Wilson|none|16|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:28|21|Miranda Wilson|none|9|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Valeriya Rudakova |none|17|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Valeriya Rudakova |none|9|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:18|21|Sara Boyle|none|6|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:18|21|Sara Boyle|none|12|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:36|21|Toni Woods|none|12|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:36|15|Toni Woods|none|21|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:36|21|Toni Woods|none|14|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:26|21|Anastasiya Prozorova |none|12|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:26|22|Anastasiya Prozorova |none|20|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813||Walkover Win|Vivien Sandorhazi|none|Walkover Loss|Polyvia Tzika|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:21|21|Kevin Arokia Walter|none|13|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:21|21|Kevin Arokia Walter|none|15|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:50|21|Patrick Bjerregaard|none|23|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:50|21|Patrick Bjerregaard|none|19|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:50|21|Patrick Bjerregaard|none|18|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:17|21|Joran Kweekel |none|9|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:17|21|Joran Kweekel |none|6|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Dimitar Yanakiev|none|11|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Dimitar Yanakiev|none|6|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:22|21|Mads Thøgersen|none|10|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:22|21|Mads Thøgersen|none|13|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Azmy Qowimuramadhoni|none|9|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Azmy Qowimuramadhoni|none|19|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:53|15|Jesper Toft |none|21|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:53|21|Jesper Toft |none|15|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:53|21|Jesper Toft |none|10|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:52|15|Niks Podosinoviks|none|21|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:52|21|Niks Podosinoviks|none|16|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:52|21|Niks Podosinoviks|none|15|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:54|19|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:54|21|Ethan Van Leeuwen|none|18|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:54|23|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Harsheel Dani |none|18|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Harsheel Dani |none|15|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:31|23|Luka Milic|none|21|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:31|22|Luka Milic|none|20|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:53|15|Philip Illum Klindt|none|21|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:53|21|Philip Illum Klindt|none|18|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:53|21|Philip Illum Klindt|none|15|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:34|24|Jonathan Dolan|none|22|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:34|22|Jonathan Dolan|none|20|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Georgii Karpov|none|6|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Georgii Karpov|none|12|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:45|21|Jakob Godt|none|13|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:45|16|Jakob Godt|none|21|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:45|21|Jakob Godt|none|14|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|9|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|11|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|17|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|12|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:20|21|Maija Krzywacki |Inalotta Suutarinen|15|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:20|21|Maija Krzywacki |Inalotta Suutarinen|18|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|8|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|9|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:44|13|Frederikke Lund|Signe Schulz|21|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:44|21|Frederikke Lund|Signe Schulz|15|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:44|21|Frederikke Lund|Signe Schulz|14|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:45|12|Abigail Holden |Lizzie Tolman|21|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:45|21|Abigail Holden |Lizzie Tolman|16|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:45|21|Abigail Holden |Lizzie Tolman|14|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:24|21|Ioanna Pissi|Anastasia Zintsidou|14|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:24|21|Ioanna Pissi|Anastasia Zintsidou|16|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:24|21|Clara Graversen |Malene Kæseler|18|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:24|21|Clara Graversen |Malene Kæseler|15|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:52|14|Jakub Bitman |Matěj Hubáček|21|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:52|21|Jakub Bitman |Matěj Hubáček|14|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:52|21|Jakub Bitman |Matěj Hubáček|11|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:36|18|Jesper Toft|Mads Vestergaard|21|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:36|21|Jesper Toft|Mads Vestergaard|17|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:36|21|Jesper Toft|Mads Vestergaard|9|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:33|12|Philip Illum Klindt|Mads Thøgersen|21|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:33|21|Philip Illum Klindt|Mads Thøgersen|12|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:33|21|Philip Illum Klindt|Mads Thøgersen|18|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:24|21|Semih Baha Basakin|Serkan Ugurlu|16|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:24|21|Semih Baha Basakin|Serkan Ugurlu|19|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:22|24|Serdar Koca|Serhat Salim|22|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:22|22|Serdar Koca|Serhat Salim|20|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|18|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|15|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:40|19|Ben Hunt|Adam Lam|21|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:40|21|Ben Hunt|Adam Lam|15|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:40|21|Ben Hunt|Adam Lam|12|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:51|17|Daniel Nikolov|Alex Vlaar|21|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:51|21|Daniel Nikolov|Alex Vlaar|15|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:51|21|Daniel Nikolov|Alex Vlaar|18|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:25|21|Vladimir Shishkov |Stefani Stoeva|10|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:25|21|Vladimir Shishkov |Stefani Stoeva|6|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:27|21|Vivien Sandorhazi|none|8|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:27|21|Vivien Sandorhazi|none|15|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Anastasiia Shapovalova |none|13|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Anastasiia Shapovalova |none|12|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:28|21|Anton Kaisti|Inalotta Suutarinen|19|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:28|23|Anton Kaisti|Inalotta Suutarinen|21|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|1:08|21|Rasmus Espersen|Christine Busch|16|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|1:08|14|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|1:08|23|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:16|21|Bhavya Rishi |none|11|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:16|3|Bhavya Rishi |none|0|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:16|Walkover Win|Bhavya Rishi |none|Walkover Loss|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:34|22|Miranda Wilson|none|20|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:34|21|Miranda Wilson|none|14|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:23|21|Sara Boyle|none|10|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:23|21|Sara Boyle|none|15|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Patrick Bjerregaard|none|8|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Patrick Bjerregaard|none|17|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Ethan Van Leeuwen|Abbygael Harris|9|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:20|21|Ethan Van Leeuwen|Abbygael Harris|13|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:54|12|Mads Thøgersen|none|21|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:54|21|Mads Thøgersen|none|19|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:54|21|Mads Thøgersen|none|14|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:12|18|Jesper Toft |none|21|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Luka Milic|none|11|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|13|Luka Milic|none|21|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Luka Milic|none|7|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Frederikke Lund|none|17|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|23|Frederikke Lund|none|21|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Joran Kweekel |none|10|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:25|21|Joran Kweekel |none|16|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Christo Popov|none|8|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Georgii Karpov|none|8|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Georgii Karpov|none|5|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Kanika Kanwal|none|13|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Kanika Kanwal|none|8|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Harsheel Dani |none|16|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:20|21|Harsheel Dani |none|12|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180813|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|14|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|19|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:32|23|Viktoriia Kozyreva|Mariia Sukhova|21|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:32|21|Viktoriia Kozyreva|Mariia Sukhova|17|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:30|21|Jesper Toft|Mads Vestergaard|18|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:30|21|Jesper Toft|Mads Vestergaard|13|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:44|25|Frederikke Lund|Signe Schulz|23|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:44|14|Frederikke Lund|Signe Schulz|21|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:44|21|Frederikke Lund|Signe Schulz|16|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:31|21|Serdar Koca|Serhat Salim|18|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:31|21|Serdar Koca|Serhat Salim|17|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:25|21|Daniel Nikolov|Alex Vlaar|15|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:25|21|Daniel Nikolov|Alex Vlaar|12|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:21|21|Philip Illum Klindt|Mads Thøgersen|16|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:21|21|Philip Illum Klindt|Mads Thøgersen|18|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:40|18|Clara Graversen |Malene Kæseler|21|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180813|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:25|21|Kevin Arokia Walter|none|9|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Kevin Arokia Walter|none|16|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Elias Bracke|none|15|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Elias Bracke|none|17|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:40|18|Maxim Grinblat|none|21|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:40|21|Maxim Grinblat|none|18|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:40|22|Maxim Grinblat|none|20|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:27|21|Dimitar Yanakiev|none|8|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:27|21|Dimitar Yanakiev|none|11|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:28|21|Mads Thøgersen|none|13|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:28|21|Mads Thøgersen|none|10|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:40|22|Azmy Qowimuramadhoni|none|20|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:40|21|Azmy Qowimuramadhoni|none|19|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:17|21|Julien Carraggi|none|8|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:17|21|Julien Carraggi|none|7|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:22|21|Niks Podosinoviks|none|14|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:22|21|Niks Podosinoviks|none|9|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:29|21|Luke Pearce|none|13|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:29|21|Luke Pearce|none|9|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:41|21|Johnnie Torjussen|none|23|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:41|21|Johnnie Torjussen|none|5|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:41|21|Johnnie Torjussen|none|16|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Luka Milic|none|7|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Luka Milic|none|17|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Philip Illum Klindt|none|13|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Philip Illum Klindt|none|12|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814||Walkover Win|Yonathan Levit|none|Walkover Loss|Munawar Mohammed|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Jonathan Dolan|none|18|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Jonathan Dolan|none|11|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:50|22|Georgii Karpov|none|20|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:50|12|Georgii Karpov|none|21|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:50|21|Georgii Karpov|none|13|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:24|21|Jakob Godt|none|13|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:24|21|Jakob Godt|none|9|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Ethan Van Leeuwen|Abbygael Harris|16|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:32|21|Ethan Van Leeuwen|Abbygael Harris|15|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:21|21|Sebastian Grønbjerg|Clara Graversen|9|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:21|21|Sebastian Grønbjerg|Clara Graversen|14|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|9|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:36|20|Mert Tunco|Ilayda Nur Ozelgul|22|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|12|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:23|21|Vladimir Shishkov |Stefani Stoeva|10|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:23|21|Vladimir Shishkov |Stefani Stoeva|18|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:29|21|Anton Kaisti|Inalotta Suutarinen|17|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:29|21|Anton Kaisti|Inalotta Suutarinen|14|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814||Walkover Win|Alexander Morari|Vlada Ginga|Walkover Loss|George Galvas|Polyvia Tzika|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:17|21|Frederikke Lund|none|15|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:17|21|Frederikke Lund|none|3|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:47|19|Katarina Galenic |none|21|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:47|21|Katarina Galenic |none|15|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:47|21|Katarina Galenic |none|19|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Steven Stallwood|Lizzie Tolman|6|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:20|21|Steven Stallwood|Lizzie Tolman|15|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:32|22|Rasmus Espersen|Christine Busch|20|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:32|21|Rasmus Espersen|Christine Busch|16|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:43|21|Lilit Poghosyan|none|17|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:43|18|Lilit Poghosyan|none|21|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:43|21|Lilit Poghosyan|none|18|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:51|13|Anastasiia Shapovalova |none|21|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:51|22|Anastasiia Shapovalova |none|20|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:51|21|Anastasiia Shapovalova |none|12|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Abbygael Harris|none|17|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|23|Abbygael Harris|none|21|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Bhavya Rishi |none|14|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Bhavya Rishi |none|15|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:23|21|Emma Thorne|none|18|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:23|21|Emma Thorne|none|13|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|13|Rachael Woods|none|21|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Rachael Woods|none|17|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Rachael Woods|none|19|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:27|21|Kanika Kanwal|none|13|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:27|21|Kanika Kanwal|none|14|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Viktoriia Kozyreva|none|15|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Viktoriia Kozyreva|none|7|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:28|21|Miranda Wilson|none|16|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:28|21|Miranda Wilson|none|9|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Valeriya Rudakova |none|17|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Valeriya Rudakova |none|9|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:18|21|Sara Boyle|none|6|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:18|21|Sara Boyle|none|12|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:36|21|Toni Woods|none|12|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:36|15|Toni Woods|none|21|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:36|21|Toni Woods|none|14|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:26|21|Anastasiya Prozorova |none|12|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:26|22|Anastasiya Prozorova |none|20|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814||Walkover Win|Vivien Sandorhazi|none|Walkover Loss|Polyvia Tzika|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:21|21|Kevin Arokia Walter|none|13|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:21|21|Kevin Arokia Walter|none|15|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:50|21|Patrick Bjerregaard|none|23|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:50|21|Patrick Bjerregaard|none|19|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:50|21|Patrick Bjerregaard|none|18|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:17|21|Joran Kweekel |none|9|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:17|21|Joran Kweekel |none|6|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Dimitar Yanakiev|none|11|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Dimitar Yanakiev|none|6|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:22|21|Mads Thøgersen|none|10|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:22|21|Mads Thøgersen|none|13|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Azmy Qowimuramadhoni|none|9|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Azmy Qowimuramadhoni|none|19|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:53|15|Jesper Toft |none|21|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:53|21|Jesper Toft |none|15|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:53|21|Jesper Toft |none|10|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:52|15|Niks Podosinoviks|none|21|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:52|21|Niks Podosinoviks|none|16|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:52|21|Niks Podosinoviks|none|15|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:54|19|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:54|21|Ethan Van Leeuwen|none|18|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:54|23|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Harsheel Dani |none|18|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Harsheel Dani |none|15|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:31|23|Luka Milic|none|21|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:31|22|Luka Milic|none|20|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:53|15|Philip Illum Klindt|none|21|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:53|21|Philip Illum Klindt|none|18|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:53|21|Philip Illum Klindt|none|15|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:34|24|Jonathan Dolan|none|22|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:34|22|Jonathan Dolan|none|20|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Georgii Karpov|none|6|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Georgii Karpov|none|12|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:45|21|Jakob Godt|none|13|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:45|16|Jakob Godt|none|21|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:45|21|Jakob Godt|none|14|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|9|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|11|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|17|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|12|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:20|21|Maija Krzywacki |Inalotta Suutarinen|15|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:20|21|Maija Krzywacki |Inalotta Suutarinen|18|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|8|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|9|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:44|13|Frederikke Lund|Signe Schulz|21|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:44|21|Frederikke Lund|Signe Schulz|15|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:44|21|Frederikke Lund|Signe Schulz|14|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:45|12|Abigail Holden |Lizzie Tolman|21|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:45|21|Abigail Holden |Lizzie Tolman|16|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:45|21|Abigail Holden |Lizzie Tolman|14|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:24|21|Ioanna Pissi|Anastasia Zintsidou|14|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:24|21|Ioanna Pissi|Anastasia Zintsidou|16|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:24|21|Clara Graversen |Malene Kæseler|18|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:24|21|Clara Graversen |Malene Kæseler|15|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:52|14|Jakub Bitman |Matěj Hubáček|21|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:52|21|Jakub Bitman |Matěj Hubáček|14|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:52|21|Jakub Bitman |Matěj Hubáček|11|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:36|18|Jesper Toft|Mads Vestergaard|21|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:36|21|Jesper Toft|Mads Vestergaard|17|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:36|21|Jesper Toft|Mads Vestergaard|9|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:33|12|Philip Illum Klindt|Mads Thøgersen|21|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:33|21|Philip Illum Klindt|Mads Thøgersen|12|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:33|21|Philip Illum Klindt|Mads Thøgersen|18|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:24|21|Semih Baha Basakin|Serkan Ugurlu|16|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:24|21|Semih Baha Basakin|Serkan Ugurlu|19|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:22|24|Serdar Koca|Serhat Salim|22|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:22|22|Serdar Koca|Serhat Salim|20|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|18|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|15|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:40|19|Ben Hunt|Adam Lam|21|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:40|21|Ben Hunt|Adam Lam|15|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:40|21|Ben Hunt|Adam Lam|12|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:51|17|Daniel Nikolov|Alex Vlaar|21|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:51|21|Daniel Nikolov|Alex Vlaar|15|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:51|21|Daniel Nikolov|Alex Vlaar|18|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:25|21|Vladimir Shishkov |Stefani Stoeva|10|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:25|21|Vladimir Shishkov |Stefani Stoeva|6|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:27|21|Vivien Sandorhazi|none|8|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:27|21|Vivien Sandorhazi|none|15|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Anastasiia Shapovalova |none|13|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Anastasiia Shapovalova |none|12|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:28|21|Anton Kaisti|Inalotta Suutarinen|19|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:28|23|Anton Kaisti|Inalotta Suutarinen|21|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|1:08|21|Rasmus Espersen|Christine Busch|16|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|1:08|14|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|1:08|23|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:16|21|Bhavya Rishi |none|11|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:16|3|Bhavya Rishi |none|0|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:16|Walkover Win|Bhavya Rishi |none|Walkover Loss|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:34|22|Miranda Wilson|none|20|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:34|21|Miranda Wilson|none|14|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:23|21|Sara Boyle|none|10|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:23|21|Sara Boyle|none|15|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Patrick Bjerregaard|none|8|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Patrick Bjerregaard|none|17|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Ethan Van Leeuwen|Abbygael Harris|9|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:20|21|Ethan Van Leeuwen|Abbygael Harris|13|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:54|12|Mads Thøgersen|none|21|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:54|21|Mads Thøgersen|none|19|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:54|21|Mads Thøgersen|none|14|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:12|18|Jesper Toft |none|21|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Luka Milic|none|11|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|13|Luka Milic|none|21|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Luka Milic|none|7|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Frederikke Lund|none|17|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|23|Frederikke Lund|none|21|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Joran Kweekel |none|10|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:25|21|Joran Kweekel |none|16|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Christo Popov|none|8|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Georgii Karpov|none|8|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Georgii Karpov|none|5|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Kanika Kanwal|none|13|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Kanika Kanwal|none|8|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Harsheel Dani |none|16|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:20|21|Harsheel Dani |none|12|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180814|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|14|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|19|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:32|23|Viktoriia Kozyreva|Mariia Sukhova|21|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:32|21|Viktoriia Kozyreva|Mariia Sukhova|17|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:30|21|Jesper Toft|Mads Vestergaard|18|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:30|21|Jesper Toft|Mads Vestergaard|13|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:44|25|Frederikke Lund|Signe Schulz|23|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:44|14|Frederikke Lund|Signe Schulz|21|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:44|21|Frederikke Lund|Signe Schulz|16|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:31|21|Serdar Koca|Serhat Salim|18|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:31|21|Serdar Koca|Serhat Salim|17|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:25|21|Daniel Nikolov|Alex Vlaar|15|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:25|21|Daniel Nikolov|Alex Vlaar|12|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:21|21|Philip Illum Klindt|Mads Thøgersen|16|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:21|21|Philip Illum Klindt|Mads Thøgersen|18|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:40|18|Clara Graversen |Malene Kæseler|21|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180814|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:25|21|Kevin Arokia Walter|none|9|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Kevin Arokia Walter|none|16|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Elias Bracke|none|15|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Elias Bracke|none|17|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:40|18|Maxim Grinblat|none|21|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:40|21|Maxim Grinblat|none|18|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:40|22|Maxim Grinblat|none|20|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:27|21|Dimitar Yanakiev|none|8|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:27|21|Dimitar Yanakiev|none|11|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:28|21|Mads Thøgersen|none|13|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:28|21|Mads Thøgersen|none|10|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:40|22|Azmy Qowimuramadhoni|none|20|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:40|21|Azmy Qowimuramadhoni|none|19|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:17|21|Julien Carraggi|none|8|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:17|21|Julien Carraggi|none|7|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:22|21|Niks Podosinoviks|none|14|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:22|21|Niks Podosinoviks|none|9|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:29|21|Luke Pearce|none|13|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:29|21|Luke Pearce|none|9|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:41|21|Johnnie Torjussen|none|23|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:41|21|Johnnie Torjussen|none|5|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:41|21|Johnnie Torjussen|none|16|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Luka Milic|none|7|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Luka Milic|none|17|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Philip Illum Klindt|none|13|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Philip Illum Klindt|none|12|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815||Walkover Win|Yonathan Levit|none|Walkover Loss|Munawar Mohammed|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Jonathan Dolan|none|18|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Jonathan Dolan|none|11|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:50|22|Georgii Karpov|none|20|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:50|12|Georgii Karpov|none|21|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:50|21|Georgii Karpov|none|13|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:24|21|Jakob Godt|none|13|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:24|21|Jakob Godt|none|9|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Ethan Van Leeuwen|Abbygael Harris|16|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:32|21|Ethan Van Leeuwen|Abbygael Harris|15|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:21|21|Sebastian Grønbjerg|Clara Graversen|9|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:21|21|Sebastian Grønbjerg|Clara Graversen|14|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|9|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:36|20|Mert Tunco|Ilayda Nur Ozelgul|22|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|12|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:23|21|Vladimir Shishkov |Stefani Stoeva|10|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:23|21|Vladimir Shishkov |Stefani Stoeva|18|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:29|21|Anton Kaisti|Inalotta Suutarinen|17|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:29|21|Anton Kaisti|Inalotta Suutarinen|14|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815||Walkover Win|Alexander Morari|Vlada Ginga|Walkover Loss|George Galvas|Polyvia Tzika|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:17|21|Frederikke Lund|none|15|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:17|21|Frederikke Lund|none|3|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:47|19|Katarina Galenic |none|21|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:47|21|Katarina Galenic |none|15|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:47|21|Katarina Galenic |none|19|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Steven Stallwood|Lizzie Tolman|6|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:20|21|Steven Stallwood|Lizzie Tolman|15|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:32|22|Rasmus Espersen|Christine Busch|20|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:32|21|Rasmus Espersen|Christine Busch|16|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:43|21|Lilit Poghosyan|none|17|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:43|18|Lilit Poghosyan|none|21|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:43|21|Lilit Poghosyan|none|18|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:51|13|Anastasiia Shapovalova |none|21|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:51|22|Anastasiia Shapovalova |none|20|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:51|21|Anastasiia Shapovalova |none|12|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Abbygael Harris|none|17|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|23|Abbygael Harris|none|21|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Bhavya Rishi |none|14|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Bhavya Rishi |none|15|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:23|21|Emma Thorne|none|18|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:23|21|Emma Thorne|none|13|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|13|Rachael Woods|none|21|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Rachael Woods|none|17|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Rachael Woods|none|19|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:27|21|Kanika Kanwal|none|13|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:27|21|Kanika Kanwal|none|14|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Viktoriia Kozyreva|none|15|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Viktoriia Kozyreva|none|7|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:28|21|Miranda Wilson|none|16|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:28|21|Miranda Wilson|none|9|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Valeriya Rudakova |none|17|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Valeriya Rudakova |none|9|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:18|21|Sara Boyle|none|6|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:18|21|Sara Boyle|none|12|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:36|21|Toni Woods|none|12|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:36|15|Toni Woods|none|21|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:36|21|Toni Woods|none|14|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:26|21|Anastasiya Prozorova |none|12|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:26|22|Anastasiya Prozorova |none|20|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815||Walkover Win|Vivien Sandorhazi|none|Walkover Loss|Polyvia Tzika|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:21|21|Kevin Arokia Walter|none|13|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:21|21|Kevin Arokia Walter|none|15|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:50|21|Patrick Bjerregaard|none|23|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:50|21|Patrick Bjerregaard|none|19|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:50|21|Patrick Bjerregaard|none|18|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:17|21|Joran Kweekel |none|9|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:17|21|Joran Kweekel |none|6|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Dimitar Yanakiev|none|11|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Dimitar Yanakiev|none|6|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:22|21|Mads Thøgersen|none|10|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:22|21|Mads Thøgersen|none|13|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Azmy Qowimuramadhoni|none|9|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Azmy Qowimuramadhoni|none|19|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:53|15|Jesper Toft |none|21|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:53|21|Jesper Toft |none|15|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:53|21|Jesper Toft |none|10|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:52|15|Niks Podosinoviks|none|21|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:52|21|Niks Podosinoviks|none|16|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:52|21|Niks Podosinoviks|none|15|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:54|19|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:54|21|Ethan Van Leeuwen|none|18|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:54|23|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Harsheel Dani |none|18|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Harsheel Dani |none|15|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:31|23|Luka Milic|none|21|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:31|22|Luka Milic|none|20|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:53|15|Philip Illum Klindt|none|21|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:53|21|Philip Illum Klindt|none|18|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:53|21|Philip Illum Klindt|none|15|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:34|24|Jonathan Dolan|none|22|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:34|22|Jonathan Dolan|none|20|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Georgii Karpov|none|6|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Georgii Karpov|none|12|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:45|21|Jakob Godt|none|13|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:45|16|Jakob Godt|none|21|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:45|21|Jakob Godt|none|14|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|9|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|11|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|17|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|12|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:20|21|Maija Krzywacki |Inalotta Suutarinen|15|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:20|21|Maija Krzywacki |Inalotta Suutarinen|18|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|8|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|9|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:44|13|Frederikke Lund|Signe Schulz|21|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:44|21|Frederikke Lund|Signe Schulz|15|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:44|21|Frederikke Lund|Signe Schulz|14|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:45|12|Abigail Holden |Lizzie Tolman|21|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:45|21|Abigail Holden |Lizzie Tolman|16|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:45|21|Abigail Holden |Lizzie Tolman|14|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:24|21|Ioanna Pissi|Anastasia Zintsidou|14|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:24|21|Ioanna Pissi|Anastasia Zintsidou|16|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:24|21|Clara Graversen |Malene Kæseler|18|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:24|21|Clara Graversen |Malene Kæseler|15|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:52|14|Jakub Bitman |Matěj Hubáček|21|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:52|21|Jakub Bitman |Matěj Hubáček|14|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:52|21|Jakub Bitman |Matěj Hubáček|11|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:36|18|Jesper Toft|Mads Vestergaard|21|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:36|21|Jesper Toft|Mads Vestergaard|17|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:36|21|Jesper Toft|Mads Vestergaard|9|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:33|12|Philip Illum Klindt|Mads Thøgersen|21|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:33|21|Philip Illum Klindt|Mads Thøgersen|12|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:33|21|Philip Illum Klindt|Mads Thøgersen|18|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:24|21|Semih Baha Basakin|Serkan Ugurlu|16|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:24|21|Semih Baha Basakin|Serkan Ugurlu|19|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:22|24|Serdar Koca|Serhat Salim|22|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:22|22|Serdar Koca|Serhat Salim|20|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|18|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|15|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:40|19|Ben Hunt|Adam Lam|21|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:40|21|Ben Hunt|Adam Lam|15|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:40|21|Ben Hunt|Adam Lam|12|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:51|17|Daniel Nikolov|Alex Vlaar|21|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:51|21|Daniel Nikolov|Alex Vlaar|15|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:51|21|Daniel Nikolov|Alex Vlaar|18|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:25|21|Vladimir Shishkov |Stefani Stoeva|10|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:25|21|Vladimir Shishkov |Stefani Stoeva|6|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:27|21|Vivien Sandorhazi|none|8|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:27|21|Vivien Sandorhazi|none|15|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Anastasiia Shapovalova |none|13|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Anastasiia Shapovalova |none|12|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:28|21|Anton Kaisti|Inalotta Suutarinen|19|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:28|23|Anton Kaisti|Inalotta Suutarinen|21|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|1:08|21|Rasmus Espersen|Christine Busch|16|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|1:08|14|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|1:08|23|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:16|21|Bhavya Rishi |none|11|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:16|3|Bhavya Rishi |none|0|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:16|Walkover Win|Bhavya Rishi |none|Walkover Loss|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:34|22|Miranda Wilson|none|20|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:34|21|Miranda Wilson|none|14|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:23|21|Sara Boyle|none|10|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:23|21|Sara Boyle|none|15|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Patrick Bjerregaard|none|8|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Patrick Bjerregaard|none|17|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Ethan Van Leeuwen|Abbygael Harris|9|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:20|21|Ethan Van Leeuwen|Abbygael Harris|13|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:54|12|Mads Thøgersen|none|21|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:54|21|Mads Thøgersen|none|19|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:54|21|Mads Thøgersen|none|14|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:12|18|Jesper Toft |none|21|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Luka Milic|none|11|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|13|Luka Milic|none|21|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Luka Milic|none|7|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Frederikke Lund|none|17|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|23|Frederikke Lund|none|21|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Joran Kweekel |none|10|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:25|21|Joran Kweekel |none|16|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Christo Popov|none|8|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Georgii Karpov|none|8|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Georgii Karpov|none|5|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Kanika Kanwal|none|13|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Kanika Kanwal|none|8|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Harsheel Dani |none|16|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:20|21|Harsheel Dani |none|12|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180815|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|14|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|19|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:32|23|Viktoriia Kozyreva|Mariia Sukhova|21|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:32|21|Viktoriia Kozyreva|Mariia Sukhova|17|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:30|21|Jesper Toft|Mads Vestergaard|18|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:30|21|Jesper Toft|Mads Vestergaard|13|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:44|25|Frederikke Lund|Signe Schulz|23|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:44|14|Frederikke Lund|Signe Schulz|21|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:44|21|Frederikke Lund|Signe Schulz|16|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:31|21|Serdar Koca|Serhat Salim|18|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:31|21|Serdar Koca|Serhat Salim|17|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:25|21|Daniel Nikolov|Alex Vlaar|15|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:25|21|Daniel Nikolov|Alex Vlaar|12|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:21|21|Philip Illum Klindt|Mads Thøgersen|16|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:21|21|Philip Illum Klindt|Mads Thøgersen|18|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:40|18|Clara Graversen |Malene Kæseler|21|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180815|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:25|21|Kevin Arokia Walter|none|9|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Kevin Arokia Walter|none|16|Luka Ban|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Elias Bracke|none|15|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Elias Bracke|none|17|Arturo Hernandez|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:40|18|Maxim Grinblat|none|21|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:40|21|Maxim Grinblat|none|18|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:40|22|Maxim Grinblat|none|20|David Jones|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:27|21|Dimitar Yanakiev|none|8|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:27|21|Dimitar Yanakiev|none|11|Petros Tentas|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:28|21|Mads Thøgersen|none|13|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:28|21|Mads Thøgersen|none|10|Bence Pytel|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:40|22|Azmy Qowimuramadhoni|none|20|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:40|21|Azmy Qowimuramadhoni|none|19|Stamatis Tsigirdakis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:17|21|Julien Carraggi|none|8|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:17|21|Julien Carraggi|none|7|Axilleas Tsartsidis|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:22|21|Niks Podosinoviks|none|14|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:22|21|Niks Podosinoviks|none|9|Glib Beketov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:29|21|Luke Pearce|none|13|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:29|21|Luke Pearce|none|9|Vladimir Nikulov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:41|21|Johnnie Torjussen|none|23|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:41|21|Johnnie Torjussen|none|5|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:41|21|Johnnie Torjussen|none|16|Michael Giesinger|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Luka Milic|none|7|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Luka Milic|none|17|May Bar Netzer|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Philip Illum Klindt|none|13|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Philip Illum Klindt|none|12|Labieb Muhzafar Lakamagi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816||Walkover Win|Yonathan Levit|none|Walkover Loss|Munawar Mohammed|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Jonathan Dolan|none|18|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Jonathan Dolan|none|11|Oscar Sunekær|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:50|22|Georgii Karpov|none|20|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:50|12|Georgii Karpov|none|21|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:50|21|Georgii Karpov|none|13|Martin Bundgaard|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:24|21|Jakob Godt|none|13|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:24|21|Jakob Godt|none|9|Ivan Medynskiy|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Ethan Van Leeuwen|Abbygael Harris|16|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:32|21|Ethan Van Leeuwen|Abbygael Harris|15|Fabien Delrue [1]|Juliette Moinard|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:21|21|Sebastian Grønbjerg|Clara Graversen|9|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:21|21|Sebastian Grønbjerg|Clara Graversen|14|Mykhaylo Makhnovskiy|Anastasiya Prozorova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|9|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:36|20|Mert Tunco|Ilayda Nur Ozelgul|22|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:36|21|Mert Tunco|Ilayda Nur Ozelgul|12|Andrew Jones|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:23|21|Vladimir Shishkov |Stefani Stoeva|10|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:23|21|Vladimir Shishkov |Stefani Stoeva|18|Shai Geffen|Maria Delcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:29|21|Anton Kaisti|Inalotta Suutarinen|17|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:29|21|Anton Kaisti|Inalotta Suutarinen|14|Georgii Karpov [4]|Anastasiia Kurdyukova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816||Walkover Win|Alexander Morari|Vlada Ginga|Walkover Loss|George Galvas|Polyvia Tzika|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:17|21|Frederikke Lund|none|15|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:17|21|Frederikke Lund|none|3|Yuliia Miroshnychenko|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:47|19|Katarina Galenic |none|21|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:47|21|Katarina Galenic |none|15|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:47|21|Katarina Galenic |none|19|Anastasia Zintsidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Steven Stallwood|Lizzie Tolman|6|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:20|21|Steven Stallwood|Lizzie Tolman|15|Petros Tentas [2]|Eirini Goygleri|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:32|22|Rasmus Espersen|Christine Busch|20|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:32|21|Rasmus Espersen|Christine Busch|16|Ivan Medynskiy|Valeriya Rudakova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:43|21|Lilit Poghosyan|none|17|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:43|18|Lilit Poghosyan|none|21|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:43|21|Lilit Poghosyan|none|18|Hristomira Popovska|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:51|13|Anastasiia Shapovalova |none|21|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:51|22|Anastasiia Shapovalova |none|20|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:51|21|Anastasiia Shapovalova |none|12|Amalie Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Abbygael Harris|none|17|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|23|Abbygael Harris|none|21|Signe Schulz|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Bhavya Rishi |none|14|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Bhavya Rishi |none|15|Léonice Huet|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:23|21|Emma Thorne|none|18|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:23|21|Emma Thorne|none|13|Irini Tenta|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|13|Rachael Woods|none|21|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Rachael Woods|none|17|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Rachael Woods|none|19|Hanna Karkaus|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:27|21|Kanika Kanwal|none|13|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:27|21|Kanika Kanwal|none|14|Vlada Ginga [5]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Viktoriia Kozyreva|none|15|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Viktoriia Kozyreva|none|7|Rosemary Allen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:28|21|Miranda Wilson|none|16|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:28|21|Miranda Wilson|none|9|Sofie Zacho [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Valeriya Rudakova |none|17|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Valeriya Rudakova |none|9|Rafailia Mertzemeki|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:18|21|Sara Boyle|none|6|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:18|21|Sara Boyle|none|12|Theodora Lambrianidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:36|21|Toni Woods|none|12|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:36|15|Toni Woods|none|21|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:36|21|Toni Woods|none|14|Joke De Langhe [7]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:26|21|Anastasiya Prozorova |none|12|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:26|22|Anastasiya Prozorova |none|20|Eleni Moutevelidou|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816||Walkover Win|Vivien Sandorhazi|none|Walkover Loss|Polyvia Tzika|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:21|21|Kevin Arokia Walter|none|13|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:21|21|Kevin Arokia Walter|none|15|Alexander Morari|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:50|21|Patrick Bjerregaard|none|23|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:50|21|Patrick Bjerregaard|none|19|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:50|21|Patrick Bjerregaard|none|18|Elias Bracke|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:17|21|Joran Kweekel |none|9|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:17|21|Joran Kweekel |none|6|Maxim Grinblat|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Dimitar Yanakiev|none|11|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Dimitar Yanakiev|none|6|Colin Hammarberg|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:22|21|Mads Thøgersen|none|10|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:22|21|Mads Thøgersen|none|13|Ben Hunt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Azmy Qowimuramadhoni|none|9|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Azmy Qowimuramadhoni|none|19|Artem Serpionov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:53|15|Jesper Toft |none|21|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:53|21|Jesper Toft |none|15|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:53|21|Jesper Toft |none|10|Julien Carraggi|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:52|15|Niks Podosinoviks|none|21|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:52|21|Niks Podosinoviks|none|16|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:52|21|Niks Podosinoviks|none|15|Adam Lam|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:54|19|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:54|21|Ethan Van Leeuwen|none|18|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:54|23|Ethan Van Leeuwen|none|21|Luke Pearce|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Harsheel Dani |none|18|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Harsheel Dani |none|15|Johnnie Torjussen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:31|23|Luka Milic|none|21|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:31|22|Luka Milic|none|20|Filip Spoljarec|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:53|15|Philip Illum Klindt|none|21|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:53|21|Philip Illum Klindt|none|18|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:53|21|Philip Illum Klindt|none|15|Leon Seiwald [4]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:33|21|Christo Popov|none|18|Yonathan Levit|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:34|24|Jonathan Dolan|none|22|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:34|22|Jonathan Dolan|none|20|Enis Sesalan [8]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Georgii Karpov|none|6|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Georgii Karpov|none|12|Ivan Panev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:45|21|Jakob Godt|none|13|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:45|16|Jakob Godt|none|21|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:45|21|Jakob Godt|none|14|Gergin Nedyalkov|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|9|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:25|21|Anastasiia Semenova |Anastasiia Shapovalova|11|Kaloyana Nalbantova|Gergana Pavlova|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|17|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:30|21|Sophia Grundtvig|Amalie Cecilie Kudsk|12|Sharone Bauer|Marion Le Turdu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:20|21|Maija Krzywacki |Inalotta Suutarinen|15|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:20|21|Maija Krzywacki |Inalotta Suutarinen|18|Rosemary Allen|Sophie Males|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|8|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:17|21|Viktoriia Kozyreva|Mariia Sukhova|9|Eirini Goygleri|Theodora Lambrianidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:44|13|Frederikke Lund|Signe Schulz|21|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:44|21|Frederikke Lund|Signe Schulz|15|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:44|21|Frederikke Lund|Signe Schulz|14|Emma Moszczynski|Jule Petrikowski|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:45|12|Abigail Holden |Lizzie Tolman|21|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:45|21|Abigail Holden |Lizzie Tolman|16|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:45|21|Abigail Holden |Lizzie Tolman|14|Mariya Mitsova|Petya Nedelcheva|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:24|21|Ioanna Pissi|Anastasia Zintsidou|14|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:24|21|Ioanna Pissi|Anastasia Zintsidou|16|Eleni Moutevelidou|Irini Tenta|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:24|21|Clara Graversen |Malene Kæseler|18|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:24|21|Clara Graversen |Malene Kæseler|15|Rachael Woods|Rebecca Woods|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:52|14|Jakub Bitman |Matěj Hubáček|21|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:52|21|Jakub Bitman |Matěj Hubáček|14|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:52|21|Jakub Bitman |Matěj Hubáček|11|Maxime Briot|Kenji Lovang|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:36|18|Jesper Toft|Mads Vestergaard|21|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:36|21|Jesper Toft|Mads Vestergaard|17|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:36|21|Jesper Toft|Mads Vestergaard|9|Luka Ban|Josip Meglić|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:33|12|Philip Illum Klindt|Mads Thøgersen|21|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:33|21|Philip Illum Klindt|Mads Thøgersen|12|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:33|21|Philip Illum Klindt|Mads Thøgersen|18|William Jones [3]|Ethan Van Leeuwen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:24|21|Semih Baha Basakin|Serkan Ugurlu|16|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:24|21|Semih Baha Basakin|Serkan Ugurlu|19|Andrija Doder|Mihajlo Tomic|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:22|24|Serdar Koca|Serhat Salim|22|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:22|22|Serdar Koca|Serhat Salim|20|Ivan Rusev|Dimitar Yanakiev|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|18|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:26|21|Rasmus Espersen |Sebastian Grønbjerg|15|May Bar Netzer|Maxim Grinblat|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:40|19|Ben Hunt|Adam Lam|21|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:40|21|Ben Hunt|Adam Lam|15|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:40|21|Ben Hunt|Adam Lam|12|Magnus Klinggaard|Oscar Sunekær|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:51|17|Daniel Nikolov|Alex Vlaar|21|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:51|21|Daniel Nikolov|Alex Vlaar|15|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:51|21|Daniel Nikolov|Alex Vlaar|18|Fabien Delrue [2]|William Villeger|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:25|21|Vladimir Shishkov |Stefani Stoeva|10|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:25|21|Vladimir Shishkov |Stefani Stoeva|6|Mert Tunco|Ilayda Nur Ozelgul|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:27|21|Vivien Sandorhazi|none|8|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:27|21|Vivien Sandorhazi|none|15|Katarina Galenic [6]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Anastasiia Shapovalova |none|13|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Anastasiia Shapovalova |none|12|Abbygael Harris|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:28|21|Anton Kaisti|Inalotta Suutarinen|19|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:28|23|Anton Kaisti|Inalotta Suutarinen|21|Sebastian Grønbjerg|Clara Graversen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|1:08|21|Rasmus Espersen|Christine Busch|16|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|1:08|14|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|1:08|23|Rasmus Espersen|Christine Busch|21|Steven Stallwood|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:16|21|Bhavya Rishi |none|11|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:16|3|Bhavya Rishi |none|0|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:16|Walkover Win|Bhavya Rishi |none|Walkover Loss|Emma Thorne|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:34|22|Miranda Wilson|none|20|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:34|21|Miranda Wilson|none|14|Viktoriia Kozyreva|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:23|21|Sara Boyle|none|10|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:23|21|Sara Boyle|none|15|Toni Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Patrick Bjerregaard|none|8|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Patrick Bjerregaard|none|17|Kevin Arokia Walter|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Ethan Van Leeuwen|Abbygael Harris|9|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:20|21|Ethan Van Leeuwen|Abbygael Harris|13|Alexander Morari|Vlada Ginga|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:54|12|Mads Thøgersen|none|21|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:54|21|Mads Thøgersen|none|19|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:54|21|Mads Thøgersen|none|14|Azmy Qowimuramadhoni|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:12|18|Jesper Toft |none|21|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:12|21|Jesper Toft |none|18|Niks Podosinoviks|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Luka Milic|none|11|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|13|Luka Milic|none|21|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Luka Milic|none|7|Philip Illum Klindt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Frederikke Lund|none|17|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|23|Frederikke Lund|none|21|Valeriya Rudakova [1]|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:27|21|Anastasiya Prozorova |none|17|Lilit Poghosyan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Joran Kweekel |none|10|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:25|21|Joran Kweekel |none|16|Dimitar Yanakiev|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Christo Popov|none|8|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:30|21|Christo Popov|none|17|Jonathan Dolan|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Georgii Karpov|none|8|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Georgii Karpov|none|5|Jakob Godt|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Kanika Kanwal|none|13|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Kanika Kanwal|none|8|Rachael Woods|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Harsheel Dani |none|16|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:20|21|Harsheel Dani |none|12|Ethan Van Leeuwen|none|71BACC35-2EC1-462E-876B-FC36F7C97C0A|singles
+20180816|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|14|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:32|21|Anastasiia Semenova |Anastasiia Shapovalova|19|Sophia Grundtvig|Amalie Cecilie Kudsk|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:32|23|Viktoriia Kozyreva|Mariia Sukhova|21|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:32|21|Viktoriia Kozyreva|Mariia Sukhova|17|Maija Krzywacki [4]|Inalotta Suutarinen|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:30|21|Jesper Toft|Mads Vestergaard|18|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:30|21|Jesper Toft|Mads Vestergaard|13|Jakub Bitman [1]|Matěj Hubáček|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:44|25|Frederikke Lund|Signe Schulz|23|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:44|14|Frederikke Lund|Signe Schulz|21|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:44|21|Frederikke Lund|Signe Schulz|16|Abigail Holden [3]|Lizzie Tolman|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:31|21|Serdar Koca|Serhat Salim|18|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:31|21|Serdar Koca|Serhat Salim|17|Rasmus Espersen [4]|Sebastian Grønbjerg|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:25|21|Daniel Nikolov|Alex Vlaar|15|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:25|21|Daniel Nikolov|Alex Vlaar|12|Ben Hunt|Adam Lam|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:21|21|Philip Illum Klindt|Mads Thøgersen|16|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:21|21|Philip Illum Klindt|Mads Thøgersen|18|Semih Baha Basakin|Serkan Ugurlu|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:40|18|Clara Graversen |Malene Kæseler|21|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles
+20180816|0:40|21|Clara Graversen |Malene Kæseler|19|Ioanna Pissi|Anastasia Zintsidou|71BACC35-2EC1-462E-876B-FC36F7C97C0A|doubles

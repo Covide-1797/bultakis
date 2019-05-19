@@ -1,0 +1,841 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20171102|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|9|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|12|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:21|21|Sander Merits|Kati-Kreet Marran|14|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:21|21|Sander Merits|Kati-Kreet Marran|12|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:30|21|Mads Emil Christensen |Claudia Paredes|10|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:30|21|Mads Emil Christensen |Claudia Paredes|19|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:36|12|Jaromir Janacek|Sabina Milova|21|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:36|22|Jaromir Janacek|Sabina Milova|20|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:36|21|Jaromir Janacek|Sabina Milova|11|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:41|21|Emil Hybel|Sofie Nielsen|9|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:41|18|Emil Hybel|Sofie Nielsen|21|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:41|21|Emil Hybel|Sofie Nielsen|10|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:27|24|Iztok Utrosa|Sereina Hofstetter|22|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:27|21|Iztok Utrosa|Sereina Hofstetter|14|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102||Walkover Win|Filip Jagar|Lucija Buchberger|Walkover Loss|Roman Zirnwald|Sonja Langthaler|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102||Walkover Win|Ramon Kropf|Irina Koelbener|Walkover Loss|Lasse Mølhede|Line Nørgaard|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:28|21|Benjamin Pui Hun Li|none|17|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:28|21|Benjamin Pui Hun Li|none|13|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:29|21|Søren Hald|none|17|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:29|21|Søren Hald|none|8|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:18|21|Cristian Savin |none|8|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:18|21|Cristian Savin |none|10|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Mate Balint|none|14|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Mate Balint|none|12|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:49|17|Romain Eudeline |none|21|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:49|21|Romain Eudeline |none|14|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:49|21|Romain Eudeline |none|13|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|22|Jaromir Janacek |none|20|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Jaromir Janacek |none|14|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:16|21|Matthew Grimley|none|3|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:16|21|Matthew Grimley|none|4|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:21|21|Manuel Vazquez |none|7|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:21|21|Manuel Vazquez |none|12|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|22|Luka Milic|none|20|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Luka Milic|none|13|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:46|21|Miha Ivanic |none|15|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:46|15|Miha Ivanic |none|21|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:46|22|Miha Ivanic |none|20|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:24|21|David Kim|none|9|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:24|21|David Kim|none|15|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:52|15|Mikkel Enghøj |none|21|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:52|21|Mikkel Enghøj |none|19|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:52|21|Mikkel Enghøj |none|11|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Joyireh Avi Manasye|none|6|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Joyireh Avi Manasye|none|12|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:37|11|Daniel Nikolov |none|21|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:37|21|Daniel Nikolov |none|11|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:37|21|Daniel Nikolov |none|6|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:16|21|Jeppe Bruun|none|3|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:16|21|Jeppe Bruun|none|9|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:17|21|Neven Rihtar|none|12|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:17|21|Neven Rihtar|none|19|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:33|21|Kasper Dinesen |none|9|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:33|24|Kasper Dinesen |none|22|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Bence Pytel|none|12|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Bence Pytel|none|11|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:08|19|Milan Dratva |none|21|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:08|26|Milan Dratva |none|24|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:08|21|Milan Dratva |none|18|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:55|21|Ondřej Král|none|15|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:55|14|Ondřej Král|none|21|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:55|21|Ondřej Král|none|18|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Vincent Medina |none|19|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Vincent Medina |none|7|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:29|21|Marton Szerecz|none|16|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:29|21|Marton Szerecz|none|15|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Jacob Nilsson |none|9|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Jacob Nilsson |none|13|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Peyo Boichinov|none|15|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Peyo Boichinov|none|8|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:51|15|Enggar Paksi Wijaya|none|21|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:51|21|Enggar Paksi Wijaya|none|19|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:51|21|Enggar Paksi Wijaya|none|9|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:20|21|Mads Christophersen |none|8|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:20|21|Mads Christophersen |none|11|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:43|21|Jesper Toft|none|19|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:43|11|Jesper Toft|none|21|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:43|21|Jesper Toft|none|14|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Joshua Eipe|none|16|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Joshua Eipe|none|17|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102||Walkover Win|Michael Giesinger|none|Walkover Loss|Bernardo Atilano [2]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:55|20|Cristian Savin |none|22|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:55|21|Cristian Savin |none|18|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:55|21|Cristian Savin |none|16|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|21|Jaromir Janacek |none|6|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|21|Jaromir Janacek |none|15|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:35|21|Romain Eudeline |none|19|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:35|21|Romain Eudeline |none|18|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:48|18|Luka Milic|none|21|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:48|21|Luka Milic|none|16|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:48|21|Luka Milic|none|18|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:40|22|Miha Ivanic |none|20|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:40|21|Miha Ivanic |none|17|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|21|Mikkel Enghøj |none|19|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|21|Mikkel Enghøj |none|14|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:49|21|Jeppe Bruun|none|17|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:49|16|Jeppe Bruun|none|21|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:49|22|Jeppe Bruun|none|20|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Mads Christophersen |none|7|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Mads Christophersen |none|12|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:43|21|Peyo Boichinov|none|18|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:43|17|Peyo Boichinov|none|21|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:43|21|Peyo Boichinov|none|9|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|21|Vincent Medina |none|12|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|21|Vincent Medina |none|14|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|19|Jacob Nilsson |none|21|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|21|Jacob Nilsson |none|6|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|22|Jacob Nilsson |none|20|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Kasper Dinesen |none|15|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Kasper Dinesen |none|9|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:47|6|Jesper Toft|none|21|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:35|22|Milan Dratva |none|20|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:35|21|Milan Dratva |none|14|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:00|18|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:00|23|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:00|21|Michael Giesinger|none|17|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:24|21|Filip Jagar|Lucija Buchberger|12|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:24|21|Filip Jagar|Lucija Buchberger|15|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:22|21|Emil Hybel|Sofie Nielsen|11|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:22|21|Emil Hybel|Sofie Nielsen|8|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:39|21|Mads Emil Christensen |Claudia Paredes|12|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:39|19|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:39|23|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:38|17|Tovannakasem Samatcha|Nikoletta Bukoviczki|21|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|18|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|19|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:20|21|Mariya Rud|none|3|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:20|21|Mariya Rud|none|4|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:40|19|Petra Polanc|none|21|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:40|21|Petra Polanc|none|15|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:40|21|Petra Polanc|none|9|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102||Walkover Win|Julie Ferrier|none|Walkover Loss|Busra Unlu|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|24|Mia Tarcalova|none|22|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|17|Mia Tarcalova|none|21|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:42|21|Mia Tarcalova|none|15|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:20|21|Sia Emilie Berg|none|12|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:20|21|Sia Emilie Berg|none|13|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:25|21|Elena Komendrovskaja|none|8|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:25|21|Elena Komendrovskaja|none|7|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:21|21|Daniella Gonda|none|14|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:21|21|Daniella Gonda|none|17|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Katarina Vargova|none|18|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Katarina Vargova|none|14|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|23|Katharina Hochmeir|none|21|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:26|21|Katharina Hochmeir|none|13|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:17|21|Sara Penalver Pereira|none|11|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:17|21|Sara Penalver Pereira|none|5|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:52|17|Ramon Kropf|Iztok Utrosa|21|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:52|21|Ramon Kropf|Iztok Utrosa|17|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:52|21|Ramon Kropf|Iztok Utrosa|16|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:21|21|Emil Hybel|Mathias Thyrri|7|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:21|21|Emil Hybel|Mathias Thyrri|13|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:30|21|Mariya Rud|none|19|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Mariya Rud|none|17|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:25|21|Reka Madarasz |none|14|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:25|21|Reka Madarasz |none|10|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Sia Emilie Berg|none|8|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Sia Emilie Berg|none|17|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:35|21|Julie Ferrier|none|17|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:35|22|Julie Ferrier|none|24|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:35|21|Julie Ferrier|none|10|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102||Walkover Win|Sara Penalver Pereira|none|Walkover Loss|Ashwathi Pillai [1]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:24|21|Elena Komendrovskaja|none|14|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:24|21|Elena Komendrovskaja|none|12|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:33|21|Holly Newall |none|14|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:33|21|Holly Newall |none|8|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Vivien Sandorhazi|none|12|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:22|21|Vivien Sandorhazi|none|4|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:48|19|Jaromir Janacek |none|21|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:48|21|Jaromir Janacek |none|19|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:48|21|Jaromir Janacek |none|16|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:27|21|Miha Ivanic |none|10|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:27|21|Miha Ivanic |none|19|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:06|13|Jeppe Bruun|none|21|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:06|21|Jeppe Bruun|none|15|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|1:06|21|Jeppe Bruun|none|14|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Kasper Dinesen |none|16|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:30|21|Kasper Dinesen |none|12|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:38|21|Jacob Nilsson |none|14|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:38|21|Jacob Nilsson |none|16|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|21|Mads Christophersen |none|11|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:31|23|Mads Christophersen |none|21|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102||Walkover Win|Inga Sadaić|Dorotea Sutara|Walkover Loss|Alzbeta Perunska|Lucia Vojtekova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:23|21|Cristian Savin |none|9|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:23|21|Cristian Savin |none|17|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171102|0:28|21|Emre Sonmez|Mert Tunco|12|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:28|21|Emre Sonmez|Mert Tunco|13|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102||Walkover Win|Mads Emil Christensen|Tobias Holst|Walkover Loss|Matěj Hubáček [1]|Michal Hubáček|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102||Walkover Win|Emil Hybel|Mathias Thyrri|Walkover Loss|Antoine Bebin [2]|Romain Eudeline|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:42|21|Phillipe Charron|Maxime Tétreault|18|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:42|17|Phillipe Charron|Maxime Tétreault|21|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171102|0:42|21|Phillipe Charron|Maxime Tétreault|15|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|9|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|12|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:21|21|Sander Merits|Kati-Kreet Marran|14|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:21|21|Sander Merits|Kati-Kreet Marran|12|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:30|21|Mads Emil Christensen |Claudia Paredes|10|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:30|21|Mads Emil Christensen |Claudia Paredes|19|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:36|12|Jaromir Janacek|Sabina Milova|21|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:36|22|Jaromir Janacek|Sabina Milova|20|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:36|21|Jaromir Janacek|Sabina Milova|11|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:41|21|Emil Hybel|Sofie Nielsen|9|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:41|18|Emil Hybel|Sofie Nielsen|21|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:41|21|Emil Hybel|Sofie Nielsen|10|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:27|24|Iztok Utrosa|Sereina Hofstetter|22|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:27|21|Iztok Utrosa|Sereina Hofstetter|14|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103||Walkover Win|Filip Jagar|Lucija Buchberger|Walkover Loss|Roman Zirnwald|Sonja Langthaler|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103||Walkover Win|Ramon Kropf|Irina Koelbener|Walkover Loss|Lasse Mølhede|Line Nørgaard|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:28|21|Benjamin Pui Hun Li|none|17|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:28|21|Benjamin Pui Hun Li|none|13|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:29|21|Søren Hald|none|17|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:29|21|Søren Hald|none|8|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:18|21|Cristian Savin |none|8|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:18|21|Cristian Savin |none|10|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Mate Balint|none|14|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Mate Balint|none|12|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:49|17|Romain Eudeline |none|21|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:49|21|Romain Eudeline |none|14|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:49|21|Romain Eudeline |none|13|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|22|Jaromir Janacek |none|20|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Jaromir Janacek |none|14|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:16|21|Matthew Grimley|none|3|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:16|21|Matthew Grimley|none|4|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:21|21|Manuel Vazquez |none|7|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:21|21|Manuel Vazquez |none|12|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|22|Luka Milic|none|20|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Luka Milic|none|13|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:46|21|Miha Ivanic |none|15|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:46|15|Miha Ivanic |none|21|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:46|22|Miha Ivanic |none|20|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:24|21|David Kim|none|9|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:24|21|David Kim|none|15|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:52|15|Mikkel Enghøj |none|21|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:52|21|Mikkel Enghøj |none|19|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:52|21|Mikkel Enghøj |none|11|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Joyireh Avi Manasye|none|6|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Joyireh Avi Manasye|none|12|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:37|11|Daniel Nikolov |none|21|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:37|21|Daniel Nikolov |none|11|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:37|21|Daniel Nikolov |none|6|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:16|21|Jeppe Bruun|none|3|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:16|21|Jeppe Bruun|none|9|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:17|21|Neven Rihtar|none|12|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:17|21|Neven Rihtar|none|19|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:33|21|Kasper Dinesen |none|9|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:33|24|Kasper Dinesen |none|22|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Bence Pytel|none|12|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Bence Pytel|none|11|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:08|19|Milan Dratva |none|21|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:08|26|Milan Dratva |none|24|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:08|21|Milan Dratva |none|18|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:55|21|Ondřej Král|none|15|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:55|14|Ondřej Král|none|21|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:55|21|Ondřej Král|none|18|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Vincent Medina |none|19|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Vincent Medina |none|7|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:29|21|Marton Szerecz|none|16|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:29|21|Marton Szerecz|none|15|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Jacob Nilsson |none|9|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Jacob Nilsson |none|13|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Peyo Boichinov|none|15|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Peyo Boichinov|none|8|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:51|15|Enggar Paksi Wijaya|none|21|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:51|21|Enggar Paksi Wijaya|none|19|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:51|21|Enggar Paksi Wijaya|none|9|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:20|21|Mads Christophersen |none|8|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:20|21|Mads Christophersen |none|11|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:43|21|Jesper Toft|none|19|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:43|11|Jesper Toft|none|21|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:43|21|Jesper Toft|none|14|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Joshua Eipe|none|16|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Joshua Eipe|none|17|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103||Walkover Win|Michael Giesinger|none|Walkover Loss|Bernardo Atilano [2]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:55|20|Cristian Savin |none|22|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:55|21|Cristian Savin |none|18|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:55|21|Cristian Savin |none|16|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|21|Jaromir Janacek |none|6|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|21|Jaromir Janacek |none|15|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:35|21|Romain Eudeline |none|19|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:35|21|Romain Eudeline |none|18|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:48|18|Luka Milic|none|21|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:48|21|Luka Milic|none|16|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:48|21|Luka Milic|none|18|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:40|22|Miha Ivanic |none|20|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:40|21|Miha Ivanic |none|17|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|21|Mikkel Enghøj |none|19|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|21|Mikkel Enghøj |none|14|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:49|21|Jeppe Bruun|none|17|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:49|16|Jeppe Bruun|none|21|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:49|22|Jeppe Bruun|none|20|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Mads Christophersen |none|7|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Mads Christophersen |none|12|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:43|21|Peyo Boichinov|none|18|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:43|17|Peyo Boichinov|none|21|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:43|21|Peyo Boichinov|none|9|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|21|Vincent Medina |none|12|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|21|Vincent Medina |none|14|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|19|Jacob Nilsson |none|21|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|21|Jacob Nilsson |none|6|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|22|Jacob Nilsson |none|20|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Kasper Dinesen |none|15|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Kasper Dinesen |none|9|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:47|6|Jesper Toft|none|21|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:35|22|Milan Dratva |none|20|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:35|21|Milan Dratva |none|14|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:00|18|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:00|23|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:00|21|Michael Giesinger|none|17|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:24|21|Filip Jagar|Lucija Buchberger|12|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:24|21|Filip Jagar|Lucija Buchberger|15|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:22|21|Emil Hybel|Sofie Nielsen|11|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:22|21|Emil Hybel|Sofie Nielsen|8|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:39|21|Mads Emil Christensen |Claudia Paredes|12|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:39|19|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:39|23|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:38|17|Tovannakasem Samatcha|Nikoletta Bukoviczki|21|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|18|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|19|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:20|21|Mariya Rud|none|3|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:20|21|Mariya Rud|none|4|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:40|19|Petra Polanc|none|21|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:40|21|Petra Polanc|none|15|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:40|21|Petra Polanc|none|9|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103||Walkover Win|Julie Ferrier|none|Walkover Loss|Busra Unlu|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|24|Mia Tarcalova|none|22|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|17|Mia Tarcalova|none|21|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:42|21|Mia Tarcalova|none|15|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:20|21|Sia Emilie Berg|none|12|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:20|21|Sia Emilie Berg|none|13|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:25|21|Elena Komendrovskaja|none|8|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:25|21|Elena Komendrovskaja|none|7|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:21|21|Daniella Gonda|none|14|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:21|21|Daniella Gonda|none|17|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Katarina Vargova|none|18|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Katarina Vargova|none|14|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|23|Katharina Hochmeir|none|21|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:26|21|Katharina Hochmeir|none|13|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:17|21|Sara Penalver Pereira|none|11|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:17|21|Sara Penalver Pereira|none|5|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:52|17|Ramon Kropf|Iztok Utrosa|21|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:52|21|Ramon Kropf|Iztok Utrosa|17|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:52|21|Ramon Kropf|Iztok Utrosa|16|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:21|21|Emil Hybel|Mathias Thyrri|7|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:21|21|Emil Hybel|Mathias Thyrri|13|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:30|21|Mariya Rud|none|19|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Mariya Rud|none|17|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:25|21|Reka Madarasz |none|14|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:25|21|Reka Madarasz |none|10|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Sia Emilie Berg|none|8|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Sia Emilie Berg|none|17|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:35|21|Julie Ferrier|none|17|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:35|22|Julie Ferrier|none|24|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:35|21|Julie Ferrier|none|10|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103||Walkover Win|Sara Penalver Pereira|none|Walkover Loss|Ashwathi Pillai [1]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:24|21|Elena Komendrovskaja|none|14|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:24|21|Elena Komendrovskaja|none|12|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:33|21|Holly Newall |none|14|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:33|21|Holly Newall |none|8|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Vivien Sandorhazi|none|12|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:22|21|Vivien Sandorhazi|none|4|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:48|19|Jaromir Janacek |none|21|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:48|21|Jaromir Janacek |none|19|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:48|21|Jaromir Janacek |none|16|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:27|21|Miha Ivanic |none|10|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:27|21|Miha Ivanic |none|19|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:06|13|Jeppe Bruun|none|21|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:06|21|Jeppe Bruun|none|15|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|1:06|21|Jeppe Bruun|none|14|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Kasper Dinesen |none|16|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:30|21|Kasper Dinesen |none|12|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:38|21|Jacob Nilsson |none|14|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:38|21|Jacob Nilsson |none|16|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|21|Mads Christophersen |none|11|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:31|23|Mads Christophersen |none|21|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103||Walkover Win|Inga Sadaić|Dorotea Sutara|Walkover Loss|Alzbeta Perunska|Lucia Vojtekova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:23|21|Cristian Savin |none|9|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:23|21|Cristian Savin |none|17|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171103|0:28|21|Emre Sonmez|Mert Tunco|12|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:28|21|Emre Sonmez|Mert Tunco|13|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103||Walkover Win|Mads Emil Christensen|Tobias Holst|Walkover Loss|Matěj Hubáček [1]|Michal Hubáček|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103||Walkover Win|Emil Hybel|Mathias Thyrri|Walkover Loss|Antoine Bebin [2]|Romain Eudeline|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:42|21|Phillipe Charron|Maxime Tétreault|18|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:42|17|Phillipe Charron|Maxime Tétreault|21|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171103|0:42|21|Phillipe Charron|Maxime Tétreault|15|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|9|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|12|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:21|21|Sander Merits|Kati-Kreet Marran|14|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:21|21|Sander Merits|Kati-Kreet Marran|12|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:30|21|Mads Emil Christensen |Claudia Paredes|10|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:30|21|Mads Emil Christensen |Claudia Paredes|19|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:36|12|Jaromir Janacek|Sabina Milova|21|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:36|22|Jaromir Janacek|Sabina Milova|20|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:36|21|Jaromir Janacek|Sabina Milova|11|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:41|21|Emil Hybel|Sofie Nielsen|9|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:41|18|Emil Hybel|Sofie Nielsen|21|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:41|21|Emil Hybel|Sofie Nielsen|10|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:27|24|Iztok Utrosa|Sereina Hofstetter|22|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:27|21|Iztok Utrosa|Sereina Hofstetter|14|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104||Walkover Win|Filip Jagar|Lucija Buchberger|Walkover Loss|Roman Zirnwald|Sonja Langthaler|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104||Walkover Win|Ramon Kropf|Irina Koelbener|Walkover Loss|Lasse Mølhede|Line Nørgaard|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:28|21|Benjamin Pui Hun Li|none|17|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:28|21|Benjamin Pui Hun Li|none|13|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:29|21|Søren Hald|none|17|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:29|21|Søren Hald|none|8|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:18|21|Cristian Savin |none|8|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:18|21|Cristian Savin |none|10|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Mate Balint|none|14|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Mate Balint|none|12|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:49|17|Romain Eudeline |none|21|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:49|21|Romain Eudeline |none|14|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:49|21|Romain Eudeline |none|13|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|22|Jaromir Janacek |none|20|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Jaromir Janacek |none|14|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:16|21|Matthew Grimley|none|3|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:16|21|Matthew Grimley|none|4|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:21|21|Manuel Vazquez |none|7|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:21|21|Manuel Vazquez |none|12|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|22|Luka Milic|none|20|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Luka Milic|none|13|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:46|21|Miha Ivanic |none|15|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:46|15|Miha Ivanic |none|21|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:46|22|Miha Ivanic |none|20|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:24|21|David Kim|none|9|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:24|21|David Kim|none|15|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:52|15|Mikkel Enghøj |none|21|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:52|21|Mikkel Enghøj |none|19|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:52|21|Mikkel Enghøj |none|11|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Joyireh Avi Manasye|none|6|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Joyireh Avi Manasye|none|12|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:37|11|Daniel Nikolov |none|21|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:37|21|Daniel Nikolov |none|11|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:37|21|Daniel Nikolov |none|6|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:16|21|Jeppe Bruun|none|3|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:16|21|Jeppe Bruun|none|9|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:17|21|Neven Rihtar|none|12|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:17|21|Neven Rihtar|none|19|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:33|21|Kasper Dinesen |none|9|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:33|24|Kasper Dinesen |none|22|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Bence Pytel|none|12|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Bence Pytel|none|11|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:08|19|Milan Dratva |none|21|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:08|26|Milan Dratva |none|24|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:08|21|Milan Dratva |none|18|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:55|21|Ondřej Král|none|15|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:55|14|Ondřej Král|none|21|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:55|21|Ondřej Král|none|18|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Vincent Medina |none|19|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Vincent Medina |none|7|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:29|21|Marton Szerecz|none|16|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:29|21|Marton Szerecz|none|15|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Jacob Nilsson |none|9|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Jacob Nilsson |none|13|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Peyo Boichinov|none|15|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Peyo Boichinov|none|8|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:51|15|Enggar Paksi Wijaya|none|21|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:51|21|Enggar Paksi Wijaya|none|19|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:51|21|Enggar Paksi Wijaya|none|9|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:20|21|Mads Christophersen |none|8|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:20|21|Mads Christophersen |none|11|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:43|21|Jesper Toft|none|19|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:43|11|Jesper Toft|none|21|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:43|21|Jesper Toft|none|14|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Joshua Eipe|none|16|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Joshua Eipe|none|17|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104||Walkover Win|Michael Giesinger|none|Walkover Loss|Bernardo Atilano [2]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:55|20|Cristian Savin |none|22|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:55|21|Cristian Savin |none|18|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:55|21|Cristian Savin |none|16|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|21|Jaromir Janacek |none|6|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|21|Jaromir Janacek |none|15|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:35|21|Romain Eudeline |none|19|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:35|21|Romain Eudeline |none|18|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:48|18|Luka Milic|none|21|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:48|21|Luka Milic|none|16|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:48|21|Luka Milic|none|18|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:40|22|Miha Ivanic |none|20|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:40|21|Miha Ivanic |none|17|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|21|Mikkel Enghøj |none|19|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|21|Mikkel Enghøj |none|14|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:49|21|Jeppe Bruun|none|17|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:49|16|Jeppe Bruun|none|21|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:49|22|Jeppe Bruun|none|20|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Mads Christophersen |none|7|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Mads Christophersen |none|12|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:43|21|Peyo Boichinov|none|18|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:43|17|Peyo Boichinov|none|21|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:43|21|Peyo Boichinov|none|9|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|21|Vincent Medina |none|12|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|21|Vincent Medina |none|14|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|19|Jacob Nilsson |none|21|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|21|Jacob Nilsson |none|6|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|22|Jacob Nilsson |none|20|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Kasper Dinesen |none|15|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Kasper Dinesen |none|9|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:47|6|Jesper Toft|none|21|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:35|22|Milan Dratva |none|20|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:35|21|Milan Dratva |none|14|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:00|18|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:00|23|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:00|21|Michael Giesinger|none|17|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:24|21|Filip Jagar|Lucija Buchberger|12|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:24|21|Filip Jagar|Lucija Buchberger|15|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:22|21|Emil Hybel|Sofie Nielsen|11|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:22|21|Emil Hybel|Sofie Nielsen|8|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:39|21|Mads Emil Christensen |Claudia Paredes|12|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:39|19|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:39|23|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:38|17|Tovannakasem Samatcha|Nikoletta Bukoviczki|21|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|18|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|19|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:20|21|Mariya Rud|none|3|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:20|21|Mariya Rud|none|4|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:40|19|Petra Polanc|none|21|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:40|21|Petra Polanc|none|15|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:40|21|Petra Polanc|none|9|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104||Walkover Win|Julie Ferrier|none|Walkover Loss|Busra Unlu|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|24|Mia Tarcalova|none|22|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|17|Mia Tarcalova|none|21|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:42|21|Mia Tarcalova|none|15|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:20|21|Sia Emilie Berg|none|12|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:20|21|Sia Emilie Berg|none|13|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:25|21|Elena Komendrovskaja|none|8|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:25|21|Elena Komendrovskaja|none|7|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:21|21|Daniella Gonda|none|14|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:21|21|Daniella Gonda|none|17|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Katarina Vargova|none|18|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Katarina Vargova|none|14|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|23|Katharina Hochmeir|none|21|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:26|21|Katharina Hochmeir|none|13|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:17|21|Sara Penalver Pereira|none|11|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:17|21|Sara Penalver Pereira|none|5|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:52|17|Ramon Kropf|Iztok Utrosa|21|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:52|21|Ramon Kropf|Iztok Utrosa|17|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:52|21|Ramon Kropf|Iztok Utrosa|16|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:21|21|Emil Hybel|Mathias Thyrri|7|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:21|21|Emil Hybel|Mathias Thyrri|13|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:30|21|Mariya Rud|none|19|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Mariya Rud|none|17|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:25|21|Reka Madarasz |none|14|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:25|21|Reka Madarasz |none|10|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Sia Emilie Berg|none|8|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Sia Emilie Berg|none|17|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:35|21|Julie Ferrier|none|17|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:35|22|Julie Ferrier|none|24|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:35|21|Julie Ferrier|none|10|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104||Walkover Win|Sara Penalver Pereira|none|Walkover Loss|Ashwathi Pillai [1]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:24|21|Elena Komendrovskaja|none|14|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:24|21|Elena Komendrovskaja|none|12|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:33|21|Holly Newall |none|14|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:33|21|Holly Newall |none|8|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Vivien Sandorhazi|none|12|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:22|21|Vivien Sandorhazi|none|4|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:48|19|Jaromir Janacek |none|21|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:48|21|Jaromir Janacek |none|19|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:48|21|Jaromir Janacek |none|16|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:27|21|Miha Ivanic |none|10|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:27|21|Miha Ivanic |none|19|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:06|13|Jeppe Bruun|none|21|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:06|21|Jeppe Bruun|none|15|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|1:06|21|Jeppe Bruun|none|14|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Kasper Dinesen |none|16|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:30|21|Kasper Dinesen |none|12|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:38|21|Jacob Nilsson |none|14|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:38|21|Jacob Nilsson |none|16|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|21|Mads Christophersen |none|11|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:31|23|Mads Christophersen |none|21|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104||Walkover Win|Inga Sadaić|Dorotea Sutara|Walkover Loss|Alzbeta Perunska|Lucia Vojtekova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:23|21|Cristian Savin |none|9|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:23|21|Cristian Savin |none|17|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171104|0:28|21|Emre Sonmez|Mert Tunco|12|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:28|21|Emre Sonmez|Mert Tunco|13|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104||Walkover Win|Mads Emil Christensen|Tobias Holst|Walkover Loss|Matěj Hubáček [1]|Michal Hubáček|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104||Walkover Win|Emil Hybel|Mathias Thyrri|Walkover Loss|Antoine Bebin [2]|Romain Eudeline|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:42|21|Phillipe Charron|Maxime Tétreault|18|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:42|17|Phillipe Charron|Maxime Tétreault|21|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171104|0:42|21|Phillipe Charron|Maxime Tétreault|15|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|9|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:18|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|12|Akos Morocz|Nora Hircze|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:21|21|Sander Merits|Kati-Kreet Marran|14|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:21|21|Sander Merits|Kati-Kreet Marran|12|Levente Nagy Sz|Dora Komives|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:30|21|Mads Emil Christensen |Claudia Paredes|10|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:30|21|Mads Emil Christensen |Claudia Paredes|19|Thomas Bless|Jennifer Kobelt|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:36|12|Jaromir Janacek|Sabina Milova|21|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:36|22|Jaromir Janacek|Sabina Milova|20|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:36|21|Jaromir Janacek|Sabina Milova|11|Mathias Weber Estrup|Josephine Van Zaane|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:41|21|Emil Hybel|Sofie Nielsen|9|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:41|18|Emil Hybel|Sofie Nielsen|21|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:41|21|Emil Hybel|Sofie Nielsen|10|Gergo Pytel|Reka Madarasz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:27|24|Iztok Utrosa|Sereina Hofstetter|22|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:27|21|Iztok Utrosa|Sereina Hofstetter|14|Matěj Hubáček [3]|Berta Ausbergerova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105||Walkover Win|Filip Jagar|Lucija Buchberger|Walkover Loss|Roman Zirnwald|Sonja Langthaler|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105||Walkover Win|Ramon Kropf|Irina Koelbener|Walkover Loss|Lasse Mølhede|Line Nørgaard|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:28|21|Benjamin Pui Hun Li|none|17|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:28|21|Benjamin Pui Hun Li|none|13|Zsombor Dulcz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:29|21|Søren Hald|none|17|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:29|21|Søren Hald|none|8|Balazs Papai|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:18|21|Cristian Savin |none|8|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:18|21|Cristian Savin |none|10|Vladimir Nikulov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Mate Balint|none|14|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Mate Balint|none|12|Kanan Rzayev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:49|17|Romain Eudeline |none|21|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:49|21|Romain Eudeline |none|14|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:49|21|Romain Eudeline |none|13|Jhotiswaran Karupathevan|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|22|Jaromir Janacek |none|20|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Jaromir Janacek |none|14|Juraj Vachalek|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:16|21|Matthew Grimley|none|3|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:16|21|Matthew Grimley|none|4|Marcell Granat|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Peter Correl|none|11|Filip Jagar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:21|21|Manuel Vazquez |none|7|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:21|21|Manuel Vazquez |none|12|Raphaël Peter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|22|Luka Milic|none|20|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Luka Milic|none|13|Leon Seiwald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:46|21|Miha Ivanic |none|15|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:46|15|Miha Ivanic |none|21|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:46|22|Miha Ivanic |none|20|Christopher Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:24|21|David Kim|none|9|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:24|21|David Kim|none|15|Sander Merits|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:52|15|Mikkel Enghøj |none|21|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:52|21|Mikkel Enghøj |none|19|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:52|21|Mikkel Enghøj |none|11|Iztok Utrosa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Joyireh Avi Manasye|none|6|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Joyireh Avi Manasye|none|12|Orkhan Galandarov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:37|11|Daniel Nikolov |none|21|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:37|21|Daniel Nikolov |none|11|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:37|21|Daniel Nikolov |none|6|Frederik Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:16|21|Jeppe Bruun|none|3|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:16|21|Jeppe Bruun|none|9|Teymur Abbasov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:17|21|Neven Rihtar|none|12|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:17|21|Neven Rihtar|none|19|Akos Morocz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:33|21|Kasper Dinesen |none|9|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:33|24|Kasper Dinesen |none|22|Antoine Bebin|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Bence Pytel|none|12|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Bence Pytel|none|11|Artem Serpionov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:08|19|Milan Dratva |none|21|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:08|26|Milan Dratva |none|24|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:08|21|Milan Dratva |none|18|Christoffer Elbrønd|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:55|21|Ondřej Král|none|15|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:55|14|Ondřej Král|none|21|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:55|21|Ondřej Král|none|18|Tovannakasem Samatcha|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Vincent Medina |none|19|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Vincent Medina |none|7|Ivan Panev|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:29|21|Marton Szerecz|none|16|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:29|21|Marton Szerecz|none|15|Manuel Manca|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Jacob Nilsson |none|9|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Jacob Nilsson |none|13|Miha Ivancic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Peyo Boichinov|none|15|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Peyo Boichinov|none|8|Gergo Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:51|15|Enggar Paksi Wijaya|none|21|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:51|21|Enggar Paksi Wijaya|none|19|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:51|21|Enggar Paksi Wijaya|none|9|Filip Spoljarec [15]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:15|21|Sergey Don|none|5|Hugo Jardim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:20|21|Mads Christophersen |none|8|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:20|21|Mads Christophersen |none|11|Brandon Zhi Hao Yap|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:43|21|Jesper Toft|none|19|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:43|11|Jesper Toft|none|21|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:43|21|Jesper Toft|none|14|Pavel Kotsarenko|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Joshua Eipe|none|16|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Joshua Eipe|none|17|Joonas Korhonen [13]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:24|21|Phone Pyae Naing|none|14|Phillipe Charron|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105||Walkover Win|Michael Giesinger|none|Walkover Loss|Bernardo Atilano [2]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|21|Søren Hald|none|16|Benjamin Pui Hun Li|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:55|20|Cristian Savin |none|22|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:55|21|Cristian Savin |none|18|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:55|21|Cristian Savin |none|16|Peter Correl|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|21|Jaromir Janacek |none|6|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|21|Jaromir Janacek |none|15|Mate Balint|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:35|21|Romain Eudeline |none|19|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:35|21|Romain Eudeline |none|18|Matthew Grimley|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:48|18|Luka Milic|none|21|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:48|21|Luka Milic|none|16|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:48|21|Luka Milic|none|18|Manuel Vazquez [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:40|22|Miha Ivanic |none|20|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:40|21|Miha Ivanic |none|17|David Kim|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|21|Mikkel Enghøj |none|19|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|21|Mikkel Enghøj |none|14|Joyireh Avi Manasye|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:49|21|Jeppe Bruun|none|17|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:49|16|Jeppe Bruun|none|21|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:49|22|Jeppe Bruun|none|20|Daniel Nikolov [9]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Mads Christophersen |none|7|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Mads Christophersen |none|12|Sergey Don|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:43|21|Peyo Boichinov|none|18|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:43|17|Peyo Boichinov|none|21|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:43|21|Peyo Boichinov|none|9|Enggar Paksi Wijaya|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|21|Vincent Medina |none|12|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|21|Vincent Medina |none|14|Ondřej Král|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|19|Jacob Nilsson |none|21|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|21|Jacob Nilsson |none|6|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|22|Jacob Nilsson |none|20|Marton Szerecz|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Kasper Dinesen |none|15|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Kasper Dinesen |none|9|Neven Rihtar|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:47|6|Jesper Toft|none|21|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:47|21|Jesper Toft|none|19|Joshua Eipe|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:35|22|Milan Dratva |none|20|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:35|21|Milan Dratva |none|14|Bence Pytel|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:00|18|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:00|23|Michael Giesinger|none|21|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:00|21|Michael Giesinger|none|17|Phone Pyae Naing|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:24|21|Filip Jagar|Lucija Buchberger|12|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:24|21|Filip Jagar|Lucija Buchberger|15|Ramon Kropf|Irina Koelbener|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:22|21|Emil Hybel|Sofie Nielsen|11|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:22|21|Emil Hybel|Sofie Nielsen|8|Iztok Utrosa|Sereina Hofstetter|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:39|21|Mads Emil Christensen |Claudia Paredes|12|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:39|19|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:39|23|Mads Emil Christensen |Claudia Paredes|21|Jaromir Janacek|Sabina Milova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:38|17|Tovannakasem Samatcha|Nikoletta Bukoviczki|21|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|18|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:38|21|Tovannakasem Samatcha|Nikoletta Bukoviczki|19|Sander Merits|Kati-Kreet Marran|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:20|21|Mariya Rud|none|3|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:20|21|Mariya Rud|none|4|Ioanna Karetsa|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:40|19|Petra Polanc|none|21|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:40|21|Petra Polanc|none|15|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:40|21|Petra Polanc|none|9|Alzbeta Perunska|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105||Walkover Win|Julie Ferrier|none|Walkover Loss|Busra Unlu|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|24|Mia Tarcalova|none|22|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|17|Mia Tarcalova|none|21|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:42|21|Mia Tarcalova|none|15|Carina Meinke|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:20|21|Sia Emilie Berg|none|12|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:20|21|Sia Emilie Berg|none|13|Dorotea Sutara|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:25|21|Elena Komendrovskaja|none|8|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:25|21|Elena Komendrovskaja|none|7|Orsolya Varga|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:21|21|Daniella Gonda|none|14|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:21|21|Daniella Gonda|none|17|Inga Sadaić|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Katarina Vargova|none|18|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Katarina Vargova|none|14|Bianka Bukoviczki|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|23|Katharina Hochmeir|none|21|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:26|21|Katharina Hochmeir|none|13|Sabina Milova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:16|21|Vivien Sandorhazi|none|6|Sereina Hofstetter|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:17|21|Sara Penalver Pereira|none|11|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:17|21|Sara Penalver Pereira|none|5|Jennifer Kobelt|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:30|21|Mads Emil Christensen|Tobias Holst|11|Thomas Bless|Manuel Manca|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:52|17|Ramon Kropf|Iztok Utrosa|21|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:52|21|Ramon Kropf|Iztok Utrosa|17|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:52|21|Ramon Kropf|Iztok Utrosa|16|Brandon Zhi Hao Yap|Yee Guan Yap|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:30|21|Emre Sonmez|Mert Tunco|19|Andrija Doder|Luka Milic|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:21|21|Emil Hybel|Mathias Thyrri|7|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:21|21|Emil Hybel|Mathias Thyrri|13|Zsombor Dulcz|Levente Nagy Sz|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:30|21|Mariya Rud|none|19|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Mariya Rud|none|17|Emilie Aalestrup|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:25|21|Reka Madarasz |none|14|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:25|21|Reka Madarasz |none|10|Petra Polanc|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Sia Emilie Berg|none|8|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Sia Emilie Berg|none|17|Katharina Hochmeir|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:35|21|Julie Ferrier|none|17|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:35|22|Julie Ferrier|none|24|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:35|21|Julie Ferrier|none|10|Mia Tarcalova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105||Walkover Win|Sara Penalver Pereira|none|Walkover Loss|Ashwathi Pillai [1]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:24|21|Elena Komendrovskaja|none|14|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:24|21|Elena Komendrovskaja|none|12|Daniella Gonda|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:33|21|Holly Newall |none|14|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:33|21|Holly Newall |none|8|Katarina Vargova|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Vivien Sandorhazi|none|12|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:22|21|Vivien Sandorhazi|none|4|Katsiaryna Zablotskaya [4]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:32|21|Jesper Toft|none|14|Michael Giesinger|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:48|19|Jaromir Janacek |none|21|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:48|21|Jaromir Janacek |none|19|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:48|21|Jaromir Janacek |none|16|Romain Eudeline [11]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:27|21|Miha Ivanic |none|10|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:27|21|Miha Ivanic |none|19|Luka Milic|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:06|13|Jeppe Bruun|none|21|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:06|21|Jeppe Bruun|none|15|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|1:06|21|Jeppe Bruun|none|14|Mikkel Enghøj [6]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Kasper Dinesen |none|16|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:30|21|Kasper Dinesen |none|12|Milan Dratva [5]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:38|21|Jacob Nilsson |none|14|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:38|21|Jacob Nilsson |none|16|Vincent Medina [12]|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|21|Mads Christophersen |none|11|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:31|23|Mads Christophersen |none|21|Peyo Boichinov|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105||Walkover Win|Inga Sadaić|Dorotea Sutara|Walkover Loss|Alzbeta Perunska|Lucia Vojtekova|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:23|21|Cristian Savin |none|9|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:23|21|Cristian Savin |none|17|Søren Hald|none|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|singles
+20171105|0:28|21|Emre Sonmez|Mert Tunco|12|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:28|21|Emre Sonmez|Mert Tunco|13|Jake-Li Lim|Zhi Lun Ng|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105||Walkover Win|Mads Emil Christensen|Tobias Holst|Walkover Loss|Matěj Hubáček [1]|Michal Hubáček|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105||Walkover Win|Emil Hybel|Mathias Thyrri|Walkover Loss|Antoine Bebin [2]|Romain Eudeline|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:42|21|Phillipe Charron|Maxime Tétreault|18|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:42|17|Phillipe Charron|Maxime Tétreault|21|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles
+20171105|0:42|21|Phillipe Charron|Maxime Tétreault|15|Ramon Kropf|Iztok Utrosa|DA241EEF-0ABE-4FC2-8D7B-1CF6B93A101D|doubles

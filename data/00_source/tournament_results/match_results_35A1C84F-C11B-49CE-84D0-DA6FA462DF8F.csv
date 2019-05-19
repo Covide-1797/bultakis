@@ -1,0 +1,845 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20151029|0:28|21|Tobias Suder|Line Noergaard|15|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:28|27|Tobias Suder|Line Noergaard|25|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:21|21|Soren Gravholt|Sara Lundgaard|9|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:21|21|Soren Gravholt|Sara Lundgaard|10|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:21|21|Mikkel Mikkelsen |Mai Surrow|10|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:21|21|Mikkel Mikkelsen |Mai Surrow|12|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|10|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|12|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:27|22|Artem Tkachuk|Potapenko Tetyana|20|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:27|21|Artem Tkachuk|Potapenko Tetyana|18|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|17|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|12|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:27|21|Igor Bjelan|Milica Simic|19|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:27|21|Igor Bjelan|Milica Simic|18|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:29|21|Kasper Dinesen|Marie Louise Steffensen|16|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:29|21|Kasper Dinesen|Marie Louise Steffensen|19|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:21|21|Mathias Weber Estrup|none|17|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:21|21|Mathias Weber Estrup|none|19|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|16|Tovannakasem Samatcha|none|21|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|21|Tovannakasem Samatcha|none|8|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|21|Tovannakasem Samatcha|none|14|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:37|21|Michael Giesinger|none|15|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:37|14|Michael Giesinger|none|21|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:37|21|Michael Giesinger|none|10|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Lilian Mihaylov|none|19|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Lilian Mihaylov|none|12|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Joonas Korhonen |none|10|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Joonas Korhonen |none|8|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:28|21|Ondrej Kral|none|15|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:28|21|Ondrej Kral|none|17|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Mathias Mundbjerg |none|12|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Mathias Mundbjerg |none|9|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:35|12|Jozsef Mester|none|21|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:35|21|Jozsef Mester|none|15|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:35|21|Jozsef Mester|none|16|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Ben Torrance |none|5|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Ben Torrance |none|12|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|21|Shai Geffen|none|11|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|19|Shai Geffen|none|21|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|21|Shai Geffen|none|14|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Joshua Eipe|none|13|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Joshua Eipe|none|15|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:18|21|Josip Uglesic|none|12|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:18|21|Josip Uglesic|none|13|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Maximilian Koreny |none|19|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Maximilian Koreny |none|17|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Manuel Vazquez|none|16|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Manuel Vazquez|none|10|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:56|18|Frederik Kirkedal|none|21|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:56|21|Frederik Kirkedal|none|17|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:56|21|Frederik Kirkedal|none|14|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:32|21|Krzysztof Jakowczuk|none|14|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:32|21|Krzysztof Jakowczuk|none|17|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Milan Dratva|none|19|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Milan Dratva|none|11|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:44|14|Mika Kongas |none|21|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Douglas Lidman|none|11|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Douglas Lidman|none|10|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:30|22|Justin Teeuwen |none|20|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:30|21|Justin Teeuwen |none|7|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Victor Svendsen|none|10|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Victor Svendsen|none|16|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:36|21|Wolfgang Gnedt |none|19|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:36|21|Wolfgang Gnedt |none|17|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Alexander Dunn|none|13|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Alexander Dunn|none|12|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:51|20|Daniel Gradwohl|none|22|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:51|21|Daniel Gradwohl|none|15|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:51|21|Daniel Gradwohl|none|19|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Mads Christophersen|none|12|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Mads Christophersen|none|9|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Adam Khan |none|14|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Adam Khan |none|18|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Jonathan Persson|none|12|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Jonathan Persson|none|17|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Put Marijn |none|14|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Put Marijn |none|12|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:23|21|Jaromir Janacek|none|8|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:23|21|Jaromir Janacek|none|19|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:33|21|David Kim Kristensen |none|8|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:33|21|David Kim Kristensen |none|19|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Rowan Scheurkogel|none|19|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Rowan Scheurkogel|none|15|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Ivan Rusev |none|9|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Ivan Rusev |none|17|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:44|16|Agnes Korosi|none|21|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:44|21|Agnes Korosi|none|19|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:44|25|Agnes Korosi|none|23|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Ronja Stern|none|13|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Ronja Stern|none|19|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Eleanor O'Donnell|none|18|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Eleanor O'Donnell|none|8|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:35|21|Iben Bergstein|none|16|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:35|17|Iben Bergstein|none|21|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:35|21|Iben Bergstein|none|11|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Elizaveta Pyatina|none|11|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:22|21|Elizaveta Pyatina|none|6|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Andra Olariu|none|12|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Andra Olariu|none|10|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:42|16|Lovisa Johansson|none|21|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:42|21|Lovisa Johansson|none|17|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:42|21|Lovisa Johansson|none|13|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:21|21|Julie Macpherson|none|4|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:21|21|Julie Macpherson|none|7|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|23|Katrin Neudolt|none|21|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Katrin Neudolt|none|17|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|18|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|16|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:44|22|Miroslav Haring|Juraj Vachalek|20|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:44|14|Miroslav Haring|Juraj Vachalek|21|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:44|21|Miroslav Haring|Juraj Vachalek|19|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:48|15|Zvonimir Durkinjak|Filip Spoljarec|21|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:48|21|Zvonimir Durkinjak|Filip Spoljarec|16|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:48|22|Zvonimir Durkinjak|Filip Spoljarec|20|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:26|21|Krzysztof Jakowczuk|Marcin Nowak|17|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:26|23|Krzysztof Jakowczuk|Marcin Nowak|21|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:46|21|Morten Herschend|Rasmus Hjalgrim|14|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:46|26|Morten Herschend|Rasmus Hjalgrim|28|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:46|21|Morten Herschend|Rasmus Hjalgrim|12|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:34|19|Joshua Eipe |Mads Storgaard Sorensen|21|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|12|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|6|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:38|21|Tobias Suder|Line Noergaard|16|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:38|21|Tobias Suder|Line Noergaard|19|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:40|21|Mikkel Mikkelsen |Mai Surrow|8|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:40|18|Mikkel Mikkelsen |Mai Surrow|21|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:40|21|Mikkel Mikkelsen |Mai Surrow|12|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|6|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|12|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:22|21|Kasper Dinesen|Marie Louise Steffensen|11|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:22|21|Kasper Dinesen|Marie Louise Steffensen|15|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:43|22|Mathias Weber Estrup|none|20|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:43|10|Mathias Weber Estrup|none|21|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:43|21|Mathias Weber Estrup|none|10|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|22|Michael Giesinger|none|20|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:29|21|Michael Giesinger|none|9|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:33|21|Joonas Korhonen |none|14|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:33|21|Joonas Korhonen |none|18|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Manuel Vazquez|none|15|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Manuel Vazquez|none|9|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:34|21|Krzysztof Jakowczuk|none|18|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:34|21|Krzysztof Jakowczuk|none|16|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|18|Mika Kongas |none|21|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Mika Kongas |none|18|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Mika Kongas |none|9|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Justin Teeuwen |none|19|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Justin Teeuwen |none|13|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029||Walkover Win|Victor Svendsen|none|Walkover Loss|Wolfgang Gnedt [12]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Alexander Dunn|none|12|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:24|21|Alexander Dunn|none|15|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|19|Mads Christophersen|none|21|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Mads Christophersen|none|12|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Mads Christophersen|none|10|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:30|21|Put Marijn |none|15|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:30|21|Put Marijn |none|14|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:32|21|Jaromir Janacek|none|18|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:32|21|Jaromir Janacek|none|19|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|15|Ivan Rusev |none|21|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Ivan Rusev |none|12|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Ivan Rusev |none|16|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Christopher Coles|Adam Hall|11|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:25|21|Christopher Coles|Adam Hall|8|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|13|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|12|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|9|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|17|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151029|0:25|21|Ronja Stern|none|14|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|24|Ronja Stern|none|22|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:16|21|Iben Bergstein|none|9|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:16|21|Iben Bergstein|none|13|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:38|22|Elizaveta Pyatina|none|20|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:38|21|Elizaveta Pyatina|none|12|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:50|17|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:50|23|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:50|21|Orsolya Varga |none|13|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Julie Macpherson|none|7|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|22|Julie Macpherson|none|24|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:45|21|Julie Macpherson|none|10|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:51|22|Mathias Weber Estrup|none|20|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:51|15|Mathias Weber Estrup|none|21|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:51|21|Mathias Weber Estrup|none|15|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|21|Mathias Mundbjerg |none|18|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:40|23|Mathias Mundbjerg |none|21|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:50|21|Joshua Eipe|none|10|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:50|18|Joshua Eipe|none|21|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:50|21|Joshua Eipe|none|14|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Manuel Vazquez|none|12|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:26|21|Manuel Vazquez|none|16|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:43|21|Mika Kongas |none|16|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:43|14|Mika Kongas |none|21|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:43|21|Mika Kongas |none|12|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:32|21|Victor Svendsen|none|16|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:32|23|Victor Svendsen|none|21|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Mads Christophersen|none|9|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:27|21|Mads Christophersen|none|13|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Ivan Rusev |none|10|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151029|0:20|21|Ivan Rusev |none|13|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:28|21|Tobias Suder|Line Noergaard|15|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:28|27|Tobias Suder|Line Noergaard|25|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:21|21|Soren Gravholt|Sara Lundgaard|9|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:21|21|Soren Gravholt|Sara Lundgaard|10|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:21|21|Mikkel Mikkelsen |Mai Surrow|10|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:21|21|Mikkel Mikkelsen |Mai Surrow|12|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|10|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|12|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:27|22|Artem Tkachuk|Potapenko Tetyana|20|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:27|21|Artem Tkachuk|Potapenko Tetyana|18|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|17|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|12|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:27|21|Igor Bjelan|Milica Simic|19|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:27|21|Igor Bjelan|Milica Simic|18|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:29|21|Kasper Dinesen|Marie Louise Steffensen|16|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:29|21|Kasper Dinesen|Marie Louise Steffensen|19|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:21|21|Mathias Weber Estrup|none|17|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:21|21|Mathias Weber Estrup|none|19|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|16|Tovannakasem Samatcha|none|21|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|21|Tovannakasem Samatcha|none|8|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|21|Tovannakasem Samatcha|none|14|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:37|21|Michael Giesinger|none|15|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:37|14|Michael Giesinger|none|21|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:37|21|Michael Giesinger|none|10|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Lilian Mihaylov|none|19|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Lilian Mihaylov|none|12|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Joonas Korhonen |none|10|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Joonas Korhonen |none|8|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:28|21|Ondrej Kral|none|15|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:28|21|Ondrej Kral|none|17|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Mathias Mundbjerg |none|12|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Mathias Mundbjerg |none|9|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:35|12|Jozsef Mester|none|21|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:35|21|Jozsef Mester|none|15|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:35|21|Jozsef Mester|none|16|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Ben Torrance |none|5|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Ben Torrance |none|12|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|21|Shai Geffen|none|11|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|19|Shai Geffen|none|21|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|21|Shai Geffen|none|14|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Joshua Eipe|none|13|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Joshua Eipe|none|15|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:18|21|Josip Uglesic|none|12|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:18|21|Josip Uglesic|none|13|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Maximilian Koreny |none|19|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Maximilian Koreny |none|17|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Manuel Vazquez|none|16|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Manuel Vazquez|none|10|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:56|18|Frederik Kirkedal|none|21|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:56|21|Frederik Kirkedal|none|17|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:56|21|Frederik Kirkedal|none|14|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:32|21|Krzysztof Jakowczuk|none|14|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:32|21|Krzysztof Jakowczuk|none|17|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Milan Dratva|none|19|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Milan Dratva|none|11|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:44|14|Mika Kongas |none|21|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Douglas Lidman|none|11|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Douglas Lidman|none|10|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:30|22|Justin Teeuwen |none|20|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:30|21|Justin Teeuwen |none|7|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Victor Svendsen|none|10|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Victor Svendsen|none|16|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:36|21|Wolfgang Gnedt |none|19|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:36|21|Wolfgang Gnedt |none|17|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Alexander Dunn|none|13|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Alexander Dunn|none|12|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:51|20|Daniel Gradwohl|none|22|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:51|21|Daniel Gradwohl|none|15|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:51|21|Daniel Gradwohl|none|19|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Mads Christophersen|none|12|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Mads Christophersen|none|9|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Adam Khan |none|14|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Adam Khan |none|18|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Jonathan Persson|none|12|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Jonathan Persson|none|17|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Put Marijn |none|14|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Put Marijn |none|12|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:23|21|Jaromir Janacek|none|8|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:23|21|Jaromir Janacek|none|19|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:33|21|David Kim Kristensen |none|8|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:33|21|David Kim Kristensen |none|19|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Rowan Scheurkogel|none|19|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Rowan Scheurkogel|none|15|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Ivan Rusev |none|9|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Ivan Rusev |none|17|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:44|16|Agnes Korosi|none|21|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:44|21|Agnes Korosi|none|19|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:44|25|Agnes Korosi|none|23|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Ronja Stern|none|13|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Ronja Stern|none|19|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Eleanor O'Donnell|none|18|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Eleanor O'Donnell|none|8|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:35|21|Iben Bergstein|none|16|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:35|17|Iben Bergstein|none|21|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:35|21|Iben Bergstein|none|11|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Elizaveta Pyatina|none|11|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:22|21|Elizaveta Pyatina|none|6|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Andra Olariu|none|12|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Andra Olariu|none|10|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:42|16|Lovisa Johansson|none|21|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:42|21|Lovisa Johansson|none|17|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:42|21|Lovisa Johansson|none|13|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:21|21|Julie Macpherson|none|4|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:21|21|Julie Macpherson|none|7|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|23|Katrin Neudolt|none|21|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Katrin Neudolt|none|17|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|18|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|16|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:44|22|Miroslav Haring|Juraj Vachalek|20|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:44|14|Miroslav Haring|Juraj Vachalek|21|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:44|21|Miroslav Haring|Juraj Vachalek|19|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:48|15|Zvonimir Durkinjak|Filip Spoljarec|21|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:48|21|Zvonimir Durkinjak|Filip Spoljarec|16|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:48|22|Zvonimir Durkinjak|Filip Spoljarec|20|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:26|21|Krzysztof Jakowczuk|Marcin Nowak|17|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:26|23|Krzysztof Jakowczuk|Marcin Nowak|21|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:46|21|Morten Herschend|Rasmus Hjalgrim|14|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:46|26|Morten Herschend|Rasmus Hjalgrim|28|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:46|21|Morten Herschend|Rasmus Hjalgrim|12|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:34|19|Joshua Eipe |Mads Storgaard Sorensen|21|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|12|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|6|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:38|21|Tobias Suder|Line Noergaard|16|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:38|21|Tobias Suder|Line Noergaard|19|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:40|21|Mikkel Mikkelsen |Mai Surrow|8|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:40|18|Mikkel Mikkelsen |Mai Surrow|21|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:40|21|Mikkel Mikkelsen |Mai Surrow|12|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|6|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|12|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:22|21|Kasper Dinesen|Marie Louise Steffensen|11|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:22|21|Kasper Dinesen|Marie Louise Steffensen|15|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:43|22|Mathias Weber Estrup|none|20|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:43|10|Mathias Weber Estrup|none|21|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:43|21|Mathias Weber Estrup|none|10|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|22|Michael Giesinger|none|20|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:29|21|Michael Giesinger|none|9|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:33|21|Joonas Korhonen |none|14|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:33|21|Joonas Korhonen |none|18|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Manuel Vazquez|none|15|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Manuel Vazquez|none|9|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:34|21|Krzysztof Jakowczuk|none|18|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:34|21|Krzysztof Jakowczuk|none|16|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|18|Mika Kongas |none|21|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Mika Kongas |none|18|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Mika Kongas |none|9|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Justin Teeuwen |none|19|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Justin Teeuwen |none|13|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030||Walkover Win|Victor Svendsen|none|Walkover Loss|Wolfgang Gnedt [12]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Alexander Dunn|none|12|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:24|21|Alexander Dunn|none|15|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|19|Mads Christophersen|none|21|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Mads Christophersen|none|12|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Mads Christophersen|none|10|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:30|21|Put Marijn |none|15|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:30|21|Put Marijn |none|14|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:32|21|Jaromir Janacek|none|18|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:32|21|Jaromir Janacek|none|19|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|15|Ivan Rusev |none|21|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Ivan Rusev |none|12|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Ivan Rusev |none|16|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Christopher Coles|Adam Hall|11|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:25|21|Christopher Coles|Adam Hall|8|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|13|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|12|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|9|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|17|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151030|0:25|21|Ronja Stern|none|14|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|24|Ronja Stern|none|22|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:16|21|Iben Bergstein|none|9|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:16|21|Iben Bergstein|none|13|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:38|22|Elizaveta Pyatina|none|20|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:38|21|Elizaveta Pyatina|none|12|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:50|17|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:50|23|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:50|21|Orsolya Varga |none|13|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Julie Macpherson|none|7|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|22|Julie Macpherson|none|24|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:45|21|Julie Macpherson|none|10|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:51|22|Mathias Weber Estrup|none|20|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:51|15|Mathias Weber Estrup|none|21|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:51|21|Mathias Weber Estrup|none|15|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|21|Mathias Mundbjerg |none|18|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:40|23|Mathias Mundbjerg |none|21|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:50|21|Joshua Eipe|none|10|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:50|18|Joshua Eipe|none|21|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:50|21|Joshua Eipe|none|14|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Manuel Vazquez|none|12|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:26|21|Manuel Vazquez|none|16|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:43|21|Mika Kongas |none|16|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:43|14|Mika Kongas |none|21|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:43|21|Mika Kongas |none|12|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:32|21|Victor Svendsen|none|16|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:32|23|Victor Svendsen|none|21|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Mads Christophersen|none|9|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:27|21|Mads Christophersen|none|13|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Ivan Rusev |none|10|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151030|0:20|21|Ivan Rusev |none|13|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:28|21|Tobias Suder|Line Noergaard|15|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:28|27|Tobias Suder|Line Noergaard|25|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:21|21|Soren Gravholt|Sara Lundgaard|9|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:21|21|Soren Gravholt|Sara Lundgaard|10|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:21|21|Mikkel Mikkelsen |Mai Surrow|10|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:21|21|Mikkel Mikkelsen |Mai Surrow|12|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|10|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|12|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:27|22|Artem Tkachuk|Potapenko Tetyana|20|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:27|21|Artem Tkachuk|Potapenko Tetyana|18|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|17|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|12|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:27|21|Igor Bjelan|Milica Simic|19|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:27|21|Igor Bjelan|Milica Simic|18|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:29|21|Kasper Dinesen|Marie Louise Steffensen|16|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:29|21|Kasper Dinesen|Marie Louise Steffensen|19|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:21|21|Mathias Weber Estrup|none|17|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:21|21|Mathias Weber Estrup|none|19|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|16|Tovannakasem Samatcha|none|21|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|21|Tovannakasem Samatcha|none|8|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|21|Tovannakasem Samatcha|none|14|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:37|21|Michael Giesinger|none|15|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:37|14|Michael Giesinger|none|21|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:37|21|Michael Giesinger|none|10|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Lilian Mihaylov|none|19|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Lilian Mihaylov|none|12|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Joonas Korhonen |none|10|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Joonas Korhonen |none|8|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:28|21|Ondrej Kral|none|15|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:28|21|Ondrej Kral|none|17|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Mathias Mundbjerg |none|12|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Mathias Mundbjerg |none|9|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:35|12|Jozsef Mester|none|21|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:35|21|Jozsef Mester|none|15|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:35|21|Jozsef Mester|none|16|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Ben Torrance |none|5|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Ben Torrance |none|12|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|21|Shai Geffen|none|11|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|19|Shai Geffen|none|21|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|21|Shai Geffen|none|14|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Joshua Eipe|none|13|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Joshua Eipe|none|15|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:18|21|Josip Uglesic|none|12|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:18|21|Josip Uglesic|none|13|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Maximilian Koreny |none|19|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Maximilian Koreny |none|17|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Manuel Vazquez|none|16|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Manuel Vazquez|none|10|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:56|18|Frederik Kirkedal|none|21|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:56|21|Frederik Kirkedal|none|17|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:56|21|Frederik Kirkedal|none|14|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:32|21|Krzysztof Jakowczuk|none|14|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:32|21|Krzysztof Jakowczuk|none|17|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Milan Dratva|none|19|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Milan Dratva|none|11|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:44|14|Mika Kongas |none|21|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Douglas Lidman|none|11|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Douglas Lidman|none|10|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:30|22|Justin Teeuwen |none|20|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:30|21|Justin Teeuwen |none|7|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Victor Svendsen|none|10|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Victor Svendsen|none|16|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:36|21|Wolfgang Gnedt |none|19|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:36|21|Wolfgang Gnedt |none|17|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Alexander Dunn|none|13|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Alexander Dunn|none|12|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:51|20|Daniel Gradwohl|none|22|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:51|21|Daniel Gradwohl|none|15|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:51|21|Daniel Gradwohl|none|19|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Mads Christophersen|none|12|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Mads Christophersen|none|9|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Adam Khan |none|14|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Adam Khan |none|18|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Jonathan Persson|none|12|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Jonathan Persson|none|17|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Put Marijn |none|14|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Put Marijn |none|12|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:23|21|Jaromir Janacek|none|8|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:23|21|Jaromir Janacek|none|19|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:33|21|David Kim Kristensen |none|8|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:33|21|David Kim Kristensen |none|19|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Rowan Scheurkogel|none|19|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Rowan Scheurkogel|none|15|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Ivan Rusev |none|9|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Ivan Rusev |none|17|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:44|16|Agnes Korosi|none|21|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:44|21|Agnes Korosi|none|19|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:44|25|Agnes Korosi|none|23|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Ronja Stern|none|13|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Ronja Stern|none|19|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Eleanor O'Donnell|none|18|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Eleanor O'Donnell|none|8|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:35|21|Iben Bergstein|none|16|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:35|17|Iben Bergstein|none|21|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:35|21|Iben Bergstein|none|11|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Elizaveta Pyatina|none|11|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:22|21|Elizaveta Pyatina|none|6|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Andra Olariu|none|12|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Andra Olariu|none|10|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:42|16|Lovisa Johansson|none|21|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:42|21|Lovisa Johansson|none|17|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:42|21|Lovisa Johansson|none|13|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:21|21|Julie Macpherson|none|4|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:21|21|Julie Macpherson|none|7|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|23|Katrin Neudolt|none|21|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Katrin Neudolt|none|17|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|18|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|16|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:44|22|Miroslav Haring|Juraj Vachalek|20|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:44|14|Miroslav Haring|Juraj Vachalek|21|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:44|21|Miroslav Haring|Juraj Vachalek|19|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:48|15|Zvonimir Durkinjak|Filip Spoljarec|21|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:48|21|Zvonimir Durkinjak|Filip Spoljarec|16|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:48|22|Zvonimir Durkinjak|Filip Spoljarec|20|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:26|21|Krzysztof Jakowczuk|Marcin Nowak|17|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:26|23|Krzysztof Jakowczuk|Marcin Nowak|21|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:46|21|Morten Herschend|Rasmus Hjalgrim|14|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:46|26|Morten Herschend|Rasmus Hjalgrim|28|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:46|21|Morten Herschend|Rasmus Hjalgrim|12|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:34|19|Joshua Eipe |Mads Storgaard Sorensen|21|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|12|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|6|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:38|21|Tobias Suder|Line Noergaard|16|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:38|21|Tobias Suder|Line Noergaard|19|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:40|21|Mikkel Mikkelsen |Mai Surrow|8|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:40|18|Mikkel Mikkelsen |Mai Surrow|21|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:40|21|Mikkel Mikkelsen |Mai Surrow|12|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|6|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|12|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:22|21|Kasper Dinesen|Marie Louise Steffensen|11|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:22|21|Kasper Dinesen|Marie Louise Steffensen|15|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:43|22|Mathias Weber Estrup|none|20|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:43|10|Mathias Weber Estrup|none|21|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:43|21|Mathias Weber Estrup|none|10|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|22|Michael Giesinger|none|20|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:29|21|Michael Giesinger|none|9|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:33|21|Joonas Korhonen |none|14|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:33|21|Joonas Korhonen |none|18|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Manuel Vazquez|none|15|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Manuel Vazquez|none|9|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:34|21|Krzysztof Jakowczuk|none|18|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:34|21|Krzysztof Jakowczuk|none|16|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|18|Mika Kongas |none|21|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Mika Kongas |none|18|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Mika Kongas |none|9|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Justin Teeuwen |none|19|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Justin Teeuwen |none|13|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031||Walkover Win|Victor Svendsen|none|Walkover Loss|Wolfgang Gnedt [12]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Alexander Dunn|none|12|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:24|21|Alexander Dunn|none|15|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|19|Mads Christophersen|none|21|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Mads Christophersen|none|12|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Mads Christophersen|none|10|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:30|21|Put Marijn |none|15|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:30|21|Put Marijn |none|14|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:32|21|Jaromir Janacek|none|18|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:32|21|Jaromir Janacek|none|19|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|15|Ivan Rusev |none|21|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Ivan Rusev |none|12|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Ivan Rusev |none|16|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Christopher Coles|Adam Hall|11|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:25|21|Christopher Coles|Adam Hall|8|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|13|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|12|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|9|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|17|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151031|0:25|21|Ronja Stern|none|14|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|24|Ronja Stern|none|22|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:16|21|Iben Bergstein|none|9|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:16|21|Iben Bergstein|none|13|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:38|22|Elizaveta Pyatina|none|20|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:38|21|Elizaveta Pyatina|none|12|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:50|17|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:50|23|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:50|21|Orsolya Varga |none|13|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Julie Macpherson|none|7|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|22|Julie Macpherson|none|24|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:45|21|Julie Macpherson|none|10|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:51|22|Mathias Weber Estrup|none|20|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:51|15|Mathias Weber Estrup|none|21|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:51|21|Mathias Weber Estrup|none|15|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|21|Mathias Mundbjerg |none|18|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:40|23|Mathias Mundbjerg |none|21|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:50|21|Joshua Eipe|none|10|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:50|18|Joshua Eipe|none|21|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:50|21|Joshua Eipe|none|14|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Manuel Vazquez|none|12|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:26|21|Manuel Vazquez|none|16|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:43|21|Mika Kongas |none|16|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:43|14|Mika Kongas |none|21|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:43|21|Mika Kongas |none|12|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:32|21|Victor Svendsen|none|16|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:32|23|Victor Svendsen|none|21|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Mads Christophersen|none|9|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:27|21|Mads Christophersen|none|13|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Ivan Rusev |none|10|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151031|0:20|21|Ivan Rusev |none|13|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:28|21|Tobias Suder|Line Noergaard|15|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:28|27|Tobias Suder|Line Noergaard|25|Jaromir Janacek [1]|Katerina Tomalova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:21|21|Soren Gravholt|Sara Lundgaard|9|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:21|21|Soren Gravholt|Sara Lundgaard|10|Josh Neil|Rebekka Findlay|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:21|21|Mikkel Mikkelsen |Mai Surrow|10|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:21|21|Mikkel Mikkelsen |Mai Surrow|12|Pierrick Deschenaux|Tiffany Girona|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|10|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:20|21|Jeppe Ludvigsen|Josephine Van Zaane|12|Josip Uglesic|Katarina Galenic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:27|22|Artem Tkachuk|Potapenko Tetyana|20|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:27|21|Artem Tkachuk|Potapenko Tetyana|18|Bohumil Kasela|Katarina Sariscanova|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|17|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:26|21|Kristoffer Knudsen|Emilie Juul Moller|12|Adam Hall [3]|Eleanor O'Donnell|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:27|21|Igor Bjelan|Milica Simic|19|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:27|21|Igor Bjelan|Milica Simic|18|Dominik Stipsits|Nathalie Ziesig|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:29|21|Kasper Dinesen|Marie Louise Steffensen|16|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:29|21|Kasper Dinesen|Marie Louise Steffensen|19|Gergely Krausz [2]|Yee See Cheah|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:21|21|Mathias Weber Estrup|none|17|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:21|21|Mathias Weber Estrup|none|19|Ben Dolman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|16|Tovannakasem Samatcha|none|21|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|21|Tovannakasem Samatcha|none|8|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|21|Tovannakasem Samatcha|none|14|Dragoslav Petrovic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:37|21|Michael Giesinger|none|15|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:37|14|Michael Giesinger|none|21|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:37|21|Michael Giesinger|none|10|Vladimir Rusin [11]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Lilian Mihaylov|none|19|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Lilian Mihaylov|none|12|Leon Ham|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Joonas Korhonen |none|10|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Joonas Korhonen |none|8|Mihael Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:28|21|Ondrej Kral|none|15|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:28|21|Ondrej Kral|none|17|Mateusz Biernacki|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Mathias Mundbjerg |none|12|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Mathias Mundbjerg |none|9|Przemyslaw Szydlowski|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:35|12|Jozsef Mester|none|21|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:35|21|Jozsef Mester|none|15|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:35|21|Jozsef Mester|none|16|Lawrence De Pauw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Ben Torrance |none|5|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Ben Torrance |none|12|Dean Brabec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|21|Shai Geffen|none|11|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|19|Shai Geffen|none|21|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|21|Shai Geffen|none|14|Zoltan Kereszti|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Joshua Eipe|none|13|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Joshua Eipe|none|15|Rüdiger Gnedt [16]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:18|21|Josip Uglesic|none|12|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:18|21|Josip Uglesic|none|13|Juraj Vachalek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Maximilian Koreny |none|19|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Maximilian Koreny |none|17|Philip Birker|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Manuel Vazquez|none|16|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Manuel Vazquez|none|10|Rasmus Rylander|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:56|18|Frederik Kirkedal|none|21|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:56|21|Frederik Kirkedal|none|17|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:56|21|Frederik Kirkedal|none|14|Petter Yngvesson [10]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:32|21|Krzysztof Jakowczuk|none|14|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:32|21|Krzysztof Jakowczuk|none|17|Filip Spoljarec|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Milan Dratva|none|19|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Milan Dratva|none|11|Stijn De Langhe|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:44|14|Mika Kongas |none|21|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:44|21|Mika Kongas |none|17|Jeppe Bruun Christensen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Douglas Lidman|none|11|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Douglas Lidman|none|10|William Kitching|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:30|22|Justin Teeuwen |none|20|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:30|21|Justin Teeuwen |none|7|Leon Seiwald|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Victor Svendsen|none|10|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Victor Svendsen|none|16|Tamas Gebhard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:36|21|Wolfgang Gnedt |none|19|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:36|21|Wolfgang Gnedt |none|17|Andreas Hoffmann|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Alexander Dunn|none|13|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Alexander Dunn|none|12|Christopher Massey|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:51|20|Daniel Gradwohl|none|22|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:51|21|Daniel Gradwohl|none|15|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:51|21|Daniel Gradwohl|none|19|Lukas Zevl [3]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Mads Christophersen|none|12|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Mads Christophersen|none|9|Andy Tsai|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Adam Khan |none|14|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Adam Khan |none|18|Pablo Sanmartin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Jonathan Persson|none|12|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Jonathan Persson|none|17|Mark Mohr Laursen Damgaard|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Put Marijn |none|14|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Put Marijn |none|12|Marcin Nowak|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:23|21|Jaromir Janacek|none|8|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:23|21|Jaromir Janacek|none|19|Miodrag Kalicanin|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:33|21|David Kim Kristensen |none|8|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:33|21|David Kim Kristensen |none|19|Andrie Ochtman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Rowan Scheurkogel|none|19|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Rowan Scheurkogel|none|15|Bence Pytel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Ivan Rusev |none|9|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Ivan Rusev |none|17|Artem Tkachuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:44|16|Agnes Korosi|none|21|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:44|21|Agnes Korosi|none|19|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:44|25|Agnes Korosi|none|23|Clara Nistad|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Ronja Stern|none|13|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Ronja Stern|none|19|Til'Shiloh Shaw|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Eleanor O'Donnell|none|18|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Eleanor O'Donnell|none|8|Bianca Schiester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:35|21|Iben Bergstein|none|16|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:35|17|Iben Bergstein|none|21|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:35|21|Iben Bergstein|none|11|Frida Lindstrom|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Elizaveta Pyatina|none|11|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:22|21|Elizaveta Pyatina|none|6|Janine Lais|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Andra Olariu|none|12|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Andra Olariu|none|10|Emily Beach|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:42|16|Lovisa Johansson|none|21|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:42|21|Lovisa Johansson|none|17|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:42|21|Lovisa Johansson|none|13|Lucia Grencikova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:21|21|Julie Macpherson|none|4|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:21|21|Julie Macpherson|none|7|Daria Serebriakova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|23|Katrin Neudolt|none|21|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Katrin Neudolt|none|17|Elizaveta Tarasova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|18|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:31|21|Mateusz Biernacki|Przemyslaw Szydlowski|16|Philip Birker|Leon Seiwald|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:44|22|Miroslav Haring|Juraj Vachalek|20|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:44|14|Miroslav Haring|Juraj Vachalek|21|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:44|21|Miroslav Haring|Juraj Vachalek|19|Jeppe Bruun Christensen|Mark Mohr Laursen Damgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:27|21|Christopher Coles|Adam Hall|14|Rene Mattisson|Mikkel Trusell Mortensen|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:48|15|Zvonimir Durkinjak|Filip Spoljarec|21|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:48|21|Zvonimir Durkinjak|Filip Spoljarec|16|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:48|22|Zvonimir Durkinjak|Filip Spoljarec|20|Tobias Suder|Mathias Weber Estrup|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:26|21|Krzysztof Jakowczuk|Marcin Nowak|17|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:26|23|Krzysztof Jakowczuk|Marcin Nowak|21|Jozsef Mester|Pal Padar|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:46|21|Morten Herschend|Rasmus Hjalgrim|14|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:46|26|Morten Herschend|Rasmus Hjalgrim|28|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:46|21|Morten Herschend|Rasmus Hjalgrim|12|Dean Brabec|Jan Vorlik|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:34|19|Joshua Eipe |Mads Storgaard Sorensen|21|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|12|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:34|21|Joshua Eipe |Mads Storgaard Sorensen|6|Milan Dratva|Bohumil Kasela|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:38|21|Tobias Suder|Line Noergaard|16|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:38|21|Tobias Suder|Line Noergaard|19|Soren Gravholt|Sara Lundgaard|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:40|21|Mikkel Mikkelsen |Mai Surrow|8|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:40|18|Mikkel Mikkelsen |Mai Surrow|21|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:40|21|Mikkel Mikkelsen |Mai Surrow|12|Jeppe Ludvigsen|Josephine Van Zaane|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|6|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:25|21|Kristoffer Knudsen|Emilie Juul Moller|12|Artem Tkachuk|Potapenko Tetyana|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:22|21|Kasper Dinesen|Marie Louise Steffensen|11|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:22|21|Kasper Dinesen|Marie Louise Steffensen|15|Igor Bjelan|Milica Simic|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:43|22|Mathias Weber Estrup|none|20|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:43|10|Mathias Weber Estrup|none|21|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:43|21|Mathias Weber Estrup|none|10|Tovannakasem Samatcha|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|22|Michael Giesinger|none|20|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:29|21|Michael Giesinger|none|9|Lilian Mihaylov|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:33|21|Joonas Korhonen |none|14|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:33|21|Joonas Korhonen |none|18|Ondrej Kral|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Mathias Mundbjerg |none|14|Jozsef Mester|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:33|21|Ben Torrance |none|19|Shai Geffen|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:23|21|Joshua Eipe|none|11|Josip Uglesic|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Manuel Vazquez|none|15|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Manuel Vazquez|none|9|Maximilian Koreny [8]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:34|21|Krzysztof Jakowczuk|none|18|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:34|21|Krzysztof Jakowczuk|none|16|Frederik Kirkedal|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|18|Mika Kongas |none|21|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Mika Kongas |none|18|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Mika Kongas |none|9|Milan Dratva|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Justin Teeuwen |none|19|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Justin Teeuwen |none|13|Douglas Lidman|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101||Walkover Win|Victor Svendsen|none|Walkover Loss|Wolfgang Gnedt [12]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Alexander Dunn|none|12|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:24|21|Alexander Dunn|none|15|Daniel Gradwohl|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|19|Mads Christophersen|none|21|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Mads Christophersen|none|12|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Mads Christophersen|none|10|Adam Khan [13]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:30|21|Put Marijn |none|15|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:30|21|Put Marijn |none|14|Jonathan Persson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:32|21|Jaromir Janacek|none|18|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:32|21|Jaromir Janacek|none|19|David Kim Kristensen [14]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|15|Ivan Rusev |none|21|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Ivan Rusev |none|12|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Ivan Rusev |none|16|Rowan Scheurkogel|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Christopher Coles|Adam Hall|11|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:25|21|Christopher Coles|Adam Hall|8|Miroslav Haring|Juraj Vachalek|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|13|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:26|21|Zvonimir Durkinjak|Filip Spoljarec|12|Krzysztof Jakowczuk|Marcin Nowak|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|9|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:22|21|Joshua Eipe |Mads Storgaard Sorensen|17|Morten Herschend|Rasmus Hjalgrim|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|doubles
+20151101|0:25|21|Ronja Stern|none|14|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|24|Ronja Stern|none|22|Berfin Aslan|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:25|21|Trine Villadsen |none|16|Eleanor O'Donnell|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:16|21|Iben Bergstein|none|9|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:16|21|Iben Bergstein|none|13|Katarina Sariscanova|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:38|22|Elizaveta Pyatina|none|20|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:38|21|Elizaveta Pyatina|none|12|Andra Olariu|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:50|17|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:50|23|Orsolya Varga |none|21|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:50|21|Orsolya Varga |none|13|Lovisa Johansson|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Julie Macpherson|none|7|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|22|Julie Macpherson|none|24|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:45|21|Julie Macpherson|none|10|Potapenko Tetyana|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Alexandra Boje |none|16|Katrin Neudolt|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:51|22|Mathias Weber Estrup|none|20|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:51|15|Mathias Weber Estrup|none|21|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:51|21|Mathias Weber Estrup|none|15|Michael Giesinger|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|21|Mathias Mundbjerg |none|18|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:40|23|Mathias Mundbjerg |none|21|Joonas Korhonen [7]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:50|21|Joshua Eipe|none|10|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:50|18|Joshua Eipe|none|21|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:50|21|Joshua Eipe|none|14|Ben Torrance [4]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Manuel Vazquez|none|12|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:26|21|Manuel Vazquez|none|16|Krzysztof Jakowczuk|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:43|21|Mika Kongas |none|16|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:43|14|Mika Kongas |none|21|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:43|21|Mika Kongas |none|12|Justin Teeuwen [6]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:32|21|Victor Svendsen|none|16|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:32|23|Victor Svendsen|none|21|Alexander Dunn|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Mads Christophersen|none|9|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:27|21|Mads Christophersen|none|13|Put Marijn [5]|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Ivan Rusev |none|10|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles
+20151101|0:20|21|Ivan Rusev |none|13|Jaromir Janacek|none|35A1C84F-C11B-49CE-84D0-DA6FA462DF8F|singles

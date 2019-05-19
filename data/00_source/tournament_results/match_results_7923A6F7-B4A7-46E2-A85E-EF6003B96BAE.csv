@@ -1,0 +1,742 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20170811|0:41|17|Thom Gicquel |Vimala Heriau|21|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:41|21|Thom Gicquel |Vimala Heriau|8|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:41|21|Thom Gicquel |Vimala Heriau|11|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:20|21|Wessel Van De Aar|Alyssa Tirtosentono|10|Daniel Popescu|Milu Luiza|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:20|21|Wessel Van De Aar|Alyssa Tirtosentono|14|Daniel Popescu|Milu Luiza|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:20|21|Eloi Adam |Anastasiia Pustinskaia|8|Nils Rogenwieser|Chiara Marino|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:20|21|Eloi Adam |Anastasiia Pustinskaia|12|Nils Rogenwieser|Chiara Marino|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:46|19|Lukas Resch|Emma Moszczynski|21|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:46|21|Lukas Resch|Emma Moszczynski|19|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:46|21|Lukas Resch|Emma Moszczynski|17|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:24|21|Emre Sonmez |Bengisu Ercetin|13|Tim Fischer|Kristina Mossmann|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:24|21|Emre Sonmez |Bengisu Ercetin|16|Tim Fischer|Kristina Mossmann|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:31|21|Paw Eriksen|Freja Ravn|18|Georgii Karpov|Anastasiia Shapovalova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:31|23|Paw Eriksen|Freja Ravn|21|Georgii Karpov|Anastasiia Shapovalova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:25|21|Iliyan Stoynov |Hristomira Popovska|13|Gijs Duijs|Milou Lugters|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:25|21|Iliyan Stoynov |Hristomira Popovska|17|Gijs Duijs|Milou Lugters|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:18|21|Daniel Lundgaard|Amalie Magelund|12|Alex Popov|Alexandra Oprisan|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:18|21|Daniel Lundgaard|Amalie Magelund|9|Alex Popov|Alexandra Oprisan|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:20|21|Sergej Lukic|Marija Sudimac|8|Josip Meglić|Inga Sadaić|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:20|21|Sergej Lukic|Marija Sudimac|15|Josip Meglić|Inga Sadaić|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:28|21|Fabien Delrue |Juliette Moinard|13|Ethan Van Leeuwen|Annie Lado|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:28|21|Fabien Delrue |Juliette Moinard|13|Ethan Van Leeuwen|Annie Lado|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:50|16|David Hong|Natasha Lado|21|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:50|22|David Hong|Natasha Lado|20|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:50|21|David Hong|Natasha Lado|16|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:23|21|Steven Stallwood |Lizzie Tolman|11|Ivan Medynskiy|Valeriya Rudakova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:23|21|Steven Stallwood |Lizzie Tolman|19|Ivan Medynskiy|Valeriya Rudakova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:25|21|Gasper Krivec|Petra Polanc|17|Panagiotis Botelis|Anastasia Zintsidou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:25|21|Gasper Krivec|Petra Polanc|12|Panagiotis Botelis|Anastasia Zintsidou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|23|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|15|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|7|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:15|21|Sebastiaan Li|Debora Jille|6|Christos Kaniouras|Artemis Anastasiou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:15|21|Sebastiaan Li|Debora Jille|4|Christos Kaniouras|Artemis Anastasiou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:24|21|Carl Harrbacka |Tilda Sjoo|12|Faruk Mehmet Yilmaz|Ilayda Nur Ozelgul|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:24|21|Carl Harrbacka |Tilda Sjoo|18|Faruk Mehmet Yilmaz|Ilayda Nur Ozelgul|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170811|0:26|21|Arnaud Merkle |none|15|Luka Ban|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:26|21|Arnaud Merkle |none|17|Luka Ban|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Dennis Koppen |none|12|Serkan Ugurlu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Dennis Koppen |none|15|Serkan Ugurlu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Karl Thor Søndergaard|none|13|Mehdi Ansari|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Karl Thor Søndergaard|none|17|Mehdi Ansari|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Luka Milic |none|16|May Bar Netzer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Luka Milic |none|13|May Bar Netzer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:03|Walkover Win|Glib Beketov|none|Walkover Loss|Luka Ninoshvili|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:36|21|Victor Lindahl|none|19|Nils Rogenwieser|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:36|21|Victor Lindahl|none|16|Nils Rogenwieser|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Christo Popov |none|12|Cvetomir Stoyanov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Christo Popov |none|13|Cvetomir Stoyanov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:10|21|Zach Russ |none|3|Yavor Yankov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:10|21|Zach Russ |none|4|Yavor Yankov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Valentin Singer|none|11|Adam Mcallister|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Valentin Singer|none|13|Adam Mcallister|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:32|21|Yazgan Calisir |none|17|Felix Hammes|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:32|21|Yazgan Calisir |none|11|Felix Hammes|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Alexander Cook|none|15|Tayfun Tasdemir|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|22|Alexander Cook|none|20|Tayfun Tasdemir|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Alexandre Lallemand |none|7|Georgios Orfeas Tsamousiadis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Alexandre Lallemand |none|14|Georgios Orfeas Tsamousiadis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:17|21|Marcus Boman|none|11|Mihail Rami Panagiotou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:17|21|Marcus Boman|none|14|Mihail Rami Panagiotou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Denis Marinov|none|15|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|20|Denis Marinov|none|22|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Denis Marinov|none|13|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Mesut Sezer|none|11|Dimitrios Papadopoulos|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Mesut Sezer|none|17|Dimitrios Papadopoulos|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:48|11|Amir Jabbari |none|21|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:48|25|Amir Jabbari |none|23|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:48|21|Amir Jabbari |none|17|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Berkay Cicen|none|14|Alex Popov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Berkay Cicen|none|10|Alex Popov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Markus Barth |none|11|Nurullah Saraç|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Markus Barth |none|9|Nurullah Saraç|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|21|Jack Macgregor|none|15|Maxim Grinblat|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|21|Jack Macgregor|none|13|Maxim Grinblat|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Sergej Lukic|none|18|Melker Z-Bexell|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Sergej Lukic|none|11|Melker Z-Bexell|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Matthias Kicklitz|none|13|Daniel Popescu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Matthias Kicklitz|none|17|Daniel Popescu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Georgii Karpov |none|9|Gasper Krivec|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Georgii Karpov |none|10|Gasper Krivec|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:27|21|Julien Carraggi |none|9|Christos Kaniouras|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:27|21|Julien Carraggi |none|12|Christos Kaniouras|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Yoan Gargov|none|15|Panagiotis Botelis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Yoan Gargov|none|19|Panagiotis Botelis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Ruttanapak Oupthong |none|6|Lukas Resch|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Ruttanapak Oupthong |none|13|Lukas Resch|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Ethan Van Leeuwen|none|18|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|13|Ethan Van Leeuwen|none|21|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Ethan Van Leeuwen|none|12|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Mads Thøgersen|none|11|Brian O'Mahony|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Mads Thøgersen|none|17|Brian O'Mahony|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Justus Kilpi |none|13|Joachim Cansse|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Justus Kilpi |none|16|Joachim Cansse|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Yusuf Yaşar|none|16|Ivan Medynskiy|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Yusuf Yaşar|none|17|Ivan Medynskiy|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Rory Easton|none|15|Giovanni Toti [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Rory Easton|none|13|Giovanni Toti [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:38|21|Josip Meglić|none|18|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:38|21|Josip Meglić|none|23|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:38|21|Josip Meglić|none|15|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:36|21|Leo Rossi |none|14|Sebastiaan Li|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:36|21|Leo Rossi |none|13|Sebastiaan Li|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:31|21|Chasinee Korepap |none|7|Zehra Erdem|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:31|21|Chasinee Korepap |none|18|Zehra Erdem|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Basak Kilic|none|16|Artemis Anastasiou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Basak Kilic|none|16|Artemis Anastasiou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:29|21|Miranda Wilson |none|14|Ioana Grecea|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:29|21|Miranda Wilson |none|16|Ioana Grecea|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:38|22|Anastasiia Shapovalova|none|20|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:38|14|Anastasiia Shapovalova|none|21|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:38|21|Anastasiia Shapovalova|none|17|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:28|21|Anastasia Osiyanenko|none|13|Margot Lambert [5]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:28|21|Anastasia Osiyanenko|none|10|Margot Lambert [5]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Grammatoula Sotiriou|none|7|Maria Boevska|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Grammatoula Sotiriou|none|11|Maria Boevska|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:17|21|Vlada Gynga |none|16|Anastasia Zintsidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:17|21|Vlada Gynga |none|12|Anastasia Zintsidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Joke De Langhe|none|18|Kristina Mossmann|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Joke De Langhe|none|19|Kristina Mossmann|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:44|22|Amalie Schulz|none|20|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:44|14|Amalie Schulz|none|21|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:44|21|Amalie Schulz|none|13|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Madouc Linders|none|13|Gergana Pavlova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Madouc Linders|none|16|Gergana Pavlova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:32|21|Petra Polanc |none|19|Valeriya Rudakova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:32|21|Petra Polanc |none|18|Valeriya Rudakova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|22|Hediyeh Shams|none|20|Marie Christensen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Hediyeh Shams|none|16|Marie Christensen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:48|21|Abigail Holden |none|14|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:48|19|Abigail Holden |none|21|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:48|21|Abigail Holden |none|18|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:15|21|Tanya Petkova|none|7|Eren Özuyanik|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:15|21|Tanya Petkova|none|11|Eren Özuyanik|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:26|21|Dana Danilenko |none|17|Marija Sudimac|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:26|21|Dana Danilenko |none|12|Marija Sudimac|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Ashwathi Pillai|none|11|Selin Bakalova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Ashwathi Pillai|none|11|Selin Bakalova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:18|21|Alexandra Oprisan|none|12|Inga Sadaić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:18|21|Alexandra Oprisan|none|13|Inga Sadaić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Hristomira Popovska |none|9|Theodora Lambrianidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Hristomira Popovska |none|12|Theodora Lambrianidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|16|Ann-Kathrin Spöri|none|21|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|21|Ann-Kathrin Spöri|none|12|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|21|Ann-Kathrin Spöri|none|12|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Grace King |none|18|Bahar Yavru|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Grace King |none|14|Bahar Yavru|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:53|21|Samin Abedkhojasteh|none|15|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:53|12|Samin Abedkhojasteh|none|21|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:53|21|Samin Abedkhojasteh|none|14|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Ella Soderstrom |none|14|Ophelia Casier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Ella Soderstrom |none|16|Ophelia Casier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Beth Stephenson|none|15|Natasha Lado|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Beth Stephenson|none|12|Natasha Lado|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Léonice Huet |none|14|Chiara Marino|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Léonice Huet |none|10|Chiara Marino|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:50|24|Amy Tan|none|22|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:50|17|Amy Tan|none|21|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:50|22|Amy Tan|none|20|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:13|21|Vaishnavi Reddy Jakka |none|5|Theodora Fragoulidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:13|21|Vaishnavi Reddy Jakka |none|1|Theodora Fragoulidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Milu Luiza|none|11|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|15|Milu Luiza|none|21|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Milu Luiza|none|19|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:50|19|Anastasiia Pustinskaia |none|21|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:50|21|Anastasiia Pustinskaia |none|16|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:50|21|Anastasiia Pustinskaia |none|13|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Freya Patel-Redfearn|none|15|Stine Susan Küspert|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Freya Patel-Redfearn|none|19|Stine Susan Küspert|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Busra Unlu |none|15|Clara Lassaux|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Busra Unlu |none|18|Clara Lassaux|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:55|18|Julie Ferrier|none|21|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:55|21|Julie Ferrier|none|11|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:55|21|Julie Ferrier|none|17|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Tereza Švábíková |none|8|Elena-Alexandra Diordiev|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:23|21|Tereza Švábíková |none|14|Elena-Alexandra Diordiev|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:29|21|Arnaud Merkle |none|8|Matthias Kicklitz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:29|21|Arnaud Merkle |none|13|Matthias Kicklitz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|16|Karl Thor Søndergaard|none|21|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|21|Karl Thor Søndergaard|none|16|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:47|21|Karl Thor Søndergaard|none|19|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Luka Milic |none|13|Glib Beketov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Luka Milic |none|14|Glib Beketov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Georgii Karpov |none|6|Victor Lindahl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Georgii Karpov |none|14|Victor Lindahl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Christo Popov |none|7|Marcus Boman|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Christo Popov |none|12|Marcus Boman|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Valentin Singer|none|16|Zach Russ [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:40|21|Valentin Singer|none|18|Zach Russ [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:29|21|Yazgan Calisir |none|16|Alexander Cook|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:29|21|Yazgan Calisir |none|12|Alexander Cook|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Alexandre Lallemand |none|15|Denis Marinov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Alexandre Lallemand |none|12|Denis Marinov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Amir Jabbari |none|11|Mesut Sezer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Amir Jabbari |none|8|Mesut Sezer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:27|21|Julien Carraggi |none|15|Berkay Cicen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:27|21|Julien Carraggi |none|8|Berkay Cicen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Markus Barth |none|16|Yoan Gargov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Markus Barth |none|7|Yoan Gargov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Ruttanapak Oupthong |none|7|Jack Macgregor|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:21|21|Ruttanapak Oupthong |none|8|Jack Macgregor|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:35|17|Ethan Van Leeuwen|none|21|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:35|21|Ethan Van Leeuwen|none|16|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:35|23|Ethan Van Leeuwen|none|21|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Mads Thøgersen|none|16|Justus Kilpi [6]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Mads Thøgersen|none|14|Justus Kilpi [6]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Rory Easton|none|12|Yusuf Yaşar|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:22|21|Rory Easton|none|16|Yusuf Yaşar|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:19|21|Leo Rossi |none|7|Josip Meglić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:19|21|Leo Rossi |none|9|Josip Meglić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Chasinee Korepap |none|11|Basak Kilic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Chasinee Korepap |none|12|Basak Kilic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|1:05|21|Anastasiia Shapovalova|none|18|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|1:05|17|Anastasiia Shapovalova|none|21|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|1:05|23|Anastasiia Shapovalova|none|21|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:54|21|Anastasia Osiyanenko|none|13|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:54|21|Anastasia Osiyanenko|none|23|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:54|21|Anastasia Osiyanenko|none|15|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Vlada Gynga |none|18|Joke De Langhe|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Vlada Gynga |none|13|Joke De Langhe|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:24|21|Amalie Schulz|none|15|Madouc Linders|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:24|21|Amalie Schulz|none|8|Madouc Linders|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:37|21|Petra Polanc |none|15|Hediyeh Shams|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:37|21|Petra Polanc |none|13|Hediyeh Shams|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Abigail Holden |none|10|Tanya Petkova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Abigail Holden |none|14|Tanya Petkova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Ashwathi Pillai|none|10|Dana Danilenko [15]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:25|21|Ashwathi Pillai|none|11|Dana Danilenko [15]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:18|21|Hristomira Popovska |none|17|Alexandra Oprisan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:18|21|Hristomira Popovska |none|8|Alexandra Oprisan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:43|21|Ann-Kathrin Spöri|none|23|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:43|21|Ann-Kathrin Spöri|none|11|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:43|21|Ann-Kathrin Spöri|none|8|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|1:10|17|Samin Abedkhojasteh|none|21|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|1:10|22|Samin Abedkhojasteh|none|20|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|1:10|21|Samin Abedkhojasteh|none|19|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:18|21|Léonice Huet |none|6|Beth Stephenson|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:18|21|Léonice Huet |none|7|Beth Stephenson|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Vaishnavi Reddy Jakka |none|7|Amy Tan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:20|21|Vaishnavi Reddy Jakka |none|9|Amy Tan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:27|21|Anastasiia Pustinskaia |none|14|Milu Luiza|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:27|21|Anastasiia Pustinskaia |none|10|Milu Luiza|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:45|21|Busra Unlu |none|11|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:45|20|Busra Unlu |none|22|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:45|21|Busra Unlu |none|16|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Tereza Švábíková |none|13|Julie Ferrier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170811|0:30|21|Tereza Švábíková |none|18|Julie Ferrier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:41|17|Thom Gicquel |Vimala Heriau|21|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:41|21|Thom Gicquel |Vimala Heriau|8|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:41|21|Thom Gicquel |Vimala Heriau|11|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:20|21|Wessel Van De Aar|Alyssa Tirtosentono|10|Daniel Popescu|Milu Luiza|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:20|21|Wessel Van De Aar|Alyssa Tirtosentono|14|Daniel Popescu|Milu Luiza|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:20|21|Eloi Adam |Anastasiia Pustinskaia|8|Nils Rogenwieser|Chiara Marino|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:20|21|Eloi Adam |Anastasiia Pustinskaia|12|Nils Rogenwieser|Chiara Marino|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:46|19|Lukas Resch|Emma Moszczynski|21|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:46|21|Lukas Resch|Emma Moszczynski|19|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:46|21|Lukas Resch|Emma Moszczynski|17|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:24|21|Emre Sonmez |Bengisu Ercetin|13|Tim Fischer|Kristina Mossmann|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:24|21|Emre Sonmez |Bengisu Ercetin|16|Tim Fischer|Kristina Mossmann|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:31|21|Paw Eriksen|Freja Ravn|18|Georgii Karpov|Anastasiia Shapovalova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:31|23|Paw Eriksen|Freja Ravn|21|Georgii Karpov|Anastasiia Shapovalova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:25|21|Iliyan Stoynov |Hristomira Popovska|13|Gijs Duijs|Milou Lugters|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:25|21|Iliyan Stoynov |Hristomira Popovska|17|Gijs Duijs|Milou Lugters|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:18|21|Daniel Lundgaard|Amalie Magelund|12|Alex Popov|Alexandra Oprisan|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:18|21|Daniel Lundgaard|Amalie Magelund|9|Alex Popov|Alexandra Oprisan|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:20|21|Sergej Lukic|Marija Sudimac|8|Josip Meglić|Inga Sadaić|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:20|21|Sergej Lukic|Marija Sudimac|15|Josip Meglić|Inga Sadaić|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:28|21|Fabien Delrue |Juliette Moinard|13|Ethan Van Leeuwen|Annie Lado|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:28|21|Fabien Delrue |Juliette Moinard|13|Ethan Van Leeuwen|Annie Lado|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:50|16|David Hong|Natasha Lado|21|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:50|22|David Hong|Natasha Lado|20|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:50|21|David Hong|Natasha Lado|16|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:23|21|Steven Stallwood |Lizzie Tolman|11|Ivan Medynskiy|Valeriya Rudakova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:23|21|Steven Stallwood |Lizzie Tolman|19|Ivan Medynskiy|Valeriya Rudakova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:25|21|Gasper Krivec|Petra Polanc|17|Panagiotis Botelis|Anastasia Zintsidou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:25|21|Gasper Krivec|Petra Polanc|12|Panagiotis Botelis|Anastasia Zintsidou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|23|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|15|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|7|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:15|21|Sebastiaan Li|Debora Jille|6|Christos Kaniouras|Artemis Anastasiou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:15|21|Sebastiaan Li|Debora Jille|4|Christos Kaniouras|Artemis Anastasiou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:24|21|Carl Harrbacka |Tilda Sjoo|12|Faruk Mehmet Yilmaz|Ilayda Nur Ozelgul|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:24|21|Carl Harrbacka |Tilda Sjoo|18|Faruk Mehmet Yilmaz|Ilayda Nur Ozelgul|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170812|0:26|21|Arnaud Merkle |none|15|Luka Ban|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:26|21|Arnaud Merkle |none|17|Luka Ban|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Dennis Koppen |none|12|Serkan Ugurlu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Dennis Koppen |none|15|Serkan Ugurlu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Karl Thor Søndergaard|none|13|Mehdi Ansari|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Karl Thor Søndergaard|none|17|Mehdi Ansari|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Luka Milic |none|16|May Bar Netzer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Luka Milic |none|13|May Bar Netzer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:03|Walkover Win|Glib Beketov|none|Walkover Loss|Luka Ninoshvili|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:36|21|Victor Lindahl|none|19|Nils Rogenwieser|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:36|21|Victor Lindahl|none|16|Nils Rogenwieser|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Christo Popov |none|12|Cvetomir Stoyanov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Christo Popov |none|13|Cvetomir Stoyanov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:10|21|Zach Russ |none|3|Yavor Yankov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:10|21|Zach Russ |none|4|Yavor Yankov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Valentin Singer|none|11|Adam Mcallister|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Valentin Singer|none|13|Adam Mcallister|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:32|21|Yazgan Calisir |none|17|Felix Hammes|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:32|21|Yazgan Calisir |none|11|Felix Hammes|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Alexander Cook|none|15|Tayfun Tasdemir|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|22|Alexander Cook|none|20|Tayfun Tasdemir|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Alexandre Lallemand |none|7|Georgios Orfeas Tsamousiadis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Alexandre Lallemand |none|14|Georgios Orfeas Tsamousiadis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:17|21|Marcus Boman|none|11|Mihail Rami Panagiotou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:17|21|Marcus Boman|none|14|Mihail Rami Panagiotou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Denis Marinov|none|15|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|20|Denis Marinov|none|22|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Denis Marinov|none|13|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Mesut Sezer|none|11|Dimitrios Papadopoulos|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Mesut Sezer|none|17|Dimitrios Papadopoulos|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:48|11|Amir Jabbari |none|21|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:48|25|Amir Jabbari |none|23|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:48|21|Amir Jabbari |none|17|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Berkay Cicen|none|14|Alex Popov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Berkay Cicen|none|10|Alex Popov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Markus Barth |none|11|Nurullah Saraç|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Markus Barth |none|9|Nurullah Saraç|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|21|Jack Macgregor|none|15|Maxim Grinblat|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|21|Jack Macgregor|none|13|Maxim Grinblat|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Sergej Lukic|none|18|Melker Z-Bexell|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Sergej Lukic|none|11|Melker Z-Bexell|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Matthias Kicklitz|none|13|Daniel Popescu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Matthias Kicklitz|none|17|Daniel Popescu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Georgii Karpov |none|9|Gasper Krivec|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Georgii Karpov |none|10|Gasper Krivec|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:27|21|Julien Carraggi |none|9|Christos Kaniouras|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:27|21|Julien Carraggi |none|12|Christos Kaniouras|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Yoan Gargov|none|15|Panagiotis Botelis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Yoan Gargov|none|19|Panagiotis Botelis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Ruttanapak Oupthong |none|6|Lukas Resch|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Ruttanapak Oupthong |none|13|Lukas Resch|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Ethan Van Leeuwen|none|18|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|13|Ethan Van Leeuwen|none|21|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Ethan Van Leeuwen|none|12|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Mads Thøgersen|none|11|Brian O'Mahony|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Mads Thøgersen|none|17|Brian O'Mahony|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Justus Kilpi |none|13|Joachim Cansse|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Justus Kilpi |none|16|Joachim Cansse|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Yusuf Yaşar|none|16|Ivan Medynskiy|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Yusuf Yaşar|none|17|Ivan Medynskiy|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Rory Easton|none|15|Giovanni Toti [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Rory Easton|none|13|Giovanni Toti [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:38|21|Josip Meglić|none|18|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:38|21|Josip Meglić|none|23|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:38|21|Josip Meglić|none|15|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:36|21|Leo Rossi |none|14|Sebastiaan Li|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:36|21|Leo Rossi |none|13|Sebastiaan Li|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:31|21|Chasinee Korepap |none|7|Zehra Erdem|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:31|21|Chasinee Korepap |none|18|Zehra Erdem|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Basak Kilic|none|16|Artemis Anastasiou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Basak Kilic|none|16|Artemis Anastasiou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:29|21|Miranda Wilson |none|14|Ioana Grecea|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:29|21|Miranda Wilson |none|16|Ioana Grecea|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:38|22|Anastasiia Shapovalova|none|20|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:38|14|Anastasiia Shapovalova|none|21|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:38|21|Anastasiia Shapovalova|none|17|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:28|21|Anastasia Osiyanenko|none|13|Margot Lambert [5]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:28|21|Anastasia Osiyanenko|none|10|Margot Lambert [5]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Grammatoula Sotiriou|none|7|Maria Boevska|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Grammatoula Sotiriou|none|11|Maria Boevska|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:17|21|Vlada Gynga |none|16|Anastasia Zintsidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:17|21|Vlada Gynga |none|12|Anastasia Zintsidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Joke De Langhe|none|18|Kristina Mossmann|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Joke De Langhe|none|19|Kristina Mossmann|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:44|22|Amalie Schulz|none|20|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:44|14|Amalie Schulz|none|21|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:44|21|Amalie Schulz|none|13|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Madouc Linders|none|13|Gergana Pavlova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Madouc Linders|none|16|Gergana Pavlova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:32|21|Petra Polanc |none|19|Valeriya Rudakova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:32|21|Petra Polanc |none|18|Valeriya Rudakova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|22|Hediyeh Shams|none|20|Marie Christensen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Hediyeh Shams|none|16|Marie Christensen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:48|21|Abigail Holden |none|14|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:48|19|Abigail Holden |none|21|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:48|21|Abigail Holden |none|18|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:15|21|Tanya Petkova|none|7|Eren Özuyanik|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:15|21|Tanya Petkova|none|11|Eren Özuyanik|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:26|21|Dana Danilenko |none|17|Marija Sudimac|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:26|21|Dana Danilenko |none|12|Marija Sudimac|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Ashwathi Pillai|none|11|Selin Bakalova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Ashwathi Pillai|none|11|Selin Bakalova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:18|21|Alexandra Oprisan|none|12|Inga Sadaić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:18|21|Alexandra Oprisan|none|13|Inga Sadaić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Hristomira Popovska |none|9|Theodora Lambrianidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Hristomira Popovska |none|12|Theodora Lambrianidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|16|Ann-Kathrin Spöri|none|21|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|21|Ann-Kathrin Spöri|none|12|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|21|Ann-Kathrin Spöri|none|12|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Grace King |none|18|Bahar Yavru|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Grace King |none|14|Bahar Yavru|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:53|21|Samin Abedkhojasteh|none|15|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:53|12|Samin Abedkhojasteh|none|21|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:53|21|Samin Abedkhojasteh|none|14|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Ella Soderstrom |none|14|Ophelia Casier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Ella Soderstrom |none|16|Ophelia Casier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Beth Stephenson|none|15|Natasha Lado|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Beth Stephenson|none|12|Natasha Lado|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Léonice Huet |none|14|Chiara Marino|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Léonice Huet |none|10|Chiara Marino|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:50|24|Amy Tan|none|22|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:50|17|Amy Tan|none|21|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:50|22|Amy Tan|none|20|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:13|21|Vaishnavi Reddy Jakka |none|5|Theodora Fragoulidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:13|21|Vaishnavi Reddy Jakka |none|1|Theodora Fragoulidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Milu Luiza|none|11|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|15|Milu Luiza|none|21|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Milu Luiza|none|19|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:50|19|Anastasiia Pustinskaia |none|21|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:50|21|Anastasiia Pustinskaia |none|16|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:50|21|Anastasiia Pustinskaia |none|13|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Freya Patel-Redfearn|none|15|Stine Susan Küspert|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Freya Patel-Redfearn|none|19|Stine Susan Küspert|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Busra Unlu |none|15|Clara Lassaux|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Busra Unlu |none|18|Clara Lassaux|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:55|18|Julie Ferrier|none|21|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:55|21|Julie Ferrier|none|11|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:55|21|Julie Ferrier|none|17|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Tereza Švábíková |none|8|Elena-Alexandra Diordiev|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:23|21|Tereza Švábíková |none|14|Elena-Alexandra Diordiev|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:29|21|Arnaud Merkle |none|8|Matthias Kicklitz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:29|21|Arnaud Merkle |none|13|Matthias Kicklitz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|16|Karl Thor Søndergaard|none|21|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|21|Karl Thor Søndergaard|none|16|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:47|21|Karl Thor Søndergaard|none|19|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Luka Milic |none|13|Glib Beketov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Luka Milic |none|14|Glib Beketov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Georgii Karpov |none|6|Victor Lindahl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Georgii Karpov |none|14|Victor Lindahl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Christo Popov |none|7|Marcus Boman|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Christo Popov |none|12|Marcus Boman|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Valentin Singer|none|16|Zach Russ [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:40|21|Valentin Singer|none|18|Zach Russ [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:29|21|Yazgan Calisir |none|16|Alexander Cook|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:29|21|Yazgan Calisir |none|12|Alexander Cook|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Alexandre Lallemand |none|15|Denis Marinov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Alexandre Lallemand |none|12|Denis Marinov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Amir Jabbari |none|11|Mesut Sezer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Amir Jabbari |none|8|Mesut Sezer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:27|21|Julien Carraggi |none|15|Berkay Cicen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:27|21|Julien Carraggi |none|8|Berkay Cicen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Markus Barth |none|16|Yoan Gargov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Markus Barth |none|7|Yoan Gargov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Ruttanapak Oupthong |none|7|Jack Macgregor|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:21|21|Ruttanapak Oupthong |none|8|Jack Macgregor|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:35|17|Ethan Van Leeuwen|none|21|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:35|21|Ethan Van Leeuwen|none|16|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:35|23|Ethan Van Leeuwen|none|21|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Mads Thøgersen|none|16|Justus Kilpi [6]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Mads Thøgersen|none|14|Justus Kilpi [6]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Rory Easton|none|12|Yusuf Yaşar|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:22|21|Rory Easton|none|16|Yusuf Yaşar|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:19|21|Leo Rossi |none|7|Josip Meglić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:19|21|Leo Rossi |none|9|Josip Meglić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Chasinee Korepap |none|11|Basak Kilic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Chasinee Korepap |none|12|Basak Kilic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|1:05|21|Anastasiia Shapovalova|none|18|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|1:05|17|Anastasiia Shapovalova|none|21|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|1:05|23|Anastasiia Shapovalova|none|21|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:54|21|Anastasia Osiyanenko|none|13|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:54|21|Anastasia Osiyanenko|none|23|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:54|21|Anastasia Osiyanenko|none|15|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Vlada Gynga |none|18|Joke De Langhe|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Vlada Gynga |none|13|Joke De Langhe|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:24|21|Amalie Schulz|none|15|Madouc Linders|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:24|21|Amalie Schulz|none|8|Madouc Linders|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:37|21|Petra Polanc |none|15|Hediyeh Shams|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:37|21|Petra Polanc |none|13|Hediyeh Shams|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Abigail Holden |none|10|Tanya Petkova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Abigail Holden |none|14|Tanya Petkova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Ashwathi Pillai|none|10|Dana Danilenko [15]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:25|21|Ashwathi Pillai|none|11|Dana Danilenko [15]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:18|21|Hristomira Popovska |none|17|Alexandra Oprisan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:18|21|Hristomira Popovska |none|8|Alexandra Oprisan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:43|21|Ann-Kathrin Spöri|none|23|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:43|21|Ann-Kathrin Spöri|none|11|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:43|21|Ann-Kathrin Spöri|none|8|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|1:10|17|Samin Abedkhojasteh|none|21|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|1:10|22|Samin Abedkhojasteh|none|20|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|1:10|21|Samin Abedkhojasteh|none|19|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:18|21|Léonice Huet |none|6|Beth Stephenson|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:18|21|Léonice Huet |none|7|Beth Stephenson|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Vaishnavi Reddy Jakka |none|7|Amy Tan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:20|21|Vaishnavi Reddy Jakka |none|9|Amy Tan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:27|21|Anastasiia Pustinskaia |none|14|Milu Luiza|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:27|21|Anastasiia Pustinskaia |none|10|Milu Luiza|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:45|21|Busra Unlu |none|11|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:45|20|Busra Unlu |none|22|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:45|21|Busra Unlu |none|16|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Tereza Švábíková |none|13|Julie Ferrier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170812|0:30|21|Tereza Švábíková |none|18|Julie Ferrier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:41|17|Thom Gicquel |Vimala Heriau|21|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:41|21|Thom Gicquel |Vimala Heriau|8|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:41|21|Thom Gicquel |Vimala Heriau|11|Mykhaylo Makhnovskiy|Anastasiya Prozorova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:20|21|Wessel Van De Aar|Alyssa Tirtosentono|10|Daniel Popescu|Milu Luiza|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:20|21|Wessel Van De Aar|Alyssa Tirtosentono|14|Daniel Popescu|Milu Luiza|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:20|21|Eloi Adam |Anastasiia Pustinskaia|8|Nils Rogenwieser|Chiara Marino|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:20|21|Eloi Adam |Anastasiia Pustinskaia|12|Nils Rogenwieser|Chiara Marino|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:46|19|Lukas Resch|Emma Moszczynski|21|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:46|21|Lukas Resch|Emma Moszczynski|19|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:46|21|Lukas Resch|Emma Moszczynski|17|Rory Easton|Hope Warner|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:24|21|Emre Sonmez |Bengisu Ercetin|13|Tim Fischer|Kristina Mossmann|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:24|21|Emre Sonmez |Bengisu Ercetin|16|Tim Fischer|Kristina Mossmann|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:31|21|Paw Eriksen|Freja Ravn|18|Georgii Karpov|Anastasiia Shapovalova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:31|23|Paw Eriksen|Freja Ravn|21|Georgii Karpov|Anastasiia Shapovalova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:25|21|Iliyan Stoynov |Hristomira Popovska|13|Gijs Duijs|Milou Lugters|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:25|21|Iliyan Stoynov |Hristomira Popovska|17|Gijs Duijs|Milou Lugters|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:18|21|Daniel Lundgaard|Amalie Magelund|12|Alex Popov|Alexandra Oprisan|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:18|21|Daniel Lundgaard|Amalie Magelund|9|Alex Popov|Alexandra Oprisan|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:20|21|Sergej Lukic|Marija Sudimac|8|Josip Meglić|Inga Sadaić|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:20|21|Sergej Lukic|Marija Sudimac|15|Josip Meglić|Inga Sadaić|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:28|21|Fabien Delrue |Juliette Moinard|13|Ethan Van Leeuwen|Annie Lado|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:28|21|Fabien Delrue |Juliette Moinard|13|Ethan Van Leeuwen|Annie Lado|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:50|16|David Hong|Natasha Lado|21|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:50|22|David Hong|Natasha Lado|20|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:50|21|David Hong|Natasha Lado|16|Jonas Kehl|Lea Schwarz|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:23|21|Steven Stallwood |Lizzie Tolman|11|Ivan Medynskiy|Valeriya Rudakova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:23|21|Steven Stallwood |Lizzie Tolman|19|Ivan Medynskiy|Valeriya Rudakova|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:25|21|Gasper Krivec|Petra Polanc|17|Panagiotis Botelis|Anastasia Zintsidou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:25|21|Gasper Krivec|Petra Polanc|12|Panagiotis Botelis|Anastasia Zintsidou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|23|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|15|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:39|21|Ruttanapak Oupthong |Chasinee Korepap|7|Matthias Kicklitz|Jule Petrikowski|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:15|21|Sebastiaan Li|Debora Jille|6|Christos Kaniouras|Artemis Anastasiou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:15|21|Sebastiaan Li|Debora Jille|4|Christos Kaniouras|Artemis Anastasiou|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:24|21|Carl Harrbacka |Tilda Sjoo|12|Faruk Mehmet Yilmaz|Ilayda Nur Ozelgul|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:24|21|Carl Harrbacka |Tilda Sjoo|18|Faruk Mehmet Yilmaz|Ilayda Nur Ozelgul|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|doubles
+20170813|0:26|21|Arnaud Merkle |none|15|Luka Ban|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:26|21|Arnaud Merkle |none|17|Luka Ban|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Dennis Koppen |none|12|Serkan Ugurlu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Dennis Koppen |none|15|Serkan Ugurlu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Karl Thor Søndergaard|none|13|Mehdi Ansari|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Karl Thor Søndergaard|none|17|Mehdi Ansari|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Luka Milic |none|16|May Bar Netzer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Luka Milic |none|13|May Bar Netzer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:03|Walkover Win|Glib Beketov|none|Walkover Loss|Luka Ninoshvili|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:36|21|Victor Lindahl|none|19|Nils Rogenwieser|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:36|21|Victor Lindahl|none|16|Nils Rogenwieser|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Christo Popov |none|12|Cvetomir Stoyanov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Christo Popov |none|13|Cvetomir Stoyanov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:10|21|Zach Russ |none|3|Yavor Yankov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:10|21|Zach Russ |none|4|Yavor Yankov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Valentin Singer|none|11|Adam Mcallister|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Valentin Singer|none|13|Adam Mcallister|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:32|21|Yazgan Calisir |none|17|Felix Hammes|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:32|21|Yazgan Calisir |none|11|Felix Hammes|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Alexander Cook|none|15|Tayfun Tasdemir|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|22|Alexander Cook|none|20|Tayfun Tasdemir|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Alexandre Lallemand |none|7|Georgios Orfeas Tsamousiadis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Alexandre Lallemand |none|14|Georgios Orfeas Tsamousiadis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:17|21|Marcus Boman|none|11|Mihail Rami Panagiotou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:17|21|Marcus Boman|none|14|Mihail Rami Panagiotou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Denis Marinov|none|15|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|20|Denis Marinov|none|22|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Denis Marinov|none|13|Levin Henze|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Mesut Sezer|none|11|Dimitrios Papadopoulos|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Mesut Sezer|none|17|Dimitrios Papadopoulos|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:48|11|Amir Jabbari |none|21|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:48|25|Amir Jabbari |none|23|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:48|21|Amir Jabbari |none|17|Ian Spiller|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Berkay Cicen|none|14|Alex Popov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Berkay Cicen|none|10|Alex Popov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Markus Barth |none|11|Nurullah Saraç|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Markus Barth |none|9|Nurullah Saraç|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|21|Jack Macgregor|none|15|Maxim Grinblat|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|21|Jack Macgregor|none|13|Maxim Grinblat|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Sergej Lukic|none|18|Melker Z-Bexell|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Sergej Lukic|none|11|Melker Z-Bexell|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Matthias Kicklitz|none|13|Daniel Popescu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Matthias Kicklitz|none|17|Daniel Popescu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Georgii Karpov |none|9|Gasper Krivec|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Georgii Karpov |none|10|Gasper Krivec|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:27|21|Julien Carraggi |none|9|Christos Kaniouras|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:27|21|Julien Carraggi |none|12|Christos Kaniouras|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Yoan Gargov|none|15|Panagiotis Botelis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Yoan Gargov|none|19|Panagiotis Botelis|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Ruttanapak Oupthong |none|6|Lukas Resch|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Ruttanapak Oupthong |none|13|Lukas Resch|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Ethan Van Leeuwen|none|18|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|13|Ethan Van Leeuwen|none|21|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Ethan Van Leeuwen|none|12|Iliyan Stoynov [11]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Mads Thøgersen|none|11|Brian O'Mahony|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Mads Thøgersen|none|17|Brian O'Mahony|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Justus Kilpi |none|13|Joachim Cansse|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Justus Kilpi |none|16|Joachim Cansse|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Yusuf Yaşar|none|16|Ivan Medynskiy|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Yusuf Yaşar|none|17|Ivan Medynskiy|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Rory Easton|none|15|Giovanni Toti [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Rory Easton|none|13|Giovanni Toti [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:38|21|Josip Meglić|none|18|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:38|21|Josip Meglić|none|23|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:38|21|Josip Meglić|none|15|Jonas Kehl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:36|21|Leo Rossi |none|14|Sebastiaan Li|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:36|21|Leo Rossi |none|13|Sebastiaan Li|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:31|21|Chasinee Korepap |none|7|Zehra Erdem|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:31|21|Chasinee Korepap |none|18|Zehra Erdem|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Basak Kilic|none|16|Artemis Anastasiou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Basak Kilic|none|16|Artemis Anastasiou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:29|21|Miranda Wilson |none|14|Ioana Grecea|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:29|21|Miranda Wilson |none|16|Ioana Grecea|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:38|22|Anastasiia Shapovalova|none|20|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:38|14|Anastasiia Shapovalova|none|21|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:38|21|Anastasiia Shapovalova|none|17|Hasini Nusaka Ambalangodage|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:28|21|Anastasia Osiyanenko|none|13|Margot Lambert [5]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:28|21|Anastasia Osiyanenko|none|10|Margot Lambert [5]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Grammatoula Sotiriou|none|7|Maria Boevska|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Grammatoula Sotiriou|none|11|Maria Boevska|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:17|21|Vlada Gynga |none|16|Anastasia Zintsidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:17|21|Vlada Gynga |none|12|Anastasia Zintsidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Joke De Langhe|none|18|Kristina Mossmann|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Joke De Langhe|none|19|Kristina Mossmann|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:44|22|Amalie Schulz|none|20|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:44|14|Amalie Schulz|none|21|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:44|21|Amalie Schulz|none|13|Maria Delcheva [4]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Madouc Linders|none|13|Gergana Pavlova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Madouc Linders|none|16|Gergana Pavlova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:32|21|Petra Polanc |none|19|Valeriya Rudakova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:32|21|Petra Polanc |none|18|Valeriya Rudakova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|22|Hediyeh Shams|none|20|Marie Christensen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Hediyeh Shams|none|16|Marie Christensen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:48|21|Abigail Holden |none|14|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:48|19|Abigail Holden |none|21|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:48|21|Abigail Holden |none|18|Nazlıcan Inci|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:15|21|Tanya Petkova|none|7|Eren Özuyanik|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:15|21|Tanya Petkova|none|11|Eren Özuyanik|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:26|21|Dana Danilenko |none|17|Marija Sudimac|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:26|21|Dana Danilenko |none|12|Marija Sudimac|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Ashwathi Pillai|none|11|Selin Bakalova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Ashwathi Pillai|none|11|Selin Bakalova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:18|21|Alexandra Oprisan|none|12|Inga Sadaić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:18|21|Alexandra Oprisan|none|13|Inga Sadaić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Hristomira Popovska |none|9|Theodora Lambrianidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Hristomira Popovska |none|12|Theodora Lambrianidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|16|Ann-Kathrin Spöri|none|21|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|21|Ann-Kathrin Spöri|none|12|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|21|Ann-Kathrin Spöri|none|12|Loredana Lungu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Grace King |none|18|Bahar Yavru|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Grace King |none|14|Bahar Yavru|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:53|21|Samin Abedkhojasteh|none|15|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:53|12|Samin Abedkhojasteh|none|21|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:53|21|Samin Abedkhojasteh|none|14|Yulia Vasilyeva|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Ella Soderstrom |none|14|Ophelia Casier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Ella Soderstrom |none|16|Ophelia Casier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Beth Stephenson|none|15|Natasha Lado|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Beth Stephenson|none|12|Natasha Lado|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Léonice Huet |none|14|Chiara Marino|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Léonice Huet |none|10|Chiara Marino|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:50|24|Amy Tan|none|22|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:50|17|Amy Tan|none|21|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:50|22|Amy Tan|none|20|Naime Yilmaz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:13|21|Vaishnavi Reddy Jakka |none|5|Theodora Fragoulidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:13|21|Vaishnavi Reddy Jakka |none|1|Theodora Fragoulidou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Milu Luiza|none|11|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|15|Milu Luiza|none|21|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Milu Luiza|none|19|Anastasiya Prozorova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:50|19|Anastasiia Pustinskaia |none|21|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:50|21|Anastasiia Pustinskaia |none|16|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:50|21|Anastasiia Pustinskaia |none|13|Betul Soner|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Freya Patel-Redfearn|none|15|Stine Susan Küspert|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Freya Patel-Redfearn|none|19|Stine Susan Küspert|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Busra Unlu |none|15|Clara Lassaux|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Busra Unlu |none|18|Clara Lassaux|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:55|18|Julie Ferrier|none|21|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:55|21|Julie Ferrier|none|11|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:55|21|Julie Ferrier|none|17|Maria Alexandra Dutu|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Tereza Švábíková |none|8|Elena-Alexandra Diordiev|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:23|21|Tereza Švábíková |none|14|Elena-Alexandra Diordiev|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:29|21|Arnaud Merkle |none|8|Matthias Kicklitz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:29|21|Arnaud Merkle |none|13|Matthias Kicklitz|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|16|Karl Thor Søndergaard|none|21|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|21|Karl Thor Søndergaard|none|16|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:47|21|Karl Thor Søndergaard|none|19|Dennis Koppen [9]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Luka Milic |none|13|Glib Beketov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Luka Milic |none|14|Glib Beketov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Georgii Karpov |none|6|Victor Lindahl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Georgii Karpov |none|14|Victor Lindahl|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Christo Popov |none|7|Marcus Boman|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Christo Popov |none|12|Marcus Boman|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Valentin Singer|none|16|Zach Russ [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:40|21|Valentin Singer|none|18|Zach Russ [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:29|21|Yazgan Calisir |none|16|Alexander Cook|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:29|21|Yazgan Calisir |none|12|Alexander Cook|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Alexandre Lallemand |none|15|Denis Marinov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Alexandre Lallemand |none|12|Denis Marinov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Amir Jabbari |none|11|Mesut Sezer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Amir Jabbari |none|8|Mesut Sezer|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:27|21|Julien Carraggi |none|15|Berkay Cicen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:27|21|Julien Carraggi |none|8|Berkay Cicen|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Markus Barth |none|16|Yoan Gargov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Markus Barth |none|7|Yoan Gargov|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Ruttanapak Oupthong |none|7|Jack Macgregor|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:21|21|Ruttanapak Oupthong |none|8|Jack Macgregor|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:35|17|Ethan Van Leeuwen|none|21|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:35|21|Ethan Van Leeuwen|none|16|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:35|23|Ethan Van Leeuwen|none|21|Sergej Lukic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Mads Thøgersen|none|16|Justus Kilpi [6]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Mads Thøgersen|none|14|Justus Kilpi [6]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Rory Easton|none|12|Yusuf Yaşar|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:22|21|Rory Easton|none|16|Yusuf Yaşar|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:19|21|Leo Rossi |none|7|Josip Meglić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:19|21|Leo Rossi |none|9|Josip Meglić|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Chasinee Korepap |none|11|Basak Kilic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Chasinee Korepap |none|12|Basak Kilic|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|1:05|21|Anastasiia Shapovalova|none|18|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|1:05|17|Anastasiia Shapovalova|none|21|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|1:05|23|Anastasiia Shapovalova|none|21|Miranda Wilson [16]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:54|21|Anastasia Osiyanenko|none|13|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:54|21|Anastasia Osiyanenko|none|23|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:54|21|Anastasia Osiyanenko|none|15|Grammatoula Sotiriou|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Vlada Gynga |none|18|Joke De Langhe|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Vlada Gynga |none|13|Joke De Langhe|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:24|21|Amalie Schulz|none|15|Madouc Linders|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:24|21|Amalie Schulz|none|8|Madouc Linders|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:37|21|Petra Polanc |none|15|Hediyeh Shams|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:37|21|Petra Polanc |none|13|Hediyeh Shams|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Abigail Holden |none|10|Tanya Petkova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Abigail Holden |none|14|Tanya Petkova|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Ashwathi Pillai|none|10|Dana Danilenko [15]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:25|21|Ashwathi Pillai|none|11|Dana Danilenko [15]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:18|21|Hristomira Popovska |none|17|Alexandra Oprisan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:18|21|Hristomira Popovska |none|8|Alexandra Oprisan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:43|21|Ann-Kathrin Spöri|none|23|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:43|21|Ann-Kathrin Spöri|none|11|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:43|21|Ann-Kathrin Spöri|none|8|Grace King [8]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|1:10|17|Samin Abedkhojasteh|none|21|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|1:10|22|Samin Abedkhojasteh|none|20|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|1:10|21|Samin Abedkhojasteh|none|19|Ella Soderstrom [10]|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:18|21|Léonice Huet |none|6|Beth Stephenson|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:18|21|Léonice Huet |none|7|Beth Stephenson|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Vaishnavi Reddy Jakka |none|7|Amy Tan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:20|21|Vaishnavi Reddy Jakka |none|9|Amy Tan|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:27|21|Anastasiia Pustinskaia |none|14|Milu Luiza|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:27|21|Anastasiia Pustinskaia |none|10|Milu Luiza|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:45|21|Busra Unlu |none|11|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:45|20|Busra Unlu |none|22|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:45|21|Busra Unlu |none|16|Freya Patel-Redfearn|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Tereza Švábíková |none|13|Julie Ferrier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles
+20170813|0:30|21|Tereza Švábíková |none|18|Julie Ferrier|none|7923A6F7-B4A7-46E2-A85E-EF6003B96BAE|singles

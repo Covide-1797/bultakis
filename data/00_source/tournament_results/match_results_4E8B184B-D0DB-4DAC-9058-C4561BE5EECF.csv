@@ -1,0 +1,616 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150916|0:18|21|Yu Jen Chi|none|3|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:18|21|Yu Jen Chi|none|14|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916||Walkover Win|Peter Yan|none|Walkover Loss|Sarang Lakhanee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Wei Chi Liu|none|8|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Wei Chi Liu|none|12|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|13|Benjamin Hillier|none|21|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|21|Benjamin Hillier|none|19|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|21|Benjamin Hillier|none|10|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:21|21|Andrew Susanto|none|7|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:21|21|Andrew Susanto|none|11|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:20|21|Blake Haggerty|none|8|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:20|21|Blake Haggerty|none|10|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:19|21|Harshit Aggarwal|none|5|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:19|21|Harshit Aggarwal|none|10|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:27|21|Niccolo Tagle|none|16|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:27|21|Niccolo Tagle|none|5|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:49|21|Ashwant Gobinathan|none|18|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:49|8|Ashwant Gobinathan|none|21|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:49|21|Ashwant Gobinathan|none|19|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|21|Hung Jin-Yi|none|13|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|21|Hung Jin-Yi|none|8|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:24|21|Abhinav Manota|none|14|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:24|21|Abhinav Manota|none|7|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:26|26|Nathaniel Ernestan Sulistyo|none|24|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:26|21|Nathaniel Ernestan Sulistyo|none|16|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:18|21|Anup Sridhar|none|6|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:18|21|Anup Sridhar|none|8|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:51|15|Kah Kok Tan|none|21|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:51|21|Kah Kok Tan|none|17|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:51|22|Kah Kok Tan|none|20|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Christopher Steeghs|none|12|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Christopher Steeghs|none|10|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:40|21|Hank Jia-Hao Wang|none|18|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:40|11|Hank Jia-Hao Wang|none|21|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:40|21|Hank Jia-Hao Wang|none|15|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:24|21|Joel Findlay|none|11|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:24|21|Joel Findlay|none|18|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:38|22|Huang Yu-Yu|none|20|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:38|21|Huang Yu-Yu|none|15|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|21|Moch. Revindra Reyhaldi|none|15|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|21|Moch. Revindra Reyhaldi|none|8|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:23|21|Rizwan Azam|none|5|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:23|23|Rizwan Azam|none|21|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:33|21|Siddharath Thakur|none|19|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:33|21|Siddharath Thakur|none|10|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:58|11|Christine Zhang|none|21|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:58|22|Christine Zhang|none|20|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:58|21|Christine Zhang|none|12|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Julia Pei Xian Wong|none|14|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Julia Pei Xian Wong|none|8|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|21|Celine Shao|none|11|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|18|Celine Shao|none|21|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|21|Celine Shao|none|17|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:01|1|Alice Wu|none|0|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:01|Walkover Win|Alice Wu|none|Walkover Loss|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:55|21|Louisa Ma|none|8|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:55|22|Louisa Ma|none|24|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:55|21|Louisa Ma|none|19|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:47|21|Peter Yan|none|14|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:47|14|Peter Yan|none|21|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:47|21|Peter Yan|none|15|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|1:03|21|Yu Jen Chi|none|18|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|1:03|22|Yu Jen Chi|none|24|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|1:03|21|Yu Jen Chi|none|16|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:40|21|Wei Chi Liu|none|16|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:40|21|Wei Chi Liu|none|13|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Andrew Susanto|none|7|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Andrew Susanto|none|9|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Kah Kok Tan|none|19|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:25|21|Kah Kok Tan|none|14|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|22|Hung Jin-Yi|none|20|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|21|Hung Jin-Yi|none|10|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:48|21|Ashwant Gobinathan|none|9|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:48|17|Ashwant Gobinathan|none|21|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:48|21|Ashwant Gobinathan|none|19|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|21|Anup Sridhar|none|9|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:30|21|Anup Sridhar|none|13|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Huang Yu-Yu|none|10|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Huang Yu-Yu|none|8|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:20|21|Ernesto Velazquez |none|14|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:20|21|Ernesto Velazquez |none|15|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:32|21|Moch. Revindra Reyhaldi|none|19|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:32|21|Moch. Revindra Reyhaldi|none|17|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Chia Hung Lu |none|13|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Chia Hung Lu |none|7|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:38|21|Matej Hlinican |none|19|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:38|22|Matej Hlinican |none|20|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:58|17|Luis Ramon Garrido |none|21|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:58|21|Luis Ramon Garrido |none|15|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:58|21|Luis Ramon Garrido |none|17|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|21|Siddharath Thakur|none|13|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:35|21|Siddharath Thakur|none|19|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150916|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|12|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|7|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:27|21|Sally Fu|Christine Zhang|19|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:27|22|Sally Fu|Christine Zhang|20|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:30|26|Christopher Steeghs|Niccolo Tagle|24|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:30|21|Christopher Steeghs|Niccolo Tagle|17|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|10|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|8|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|12|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|15|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:38|21|Joel Findlay|Andrew Paulet|19|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:38|16|Joel Findlay|Andrew Paulet|21|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:38|22|Joel Findlay|Andrew Paulet|20|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:35|19|Niccolo Tagle|Sally Fu|21|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:30|21|Vincent Tak Meng Fong|Eugenia Tanaka|12|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:30|29|Vincent Tak Meng Fong|Eugenia Tanaka|27|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:20|21|Jonathan Curtin|Selena Wu|12|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916|0:20|21|Jonathan Curtin|Selena Wu|11|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150916||Walkover Win|Cham Chen|Louisa Ma|Walkover Loss|Abhinav Manota|Justine Villegas|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:18|21|Yu Jen Chi|none|3|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:18|21|Yu Jen Chi|none|14|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917||Walkover Win|Peter Yan|none|Walkover Loss|Sarang Lakhanee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Wei Chi Liu|none|8|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Wei Chi Liu|none|12|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|13|Benjamin Hillier|none|21|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|21|Benjamin Hillier|none|19|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|21|Benjamin Hillier|none|10|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:21|21|Andrew Susanto|none|7|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:21|21|Andrew Susanto|none|11|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:20|21|Blake Haggerty|none|8|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:20|21|Blake Haggerty|none|10|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:19|21|Harshit Aggarwal|none|5|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:19|21|Harshit Aggarwal|none|10|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:27|21|Niccolo Tagle|none|16|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:27|21|Niccolo Tagle|none|5|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:49|21|Ashwant Gobinathan|none|18|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:49|8|Ashwant Gobinathan|none|21|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:49|21|Ashwant Gobinathan|none|19|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|21|Hung Jin-Yi|none|13|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|21|Hung Jin-Yi|none|8|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:24|21|Abhinav Manota|none|14|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:24|21|Abhinav Manota|none|7|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:26|26|Nathaniel Ernestan Sulistyo|none|24|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:26|21|Nathaniel Ernestan Sulistyo|none|16|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:18|21|Anup Sridhar|none|6|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:18|21|Anup Sridhar|none|8|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:51|15|Kah Kok Tan|none|21|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:51|21|Kah Kok Tan|none|17|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:51|22|Kah Kok Tan|none|20|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Christopher Steeghs|none|12|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Christopher Steeghs|none|10|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:40|21|Hank Jia-Hao Wang|none|18|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:40|11|Hank Jia-Hao Wang|none|21|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:40|21|Hank Jia-Hao Wang|none|15|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:24|21|Joel Findlay|none|11|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:24|21|Joel Findlay|none|18|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:38|22|Huang Yu-Yu|none|20|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:38|21|Huang Yu-Yu|none|15|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|21|Moch. Revindra Reyhaldi|none|15|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|21|Moch. Revindra Reyhaldi|none|8|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:23|21|Rizwan Azam|none|5|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:23|23|Rizwan Azam|none|21|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:33|21|Siddharath Thakur|none|19|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:33|21|Siddharath Thakur|none|10|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:58|11|Christine Zhang|none|21|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:58|22|Christine Zhang|none|20|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:58|21|Christine Zhang|none|12|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Julia Pei Xian Wong|none|14|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Julia Pei Xian Wong|none|8|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|21|Celine Shao|none|11|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|18|Celine Shao|none|21|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|21|Celine Shao|none|17|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:01|1|Alice Wu|none|0|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:01|Walkover Win|Alice Wu|none|Walkover Loss|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:55|21|Louisa Ma|none|8|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:55|22|Louisa Ma|none|24|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:55|21|Louisa Ma|none|19|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:47|21|Peter Yan|none|14|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:47|14|Peter Yan|none|21|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:47|21|Peter Yan|none|15|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|1:03|21|Yu Jen Chi|none|18|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|1:03|22|Yu Jen Chi|none|24|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|1:03|21|Yu Jen Chi|none|16|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:40|21|Wei Chi Liu|none|16|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:40|21|Wei Chi Liu|none|13|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Andrew Susanto|none|7|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Andrew Susanto|none|9|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Kah Kok Tan|none|19|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:25|21|Kah Kok Tan|none|14|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|22|Hung Jin-Yi|none|20|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|21|Hung Jin-Yi|none|10|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:48|21|Ashwant Gobinathan|none|9|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:48|17|Ashwant Gobinathan|none|21|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:48|21|Ashwant Gobinathan|none|19|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|21|Anup Sridhar|none|9|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:30|21|Anup Sridhar|none|13|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Huang Yu-Yu|none|10|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Huang Yu-Yu|none|8|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:20|21|Ernesto Velazquez |none|14|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:20|21|Ernesto Velazquez |none|15|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:32|21|Moch. Revindra Reyhaldi|none|19|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:32|21|Moch. Revindra Reyhaldi|none|17|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Chia Hung Lu |none|13|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Chia Hung Lu |none|7|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:38|21|Matej Hlinican |none|19|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:38|22|Matej Hlinican |none|20|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:58|17|Luis Ramon Garrido |none|21|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:58|21|Luis Ramon Garrido |none|15|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:58|21|Luis Ramon Garrido |none|17|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|21|Siddharath Thakur|none|13|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:35|21|Siddharath Thakur|none|19|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150917|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|12|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|7|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:27|21|Sally Fu|Christine Zhang|19|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:27|22|Sally Fu|Christine Zhang|20|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:30|26|Christopher Steeghs|Niccolo Tagle|24|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:30|21|Christopher Steeghs|Niccolo Tagle|17|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|10|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|8|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|12|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|15|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:38|21|Joel Findlay|Andrew Paulet|19|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:38|16|Joel Findlay|Andrew Paulet|21|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:38|22|Joel Findlay|Andrew Paulet|20|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:35|19|Niccolo Tagle|Sally Fu|21|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:30|21|Vincent Tak Meng Fong|Eugenia Tanaka|12|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:30|29|Vincent Tak Meng Fong|Eugenia Tanaka|27|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:20|21|Jonathan Curtin|Selena Wu|12|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917|0:20|21|Jonathan Curtin|Selena Wu|11|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150917||Walkover Win|Cham Chen|Louisa Ma|Walkover Loss|Abhinav Manota|Justine Villegas|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:18|21|Yu Jen Chi|none|3|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:18|21|Yu Jen Chi|none|14|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918||Walkover Win|Peter Yan|none|Walkover Loss|Sarang Lakhanee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Wei Chi Liu|none|8|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Wei Chi Liu|none|12|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|13|Benjamin Hillier|none|21|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|21|Benjamin Hillier|none|19|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|21|Benjamin Hillier|none|10|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:21|21|Andrew Susanto|none|7|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:21|21|Andrew Susanto|none|11|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:20|21|Blake Haggerty|none|8|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:20|21|Blake Haggerty|none|10|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:19|21|Harshit Aggarwal|none|5|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:19|21|Harshit Aggarwal|none|10|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:27|21|Niccolo Tagle|none|16|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:27|21|Niccolo Tagle|none|5|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:49|21|Ashwant Gobinathan|none|18|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:49|8|Ashwant Gobinathan|none|21|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:49|21|Ashwant Gobinathan|none|19|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|21|Hung Jin-Yi|none|13|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|21|Hung Jin-Yi|none|8|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:24|21|Abhinav Manota|none|14|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:24|21|Abhinav Manota|none|7|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:26|26|Nathaniel Ernestan Sulistyo|none|24|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:26|21|Nathaniel Ernestan Sulistyo|none|16|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:18|21|Anup Sridhar|none|6|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:18|21|Anup Sridhar|none|8|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:51|15|Kah Kok Tan|none|21|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:51|21|Kah Kok Tan|none|17|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:51|22|Kah Kok Tan|none|20|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Christopher Steeghs|none|12|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Christopher Steeghs|none|10|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:40|21|Hank Jia-Hao Wang|none|18|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:40|11|Hank Jia-Hao Wang|none|21|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:40|21|Hank Jia-Hao Wang|none|15|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:24|21|Joel Findlay|none|11|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:24|21|Joel Findlay|none|18|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:38|22|Huang Yu-Yu|none|20|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:38|21|Huang Yu-Yu|none|15|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|21|Moch. Revindra Reyhaldi|none|15|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|21|Moch. Revindra Reyhaldi|none|8|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:23|21|Rizwan Azam|none|5|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:23|23|Rizwan Azam|none|21|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:33|21|Siddharath Thakur|none|19|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:33|21|Siddharath Thakur|none|10|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:58|11|Christine Zhang|none|21|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:58|22|Christine Zhang|none|20|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:58|21|Christine Zhang|none|12|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Julia Pei Xian Wong|none|14|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Julia Pei Xian Wong|none|8|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|21|Celine Shao|none|11|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|18|Celine Shao|none|21|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|21|Celine Shao|none|17|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:01|1|Alice Wu|none|0|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:01|Walkover Win|Alice Wu|none|Walkover Loss|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:55|21|Louisa Ma|none|8|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:55|22|Louisa Ma|none|24|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:55|21|Louisa Ma|none|19|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:47|21|Peter Yan|none|14|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:47|14|Peter Yan|none|21|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:47|21|Peter Yan|none|15|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|1:03|21|Yu Jen Chi|none|18|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|1:03|22|Yu Jen Chi|none|24|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|1:03|21|Yu Jen Chi|none|16|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:40|21|Wei Chi Liu|none|16|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:40|21|Wei Chi Liu|none|13|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Andrew Susanto|none|7|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Andrew Susanto|none|9|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Kah Kok Tan|none|19|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:25|21|Kah Kok Tan|none|14|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|22|Hung Jin-Yi|none|20|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|21|Hung Jin-Yi|none|10|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:48|21|Ashwant Gobinathan|none|9|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:48|17|Ashwant Gobinathan|none|21|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:48|21|Ashwant Gobinathan|none|19|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|21|Anup Sridhar|none|9|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:30|21|Anup Sridhar|none|13|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Huang Yu-Yu|none|10|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Huang Yu-Yu|none|8|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:20|21|Ernesto Velazquez |none|14|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:20|21|Ernesto Velazquez |none|15|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:32|21|Moch. Revindra Reyhaldi|none|19|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:32|21|Moch. Revindra Reyhaldi|none|17|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Chia Hung Lu |none|13|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Chia Hung Lu |none|7|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:38|21|Matej Hlinican |none|19|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:38|22|Matej Hlinican |none|20|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:58|17|Luis Ramon Garrido |none|21|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:58|21|Luis Ramon Garrido |none|15|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:58|21|Luis Ramon Garrido |none|17|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|21|Siddharath Thakur|none|13|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:35|21|Siddharath Thakur|none|19|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150918|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|12|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|7|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:27|21|Sally Fu|Christine Zhang|19|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:27|22|Sally Fu|Christine Zhang|20|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:30|26|Christopher Steeghs|Niccolo Tagle|24|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:30|21|Christopher Steeghs|Niccolo Tagle|17|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|10|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|8|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|12|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|15|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:38|21|Joel Findlay|Andrew Paulet|19|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:38|16|Joel Findlay|Andrew Paulet|21|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:38|22|Joel Findlay|Andrew Paulet|20|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:35|19|Niccolo Tagle|Sally Fu|21|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:30|21|Vincent Tak Meng Fong|Eugenia Tanaka|12|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:30|29|Vincent Tak Meng Fong|Eugenia Tanaka|27|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:20|21|Jonathan Curtin|Selena Wu|12|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918|0:20|21|Jonathan Curtin|Selena Wu|11|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150918||Walkover Win|Cham Chen|Louisa Ma|Walkover Loss|Abhinav Manota|Justine Villegas|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:18|21|Yu Jen Chi|none|3|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:18|21|Yu Jen Chi|none|14|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919||Walkover Win|Peter Yan|none|Walkover Loss|Sarang Lakhanee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Wei Chi Liu|none|8|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Wei Chi Liu|none|12|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|13|Benjamin Hillier|none|21|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|21|Benjamin Hillier|none|19|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|21|Benjamin Hillier|none|10|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:21|21|Andrew Susanto|none|7|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:21|21|Andrew Susanto|none|11|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:20|21|Blake Haggerty|none|8|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:20|21|Blake Haggerty|none|10|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:19|21|Harshit Aggarwal|none|5|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:19|21|Harshit Aggarwal|none|10|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:27|21|Niccolo Tagle|none|16|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:27|21|Niccolo Tagle|none|5|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:49|21|Ashwant Gobinathan|none|18|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:49|8|Ashwant Gobinathan|none|21|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:49|21|Ashwant Gobinathan|none|19|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|21|Hung Jin-Yi|none|13|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|21|Hung Jin-Yi|none|8|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:24|21|Abhinav Manota|none|14|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:24|21|Abhinav Manota|none|7|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:26|26|Nathaniel Ernestan Sulistyo|none|24|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:26|21|Nathaniel Ernestan Sulistyo|none|16|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:18|21|Anup Sridhar|none|6|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:18|21|Anup Sridhar|none|8|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:51|15|Kah Kok Tan|none|21|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:51|21|Kah Kok Tan|none|17|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:51|22|Kah Kok Tan|none|20|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Christopher Steeghs|none|12|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Christopher Steeghs|none|10|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:40|21|Hank Jia-Hao Wang|none|18|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:40|11|Hank Jia-Hao Wang|none|21|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:40|21|Hank Jia-Hao Wang|none|15|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:24|21|Joel Findlay|none|11|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:24|21|Joel Findlay|none|18|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:38|22|Huang Yu-Yu|none|20|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:38|21|Huang Yu-Yu|none|15|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|21|Moch. Revindra Reyhaldi|none|15|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|21|Moch. Revindra Reyhaldi|none|8|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:23|21|Rizwan Azam|none|5|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:23|23|Rizwan Azam|none|21|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:33|21|Siddharath Thakur|none|19|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:33|21|Siddharath Thakur|none|10|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:58|11|Christine Zhang|none|21|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:58|22|Christine Zhang|none|20|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:58|21|Christine Zhang|none|12|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Julia Pei Xian Wong|none|14|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Julia Pei Xian Wong|none|8|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|21|Celine Shao|none|11|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|18|Celine Shao|none|21|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|21|Celine Shao|none|17|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:01|1|Alice Wu|none|0|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:01|Walkover Win|Alice Wu|none|Walkover Loss|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:55|21|Louisa Ma|none|8|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:55|22|Louisa Ma|none|24|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:55|21|Louisa Ma|none|19|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:47|21|Peter Yan|none|14|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:47|14|Peter Yan|none|21|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:47|21|Peter Yan|none|15|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|1:03|21|Yu Jen Chi|none|18|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|1:03|22|Yu Jen Chi|none|24|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|1:03|21|Yu Jen Chi|none|16|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:40|21|Wei Chi Liu|none|16|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:40|21|Wei Chi Liu|none|13|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Andrew Susanto|none|7|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Andrew Susanto|none|9|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Kah Kok Tan|none|19|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:25|21|Kah Kok Tan|none|14|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|22|Hung Jin-Yi|none|20|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|21|Hung Jin-Yi|none|10|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:48|21|Ashwant Gobinathan|none|9|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:48|17|Ashwant Gobinathan|none|21|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:48|21|Ashwant Gobinathan|none|19|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|21|Anup Sridhar|none|9|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:30|21|Anup Sridhar|none|13|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Huang Yu-Yu|none|10|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Huang Yu-Yu|none|8|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:20|21|Ernesto Velazquez |none|14|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:20|21|Ernesto Velazquez |none|15|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:32|21|Moch. Revindra Reyhaldi|none|19|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:32|21|Moch. Revindra Reyhaldi|none|17|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Chia Hung Lu |none|13|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Chia Hung Lu |none|7|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:38|21|Matej Hlinican |none|19|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:38|22|Matej Hlinican |none|20|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:58|17|Luis Ramon Garrido |none|21|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:58|21|Luis Ramon Garrido |none|15|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:58|21|Luis Ramon Garrido |none|17|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|21|Siddharath Thakur|none|13|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:35|21|Siddharath Thakur|none|19|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150919|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|12|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|7|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:27|21|Sally Fu|Christine Zhang|19|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:27|22|Sally Fu|Christine Zhang|20|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:30|26|Christopher Steeghs|Niccolo Tagle|24|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:30|21|Christopher Steeghs|Niccolo Tagle|17|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|10|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|8|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|12|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|15|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:38|21|Joel Findlay|Andrew Paulet|19|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:38|16|Joel Findlay|Andrew Paulet|21|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:38|22|Joel Findlay|Andrew Paulet|20|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:35|19|Niccolo Tagle|Sally Fu|21|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:30|21|Vincent Tak Meng Fong|Eugenia Tanaka|12|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:30|29|Vincent Tak Meng Fong|Eugenia Tanaka|27|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:20|21|Jonathan Curtin|Selena Wu|12|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919|0:20|21|Jonathan Curtin|Selena Wu|11|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150919||Walkover Win|Cham Chen|Louisa Ma|Walkover Loss|Abhinav Manota|Justine Villegas|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:18|21|Yu Jen Chi|none|3|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:18|21|Yu Jen Chi|none|14|Vincent Tak Meng Fong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920||Walkover Win|Peter Yan|none|Walkover Loss|Sarang Lakhanee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Wei Chi Liu|none|8|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Wei Chi Liu|none|12|Andrew He|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|13|Benjamin Hillier|none|21|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|21|Benjamin Hillier|none|19|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|21|Benjamin Hillier|none|10|Daniel Fan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:21|21|Andrew Susanto|none|7|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:21|21|Andrew Susanto|none|11|Dennis Wong|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|22|Nathan Tang|none|20|Dylan Soedjasa|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:20|21|Blake Haggerty|none|8|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:20|21|Blake Haggerty|none|10|Ronan Ho-Yagues|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:19|21|Harshit Aggarwal|none|5|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:19|21|Harshit Aggarwal|none|10|Darshand Gobinathan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:27|21|Niccolo Tagle|none|16|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:27|21|Niccolo Tagle|none|5|Raymond Sing|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:49|21|Ashwant Gobinathan|none|18|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:49|8|Ashwant Gobinathan|none|21|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:49|21|Ashwant Gobinathan|none|19|Wibowo Kho Henrikho|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|21|Hung Jin-Yi|none|13|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|21|Hung Jin-Yi|none|8|Pit Seng Low|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:24|21|Abhinav Manota|none|14|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:24|21|Abhinav Manota|none|7|Edwin Luk|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:26|26|Nathaniel Ernestan Sulistyo|none|24|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:26|21|Nathaniel Ernestan Sulistyo|none|16|Simon Wing Hang Leung|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:18|21|Anup Sridhar|none|6|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:18|21|Anup Sridhar|none|8|Athi Selladurai|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:51|15|Kah Kok Tan|none|21|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:51|21|Kah Kok Tan|none|17|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:51|22|Kah Kok Tan|none|20|Anthony Joe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Christopher Steeghs|none|12|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Christopher Steeghs|none|10|David Zheng Xuan Kang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:40|21|Hank Jia-Hao Wang|none|18|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:40|11|Hank Jia-Hao Wang|none|21|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:40|21|Hank Jia-Hao Wang|none|15|Yohan De Geoffroy|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:28|21|Lishwan Mudukasan|none|14|David Seng Hong Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:24|21|Joel Findlay|none|11|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:24|21|Joel Findlay|none|18|Jonathan Curtin|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:38|22|Huang Yu-Yu|none|20|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:38|21|Huang Yu-Yu|none|15|James Eunson|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|21|Moch. Revindra Reyhaldi|none|15|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|21|Moch. Revindra Reyhaldi|none|8|Cham Chen|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:23|21|Rizwan Azam|none|5|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:23|23|Rizwan Azam|none|21|Mitchell Wheller|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:33|21|Siddharath Thakur|none|19|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:33|21|Siddharath Thakur|none|10|Michael Fariman|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:58|11|Christine Zhang|none|21|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:58|22|Christine Zhang|none|20|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:58|21|Christine Zhang|none|12|Ruwindi Serasinghe|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Julia Pei Xian Wong|none|14|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Julia Pei Xian Wong|none|8|Chloe Lee|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|21|Celine Shao|none|11|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|18|Celine Shao|none|21|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|21|Celine Shao|none|17|Sara Mohmand|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:01|1|Alice Wu|none|0|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:01|Walkover Win|Alice Wu|none|Walkover Loss|Justine Villegas|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:55|21|Louisa Ma|none|8|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:55|22|Louisa Ma|none|24|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:55|21|Louisa Ma|none|19|Sally Fu|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:47|21|Peter Yan|none|14|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:47|14|Peter Yan|none|21|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:47|21|Peter Yan|none|15|Jared Jiajun Song|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|1:03|21|Yu Jen Chi|none|18|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|1:03|22|Yu Jen Chi|none|24|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|1:03|21|Yu Jen Chi|none|16|Howard Shu [1]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:40|21|Wei Chi Liu|none|16|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:40|21|Wei Chi Liu|none|13|Ai Wei Jian [7]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Andrew Susanto|none|7|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Andrew Susanto|none|9|Nathan Tang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Harshit Aggarwal|none|10|Blake Haggerty|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Kah Kok Tan|none|19|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:25|21|Kah Kok Tan|none|14|Christopher Steeghs|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|22|Hung Jin-Yi|none|20|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|21|Hung Jin-Yi|none|10|Farzin Khanjani [6]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:48|21|Ashwant Gobinathan|none|9|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:48|17|Ashwant Gobinathan|none|21|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:48|21|Ashwant Gobinathan|none|19|Niccolo Tagle|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|21|Anup Sridhar|none|9|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:30|21|Anup Sridhar|none|13|Nathaniel Ernestan Sulistyo|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Huang Yu-Yu|none|10|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Huang Yu-Yu|none|8|Joel Findlay|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:20|21|Ernesto Velazquez |none|14|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:20|21|Ernesto Velazquez |none|15|Benjamin Hillier|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:32|21|Moch. Revindra Reyhaldi|none|19|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:32|21|Moch. Revindra Reyhaldi|none|17|Rizwan Azam|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Chia Hung Lu |none|13|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Chia Hung Lu |none|7|Hank Jia-Hao Wang|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:38|21|Matej Hlinican |none|19|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:38|22|Matej Hlinican |none|20|Lishwan Mudukasan|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:58|17|Luis Ramon Garrido |none|21|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:58|21|Luis Ramon Garrido |none|15|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:58|21|Luis Ramon Garrido |none|17|Abhinav Manota|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|21|Siddharath Thakur|none|13|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:35|21|Siddharath Thakur|none|19|Marius Myhre [2]|none|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|singles
+20150920|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|12|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:22|21|Erica Pei Shan Khoo|Wei Chyi Ti|7|Erena Calder -Hawkins|Selena Wu|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:27|21|Sally Fu|Christine Zhang|19|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:27|22|Sally Fu|Christine Zhang|20|Grace Hanratty|Louisa Ma|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:30|26|Christopher Steeghs|Niccolo Tagle|24|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:30|21|Christopher Steeghs|Niccolo Tagle|17|Le The Hung Pham|Raymond Sing|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|10|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:19|21|Darren Isaac Devadass|Vountus Indra Mawan|8|Darshand Gobinathan|Peter Yan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|12|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:23|21|Simon Wing Hang Leung|Mitchell Wheller|15|Jonathan Curtin|Benjamin Hillier|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:38|21|Joel Findlay|Andrew Paulet|19|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:38|16|Joel Findlay|Andrew Paulet|21|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:38|22|Joel Findlay|Andrew Paulet|20|Ai Wei Jian|Kah Kok Tan|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:25|21|Cham Chen|Eric Vuong|9|Yohan De Geoffroy|Ronan Ho-Yagues|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:19|21|Jagdish Singh|Erica Pei Shan Khoo|9|Christopher Steeghs|Celine Shao|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:35|19|Niccolo Tagle|Sally Fu|21|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:35|21|Niccolo Tagle|Sally Fu|14|Anthony Joe|Jacinta Joe|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:30|21|Vincent Tak Meng Fong|Eugenia Tanaka|12|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:30|29|Vincent Tak Meng Fong|Eugenia Tanaka|27|Benjamin Hillier|Erena Calder -Hawkins|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:20|21|Jonathan Curtin|Selena Wu|12|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920|0:20|21|Jonathan Curtin|Selena Wu|11|Blake Haggerty|Chloe Lee|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles
+20150920||Walkover Win|Cham Chen|Louisa Ma|Walkover Loss|Abhinav Manota|Justine Villegas|4E8B184B-D0DB-4DAC-9058-C4561BE5EECF|doubles

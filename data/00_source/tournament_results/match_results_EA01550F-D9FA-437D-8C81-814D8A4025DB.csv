@@ -1,0 +1,697 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20171201|0:43|17|Dmitriy Panarin |none|21|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:43|21|Dmitriy Panarin |none|16|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:43|21|Dmitriy Panarin |none|13|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:31|21|Guilhem Hoyaux|none|17|Jose Miguel Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:31|21|Guilhem Hoyaux|none|14|Jose Miguel Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Francisco Oliveira |none|17|Stephen Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Francisco Oliveira |none|12|Stephen Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:29|21|Goncalo Morgado|none|16|Nicolas Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:29|21|Goncalo Morgado|none|13|Nicolas Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Marcus Boman |none|18|Luca Giglioli|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Marcus Boman |none|4|Luca Giglioli|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:37|21|Thomas Gaucher|none|12|Rui Tremoceiro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:37|21|Thomas Gaucher|none|12|Rui Tremoceiro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Simon Koellemann |none|16|Martin Barbado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Simon Koellemann |none|8|Martin Barbado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Tobias Mickel|none|18|Tomas Coelho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Tobias Mickel|none|15|Tomas Coelho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Dennis Koppen |none|4|Samuel Rosa|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Dennis Koppen |none|3|Samuel Rosa|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Miguel San Luis|none|10|Afonso Mendonça|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Miguel San Luis|none|14|Afonso Mendonça|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Alexis Vanhaecke |none|7|Vitor Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Alexis Vanhaecke |none|9|Vitor Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:31|17|Yul Schmid|none|21|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:31|21|Yul Schmid|none|13|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:31|21|Yul Schmid|none|9|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|21|Yanis Aurilio|none|15|Hugo Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|21|Yanis Aurilio|none|12|Hugo Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:21|21|Alberto Perals|none|4|Hugo Jorge|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:21|21|Alberto Perals|none|15|Hugo Jorge|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:38|17|Nicolas A. Mueller |none|21|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:38|21|Nicolas A. Mueller |none|16|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:38|21|Nicolas A. Mueller |none|8|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|18|Joao Fernandes|none|21|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|21|Joao Fernandes|none|17|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|21|Joao Fernandes|none|10|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:34|21|Alvaro Leal|none|10|Rodrigo Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:34|22|Alvaro Leal|none|20|Rodrigo Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:19|21|Jonas Kehl |none|11|Goncalo Gomes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:19|21|Jonas Kehl |none|12|Goncalo Gomes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Gabriel Rodrigues|none|8|Oliver Gausmann|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Gabriel Rodrigues|none|8|Oliver Gausmann|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:22|21|Marcus Lõo |none|14|Ricardo Eduardo|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:22|21|Marcus Lõo |none|16|Ricardo Eduardo|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:33|21|Enrique Rodriguez|none|18|Pedro Mendes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:33|21|Enrique Rodriguez|none|10|Pedro Mendes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Dimitri Jacquart |none|13|Rudi Sagmeister|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Dimitri Jacquart |none|11|Rudi Sagmeister|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:17|21|Soen Rimmer|none|10|Antonio Carvalho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:17|21|Soen Rimmer|none|8|Antonio Carvalho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Markus Barth |none|5|Andy Schneider|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Markus Barth |none|9|Andy Schneider|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:47|22|Sergio Vidal|none|20|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:47|13|Sergio Vidal|none|21|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:47|24|Sergio Vidal|none|22|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:15|21|Gasper Krivec |none|7|Damian Schouten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:15|21|Gasper Krivec |none|8|Damian Schouten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Matti-Lukka Bahro|none|15|Luis A. Silva|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Matti-Lukka Bahro|none|12|Luis A. Silva|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Giovanni Toti |none|12|Logan Dorso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Giovanni Toti |none|15|Logan Dorso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:24|21|Vincent Braaksma|none|15|Pedro Pedroso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:24|21|Vincent Braaksma|none|15|Pedro Pedroso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:19|21|Timo Stoffelen |none|16|Giuseppe Foco|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:19|21|Timo Stoffelen |none|9|Giuseppe Foco|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:21|21|Lars Kros|none|16|Simao Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:21|21|Lars Kros|none|12|Simao Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Julien Carraggi |none|15|Remco Boeije|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Julien Carraggi |none|12|Remco Boeije|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Marion Le Turdu|none|12|Victoria Korobova|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Marion Le Turdu|none|14|Victoria Korobova|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Maija Krzywacki|none|15|Teresa Lopes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Maija Krzywacki|none|11|Teresa Lopes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201||Walkover Win|Ines Pardilho|none|Walkover Loss|Claudia Leal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|21|Indira Dickhäuser|none|15|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|18|Indira Dickhäuser|none|21|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|21|Indira Dickhäuser|none|19|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201||21|Clara Paoli|none|23|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201||11|Clara Paoli|none|5|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201||Walkover Win|Clara Paoli|none|Walkover Loss|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:16|21|Kelly Van Buiten|none|13|Mariana Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:16|21|Kelly Van Buiten|none|3|Mariana Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:14|21|Chiara Marino|none|4|Ines Vitorino|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:14|21|Chiara Marino|none|4|Ines Vitorino|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:37|21|Catarina M. Martins|none|13|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:37|18|Catarina M. Martins|none|21|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:37|21|Catarina M. Martins|none|8|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Ana Ramirez|none|10|Carolina Miffon|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Ana Ramirez|none|14|Carolina Miffon|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201||Walkover Win|Ines Lencastre|none|Walkover Loss|Cera Samuels|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|15|Chloe Le Manach|none|21|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|21|Chloe Le Manach|none|17|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:35|21|Chloe Le Manach|none|8|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:22|21|Camille Benetreau|none|14|Joana Oliveira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:22|21|Camille Benetreau|none|12|Joana Oliveira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Aline Müller|none|10|Constanca Soares|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Aline Müller|none|7|Constanca Soares|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Ana Carbon|none|14|Mariana Afonso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Ana Carbon|none|7|Mariana Afonso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:14|21|Nerea Diaz|none|6|Ana Cruz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:14|21|Nerea Diaz|none|9|Ana Cruz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:22|21|Nicolas A. Mueller |Indira Dickhäuser|11|Pedro Pedroso|Ana Andrade|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:22|21|Nicolas A. Mueller |Indira Dickhäuser|12|Pedro Pedroso|Ana Andrade|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Matis Kaart|Liisa-Lotta Tannik|4|Francisco Marreiros|Nadia Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Matis Kaart|Liisa-Lotta Tannik|8|Francisco Marreiros|Nadia Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:18|21|Etienne Deneuville|Clara Paoli|12|Miguel Carvalho|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:18|21|Etienne Deneuville|Clara Paoli|12|Miguel Carvalho|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:13|21|Alberto Perals|Ana Ramirez|14|Remco Boeije|Nienke Kwakkenbos|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:13|21|Alberto Perals|Ana Ramirez|10|Remco Boeije|Nienke Kwakkenbos|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:17|21|Matti-Lukka Bahro|Chiara Marino|8|Luis G. Mendes|Maria Dias|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:17|21|Matti-Lukka Bahro|Chiara Marino|5|Luis G. Mendes|Maria Dias|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Timo Stoffelen|Kelly Van Buiten|10|Joao Fernandes|Mariana Antunes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Timo Stoffelen|Kelly Van Buiten|14|Joao Fernandes|Mariana Antunes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Lars Kros|Daphne Jansen|11|Guilherme Roberto|Carolina Miffon|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Lars Kros|Daphne Jansen|6|Guilherme Roberto|Carolina Miffon|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Theo Vaur|Camille Benetreau|5|Francisco Seita|Ana Cruz|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Theo Vaur|Camille Benetreau|13|Francisco Seita|Ana Cruz|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:18|21|Alexander Raudsepp|Merit Mägi|7|Hugo Fernandes|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:18|21|Alexander Raudsepp|Merit Mägi|15|Hugo Fernandes|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Dennis Koppen |Madouc Linders|12|Leonardo Viseu|Joana Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Dennis Koppen |Madouc Linders|8|Leonardo Viseu|Joana Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:22|21|Thomas Gaucher|Chloe Le Manach|13|Vitor Ferreira|Katherine Jong|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:22|21|Thomas Gaucher|Chloe Le Manach|15|Vitor Ferreira|Katherine Jong|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201||Walkover Win|Rafael Antunes|Mariana Martins|Walkover Loss|Alvaro Leal|Claudia Leal|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:23|21|Jonas Kehl|Lea Schwarz|15|Luis A. Silva|Constanca Soares|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:23|21|Jonas Kehl|Lea Schwarz|16|Luis A. Silva|Constanca Soares|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Jona Van Nieuwkerke |Joke De Langhe|9|David Duarte|Mariana Afonso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Jona Van Nieuwkerke |Joke De Langhe|9|David Duarte|Mariana Afonso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:40|21|Francisco Oliveira |none|13|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:40|15|Francisco Oliveira |none|21|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:40|21|Francisco Oliveira |none|18|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:49|15|Tobias Mickel|none|21|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:49|21|Tobias Mickel|none|19|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:49|23|Tobias Mickel|none|21|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Alberto Perals|none|11|Yanis Aurilio|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Alberto Perals|none|14|Yanis Aurilio|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|24|Dmitriy Panarin |none|22|Guilhem Hoyaux|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:20|21|Dmitriy Panarin |none|7|Guilhem Hoyaux|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Nicolas A. Mueller |none|11|Joao Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Nicolas A. Mueller |none|16|Joao Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Marcus Boman |none|17|Thomas Gaucher|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Marcus Boman |none|18|Thomas Gaucher|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:24|21|Dennis Koppen |none|19|Miguel San Luis|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:24|21|Dennis Koppen |none|13|Miguel San Luis|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Alexis Vanhaecke |none|15|Yul Schmid|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:23|21|Alexis Vanhaecke |none|15|Yul Schmid|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|21|Alvaro Leal|none|10|Jonas Kehl [16]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|21|Alvaro Leal|none|17|Jonas Kehl [16]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|25|Marcus Lõo |none|23|Gabriel Rodrigues|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|22|Marcus Lõo |none|20|Gabriel Rodrigues|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:47|21|Enrique Rodriguez|none|16|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:47|22|Enrique Rodriguez|none|24|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:47|21|Enrique Rodriguez|none|13|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Markus Barth |none|9|Soen Rimmer|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Markus Barth |none|13|Soen Rimmer|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:36|21|Gasper Krivec |none|17|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:36|19|Gasper Krivec |none|21|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:36|21|Gasper Krivec |none|10|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Giovanni Toti |none|12|Matti-Lukka Bahro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:30|21|Giovanni Toti |none|13|Matti-Lukka Bahro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:24|21|Timo Stoffelen |none|13|Vincent Braaksma|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:24|21|Timo Stoffelen |none|18|Vincent Braaksma|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Julien Carraggi |none|13|Lars Kros|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Julien Carraggi |none|18|Lars Kros|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:14|21|Reka Madarasz |none|4|Katherine Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:14|21|Reka Madarasz |none|6|Katherine Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:17|21|Marion Le Turdu|none|9|Ana Marques|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:17|21|Marion Le Turdu|none|11|Ana Marques|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:34|17|Madouc Linders |none|21|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:34|21|Madouc Linders |none|12|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:34|21|Madouc Linders |none|11|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Ines Pardilho|none|12|Ana Andrade|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:25|21|Ines Pardilho|none|16|Ana Andrade|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:41|12|Indira Dickhäuser|none|21|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:41|21|Indira Dickhäuser|none|17|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:41|21|Indira Dickhäuser|none|14|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Clara Paoli|none|6|Nienke Kwakkenbos|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Clara Paoli|none|12|Nienke Kwakkenbos|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Elena Andreu |none|9|Kelly Van Buiten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:26|21|Elena Andreu |none|7|Kelly Van Buiten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:41|20|Chiara Marino|none|22|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:41|21|Chiara Marino|none|5|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:41|21|Chiara Marino|none|4|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|22|Lea Schwarz|none|20|Catarina M. Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|21|Lea Schwarz|none|15|Catarina M. Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Petra Polanc |none|8|Ana Ramirez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Petra Polanc |none|14|Ana Ramirez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:15|21|Joke De Langhe|none|4|Ines Lencastre|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:15|21|Joke De Langhe|none|3|Ines Lencastre|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Léonice Huet |none|3|Chloe Le Manach|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:18|21|Léonice Huet |none|4|Chloe Le Manach|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|21|Clara Cotte|none|16|Camille Benetreau|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:27|21|Clara Cotte|none|12|Camille Benetreau|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:21|21|Jenjira Stadelmann |none|12|Aline Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:21|21|Jenjira Stadelmann |none|13|Aline Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:39|21|Ana Carbon|none|19|Adriana F. Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:39|21|Ana Carbon|none|18|Adriana F. Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Grace King |none|14|Nerea Diaz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:28|21|Grace King |none|18|Nerea Diaz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171201|0:16|21|Julien Carraggi |Jona Van Nieuwkerke|10|Daniel Costa|Pedro Pedroso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:16|21|Julien Carraggi |Jona Van Nieuwkerke|12|Daniel Costa|Pedro Pedroso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Vincent Braaksma|Andy Schneider|9|Pedro Rocha|Samuel Rosa|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Vincent Braaksma|Andy Schneider|4|Pedro Rocha|Samuel Rosa|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201||10|Tomas Coelho|Simao Ferreira|12|Jonas Kehl|Tobias Mickel|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201||Walkover Win|Tomas Coelho|Simao Ferreira|Walkover Loss|Jonas Kehl|Tobias Mickel|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:13|21|Dimitri Jacquart |Alexis Vanhaecke|11|Antonio Carvalho|Goncalo Gomes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:13|21|Dimitri Jacquart |Alexis Vanhaecke|10|Antonio Carvalho|Goncalo Gomes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:19|21|Enrique Rodriguez|Miguel San Luis|6|Pedro Campos|Bruno Maranhao|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:19|21|Enrique Rodriguez|Miguel San Luis|5|Pedro Campos|Bruno Maranhao|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Matis Kaart |Alexander Raudsepp|12|Yanis Aurilio|Yul Schmid|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Matis Kaart |Alexander Raudsepp|19|Yanis Aurilio|Yul Schmid|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:41|21|Etienne Deneuville|Stephen Jong|16|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:41|15|Etienne Deneuville|Stephen Jong|21|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:41|21|Etienne Deneuville|Stephen Jong|16|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Martin Barbado|Sergio Vidal|7|Pedro Nunes|Rafael Riscado|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:15|21|Martin Barbado|Sergio Vidal|7|Pedro Nunes|Rafael Riscado|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:21|21|Nicolas Müller |Soen Rimmer|12|David Duarte|Hugo Fernandes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:21|21|Nicolas Müller |Soen Rimmer|12|David Duarte|Hugo Fernandes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Rodrigo Ferreira|Goncalo Morgado|12|Giuseppe Foco|Luca Giglioli|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:20|21|Rodrigo Ferreira|Goncalo Morgado|19|Giuseppe Foco|Luca Giglioli|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:17|21|Lars Kros |Timo Stoffelen|8|Jose Boaventura|Paulo Goncalves|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:17|21|Lars Kros |Timo Stoffelen|10|Jose Boaventura|Paulo Goncalves|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:23|21|Gabriel Rodrigues|Theo Vaur|18|Remco Boeije|Damian Schouten|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:23|21|Gabriel Rodrigues|Theo Vaur|18|Remco Boeije|Damian Schouten|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:19|21|Logan Dorso|Thomas Gaucher|18|Afonso Mendonça [5]|Kevin Selvarajah|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:19|21|Logan Dorso|Thomas Gaucher|16|Afonso Mendonça [5]|Kevin Selvarajah|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201||Walkover Win|Francisco Pires|Luis A. Silva|Walkover Loss|Matti-Lukka Bahro|Nils Rogenwieser|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201||Walkover Win|Francisco Marreiros|Guilherme Roberto|Walkover Loss|Karl Kert [2]|Marcus Lõo|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:17|21|Chiara Marino|Lea Schwarz|3|Ines Pinto|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:17|21|Chiara Marino|Lea Schwarz|8|Ines Pinto|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:21|21|Clara Cotte|Clara Paoli|8|Mariana Afonso|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171201|0:21|21|Clara Cotte|Clara Paoli|15|Mariana Afonso|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:43|17|Dmitriy Panarin |none|21|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:43|21|Dmitriy Panarin |none|16|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:43|21|Dmitriy Panarin |none|13|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:31|21|Guilhem Hoyaux|none|17|Jose Miguel Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:31|21|Guilhem Hoyaux|none|14|Jose Miguel Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Francisco Oliveira |none|17|Stephen Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Francisco Oliveira |none|12|Stephen Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:29|21|Goncalo Morgado|none|16|Nicolas Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:29|21|Goncalo Morgado|none|13|Nicolas Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Marcus Boman |none|18|Luca Giglioli|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Marcus Boman |none|4|Luca Giglioli|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:37|21|Thomas Gaucher|none|12|Rui Tremoceiro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:37|21|Thomas Gaucher|none|12|Rui Tremoceiro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Simon Koellemann |none|16|Martin Barbado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Simon Koellemann |none|8|Martin Barbado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Tobias Mickel|none|18|Tomas Coelho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Tobias Mickel|none|15|Tomas Coelho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Dennis Koppen |none|4|Samuel Rosa|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Dennis Koppen |none|3|Samuel Rosa|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Miguel San Luis|none|10|Afonso Mendonça|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Miguel San Luis|none|14|Afonso Mendonça|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Alexis Vanhaecke |none|7|Vitor Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Alexis Vanhaecke |none|9|Vitor Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:31|17|Yul Schmid|none|21|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:31|21|Yul Schmid|none|13|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:31|21|Yul Schmid|none|9|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|21|Yanis Aurilio|none|15|Hugo Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|21|Yanis Aurilio|none|12|Hugo Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:21|21|Alberto Perals|none|4|Hugo Jorge|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:21|21|Alberto Perals|none|15|Hugo Jorge|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:38|17|Nicolas A. Mueller |none|21|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:38|21|Nicolas A. Mueller |none|16|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:38|21|Nicolas A. Mueller |none|8|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|18|Joao Fernandes|none|21|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|21|Joao Fernandes|none|17|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|21|Joao Fernandes|none|10|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:34|21|Alvaro Leal|none|10|Rodrigo Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:34|22|Alvaro Leal|none|20|Rodrigo Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:19|21|Jonas Kehl |none|11|Goncalo Gomes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:19|21|Jonas Kehl |none|12|Goncalo Gomes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Gabriel Rodrigues|none|8|Oliver Gausmann|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Gabriel Rodrigues|none|8|Oliver Gausmann|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:22|21|Marcus Lõo |none|14|Ricardo Eduardo|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:22|21|Marcus Lõo |none|16|Ricardo Eduardo|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:33|21|Enrique Rodriguez|none|18|Pedro Mendes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:33|21|Enrique Rodriguez|none|10|Pedro Mendes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Dimitri Jacquart |none|13|Rudi Sagmeister|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Dimitri Jacquart |none|11|Rudi Sagmeister|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:17|21|Soen Rimmer|none|10|Antonio Carvalho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:17|21|Soen Rimmer|none|8|Antonio Carvalho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Markus Barth |none|5|Andy Schneider|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Markus Barth |none|9|Andy Schneider|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:47|22|Sergio Vidal|none|20|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:47|13|Sergio Vidal|none|21|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:47|24|Sergio Vidal|none|22|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:15|21|Gasper Krivec |none|7|Damian Schouten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:15|21|Gasper Krivec |none|8|Damian Schouten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Matti-Lukka Bahro|none|15|Luis A. Silva|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Matti-Lukka Bahro|none|12|Luis A. Silva|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Giovanni Toti |none|12|Logan Dorso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Giovanni Toti |none|15|Logan Dorso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:24|21|Vincent Braaksma|none|15|Pedro Pedroso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:24|21|Vincent Braaksma|none|15|Pedro Pedroso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:19|21|Timo Stoffelen |none|16|Giuseppe Foco|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:19|21|Timo Stoffelen |none|9|Giuseppe Foco|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:21|21|Lars Kros|none|16|Simao Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:21|21|Lars Kros|none|12|Simao Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Julien Carraggi |none|15|Remco Boeije|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Julien Carraggi |none|12|Remco Boeije|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Marion Le Turdu|none|12|Victoria Korobova|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Marion Le Turdu|none|14|Victoria Korobova|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Maija Krzywacki|none|15|Teresa Lopes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Maija Krzywacki|none|11|Teresa Lopes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202||Walkover Win|Ines Pardilho|none|Walkover Loss|Claudia Leal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|21|Indira Dickhäuser|none|15|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|18|Indira Dickhäuser|none|21|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|21|Indira Dickhäuser|none|19|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202||21|Clara Paoli|none|23|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202||11|Clara Paoli|none|5|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202||Walkover Win|Clara Paoli|none|Walkover Loss|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:16|21|Kelly Van Buiten|none|13|Mariana Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:16|21|Kelly Van Buiten|none|3|Mariana Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:14|21|Chiara Marino|none|4|Ines Vitorino|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:14|21|Chiara Marino|none|4|Ines Vitorino|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:37|21|Catarina M. Martins|none|13|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:37|18|Catarina M. Martins|none|21|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:37|21|Catarina M. Martins|none|8|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Ana Ramirez|none|10|Carolina Miffon|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Ana Ramirez|none|14|Carolina Miffon|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202||Walkover Win|Ines Lencastre|none|Walkover Loss|Cera Samuels|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|15|Chloe Le Manach|none|21|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|21|Chloe Le Manach|none|17|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:35|21|Chloe Le Manach|none|8|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:22|21|Camille Benetreau|none|14|Joana Oliveira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:22|21|Camille Benetreau|none|12|Joana Oliveira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Aline Müller|none|10|Constanca Soares|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Aline Müller|none|7|Constanca Soares|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Ana Carbon|none|14|Mariana Afonso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Ana Carbon|none|7|Mariana Afonso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:14|21|Nerea Diaz|none|6|Ana Cruz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:14|21|Nerea Diaz|none|9|Ana Cruz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:22|21|Nicolas A. Mueller |Indira Dickhäuser|11|Pedro Pedroso|Ana Andrade|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:22|21|Nicolas A. Mueller |Indira Dickhäuser|12|Pedro Pedroso|Ana Andrade|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Matis Kaart|Liisa-Lotta Tannik|4|Francisco Marreiros|Nadia Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Matis Kaart|Liisa-Lotta Tannik|8|Francisco Marreiros|Nadia Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:18|21|Etienne Deneuville|Clara Paoli|12|Miguel Carvalho|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:18|21|Etienne Deneuville|Clara Paoli|12|Miguel Carvalho|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:13|21|Alberto Perals|Ana Ramirez|14|Remco Boeije|Nienke Kwakkenbos|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:13|21|Alberto Perals|Ana Ramirez|10|Remco Boeije|Nienke Kwakkenbos|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:17|21|Matti-Lukka Bahro|Chiara Marino|8|Luis G. Mendes|Maria Dias|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:17|21|Matti-Lukka Bahro|Chiara Marino|5|Luis G. Mendes|Maria Dias|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Timo Stoffelen|Kelly Van Buiten|10|Joao Fernandes|Mariana Antunes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Timo Stoffelen|Kelly Van Buiten|14|Joao Fernandes|Mariana Antunes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Lars Kros|Daphne Jansen|11|Guilherme Roberto|Carolina Miffon|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Lars Kros|Daphne Jansen|6|Guilherme Roberto|Carolina Miffon|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Theo Vaur|Camille Benetreau|5|Francisco Seita|Ana Cruz|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Theo Vaur|Camille Benetreau|13|Francisco Seita|Ana Cruz|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:18|21|Alexander Raudsepp|Merit Mägi|7|Hugo Fernandes|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:18|21|Alexander Raudsepp|Merit Mägi|15|Hugo Fernandes|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Dennis Koppen |Madouc Linders|12|Leonardo Viseu|Joana Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Dennis Koppen |Madouc Linders|8|Leonardo Viseu|Joana Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:22|21|Thomas Gaucher|Chloe Le Manach|13|Vitor Ferreira|Katherine Jong|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:22|21|Thomas Gaucher|Chloe Le Manach|15|Vitor Ferreira|Katherine Jong|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202||Walkover Win|Rafael Antunes|Mariana Martins|Walkover Loss|Alvaro Leal|Claudia Leal|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:23|21|Jonas Kehl|Lea Schwarz|15|Luis A. Silva|Constanca Soares|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:23|21|Jonas Kehl|Lea Schwarz|16|Luis A. Silva|Constanca Soares|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Jona Van Nieuwkerke |Joke De Langhe|9|David Duarte|Mariana Afonso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Jona Van Nieuwkerke |Joke De Langhe|9|David Duarte|Mariana Afonso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:40|21|Francisco Oliveira |none|13|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:40|15|Francisco Oliveira |none|21|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:40|21|Francisco Oliveira |none|18|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:49|15|Tobias Mickel|none|21|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:49|21|Tobias Mickel|none|19|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:49|23|Tobias Mickel|none|21|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Alberto Perals|none|11|Yanis Aurilio|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Alberto Perals|none|14|Yanis Aurilio|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|24|Dmitriy Panarin |none|22|Guilhem Hoyaux|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:20|21|Dmitriy Panarin |none|7|Guilhem Hoyaux|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Nicolas A. Mueller |none|11|Joao Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Nicolas A. Mueller |none|16|Joao Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Marcus Boman |none|17|Thomas Gaucher|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Marcus Boman |none|18|Thomas Gaucher|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:24|21|Dennis Koppen |none|19|Miguel San Luis|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:24|21|Dennis Koppen |none|13|Miguel San Luis|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Alexis Vanhaecke |none|15|Yul Schmid|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:23|21|Alexis Vanhaecke |none|15|Yul Schmid|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|21|Alvaro Leal|none|10|Jonas Kehl [16]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|21|Alvaro Leal|none|17|Jonas Kehl [16]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|25|Marcus Lõo |none|23|Gabriel Rodrigues|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|22|Marcus Lõo |none|20|Gabriel Rodrigues|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:47|21|Enrique Rodriguez|none|16|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:47|22|Enrique Rodriguez|none|24|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:47|21|Enrique Rodriguez|none|13|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Markus Barth |none|9|Soen Rimmer|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Markus Barth |none|13|Soen Rimmer|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:36|21|Gasper Krivec |none|17|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:36|19|Gasper Krivec |none|21|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:36|21|Gasper Krivec |none|10|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Giovanni Toti |none|12|Matti-Lukka Bahro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:30|21|Giovanni Toti |none|13|Matti-Lukka Bahro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:24|21|Timo Stoffelen |none|13|Vincent Braaksma|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:24|21|Timo Stoffelen |none|18|Vincent Braaksma|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Julien Carraggi |none|13|Lars Kros|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Julien Carraggi |none|18|Lars Kros|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:14|21|Reka Madarasz |none|4|Katherine Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:14|21|Reka Madarasz |none|6|Katherine Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:17|21|Marion Le Turdu|none|9|Ana Marques|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:17|21|Marion Le Turdu|none|11|Ana Marques|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:34|17|Madouc Linders |none|21|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:34|21|Madouc Linders |none|12|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:34|21|Madouc Linders |none|11|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Ines Pardilho|none|12|Ana Andrade|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:25|21|Ines Pardilho|none|16|Ana Andrade|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:41|12|Indira Dickhäuser|none|21|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:41|21|Indira Dickhäuser|none|17|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:41|21|Indira Dickhäuser|none|14|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Clara Paoli|none|6|Nienke Kwakkenbos|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Clara Paoli|none|12|Nienke Kwakkenbos|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Elena Andreu |none|9|Kelly Van Buiten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:26|21|Elena Andreu |none|7|Kelly Van Buiten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:41|20|Chiara Marino|none|22|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:41|21|Chiara Marino|none|5|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:41|21|Chiara Marino|none|4|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|22|Lea Schwarz|none|20|Catarina M. Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|21|Lea Schwarz|none|15|Catarina M. Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Petra Polanc |none|8|Ana Ramirez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Petra Polanc |none|14|Ana Ramirez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:15|21|Joke De Langhe|none|4|Ines Lencastre|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:15|21|Joke De Langhe|none|3|Ines Lencastre|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Léonice Huet |none|3|Chloe Le Manach|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:18|21|Léonice Huet |none|4|Chloe Le Manach|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|21|Clara Cotte|none|16|Camille Benetreau|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:27|21|Clara Cotte|none|12|Camille Benetreau|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:21|21|Jenjira Stadelmann |none|12|Aline Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:21|21|Jenjira Stadelmann |none|13|Aline Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:39|21|Ana Carbon|none|19|Adriana F. Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:39|21|Ana Carbon|none|18|Adriana F. Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Grace King |none|14|Nerea Diaz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:28|21|Grace King |none|18|Nerea Diaz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171202|0:16|21|Julien Carraggi |Jona Van Nieuwkerke|10|Daniel Costa|Pedro Pedroso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:16|21|Julien Carraggi |Jona Van Nieuwkerke|12|Daniel Costa|Pedro Pedroso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Vincent Braaksma|Andy Schneider|9|Pedro Rocha|Samuel Rosa|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Vincent Braaksma|Andy Schneider|4|Pedro Rocha|Samuel Rosa|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202||10|Tomas Coelho|Simao Ferreira|12|Jonas Kehl|Tobias Mickel|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202||Walkover Win|Tomas Coelho|Simao Ferreira|Walkover Loss|Jonas Kehl|Tobias Mickel|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:13|21|Dimitri Jacquart |Alexis Vanhaecke|11|Antonio Carvalho|Goncalo Gomes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:13|21|Dimitri Jacquart |Alexis Vanhaecke|10|Antonio Carvalho|Goncalo Gomes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:19|21|Enrique Rodriguez|Miguel San Luis|6|Pedro Campos|Bruno Maranhao|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:19|21|Enrique Rodriguez|Miguel San Luis|5|Pedro Campos|Bruno Maranhao|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Matis Kaart |Alexander Raudsepp|12|Yanis Aurilio|Yul Schmid|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Matis Kaart |Alexander Raudsepp|19|Yanis Aurilio|Yul Schmid|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:41|21|Etienne Deneuville|Stephen Jong|16|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:41|15|Etienne Deneuville|Stephen Jong|21|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:41|21|Etienne Deneuville|Stephen Jong|16|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Martin Barbado|Sergio Vidal|7|Pedro Nunes|Rafael Riscado|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:15|21|Martin Barbado|Sergio Vidal|7|Pedro Nunes|Rafael Riscado|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:21|21|Nicolas Müller |Soen Rimmer|12|David Duarte|Hugo Fernandes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:21|21|Nicolas Müller |Soen Rimmer|12|David Duarte|Hugo Fernandes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Rodrigo Ferreira|Goncalo Morgado|12|Giuseppe Foco|Luca Giglioli|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:20|21|Rodrigo Ferreira|Goncalo Morgado|19|Giuseppe Foco|Luca Giglioli|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:17|21|Lars Kros |Timo Stoffelen|8|Jose Boaventura|Paulo Goncalves|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:17|21|Lars Kros |Timo Stoffelen|10|Jose Boaventura|Paulo Goncalves|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:23|21|Gabriel Rodrigues|Theo Vaur|18|Remco Boeije|Damian Schouten|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:23|21|Gabriel Rodrigues|Theo Vaur|18|Remco Boeije|Damian Schouten|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:19|21|Logan Dorso|Thomas Gaucher|18|Afonso Mendonça [5]|Kevin Selvarajah|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:19|21|Logan Dorso|Thomas Gaucher|16|Afonso Mendonça [5]|Kevin Selvarajah|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202||Walkover Win|Francisco Pires|Luis A. Silva|Walkover Loss|Matti-Lukka Bahro|Nils Rogenwieser|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202||Walkover Win|Francisco Marreiros|Guilherme Roberto|Walkover Loss|Karl Kert [2]|Marcus Lõo|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:17|21|Chiara Marino|Lea Schwarz|3|Ines Pinto|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:17|21|Chiara Marino|Lea Schwarz|8|Ines Pinto|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:21|21|Clara Cotte|Clara Paoli|8|Mariana Afonso|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171202|0:21|21|Clara Cotte|Clara Paoli|15|Mariana Afonso|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:43|17|Dmitriy Panarin |none|21|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:43|21|Dmitriy Panarin |none|16|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:43|21|Dmitriy Panarin |none|13|Theo Vaur|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:31|21|Guilhem Hoyaux|none|17|Jose Miguel Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:31|21|Guilhem Hoyaux|none|14|Jose Miguel Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Francisco Oliveira |none|17|Stephen Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Francisco Oliveira |none|12|Stephen Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:29|21|Goncalo Morgado|none|16|Nicolas Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:29|21|Goncalo Morgado|none|13|Nicolas Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Marcus Boman |none|18|Luca Giglioli|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Marcus Boman |none|4|Luca Giglioli|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:37|21|Thomas Gaucher|none|12|Rui Tremoceiro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:37|21|Thomas Gaucher|none|12|Rui Tremoceiro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Simon Koellemann |none|16|Martin Barbado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Simon Koellemann |none|8|Martin Barbado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Tobias Mickel|none|18|Tomas Coelho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Tobias Mickel|none|15|Tomas Coelho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Dennis Koppen |none|4|Samuel Rosa|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Dennis Koppen |none|3|Samuel Rosa|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Miguel San Luis|none|10|Afonso Mendonça|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Miguel San Luis|none|14|Afonso Mendonça|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Alexis Vanhaecke |none|7|Vitor Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Alexis Vanhaecke |none|9|Vitor Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:31|17|Yul Schmid|none|21|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:31|21|Yul Schmid|none|13|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:31|21|Yul Schmid|none|9|David Duarte|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|21|Yanis Aurilio|none|15|Hugo Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|21|Yanis Aurilio|none|12|Hugo Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:21|21|Alberto Perals|none|4|Hugo Jorge|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:21|21|Alberto Perals|none|15|Hugo Jorge|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:38|17|Nicolas A. Mueller |none|21|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:38|21|Nicolas A. Mueller |none|16|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:38|21|Nicolas A. Mueller |none|8|Etienne Deneuville|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|18|Joao Fernandes|none|21|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|21|Joao Fernandes|none|17|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|21|Joao Fernandes|none|10|Paulo Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:34|21|Alvaro Leal|none|10|Rodrigo Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:34|22|Alvaro Leal|none|20|Rodrigo Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:19|21|Jonas Kehl |none|11|Goncalo Gomes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:19|21|Jonas Kehl |none|12|Goncalo Gomes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Gabriel Rodrigues|none|8|Oliver Gausmann|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Gabriel Rodrigues|none|8|Oliver Gausmann|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:22|21|Marcus Lõo |none|14|Ricardo Eduardo|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:22|21|Marcus Lõo |none|16|Ricardo Eduardo|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:33|21|Enrique Rodriguez|none|18|Pedro Mendes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:33|21|Enrique Rodriguez|none|10|Pedro Mendes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Dimitri Jacquart |none|13|Rudi Sagmeister|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Dimitri Jacquart |none|11|Rudi Sagmeister|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:17|21|Soen Rimmer|none|10|Antonio Carvalho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:17|21|Soen Rimmer|none|8|Antonio Carvalho|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Markus Barth |none|5|Andy Schneider|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Markus Barth |none|9|Andy Schneider|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:47|22|Sergio Vidal|none|20|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:47|13|Sergio Vidal|none|21|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:47|24|Sergio Vidal|none|22|Kevin Selvarajah|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:15|21|Gasper Krivec |none|7|Damian Schouten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:15|21|Gasper Krivec |none|8|Damian Schouten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Matti-Lukka Bahro|none|15|Luis A. Silva|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Matti-Lukka Bahro|none|12|Luis A. Silva|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Giovanni Toti |none|12|Logan Dorso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Giovanni Toti |none|15|Logan Dorso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:24|21|Vincent Braaksma|none|15|Pedro Pedroso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:24|21|Vincent Braaksma|none|15|Pedro Pedroso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:19|21|Timo Stoffelen |none|16|Giuseppe Foco|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:19|21|Timo Stoffelen |none|9|Giuseppe Foco|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:21|21|Lars Kros|none|16|Simao Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:21|21|Lars Kros|none|12|Simao Ferreira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Julien Carraggi |none|15|Remco Boeije|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Julien Carraggi |none|12|Remco Boeije|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Marion Le Turdu|none|12|Victoria Korobova|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Marion Le Turdu|none|14|Victoria Korobova|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Maija Krzywacki|none|15|Teresa Lopes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Maija Krzywacki|none|11|Teresa Lopes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203||Walkover Win|Ines Pardilho|none|Walkover Loss|Claudia Leal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|21|Indira Dickhäuser|none|15|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|18|Indira Dickhäuser|none|21|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|21|Indira Dickhäuser|none|19|Daphne Jansen|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203||21|Clara Paoli|none|23|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203||11|Clara Paoli|none|5|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203||Walkover Win|Clara Paoli|none|Walkover Loss|Lucia Rodriguez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:16|21|Kelly Van Buiten|none|13|Mariana Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:16|21|Kelly Van Buiten|none|3|Mariana Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:14|21|Chiara Marino|none|4|Ines Vitorino|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:14|21|Chiara Marino|none|4|Ines Vitorino|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:37|21|Catarina M. Martins|none|13|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:37|18|Catarina M. Martins|none|21|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:37|21|Catarina M. Martins|none|8|Liisa-Lotta Tannik|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Ana Ramirez|none|10|Carolina Miffon|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Ana Ramirez|none|14|Carolina Miffon|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203||Walkover Win|Ines Lencastre|none|Walkover Loss|Cera Samuels|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|15|Chloe Le Manach|none|21|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|21|Chloe Le Manach|none|17|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:35|21|Chloe Le Manach|none|8|Maria Dias|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:22|21|Camille Benetreau|none|14|Joana Oliveira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:22|21|Camille Benetreau|none|12|Joana Oliveira|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Aline Müller|none|10|Constanca Soares|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Aline Müller|none|7|Constanca Soares|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Ana Carbon|none|14|Mariana Afonso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Ana Carbon|none|7|Mariana Afonso|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:14|21|Nerea Diaz|none|6|Ana Cruz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:14|21|Nerea Diaz|none|9|Ana Cruz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:22|21|Nicolas A. Mueller |Indira Dickhäuser|11|Pedro Pedroso|Ana Andrade|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:22|21|Nicolas A. Mueller |Indira Dickhäuser|12|Pedro Pedroso|Ana Andrade|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Matis Kaart|Liisa-Lotta Tannik|4|Francisco Marreiros|Nadia Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Matis Kaart|Liisa-Lotta Tannik|8|Francisco Marreiros|Nadia Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:18|21|Etienne Deneuville|Clara Paoli|12|Miguel Carvalho|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:18|21|Etienne Deneuville|Clara Paoli|12|Miguel Carvalho|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:13|21|Alberto Perals|Ana Ramirez|14|Remco Boeije|Nienke Kwakkenbos|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:13|21|Alberto Perals|Ana Ramirez|10|Remco Boeije|Nienke Kwakkenbos|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:17|21|Matti-Lukka Bahro|Chiara Marino|8|Luis G. Mendes|Maria Dias|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:17|21|Matti-Lukka Bahro|Chiara Marino|5|Luis G. Mendes|Maria Dias|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Timo Stoffelen|Kelly Van Buiten|10|Joao Fernandes|Mariana Antunes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Timo Stoffelen|Kelly Van Buiten|14|Joao Fernandes|Mariana Antunes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Lars Kros|Daphne Jansen|11|Guilherme Roberto|Carolina Miffon|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Lars Kros|Daphne Jansen|6|Guilherme Roberto|Carolina Miffon|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Theo Vaur|Camille Benetreau|5|Francisco Seita|Ana Cruz|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Theo Vaur|Camille Benetreau|13|Francisco Seita|Ana Cruz|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:18|21|Alexander Raudsepp|Merit Mägi|7|Hugo Fernandes|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:18|21|Alexander Raudsepp|Merit Mägi|15|Hugo Fernandes|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Dennis Koppen |Madouc Linders|12|Leonardo Viseu|Joana Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Dennis Koppen |Madouc Linders|8|Leonardo Viseu|Joana Oliveira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:22|21|Thomas Gaucher|Chloe Le Manach|13|Vitor Ferreira|Katherine Jong|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:22|21|Thomas Gaucher|Chloe Le Manach|15|Vitor Ferreira|Katherine Jong|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203||Walkover Win|Rafael Antunes|Mariana Martins|Walkover Loss|Alvaro Leal|Claudia Leal|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:23|21|Jonas Kehl|Lea Schwarz|15|Luis A. Silva|Constanca Soares|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:23|21|Jonas Kehl|Lea Schwarz|16|Luis A. Silva|Constanca Soares|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Jona Van Nieuwkerke |Joke De Langhe|9|David Duarte|Mariana Afonso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Jona Van Nieuwkerke |Joke De Langhe|9|David Duarte|Mariana Afonso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:40|21|Francisco Oliveira |none|13|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:40|15|Francisco Oliveira |none|21|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:40|21|Francisco Oliveira |none|18|Goncalo Morgado|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:49|15|Tobias Mickel|none|21|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:49|21|Tobias Mickel|none|19|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:49|23|Tobias Mickel|none|21|Simon Koellemann [15]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Alberto Perals|none|11|Yanis Aurilio|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Alberto Perals|none|14|Yanis Aurilio|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|24|Dmitriy Panarin |none|22|Guilhem Hoyaux|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:20|21|Dmitriy Panarin |none|7|Guilhem Hoyaux|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Nicolas A. Mueller |none|11|Joao Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Nicolas A. Mueller |none|16|Joao Fernandes|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Marcus Boman |none|17|Thomas Gaucher|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Marcus Boman |none|18|Thomas Gaucher|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:24|21|Dennis Koppen |none|19|Miguel San Luis|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:24|21|Dennis Koppen |none|13|Miguel San Luis|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Alexis Vanhaecke |none|15|Yul Schmid|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:23|21|Alexis Vanhaecke |none|15|Yul Schmid|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|21|Alvaro Leal|none|10|Jonas Kehl [16]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|21|Alvaro Leal|none|17|Jonas Kehl [16]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|25|Marcus Lõo |none|23|Gabriel Rodrigues|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|22|Marcus Lõo |none|20|Gabriel Rodrigues|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:47|21|Enrique Rodriguez|none|16|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:47|22|Enrique Rodriguez|none|24|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:47|21|Enrique Rodriguez|none|13|Dimitri Jacquart [11]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Markus Barth |none|9|Soen Rimmer|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Markus Barth |none|13|Soen Rimmer|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:36|21|Gasper Krivec |none|17|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:36|19|Gasper Krivec |none|21|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:36|21|Gasper Krivec |none|10|Sergio Vidal|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Giovanni Toti |none|12|Matti-Lukka Bahro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:30|21|Giovanni Toti |none|13|Matti-Lukka Bahro|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:24|21|Timo Stoffelen |none|13|Vincent Braaksma|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:24|21|Timo Stoffelen |none|18|Vincent Braaksma|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Julien Carraggi |none|13|Lars Kros|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Julien Carraggi |none|18|Lars Kros|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:14|21|Reka Madarasz |none|4|Katherine Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:14|21|Reka Madarasz |none|6|Katherine Jong|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:17|21|Marion Le Turdu|none|9|Ana Marques|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:17|21|Marion Le Turdu|none|11|Ana Marques|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:34|17|Madouc Linders |none|21|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:34|21|Madouc Linders |none|12|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:34|21|Madouc Linders |none|11|Maija Krzywacki|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Ines Pardilho|none|12|Ana Andrade|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:25|21|Ines Pardilho|none|16|Ana Andrade|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:41|12|Indira Dickhäuser|none|21|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:41|21|Indira Dickhäuser|none|17|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:41|21|Indira Dickhäuser|none|14|Freya Redfearn [4]|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Clara Paoli|none|6|Nienke Kwakkenbos|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Clara Paoli|none|12|Nienke Kwakkenbos|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Elena Andreu |none|9|Kelly Van Buiten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:26|21|Elena Andreu |none|7|Kelly Van Buiten|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:41|20|Chiara Marino|none|22|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:41|21|Chiara Marino|none|5|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:41|21|Chiara Marino|none|4|Merit Mägi|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|22|Lea Schwarz|none|20|Catarina M. Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|21|Lea Schwarz|none|15|Catarina M. Martins|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Petra Polanc |none|8|Ana Ramirez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Petra Polanc |none|14|Ana Ramirez|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:15|21|Joke De Langhe|none|4|Ines Lencastre|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:15|21|Joke De Langhe|none|3|Ines Lencastre|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Léonice Huet |none|3|Chloe Le Manach|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:18|21|Léonice Huet |none|4|Chloe Le Manach|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|21|Clara Cotte|none|16|Camille Benetreau|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:27|21|Clara Cotte|none|12|Camille Benetreau|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:21|21|Jenjira Stadelmann |none|12|Aline Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:21|21|Jenjira Stadelmann |none|13|Aline Müller|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:39|21|Ana Carbon|none|19|Adriana F. Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:39|21|Ana Carbon|none|18|Adriana F. Goncalves|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Grace King |none|14|Nerea Diaz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:28|21|Grace King |none|18|Nerea Diaz|none|EA01550F-D9FA-437D-8C81-814D8A4025DB|singles
+20171203|0:16|21|Julien Carraggi |Jona Van Nieuwkerke|10|Daniel Costa|Pedro Pedroso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:16|21|Julien Carraggi |Jona Van Nieuwkerke|12|Daniel Costa|Pedro Pedroso|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Vincent Braaksma|Andy Schneider|9|Pedro Rocha|Samuel Rosa|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Vincent Braaksma|Andy Schneider|4|Pedro Rocha|Samuel Rosa|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203||10|Tomas Coelho|Simao Ferreira|12|Jonas Kehl|Tobias Mickel|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203||Walkover Win|Tomas Coelho|Simao Ferreira|Walkover Loss|Jonas Kehl|Tobias Mickel|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:13|21|Dimitri Jacquart |Alexis Vanhaecke|11|Antonio Carvalho|Goncalo Gomes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:13|21|Dimitri Jacquart |Alexis Vanhaecke|10|Antonio Carvalho|Goncalo Gomes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:19|21|Enrique Rodriguez|Miguel San Luis|6|Pedro Campos|Bruno Maranhao|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:19|21|Enrique Rodriguez|Miguel San Luis|5|Pedro Campos|Bruno Maranhao|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Matis Kaart |Alexander Raudsepp|12|Yanis Aurilio|Yul Schmid|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Matis Kaart |Alexander Raudsepp|19|Yanis Aurilio|Yul Schmid|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:41|21|Etienne Deneuville|Stephen Jong|16|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:41|15|Etienne Deneuville|Stephen Jong|21|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:41|21|Etienne Deneuville|Stephen Jong|16|Joao Fernandes|Vitor Ferreira|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Martin Barbado|Sergio Vidal|7|Pedro Nunes|Rafael Riscado|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:15|21|Martin Barbado|Sergio Vidal|7|Pedro Nunes|Rafael Riscado|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:21|21|Nicolas Müller |Soen Rimmer|12|David Duarte|Hugo Fernandes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:21|21|Nicolas Müller |Soen Rimmer|12|David Duarte|Hugo Fernandes|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Rodrigo Ferreira|Goncalo Morgado|12|Giuseppe Foco|Luca Giglioli|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:20|21|Rodrigo Ferreira|Goncalo Morgado|19|Giuseppe Foco|Luca Giglioli|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:17|21|Lars Kros |Timo Stoffelen|8|Jose Boaventura|Paulo Goncalves|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:17|21|Lars Kros |Timo Stoffelen|10|Jose Boaventura|Paulo Goncalves|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:23|21|Gabriel Rodrigues|Theo Vaur|18|Remco Boeije|Damian Schouten|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:23|21|Gabriel Rodrigues|Theo Vaur|18|Remco Boeije|Damian Schouten|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:19|21|Logan Dorso|Thomas Gaucher|18|Afonso Mendonça [5]|Kevin Selvarajah|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:19|21|Logan Dorso|Thomas Gaucher|16|Afonso Mendonça [5]|Kevin Selvarajah|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203||Walkover Win|Francisco Pires|Luis A. Silva|Walkover Loss|Matti-Lukka Bahro|Nils Rogenwieser|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203||Walkover Win|Francisco Marreiros|Guilherme Roberto|Walkover Loss|Karl Kert [2]|Marcus Lõo|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:17|21|Chiara Marino|Lea Schwarz|3|Ines Pinto|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:17|21|Chiara Marino|Lea Schwarz|8|Ines Pinto|Ines Vitorino|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:21|21|Clara Cotte|Clara Paoli|8|Mariana Afonso|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles
+20171203|0:21|21|Clara Cotte|Clara Paoli|15|Mariana Afonso|Ana Marques|EA01550F-D9FA-437D-8C81-814D8A4025DB|doubles

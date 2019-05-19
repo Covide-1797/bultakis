@@ -1,0 +1,895 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150310||Walkover Win|Florent Riancho|Kate Foo Kune|Walkover Loss|Peng Soon Chan [3]|Liu Ying Goh|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Titon Gustaman|Janine Andrea Stocker|Walkover Loss|Oliver Schaller [2]|Celine Burkart|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Gilles Tripet|Diana Dimova|Walkover Loss|Alexandre Hammer|Emilie Beaujean|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Loss|Mark Lamsfuss |Franziska Volkmann|Walkover Win|Baptiste Careme|Sabrina Jaquet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Pierrick Deschenaux|Tiffany Girona|Walkover Loss|Ronan Gueguin [4]|Joanna Chaube|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|15|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|7|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:25|21|Lin Chia Yu|Wu Ti Jung|8|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:25|21|Lin Chia Yu|Wu Ti Jung|15|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:22|21|Nanna Vainio|none|6|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:22|21|Nanna Vainio|none|12|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:44|21|Ellinor Widh|none|23|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:44|21|Ellinor Widh|none|17|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:44|21|Ellinor Widh|none|8|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:27|21|Elisabeth Baldauf|none|13|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:27|21|Elisabeth Baldauf|none|18|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:43|21|Fabienne Deprez|none|16|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:43|9|Fabienne Deprez|none|21|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:43|21|Fabienne Deprez|none|15|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310||0|Marie Demy|none|1|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310||Walkover Win|Marie Demy|none|Walkover Loss|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:30|21|Aya Ohori|none|12|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:30|21|Aya Ohori|none|13|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:39|21|Ratoputri Febtria Adistra|none|11|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:39|14|Ratoputri Febtria Adistra|none|21|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:39|21|Ratoputri Febtria Adistra|none|8|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310||Walkover Win|Ronan Gueguin|Nathan Laemmel|Walkover Loss|Philip Joper Escueta [2]|Ronel Estanislao|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:35|21|Lucas Claerbout|Lucas Corvee|13|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:35|18|Lucas Claerbout|Lucas Corvee|21|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:35|21|Lucas Claerbout|Lucas Corvee|9|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Anthony Dumartheray|Gilles Tripet|Walkover Loss|Peter Gabriel Magnaye [3]|Paul Jefferson Vivas|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:32|21|Kate Foo Kune|none|17|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:32|21|Kate Foo Kune|none|19|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:37|19|Titon Gustaman|Yohannes Hogianto|21|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:37|21|Titon Gustaman|Yohannes Hogianto|15|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:37|21|Titon Gustaman|Yohannes Hogianto|17|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:24|21|Christopher Coles|Paul Van Rietvelde|15|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:24|21|Christopher Coles|Paul Van Rietvelde|10|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|11|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|9|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|4|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|17|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:23|21|Phillipe Charron|Toby Ng|18|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:23|21|Phillipe Charron|Toby Ng|16|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Diana Dimova|Celine Tripet|Walkover Loss|Celine Burkart|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Susanne Keller|Yvonne Keller|Walkover Loss|Lisa Kaminski [2]|Hannah Pohl|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Ratoputri Febtria Adistra|Rosy Oktavia Pancasari|Walkover Loss|Kati-Kreet Marran|Sale - Liis Teesalu|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|19|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|4|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:47|21|Nanna Vainio|none|17|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:47|14|Nanna Vainio|none|21|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:47|21|Nanna Vainio|none|14|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310||Walkover Win|Gilles Tripet|none|Walkover Loss||none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|13|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:37|19|Hsiao-Lin Wu|Hsieh Pei Chen|21|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|9|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:24|21|Lin Chia Yu|Wu Ti Jung|16|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:24|21|Lin Chia Yu|Wu Ti Jung|11|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:31|21|Fabienne Deprez|none|19|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:31|21|Fabienne Deprez|none|16|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Aya Ohori|none|8|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Aya Ohori|none|9|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:23|21|Kate Foo Kune|none|10|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:23|21|Kate Foo Kune|none|9|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|16|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|12|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:34|21|Phillipe Charron|Toby Ng|10|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:34|13|Phillipe Charron|Toby Ng|21|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:34|22|Phillipe Charron|Toby Ng|20|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310||Walkover Win|Cendrine Hantz|Sanya Herzig|Walkover Loss|Kira Kattenbeck [1]|Franziska Volkmann|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:25|21|Christopher Coles|Paul Van Rietvelde|19|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:25|21|Christopher Coles|Paul Van Rietvelde|9|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150310|0:42|21|Dieter Domke|none|16|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:42|18|Dieter Domke|none|21|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:42|21|Dieter Domke|none|7|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|21|Joshua Magee|none|13|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|21|Joshua Magee|none|19|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:01|0|Emil Holst|none|1|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:01|Walkover Win|Emil Holst|none|Walkover Loss|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:35|21|Toby Penty|none|15|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:35|23|Toby Penty|none|21|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:30|21|Christie Jonatan|none|15|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:30|21|Christie Jonatan|none|13|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|19|Andre Kurniawan Tedjono |none|21|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|21|Andre Kurniawan Tedjono |none|11|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|21|Andre Kurniawan Tedjono |none|8|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:37|21|Tian Houwei |none|14|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:37|21|Tian Houwei |none|5|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:31|21|Kazumasa Sakai|none|18|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:31|21|Kazumasa Sakai|none|11|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:25|21|Anand Pawar |none|11|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:25|21|Anand Pawar |none|13|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|21|Daren Liew|none|19|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|21|Daren Liew|none|13|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:30|21|Yuhan Tan|none|12|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:30|21|Yuhan Tan|none|15|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:29|21|Tzu Wei Wang |none|11|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:29|21|Tzu Wei Wang |none|12|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:28|21|K. Srikanth |none|18|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:28|21|K. Srikanth |none|10|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|24|Milan Ludik|none|22|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:36|21|Milan Ludik|none|15|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:23|21|Riichi Takeshita |none|7|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:23|21|Riichi Takeshita |none|9|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:46|21|Anthony Dumartheray|none|14|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:46|16|Anthony Dumartheray|none|21|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:46|21|Anthony Dumartheray|none|15|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:52|14|Lucas Claerbout|none|21|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:52|21|Lucas Claerbout|none|19|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:52|21|Lucas Claerbout|none|15|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:35|21|Zulfadli Zulkiffli|none|15|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:35|21|Zulfadli Zulkiffli|none|14|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:34|21|Flemming Quach|none|18|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:34|21|Flemming Quach|none|16|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:20|21|Fabian Roth|none|8|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:20|21|Fabian Roth|none|6|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:44|21|Stilian Makarski|none|17|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:44|13|Stilian Makarski|none|21|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:44|21|Stilian Makarski|none|16|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:20|21|Xue Song|none|7|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:20|21|Xue Song|none|4|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:51|21|Beryno Jiann Tze Wong|none|18|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:51|18|Beryno Jiann Tze Wong|none|21|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:51|21|Beryno Jiann Tze Wong|none|15|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|1:15|21|Christian Lind Thomsen|none|14|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|1:15|20|Christian Lind Thomsen|none|22|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|1:15|21|Christian Lind Thomsen|none|19|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Hsu Jen Hao |none|6|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Hsu Jen Hao |none|10|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Hsueh Hsuan Yi|none|9|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:24|21|Hsueh Hsuan Yi|none|10|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:31|21|Ng Ka Long Angus |none|12|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:31|23|Ng Ka Long Angus |none|21|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:31|21|Mohamad Arif Abdul Latif|none|9|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:31|21|Mohamad Arif Abdul Latif|none|18|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150310|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311||Walkover Win|Florent Riancho|Kate Foo Kune|Walkover Loss|Peng Soon Chan [3]|Liu Ying Goh|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Titon Gustaman|Janine Andrea Stocker|Walkover Loss|Oliver Schaller [2]|Celine Burkart|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Gilles Tripet|Diana Dimova|Walkover Loss|Alexandre Hammer|Emilie Beaujean|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Loss|Mark Lamsfuss |Franziska Volkmann|Walkover Win|Baptiste Careme|Sabrina Jaquet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Pierrick Deschenaux|Tiffany Girona|Walkover Loss|Ronan Gueguin [4]|Joanna Chaube|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|15|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|7|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:25|21|Lin Chia Yu|Wu Ti Jung|8|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:25|21|Lin Chia Yu|Wu Ti Jung|15|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:22|21|Nanna Vainio|none|6|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:22|21|Nanna Vainio|none|12|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:44|21|Ellinor Widh|none|23|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:44|21|Ellinor Widh|none|17|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:44|21|Ellinor Widh|none|8|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:27|21|Elisabeth Baldauf|none|13|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:27|21|Elisabeth Baldauf|none|18|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:43|21|Fabienne Deprez|none|16|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:43|9|Fabienne Deprez|none|21|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:43|21|Fabienne Deprez|none|15|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311||0|Marie Demy|none|1|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311||Walkover Win|Marie Demy|none|Walkover Loss|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:30|21|Aya Ohori|none|12|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:30|21|Aya Ohori|none|13|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:39|21|Ratoputri Febtria Adistra|none|11|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:39|14|Ratoputri Febtria Adistra|none|21|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:39|21|Ratoputri Febtria Adistra|none|8|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311||Walkover Win|Ronan Gueguin|Nathan Laemmel|Walkover Loss|Philip Joper Escueta [2]|Ronel Estanislao|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:35|21|Lucas Claerbout|Lucas Corvee|13|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:35|18|Lucas Claerbout|Lucas Corvee|21|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:35|21|Lucas Claerbout|Lucas Corvee|9|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Anthony Dumartheray|Gilles Tripet|Walkover Loss|Peter Gabriel Magnaye [3]|Paul Jefferson Vivas|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:32|21|Kate Foo Kune|none|17|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:32|21|Kate Foo Kune|none|19|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:37|19|Titon Gustaman|Yohannes Hogianto|21|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:37|21|Titon Gustaman|Yohannes Hogianto|15|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:37|21|Titon Gustaman|Yohannes Hogianto|17|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:24|21|Christopher Coles|Paul Van Rietvelde|15|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:24|21|Christopher Coles|Paul Van Rietvelde|10|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|11|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|9|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|4|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|17|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:23|21|Phillipe Charron|Toby Ng|18|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:23|21|Phillipe Charron|Toby Ng|16|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Diana Dimova|Celine Tripet|Walkover Loss|Celine Burkart|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Susanne Keller|Yvonne Keller|Walkover Loss|Lisa Kaminski [2]|Hannah Pohl|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Ratoputri Febtria Adistra|Rosy Oktavia Pancasari|Walkover Loss|Kati-Kreet Marran|Sale - Liis Teesalu|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|19|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|4|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:47|21|Nanna Vainio|none|17|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:47|14|Nanna Vainio|none|21|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:47|21|Nanna Vainio|none|14|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311||Walkover Win|Gilles Tripet|none|Walkover Loss||none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|13|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:37|19|Hsiao-Lin Wu|Hsieh Pei Chen|21|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|9|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:24|21|Lin Chia Yu|Wu Ti Jung|16|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:24|21|Lin Chia Yu|Wu Ti Jung|11|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:31|21|Fabienne Deprez|none|19|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:31|21|Fabienne Deprez|none|16|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Aya Ohori|none|8|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Aya Ohori|none|9|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:23|21|Kate Foo Kune|none|10|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:23|21|Kate Foo Kune|none|9|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|16|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|12|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:34|21|Phillipe Charron|Toby Ng|10|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:34|13|Phillipe Charron|Toby Ng|21|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:34|22|Phillipe Charron|Toby Ng|20|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311||Walkover Win|Cendrine Hantz|Sanya Herzig|Walkover Loss|Kira Kattenbeck [1]|Franziska Volkmann|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:25|21|Christopher Coles|Paul Van Rietvelde|19|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:25|21|Christopher Coles|Paul Van Rietvelde|9|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150311|0:42|21|Dieter Domke|none|16|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:42|18|Dieter Domke|none|21|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:42|21|Dieter Domke|none|7|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|21|Joshua Magee|none|13|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|21|Joshua Magee|none|19|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:01|0|Emil Holst|none|1|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:01|Walkover Win|Emil Holst|none|Walkover Loss|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:35|21|Toby Penty|none|15|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:35|23|Toby Penty|none|21|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:30|21|Christie Jonatan|none|15|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:30|21|Christie Jonatan|none|13|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|19|Andre Kurniawan Tedjono |none|21|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|21|Andre Kurniawan Tedjono |none|11|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|21|Andre Kurniawan Tedjono |none|8|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:37|21|Tian Houwei |none|14|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:37|21|Tian Houwei |none|5|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:31|21|Kazumasa Sakai|none|18|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:31|21|Kazumasa Sakai|none|11|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:25|21|Anand Pawar |none|11|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:25|21|Anand Pawar |none|13|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|21|Daren Liew|none|19|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|21|Daren Liew|none|13|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:30|21|Yuhan Tan|none|12|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:30|21|Yuhan Tan|none|15|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:29|21|Tzu Wei Wang |none|11|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:29|21|Tzu Wei Wang |none|12|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:28|21|K. Srikanth |none|18|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:28|21|K. Srikanth |none|10|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|24|Milan Ludik|none|22|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:36|21|Milan Ludik|none|15|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:23|21|Riichi Takeshita |none|7|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:23|21|Riichi Takeshita |none|9|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:46|21|Anthony Dumartheray|none|14|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:46|16|Anthony Dumartheray|none|21|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:46|21|Anthony Dumartheray|none|15|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:52|14|Lucas Claerbout|none|21|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:52|21|Lucas Claerbout|none|19|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:52|21|Lucas Claerbout|none|15|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:35|21|Zulfadli Zulkiffli|none|15|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:35|21|Zulfadli Zulkiffli|none|14|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:34|21|Flemming Quach|none|18|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:34|21|Flemming Quach|none|16|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:20|21|Fabian Roth|none|8|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:20|21|Fabian Roth|none|6|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:44|21|Stilian Makarski|none|17|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:44|13|Stilian Makarski|none|21|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:44|21|Stilian Makarski|none|16|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:20|21|Xue Song|none|7|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:20|21|Xue Song|none|4|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:51|21|Beryno Jiann Tze Wong|none|18|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:51|18|Beryno Jiann Tze Wong|none|21|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:51|21|Beryno Jiann Tze Wong|none|15|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|1:15|21|Christian Lind Thomsen|none|14|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|1:15|20|Christian Lind Thomsen|none|22|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|1:15|21|Christian Lind Thomsen|none|19|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Hsu Jen Hao |none|6|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Hsu Jen Hao |none|10|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Hsueh Hsuan Yi|none|9|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:24|21|Hsueh Hsuan Yi|none|10|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:31|21|Ng Ka Long Angus |none|12|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:31|23|Ng Ka Long Angus |none|21|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:31|21|Mohamad Arif Abdul Latif|none|9|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:31|21|Mohamad Arif Abdul Latif|none|18|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150311|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312||Walkover Win|Florent Riancho|Kate Foo Kune|Walkover Loss|Peng Soon Chan [3]|Liu Ying Goh|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Titon Gustaman|Janine Andrea Stocker|Walkover Loss|Oliver Schaller [2]|Celine Burkart|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Gilles Tripet|Diana Dimova|Walkover Loss|Alexandre Hammer|Emilie Beaujean|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Loss|Mark Lamsfuss |Franziska Volkmann|Walkover Win|Baptiste Careme|Sabrina Jaquet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Pierrick Deschenaux|Tiffany Girona|Walkover Loss|Ronan Gueguin [4]|Joanna Chaube|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|15|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|7|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:25|21|Lin Chia Yu|Wu Ti Jung|8|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:25|21|Lin Chia Yu|Wu Ti Jung|15|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:22|21|Nanna Vainio|none|6|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:22|21|Nanna Vainio|none|12|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:44|21|Ellinor Widh|none|23|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:44|21|Ellinor Widh|none|17|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:44|21|Ellinor Widh|none|8|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:27|21|Elisabeth Baldauf|none|13|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:27|21|Elisabeth Baldauf|none|18|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:43|21|Fabienne Deprez|none|16|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:43|9|Fabienne Deprez|none|21|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:43|21|Fabienne Deprez|none|15|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312||0|Marie Demy|none|1|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312||Walkover Win|Marie Demy|none|Walkover Loss|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:30|21|Aya Ohori|none|12|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:30|21|Aya Ohori|none|13|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:39|21|Ratoputri Febtria Adistra|none|11|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:39|14|Ratoputri Febtria Adistra|none|21|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:39|21|Ratoputri Febtria Adistra|none|8|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312||Walkover Win|Ronan Gueguin|Nathan Laemmel|Walkover Loss|Philip Joper Escueta [2]|Ronel Estanislao|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:35|21|Lucas Claerbout|Lucas Corvee|13|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:35|18|Lucas Claerbout|Lucas Corvee|21|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:35|21|Lucas Claerbout|Lucas Corvee|9|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Anthony Dumartheray|Gilles Tripet|Walkover Loss|Peter Gabriel Magnaye [3]|Paul Jefferson Vivas|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:32|21|Kate Foo Kune|none|17|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:32|21|Kate Foo Kune|none|19|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:37|19|Titon Gustaman|Yohannes Hogianto|21|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:37|21|Titon Gustaman|Yohannes Hogianto|15|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:37|21|Titon Gustaman|Yohannes Hogianto|17|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:24|21|Christopher Coles|Paul Van Rietvelde|15|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:24|21|Christopher Coles|Paul Van Rietvelde|10|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|11|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|9|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|4|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|17|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:23|21|Phillipe Charron|Toby Ng|18|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:23|21|Phillipe Charron|Toby Ng|16|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Diana Dimova|Celine Tripet|Walkover Loss|Celine Burkart|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Susanne Keller|Yvonne Keller|Walkover Loss|Lisa Kaminski [2]|Hannah Pohl|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Ratoputri Febtria Adistra|Rosy Oktavia Pancasari|Walkover Loss|Kati-Kreet Marran|Sale - Liis Teesalu|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|19|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|4|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:47|21|Nanna Vainio|none|17|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:47|14|Nanna Vainio|none|21|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:47|21|Nanna Vainio|none|14|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312||Walkover Win|Gilles Tripet|none|Walkover Loss||none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|13|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:37|19|Hsiao-Lin Wu|Hsieh Pei Chen|21|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|9|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:24|21|Lin Chia Yu|Wu Ti Jung|16|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:24|21|Lin Chia Yu|Wu Ti Jung|11|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:31|21|Fabienne Deprez|none|19|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:31|21|Fabienne Deprez|none|16|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Aya Ohori|none|8|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Aya Ohori|none|9|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:23|21|Kate Foo Kune|none|10|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:23|21|Kate Foo Kune|none|9|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|16|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|12|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:34|21|Phillipe Charron|Toby Ng|10|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:34|13|Phillipe Charron|Toby Ng|21|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:34|22|Phillipe Charron|Toby Ng|20|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312||Walkover Win|Cendrine Hantz|Sanya Herzig|Walkover Loss|Kira Kattenbeck [1]|Franziska Volkmann|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:25|21|Christopher Coles|Paul Van Rietvelde|19|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:25|21|Christopher Coles|Paul Van Rietvelde|9|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150312|0:42|21|Dieter Domke|none|16|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:42|18|Dieter Domke|none|21|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:42|21|Dieter Domke|none|7|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|21|Joshua Magee|none|13|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|21|Joshua Magee|none|19|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:01|0|Emil Holst|none|1|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:01|Walkover Win|Emil Holst|none|Walkover Loss|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:35|21|Toby Penty|none|15|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:35|23|Toby Penty|none|21|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:30|21|Christie Jonatan|none|15|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:30|21|Christie Jonatan|none|13|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|19|Andre Kurniawan Tedjono |none|21|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|21|Andre Kurniawan Tedjono |none|11|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|21|Andre Kurniawan Tedjono |none|8|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:37|21|Tian Houwei |none|14|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:37|21|Tian Houwei |none|5|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:31|21|Kazumasa Sakai|none|18|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:31|21|Kazumasa Sakai|none|11|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:25|21|Anand Pawar |none|11|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:25|21|Anand Pawar |none|13|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|21|Daren Liew|none|19|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|21|Daren Liew|none|13|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:30|21|Yuhan Tan|none|12|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:30|21|Yuhan Tan|none|15|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:29|21|Tzu Wei Wang |none|11|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:29|21|Tzu Wei Wang |none|12|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:28|21|K. Srikanth |none|18|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:28|21|K. Srikanth |none|10|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|24|Milan Ludik|none|22|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:36|21|Milan Ludik|none|15|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:23|21|Riichi Takeshita |none|7|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:23|21|Riichi Takeshita |none|9|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:46|21|Anthony Dumartheray|none|14|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:46|16|Anthony Dumartheray|none|21|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:46|21|Anthony Dumartheray|none|15|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:52|14|Lucas Claerbout|none|21|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:52|21|Lucas Claerbout|none|19|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:52|21|Lucas Claerbout|none|15|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:35|21|Zulfadli Zulkiffli|none|15|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:35|21|Zulfadli Zulkiffli|none|14|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:34|21|Flemming Quach|none|18|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:34|21|Flemming Quach|none|16|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:20|21|Fabian Roth|none|8|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:20|21|Fabian Roth|none|6|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:44|21|Stilian Makarski|none|17|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:44|13|Stilian Makarski|none|21|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:44|21|Stilian Makarski|none|16|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:20|21|Xue Song|none|7|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:20|21|Xue Song|none|4|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:51|21|Beryno Jiann Tze Wong|none|18|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:51|18|Beryno Jiann Tze Wong|none|21|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:51|21|Beryno Jiann Tze Wong|none|15|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|1:15|21|Christian Lind Thomsen|none|14|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|1:15|20|Christian Lind Thomsen|none|22|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|1:15|21|Christian Lind Thomsen|none|19|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Hsu Jen Hao |none|6|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Hsu Jen Hao |none|10|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Hsueh Hsuan Yi|none|9|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:24|21|Hsueh Hsuan Yi|none|10|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:31|21|Ng Ka Long Angus |none|12|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:31|23|Ng Ka Long Angus |none|21|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:31|21|Mohamad Arif Abdul Latif|none|9|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:31|21|Mohamad Arif Abdul Latif|none|18|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150312|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313||Walkover Win|Florent Riancho|Kate Foo Kune|Walkover Loss|Peng Soon Chan [3]|Liu Ying Goh|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Titon Gustaman|Janine Andrea Stocker|Walkover Loss|Oliver Schaller [2]|Celine Burkart|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Gilles Tripet|Diana Dimova|Walkover Loss|Alexandre Hammer|Emilie Beaujean|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Loss|Mark Lamsfuss |Franziska Volkmann|Walkover Win|Baptiste Careme|Sabrina Jaquet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Pierrick Deschenaux|Tiffany Girona|Walkover Loss|Ronan Gueguin [4]|Joanna Chaube|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|15|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|7|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:25|21|Lin Chia Yu|Wu Ti Jung|8|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:25|21|Lin Chia Yu|Wu Ti Jung|15|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:22|21|Nanna Vainio|none|6|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:22|21|Nanna Vainio|none|12|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:44|21|Ellinor Widh|none|23|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:44|21|Ellinor Widh|none|17|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:44|21|Ellinor Widh|none|8|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:27|21|Elisabeth Baldauf|none|13|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:27|21|Elisabeth Baldauf|none|18|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:43|21|Fabienne Deprez|none|16|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:43|9|Fabienne Deprez|none|21|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:43|21|Fabienne Deprez|none|15|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313||0|Marie Demy|none|1|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313||Walkover Win|Marie Demy|none|Walkover Loss|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:30|21|Aya Ohori|none|12|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:30|21|Aya Ohori|none|13|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:39|21|Ratoputri Febtria Adistra|none|11|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:39|14|Ratoputri Febtria Adistra|none|21|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:39|21|Ratoputri Febtria Adistra|none|8|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313||Walkover Win|Ronan Gueguin|Nathan Laemmel|Walkover Loss|Philip Joper Escueta [2]|Ronel Estanislao|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:35|21|Lucas Claerbout|Lucas Corvee|13|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:35|18|Lucas Claerbout|Lucas Corvee|21|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:35|21|Lucas Claerbout|Lucas Corvee|9|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Anthony Dumartheray|Gilles Tripet|Walkover Loss|Peter Gabriel Magnaye [3]|Paul Jefferson Vivas|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:32|21|Kate Foo Kune|none|17|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:32|21|Kate Foo Kune|none|19|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:37|19|Titon Gustaman|Yohannes Hogianto|21|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:37|21|Titon Gustaman|Yohannes Hogianto|15|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:37|21|Titon Gustaman|Yohannes Hogianto|17|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:24|21|Christopher Coles|Paul Van Rietvelde|15|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:24|21|Christopher Coles|Paul Van Rietvelde|10|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|11|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|9|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|4|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|17|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:23|21|Phillipe Charron|Toby Ng|18|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:23|21|Phillipe Charron|Toby Ng|16|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Diana Dimova|Celine Tripet|Walkover Loss|Celine Burkart|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Susanne Keller|Yvonne Keller|Walkover Loss|Lisa Kaminski [2]|Hannah Pohl|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Ratoputri Febtria Adistra|Rosy Oktavia Pancasari|Walkover Loss|Kati-Kreet Marran|Sale - Liis Teesalu|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|19|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|4|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:47|21|Nanna Vainio|none|17|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:47|14|Nanna Vainio|none|21|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:47|21|Nanna Vainio|none|14|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313||Walkover Win|Gilles Tripet|none|Walkover Loss||none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|13|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:37|19|Hsiao-Lin Wu|Hsieh Pei Chen|21|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|9|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:24|21|Lin Chia Yu|Wu Ti Jung|16|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:24|21|Lin Chia Yu|Wu Ti Jung|11|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:31|21|Fabienne Deprez|none|19|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:31|21|Fabienne Deprez|none|16|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Aya Ohori|none|8|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Aya Ohori|none|9|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:23|21|Kate Foo Kune|none|10|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:23|21|Kate Foo Kune|none|9|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|16|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|12|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:34|21|Phillipe Charron|Toby Ng|10|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:34|13|Phillipe Charron|Toby Ng|21|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:34|22|Phillipe Charron|Toby Ng|20|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313||Walkover Win|Cendrine Hantz|Sanya Herzig|Walkover Loss|Kira Kattenbeck [1]|Franziska Volkmann|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:25|21|Christopher Coles|Paul Van Rietvelde|19|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:25|21|Christopher Coles|Paul Van Rietvelde|9|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150313|0:42|21|Dieter Domke|none|16|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:42|18|Dieter Domke|none|21|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:42|21|Dieter Domke|none|7|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|21|Joshua Magee|none|13|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|21|Joshua Magee|none|19|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:01|0|Emil Holst|none|1|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:01|Walkover Win|Emil Holst|none|Walkover Loss|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:35|21|Toby Penty|none|15|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:35|23|Toby Penty|none|21|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:30|21|Christie Jonatan|none|15|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:30|21|Christie Jonatan|none|13|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|19|Andre Kurniawan Tedjono |none|21|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|21|Andre Kurniawan Tedjono |none|11|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|21|Andre Kurniawan Tedjono |none|8|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:37|21|Tian Houwei |none|14|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:37|21|Tian Houwei |none|5|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:31|21|Kazumasa Sakai|none|18|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:31|21|Kazumasa Sakai|none|11|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:25|21|Anand Pawar |none|11|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:25|21|Anand Pawar |none|13|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|21|Daren Liew|none|19|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|21|Daren Liew|none|13|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:30|21|Yuhan Tan|none|12|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:30|21|Yuhan Tan|none|15|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:29|21|Tzu Wei Wang |none|11|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:29|21|Tzu Wei Wang |none|12|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:28|21|K. Srikanth |none|18|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:28|21|K. Srikanth |none|10|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|24|Milan Ludik|none|22|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:36|21|Milan Ludik|none|15|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:23|21|Riichi Takeshita |none|7|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:23|21|Riichi Takeshita |none|9|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:46|21|Anthony Dumartheray|none|14|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:46|16|Anthony Dumartheray|none|21|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:46|21|Anthony Dumartheray|none|15|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:52|14|Lucas Claerbout|none|21|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:52|21|Lucas Claerbout|none|19|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:52|21|Lucas Claerbout|none|15|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:35|21|Zulfadli Zulkiffli|none|15|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:35|21|Zulfadli Zulkiffli|none|14|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:34|21|Flemming Quach|none|18|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:34|21|Flemming Quach|none|16|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:20|21|Fabian Roth|none|8|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:20|21|Fabian Roth|none|6|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:44|21|Stilian Makarski|none|17|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:44|13|Stilian Makarski|none|21|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:44|21|Stilian Makarski|none|16|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:20|21|Xue Song|none|7|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:20|21|Xue Song|none|4|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:51|21|Beryno Jiann Tze Wong|none|18|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:51|18|Beryno Jiann Tze Wong|none|21|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:51|21|Beryno Jiann Tze Wong|none|15|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|1:15|21|Christian Lind Thomsen|none|14|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|1:15|20|Christian Lind Thomsen|none|22|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|1:15|21|Christian Lind Thomsen|none|19|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Hsu Jen Hao |none|6|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Hsu Jen Hao |none|10|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Hsueh Hsuan Yi|none|9|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:24|21|Hsueh Hsuan Yi|none|10|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:31|21|Ng Ka Long Angus |none|12|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:31|23|Ng Ka Long Angus |none|21|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:31|21|Mohamad Arif Abdul Latif|none|9|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:31|21|Mohamad Arif Abdul Latif|none|18|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150313|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314||Walkover Win|Florent Riancho|Kate Foo Kune|Walkover Loss|Peng Soon Chan [3]|Liu Ying Goh|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Titon Gustaman|Janine Andrea Stocker|Walkover Loss|Oliver Schaller [2]|Celine Burkart|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Gilles Tripet|Diana Dimova|Walkover Loss|Alexandre Hammer|Emilie Beaujean|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Loss|Mark Lamsfuss |Franziska Volkmann|Walkover Win|Baptiste Careme|Sabrina Jaquet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Pierrick Deschenaux|Tiffany Girona|Walkover Loss|Ronan Gueguin [4]|Joanna Chaube|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|15|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|7|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:25|21|Lin Chia Yu|Wu Ti Jung|8|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:25|21|Lin Chia Yu|Wu Ti Jung|15|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:22|21|Nanna Vainio|none|6|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:22|21|Nanna Vainio|none|12|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:44|21|Ellinor Widh|none|23|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:44|21|Ellinor Widh|none|17|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:44|21|Ellinor Widh|none|8|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:27|21|Elisabeth Baldauf|none|13|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:27|21|Elisabeth Baldauf|none|18|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:43|21|Fabienne Deprez|none|16|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:43|9|Fabienne Deprez|none|21|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:43|21|Fabienne Deprez|none|15|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314||0|Marie Demy|none|1|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314||Walkover Win|Marie Demy|none|Walkover Loss|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:30|21|Aya Ohori|none|12|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:30|21|Aya Ohori|none|13|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:39|21|Ratoputri Febtria Adistra|none|11|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:39|14|Ratoputri Febtria Adistra|none|21|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:39|21|Ratoputri Febtria Adistra|none|8|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314||Walkover Win|Ronan Gueguin|Nathan Laemmel|Walkover Loss|Philip Joper Escueta [2]|Ronel Estanislao|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:35|21|Lucas Claerbout|Lucas Corvee|13|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:35|18|Lucas Claerbout|Lucas Corvee|21|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:35|21|Lucas Claerbout|Lucas Corvee|9|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Anthony Dumartheray|Gilles Tripet|Walkover Loss|Peter Gabriel Magnaye [3]|Paul Jefferson Vivas|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:32|21|Kate Foo Kune|none|17|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:32|21|Kate Foo Kune|none|19|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:37|19|Titon Gustaman|Yohannes Hogianto|21|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:37|21|Titon Gustaman|Yohannes Hogianto|15|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:37|21|Titon Gustaman|Yohannes Hogianto|17|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:24|21|Christopher Coles|Paul Van Rietvelde|15|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:24|21|Christopher Coles|Paul Van Rietvelde|10|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|11|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|9|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|4|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|17|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:23|21|Phillipe Charron|Toby Ng|18|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:23|21|Phillipe Charron|Toby Ng|16|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Diana Dimova|Celine Tripet|Walkover Loss|Celine Burkart|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Susanne Keller|Yvonne Keller|Walkover Loss|Lisa Kaminski [2]|Hannah Pohl|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Ratoputri Febtria Adistra|Rosy Oktavia Pancasari|Walkover Loss|Kati-Kreet Marran|Sale - Liis Teesalu|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|19|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|4|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:47|21|Nanna Vainio|none|17|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:47|14|Nanna Vainio|none|21|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:47|21|Nanna Vainio|none|14|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314||Walkover Win|Gilles Tripet|none|Walkover Loss||none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|13|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:37|19|Hsiao-Lin Wu|Hsieh Pei Chen|21|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|9|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:24|21|Lin Chia Yu|Wu Ti Jung|16|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:24|21|Lin Chia Yu|Wu Ti Jung|11|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:31|21|Fabienne Deprez|none|19|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:31|21|Fabienne Deprez|none|16|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Aya Ohori|none|8|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Aya Ohori|none|9|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:23|21|Kate Foo Kune|none|10|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:23|21|Kate Foo Kune|none|9|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|16|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|12|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:34|21|Phillipe Charron|Toby Ng|10|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:34|13|Phillipe Charron|Toby Ng|21|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:34|22|Phillipe Charron|Toby Ng|20|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314||Walkover Win|Cendrine Hantz|Sanya Herzig|Walkover Loss|Kira Kattenbeck [1]|Franziska Volkmann|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:25|21|Christopher Coles|Paul Van Rietvelde|19|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:25|21|Christopher Coles|Paul Van Rietvelde|9|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150314|0:42|21|Dieter Domke|none|16|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:42|18|Dieter Domke|none|21|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:42|21|Dieter Domke|none|7|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|21|Joshua Magee|none|13|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|21|Joshua Magee|none|19|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:01|0|Emil Holst|none|1|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:01|Walkover Win|Emil Holst|none|Walkover Loss|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:35|21|Toby Penty|none|15|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:35|23|Toby Penty|none|21|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:30|21|Christie Jonatan|none|15|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:30|21|Christie Jonatan|none|13|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|19|Andre Kurniawan Tedjono |none|21|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|21|Andre Kurniawan Tedjono |none|11|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|21|Andre Kurniawan Tedjono |none|8|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:37|21|Tian Houwei |none|14|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:37|21|Tian Houwei |none|5|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:31|21|Kazumasa Sakai|none|18|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:31|21|Kazumasa Sakai|none|11|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:25|21|Anand Pawar |none|11|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:25|21|Anand Pawar |none|13|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|21|Daren Liew|none|19|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|21|Daren Liew|none|13|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:30|21|Yuhan Tan|none|12|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:30|21|Yuhan Tan|none|15|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:29|21|Tzu Wei Wang |none|11|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:29|21|Tzu Wei Wang |none|12|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:28|21|K. Srikanth |none|18|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:28|21|K. Srikanth |none|10|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|24|Milan Ludik|none|22|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:36|21|Milan Ludik|none|15|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:23|21|Riichi Takeshita |none|7|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:23|21|Riichi Takeshita |none|9|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:46|21|Anthony Dumartheray|none|14|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:46|16|Anthony Dumartheray|none|21|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:46|21|Anthony Dumartheray|none|15|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:52|14|Lucas Claerbout|none|21|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:52|21|Lucas Claerbout|none|19|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:52|21|Lucas Claerbout|none|15|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:35|21|Zulfadli Zulkiffli|none|15|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:35|21|Zulfadli Zulkiffli|none|14|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:34|21|Flemming Quach|none|18|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:34|21|Flemming Quach|none|16|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:20|21|Fabian Roth|none|8|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:20|21|Fabian Roth|none|6|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:44|21|Stilian Makarski|none|17|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:44|13|Stilian Makarski|none|21|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:44|21|Stilian Makarski|none|16|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:20|21|Xue Song|none|7|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:20|21|Xue Song|none|4|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:51|21|Beryno Jiann Tze Wong|none|18|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:51|18|Beryno Jiann Tze Wong|none|21|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:51|21|Beryno Jiann Tze Wong|none|15|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|1:15|21|Christian Lind Thomsen|none|14|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|1:15|20|Christian Lind Thomsen|none|22|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|1:15|21|Christian Lind Thomsen|none|19|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Hsu Jen Hao |none|6|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Hsu Jen Hao |none|10|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Hsueh Hsuan Yi|none|9|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:24|21|Hsueh Hsuan Yi|none|10|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:31|21|Ng Ka Long Angus |none|12|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:31|23|Ng Ka Long Angus |none|21|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:31|21|Mohamad Arif Abdul Latif|none|9|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:31|21|Mohamad Arif Abdul Latif|none|18|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150314|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315||Walkover Win|Florent Riancho|Kate Foo Kune|Walkover Loss|Peng Soon Chan [3]|Liu Ying Goh|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Titon Gustaman|Janine Andrea Stocker|Walkover Loss|Oliver Schaller [2]|Celine Burkart|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Gilles Tripet|Diana Dimova|Walkover Loss|Alexandre Hammer|Emilie Beaujean|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Loss|Mark Lamsfuss |Franziska Volkmann|Walkover Win|Baptiste Careme|Sabrina Jaquet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Pierrick Deschenaux|Tiffany Girona|Walkover Loss|Ronan Gueguin [4]|Joanna Chaube|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:15|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|7|Andreas Heinz|Jennifer Karnott|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|15|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:21|21|Hsiao-Lin Wu|Hsieh Pei Chen|7|Beryno Jiann Tze Wong|Ayla Huser|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:25|21|Lin Chia Yu|Wu Ti Jung|8|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:25|21|Lin Chia Yu|Wu Ti Jung|15|Hendra Aprida Gunawan|Nadya Melati|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:22|21|Nanna Vainio|none|6|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:22|21|Nanna Vainio|none|12|Joanna Chaube|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:44|21|Ellinor Widh|none|23|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:44|21|Ellinor Widh|none|17|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:44|21|Ellinor Widh|none|8|Simone Prutsch|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:27|21|Elisabeth Baldauf|none|13|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:27|21|Elisabeth Baldauf|none|18|Cendrine Hantz|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:43|21|Fabienne Deprez|none|16|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:43|9|Fabienne Deprez|none|21|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:43|21|Fabienne Deprez|none|15|Nicole Schaller|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315||0|Marie Demy|none|1|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315||Walkover Win|Marie Demy|none|Walkover Loss|Matilda Petersen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:30|21|Aya Ohori|none|12|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:30|21|Aya Ohori|none|13|Anna Rankin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:39|21|Ratoputri Febtria Adistra|none|11|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:39|14|Ratoputri Febtria Adistra|none|21|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:39|21|Ratoputri Febtria Adistra|none|8|Nadia Fankhauser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315||Walkover Win|Ronan Gueguin|Nathan Laemmel|Walkover Loss|Philip Joper Escueta [2]|Ronel Estanislao|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:35|21|Lucas Claerbout|Lucas Corvee|13|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:35|18|Lucas Claerbout|Lucas Corvee|21|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:35|21|Lucas Claerbout|Lucas Corvee|9|Mathias Bonny|Christian Kirchmayr|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Anthony Dumartheray|Gilles Tripet|Walkover Loss|Peter Gabriel Magnaye [3]|Paul Jefferson Vivas|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:32|21|Kate Foo Kune|none|17|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:32|21|Kate Foo Kune|none|19|Ayla Huser|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:37|19|Titon Gustaman|Yohannes Hogianto|21|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:37|21|Titon Gustaman|Yohannes Hogianto|15|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:37|21|Titon Gustaman|Yohannes Hogianto|17|Mateo Martinez|Gradt-Urban Samson|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:24|21|Christopher Coles|Paul Van Rietvelde|15|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:24|21|Christopher Coles|Paul Van Rietvelde|10|Pierrick Deschenaux|Oliver Schaller|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|11|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|9|Hafiz Shaharudin|Beryno Jiann Tze Wong|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|4|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:18|21|Markis Kido|Agripinna Prima Rahmanto Putra|17|Indra Viki Okvana|Florent Riancho|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:23|21|Phillipe Charron|Toby Ng|18|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:23|21|Phillipe Charron|Toby Ng|16|Joel Koenig|Stilian Makarski|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Diana Dimova|Celine Tripet|Walkover Loss|Celine Burkart|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Susanne Keller|Yvonne Keller|Walkover Loss|Lisa Kaminski [2]|Hannah Pohl|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Ratoputri Febtria Adistra|Rosy Oktavia Pancasari|Walkover Loss|Kati-Kreet Marran|Sale - Liis Teesalu|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|19|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:19|21|Agripinna Prima Rahmanto Putra|Rizki Amelia Pradipta|4|Florent Riancho|Kate Foo Kune|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:47|21|Nanna Vainio|none|17|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:47|14|Nanna Vainio|none|21|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:47|21|Nanna Vainio|none|14|Ellinor Widh|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315||Walkover Win|Gilles Tripet|none|Walkover Loss||none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|13|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:37|19|Hsiao-Lin Wu|Hsieh Pei Chen|21|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:37|21|Hsiao-Lin Wu|Hsieh Pei Chen|9|Titon Gustaman|Janine Andrea Stocker|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:24|21|Lin Chia Yu|Wu Ti Jung|16|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:24|21|Lin Chia Yu|Wu Ti Jung|11|Pierrick Deschenaux|Tiffany Girona|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:31|21|Fabienne Deprez|none|19|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:31|21|Fabienne Deprez|none|16|Elisabeth Baldauf|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Aya Ohori|none|8|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Aya Ohori|none|9|Ratoputri Febtria Adistra|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:23|21|Kate Foo Kune|none|10|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:23|21|Kate Foo Kune|none|9|Marie Demy|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:22|21|Markis Kido|Agripinna Prima Rahmanto Putra|11|Ronan Gueguin|Nathan Laemmel|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|16|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:36|17|Agung Ruhanda|Kusumah Sandy Darma|21|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:36|21|Agung Ruhanda|Kusumah Sandy Darma|12|Lucas Claerbout|Lucas Corvee|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:34|21|Phillipe Charron|Toby Ng|10|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:34|13|Phillipe Charron|Toby Ng|21|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:34|22|Phillipe Charron|Toby Ng|20|Titon Gustaman|Yohannes Hogianto|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315||Walkover Win|Cendrine Hantz|Sanya Herzig|Walkover Loss|Kira Kattenbeck [1]|Franziska Volkmann|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:25|21|Christopher Coles|Paul Van Rietvelde|19|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:25|21|Christopher Coles|Paul Van Rietvelde|9|Anthony Dumartheray|Gilles Tripet|840F18B4-A8D9-468D-848E-14F9AF8EC63D|doubles
+20150315|0:42|21|Dieter Domke|none|16|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:42|18|Dieter Domke|none|21|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:42|21|Dieter Domke|none|7|Eric Pang|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|21|Joshua Magee|none|13|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|21|Joshua Magee|none|19|Kyrill Schaffluetzel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:01|0|Emil Holst|none|1|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:01|Walkover Win|Emil Holst|none|Walkover Loss|Lars Schaenzler|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:35|21|Toby Penty|none|15|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:35|23|Toby Penty|none|21|Mattias Borg|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:30|21|Christie Jonatan|none|15|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:30|21|Christie Jonatan|none|13|Thomas Rouxel|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|19|Andre Kurniawan Tedjono |none|21|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|21|Andre Kurniawan Tedjono |none|11|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|21|Andre Kurniawan Tedjono |none|8|Nicolas Lenggenhager|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:37|21|Tian Houwei |none|14|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:37|21|Tian Houwei |none|5|Teck Zhi Soo|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:31|21|Kazumasa Sakai|none|18|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:31|21|Kazumasa Sakai|none|11|Adrian Dziolko|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:25|21|Anand Pawar |none|11|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:25|21|Anand Pawar |none|13|Joel Koenig|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|21|Daren Liew|none|19|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|21|Daren Liew|none|13|Matthias Almer|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Ajay Jayaram|none|7|Hu Yun [5]|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:30|21|Yuhan Tan|none|12|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:30|21|Yuhan Tan|none|15|Artem Pochtarev|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:29|21|Tzu Wei Wang |none|11|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:29|21|Tzu Wei Wang |none|12|Sony Dwi Kuncoro|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:28|21|K. Srikanth |none|18|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:28|21|K. Srikanth |none|10|Lucas Corvee|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|24|Milan Ludik|none|22|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:36|21|Milan Ludik|none|15|Yoann Turlan|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:23|21|Riichi Takeshita |none|7|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:23|21|Riichi Takeshita |none|9|Ronan Gueguin|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:20|21|Takuma Ueda |none|9|Gradt-Urban Samson|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:46|21|Anthony Dumartheray|none|14|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:46|16|Anthony Dumartheray|none|21|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:46|21|Anthony Dumartheray|none|15|Kim Bruun|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:52|14|Lucas Claerbout|none|21|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:52|21|Lucas Claerbout|none|19|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:52|21|Lucas Claerbout|none|15|Michal Rogalski|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:35|21|Zulfadli Zulkiffli|none|15|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:35|21|Zulfadli Zulkiffli|none|14|Philip Discher|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:34|21|Flemming Quach|none|18|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:34|21|Flemming Quach|none|16|Maxime Moreels|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:20|21|Fabian Roth|none|8|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:20|21|Fabian Roth|none|6|Yoann Freysinger|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:44|21|Stilian Makarski|none|17|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:44|13|Stilian Makarski|none|21|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:44|21|Stilian Makarski|none|16|Christian Kirchmayr|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:20|21|Xue Song|none|7|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:20|21|Xue Song|none|4|Sivin Manjaly|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:51|21|Beryno Jiann Tze Wong|none|18|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:51|18|Beryno Jiann Tze Wong|none|21|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:51|21|Beryno Jiann Tze Wong|none|15|Petr Koukal|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|B. Sai Praneeth |none|9|Luka Zdenjak|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|1:15|21|Christian Lind Thomsen|none|14|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|1:15|20|Christian Lind Thomsen|none|22|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|1:15|21|Christian Lind Thomsen|none|19|Ihsan Maulana Mustofa|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Hsu Jen Hao |none|6|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Hsu Jen Hao |none|10|Mathias Bonny|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Hsueh Hsuan Yi|none|9|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:24|21|Hsueh Hsuan Yi|none|10|Tobias Wadenka|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:31|21|Ng Ka Long Angus |none|12|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:31|23|Ng Ka Long Angus |none|21|Erik Meijs|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:31|21|Mohamad Arif Abdul Latif|none|9|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:31|21|Mohamad Arif Abdul Latif|none|18|Dmytro Zavadsky|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles
+20150315|0:29|21|Viktor Axelsen |none|14|Kasper Lehikoinen|none|840F18B4-A8D9-468D-848E-14F9AF8EC63D|singles

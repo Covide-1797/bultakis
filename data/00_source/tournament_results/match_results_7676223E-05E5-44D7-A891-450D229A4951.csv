@@ -1,0 +1,610 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20150814|0:25|21|Victor Kokhanov|Anastasiia Sharapova|14|Alex Popov|Tsvetelina Nesheva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:25|21|Victor Kokhanov|Anastasiia Sharapova|10|Alex Popov|Tsvetelina Nesheva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:18|21|Ali Bugra Akdogan|Basak Kilic|11|Tom Bar David|Imri Ashkenazy|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:18|21|Ali Bugra Akdogan|Basak Kilic|7|Tom Bar David|Imri Ashkenazy|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:28|21|Martin Cerkovnik|Iza Salehar|18|Ibrahim Eksi|Busra Unlu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:28|24|Martin Cerkovnik|Iza Salehar|22|Ibrahim Eksi|Busra Unlu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814||Walkover Win|Antonios Topoligkas|Ioanna Karapetridou|Walkover Loss|Oktay Aydin|Aliye Demirbag|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:19|21|Nikita Fedotovskikh|Lela Minadze|10|Anastasios Mandanas|Despoina Kantzoglou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:19|21|Nikita Fedotovskikh|Lela Minadze|12|Anastasios Mandanas|Despoina Kantzoglou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:10|21|Nikita Lemeshko|Anastasia Semyonova|7|Martin Gluhchev|Gergana Pavlova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:10|21|Nikita Lemeshko|Anastasia Semyonova|6|Martin Gluhchev|Gergana Pavlova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:39|17|Philip Seerup|Ditte Soby Hansen|21|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:39|21|Philip Seerup|Ditte Soby Hansen|15|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:39|21|Philip Seerup|Ditte Soby Hansen|11|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:20|21|Ivan Panev|Maria Delcheva|10|Mehmet Ozturk|Aysin Yesil|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:20|21|Ivan Panev|Maria Delcheva|15|Mehmet Ozturk|Aysin Yesil|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:16|21|Kubilay Sadi|Yaren Dolcu|11|May Bar Netzer|Klil Hochberg|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:16|21|Kubilay Sadi|Yaren Dolcu|7|May Bar Netzer|Klil Hochberg|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814||Walkover Win|Emre Sonmez|none|Walkover Loss|Dimitar Yanakiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:45|21|Thomas Baures|none|19|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:45|14|Thomas Baures|none|21|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:45|22|Thomas Baures|none|20|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:22|21|Okan Gultekin|none|8|Iliyan Stoynov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:22|21|Okan Gultekin|none|12|Iliyan Stoynov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Oktay Aydin|none|7|Yoan Gargov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Oktay Aydin|none|11|Yoan Gargov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:10|21|Mehmet Capar|none|8|Georgi Acinov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:10|21|Mehmet Capar|none|1|Georgi Acinov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814||Walkover Win|Martin Petkov|none|Walkover Loss|Bugrahan Perk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Metin Pehlivan|none|18|Tihomir Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Metin Pehlivan|none|11|Tihomir Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:24|21|Antonios Topoligkas|none|16|Martin Gluhchev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:24|21|Antonios Topoligkas|none|15|Martin Gluhchev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:43|22|Emre Comert|none|24|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:43|21|Emre Comert|none|14|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:43|21|Emre Comert|none|17|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Ivan Panev|none|13|Itamar Degani|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Ivan Panev|none|12|Itamar Degani|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Nikita Lemeshko|none|7|Cvetomir Stoyanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Nikita Lemeshko|none|10|Cvetomir Stoyanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|12|Venediktov Ilya|none|21|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|21|Venediktov Ilya|none|19|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|21|Venediktov Ilya|none|18|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:21|21|May Bar Netzer|none|10|Clément Werkmeister|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:21|23|May Bar Netzer|none|21|Clément Werkmeister|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:23|21|Martin Tzvetkov|none|16|Ibrahim Eksi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:23|21|Martin Tzvetkov|none|18|Ibrahim Eksi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Alex Popov|none|9|Tom Bar David|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Alex Popov|none|10|Tom Bar David|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Nikita Fedotovskikh|none|10|Yanko Hadzhiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Nikita Fedotovskikh|none|14|Yanko Hadzhiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Daniel Nikolov|none|8|Baran Yuksel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Daniel Nikolov|none|12|Baran Yuksel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Ali Bugra Akdogan|none|17|Arseniy Tarasov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Ali Bugra Akdogan|none|8|Arseniy Tarasov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Mehmet Ozturk|none|9|Samuil Ivanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Mehmet Ozturk|none|14|Samuil Ivanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|21|Torjus Flaatten|none|9|Nathan Laemmel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|21|Torjus Flaatten|none|12|Nathan Laemmel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:12|21|Yazgan Calisir|none|7|Igor Minaev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:12|21|Yazgan Calisir|none|8|Igor Minaev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:37|21|Yavor Yankov|none|17|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:37|14|Yavor Yankov|none|21|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:37|21|Yavor Yankov|none|12|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|21|Marc Laporte|none|15|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|19|Marc Laporte|none|21|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|21|Marc Laporte|none|14|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:46|22|Buse Ceylan|none|20|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:46|17|Buse Ceylan|none|21|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:46|21|Buse Ceylan|none|16|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Anastasiia Sharapova|none|11|Kalina Spasova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Anastasiia Sharapova|none|13|Kalina Spasova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Petra Polanc|none|15|Hristomira Popovska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Petra Polanc|none|15|Hristomira Popovska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Ventsislava Sakadjiiska|none|18|Merve Demir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Ventsislava Sakadjiiska|none|16|Merve Demir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|17|Maria Delcheva|none|21|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|21|Maria Delcheva|none|15|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|21|Maria Delcheva|none|16|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Katia Normand|none|5|Despoina Kantzoglou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:18|21|Katia Normand|none|3|Despoina Kantzoglou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:14|21|Stine Susan Küspert|none|13|Gergana Pavlova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:14|21|Stine Susan Küspert|none|15|Gergana Pavlova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Luka Milic|none|5|Dimitrios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Luka Milic|none|11|Dimitrios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:19|21|Torjus Flaatten|Peter Roenn Stensaeth|16|Victor Kokhanov|Nikita Lemeshko|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:19|21|Torjus Flaatten|Peter Roenn Stensaeth|18|Victor Kokhanov|Nikita Lemeshko|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:30|21|Nathan Laemmel|Marc Laporte|16|Alex Popov|Iliyan Stoynov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:30|21|Nathan Laemmel|Marc Laporte|14|Alex Popov|Iliyan Stoynov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814||Walkover Win|Yoan Gargov|Yanko Hadzhiev|Walkover Loss|Ibrahim Eksi|Bugrahan Perk|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:46|20|Lela Minadze|Anastasiia Sharapova|22|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:46|21|Lela Minadze|Anastasiia Sharapova|15|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:46|21|Lela Minadze|Anastasiia Sharapova|17|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:30|21|Merve Demir|Basak Kilic|16|Hristomira Popovska|Kalina Spasova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:30|21|Merve Demir|Basak Kilic|17|Hristomira Popovska|Kalina Spasova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:33|17|Ali Bugra Akdogan|Okan Gultekin|21|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:33|23|Ali Bugra Akdogan|Okan Gultekin|21|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:33|21|Ali Bugra Akdogan|Okan Gultekin|19|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:20|21|Emre Comert|Baran Yuksel|9|Tom Bar David|Samuil Ivanov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:20|21|Emre Comert|Baran Yuksel|8|Tom Bar David|Samuil Ivanov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:22|23|Martin Petkov|Tihomir Petkov|21|Anastasios Mandanas|Dimitrios Mandanas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:22|21|Martin Petkov|Tihomir Petkov|4|Anastasios Mandanas|Dimitrios Mandanas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:20|21|Thomas Baures|Gregor Dunikowski|4|Georgi Acinov|Martin Gluhchev|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:20|21|Thomas Baures|Gregor Dunikowski|5|Georgi Acinov|Martin Gluhchev|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:15|21|Daniel Nikolov|Ivan Panev|12|Yazgan Calisir|Metin Pehlivan|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:15|21|Daniel Nikolov|Ivan Panev|13|Yazgan Calisir|Metin Pehlivan|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:24|21|Mehmet Capar|Emre Sonmez|14|May Bar Netzer|Itamar Degani|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:24|21|Mehmet Capar|Emre Sonmez|17|May Bar Netzer|Itamar Degani|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:25|21|Verlaine Faulmann|Katia Normand|16|Ema Cizelj|Petra Polanc|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:25|21|Verlaine Faulmann|Katia Normand|14|Ema Cizelj|Petra Polanc|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:23|21|Nastja Stovanje|none|13|Aristea Apostolidou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:23|21|Nastja Stovanje|none|15|Aristea Apostolidou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Melih Turgut |Fatma Nur Yavuz|16|Victor Kokhanov|Anastasiia Sharapova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:20|21|Melih Turgut |Fatma Nur Yavuz|12|Victor Kokhanov|Anastasiia Sharapova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:30|22|Ali Bugra Akdogan|Basak Kilic|20|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:30|17|Ali Bugra Akdogan|Basak Kilic|21|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:30|21|Ali Bugra Akdogan|Basak Kilic|15|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:45|24|Marc Laporte |Joanna Chaube|26|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:45|21|Marc Laporte |Joanna Chaube|13|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:45|21|Marc Laporte |Joanna Chaube|12|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:25|21|Iliyan Stoynov|Hristomira Popovska|12|Antonios Topoligkas|Ioanna Karapetridou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:25|21|Iliyan Stoynov|Hristomira Popovska|18|Antonios Topoligkas|Ioanna Karapetridou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:28|18|Nikita Fedotovskikh|Lela Minadze|21|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:28|21|Nikita Fedotovskikh|Lela Minadze|14|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:28|21|Nikita Fedotovskikh|Lela Minadze|13|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:40|21|Philip Seerup|Ditte Soby Hansen|16|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:40|14|Philip Seerup|Ditte Soby Hansen|21|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:40|21|Philip Seerup|Ditte Soby Hansen|12|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:22|21|Ivan Panev|Maria Delcheva|14|Jan Colin Völker|Stine Susan Küspert|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:22|21|Ivan Panev|Maria Delcheva|19|Jan Colin Völker|Stine Susan Küspert|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:15|21|Gregor Dunikowski |Delphine Delrue|12|Kubilay Sadi|Yaren Dolcu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:15|21|Gregor Dunikowski |Delphine Delrue|12|Kubilay Sadi|Yaren Dolcu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150814|0:40|21|Thomas Baures|none|6|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|19|Thomas Baures|none|21|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|21|Thomas Baures|none|17|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:12|21|Toma Junior Popov |none|12|Okan Gultekin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:12|21|Toma Junior Popov |none|13|Okan Gultekin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:17|21|Oktay Aydin|none|12|Mehmet Capar|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:17|21|Oktay Aydin|none|12|Mehmet Capar|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Martin Cerkovnik |none|19|Martin Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Martin Cerkovnik |none|15|Martin Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:33|20|Metin Pehlivan|none|22|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:33|21|Metin Pehlivan|none|17|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:33|21|Metin Pehlivan|none|17|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Emre Sonmez|none|6|Antonios Topoligkas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Emre Sonmez|none|11|Antonios Topoligkas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|21|Fethican Degirmenci |none|12|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|11|Fethican Degirmenci |none|21|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|21|Fethican Degirmenci |none|13|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|21|Venediktov Ilya|none|11|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|22|Venediktov Ilya|none|24|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:35|21|Venediktov Ilya|none|14|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Ivan Panev|none|16|Nikita Lemeshko|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Ivan Panev|none|13|Nikita Lemeshko|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Melih Turgut |none|13|Alex Popov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Melih Turgut |none|10|Alex Popov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Daniel Nikolov|none|14|Nikita Fedotovskikh|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|24|Daniel Nikolov|none|22|Nikita Fedotovskikh|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Vincent Medina |none|7|Ali Bugra Akdogan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Vincent Medina |none|9|Ali Bugra Akdogan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:19|21|Miha Ivanic |none|14|Yazgan Calisir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:19|21|Miha Ivanic |none|15|Yazgan Calisir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|21|Torjus Flaatten|none|12|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|23|Torjus Flaatten|none|25|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:28|21|Torjus Flaatten|none|8|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:19|21|Marc Laporte|none|11|Luka Milic|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:19|21|Marc Laporte|none|11|Luka Milic|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Wolfgang Gnedt |none|5|Yavor Yankov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Wolfgang Gnedt |none|9|Yavor Yankov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:27|21|Kader İnal |none|16|Nazlıcan Inci|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:27|21|Kader İnal |none|18|Nazlıcan Inci|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Busra Unlu|none|7|Lia Salehar [7]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Busra Unlu|none|19|Lia Salehar [7]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Anastasia Semyonova|none|14|Petra Polanc|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Anastasia Semyonova|none|15|Petra Polanc|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Yaelle Hoyaux |none|7|Klil Hochberg|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Yaelle Hoyaux |none|8|Klil Hochberg|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Emine Demirtas|none|6|Ventsislava Sakadjiiska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Emine Demirtas|none|14|Ventsislava Sakadjiiska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:17|21|Yaren Dolcu |none|11|Ema Cizelj|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:17|21|Yaren Dolcu |none|17|Ema Cizelj|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Maria Delcheva|none|8|Eirini Goygleri|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Maria Delcheva|none|6|Eirini Goygleri|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Basak Kilic|none|11|Nastja Stovanje|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:25|21|Basak Kilic|none|18|Nastja Stovanje|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:50|21|Iza Salehar|none|18|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:50|17|Iza Salehar|none|21|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:50|21|Iza Salehar|none|13|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Verlaine Faulmann |none|6|Ioanna Karapetridou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Verlaine Faulmann |none|10|Ioanna Karapetridou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Mihaela Neycheva|none|9|Anastasiia Sharapova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:20|21|Mihaela Neycheva|none|8|Anastasiia Sharapova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Julie Dawall Jakobsen |none|3|Ekaterini Parisi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:15|21|Julie Dawall Jakobsen |none|8|Ekaterini Parisi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Katia Normand|none|8|Imri Ashkenazy|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:16|21|Katia Normand|none|6|Imri Ashkenazy|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|19|Joanna Chaube |none|21|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Joanna Chaube |none|12|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:30|21|Joanna Chaube |none|11|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|18|Nika Arih|none|21|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|21|Nika Arih|none|9|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814|0:40|21|Nika Arih|none|13|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150814||Walkover Win|Aysin Yesil|none|Walkover Loss|Aliye Demirbag [2]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Victor Kokhanov|Anastasiia Sharapova|14|Alex Popov|Tsvetelina Nesheva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:25|21|Victor Kokhanov|Anastasiia Sharapova|10|Alex Popov|Tsvetelina Nesheva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:18|21|Ali Bugra Akdogan|Basak Kilic|11|Tom Bar David|Imri Ashkenazy|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:18|21|Ali Bugra Akdogan|Basak Kilic|7|Tom Bar David|Imri Ashkenazy|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:28|21|Martin Cerkovnik|Iza Salehar|18|Ibrahim Eksi|Busra Unlu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:28|24|Martin Cerkovnik|Iza Salehar|22|Ibrahim Eksi|Busra Unlu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815||Walkover Win|Antonios Topoligkas|Ioanna Karapetridou|Walkover Loss|Oktay Aydin|Aliye Demirbag|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:19|21|Nikita Fedotovskikh|Lela Minadze|10|Anastasios Mandanas|Despoina Kantzoglou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:19|21|Nikita Fedotovskikh|Lela Minadze|12|Anastasios Mandanas|Despoina Kantzoglou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:10|21|Nikita Lemeshko|Anastasia Semyonova|7|Martin Gluhchev|Gergana Pavlova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:10|21|Nikita Lemeshko|Anastasia Semyonova|6|Martin Gluhchev|Gergana Pavlova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:39|17|Philip Seerup|Ditte Soby Hansen|21|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:39|21|Philip Seerup|Ditte Soby Hansen|15|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:39|21|Philip Seerup|Ditte Soby Hansen|11|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:20|21|Ivan Panev|Maria Delcheva|10|Mehmet Ozturk|Aysin Yesil|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:20|21|Ivan Panev|Maria Delcheva|15|Mehmet Ozturk|Aysin Yesil|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:16|21|Kubilay Sadi|Yaren Dolcu|11|May Bar Netzer|Klil Hochberg|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:16|21|Kubilay Sadi|Yaren Dolcu|7|May Bar Netzer|Klil Hochberg|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815||Walkover Win|Emre Sonmez|none|Walkover Loss|Dimitar Yanakiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:45|21|Thomas Baures|none|19|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:45|14|Thomas Baures|none|21|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:45|22|Thomas Baures|none|20|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:22|21|Okan Gultekin|none|8|Iliyan Stoynov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:22|21|Okan Gultekin|none|12|Iliyan Stoynov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Oktay Aydin|none|7|Yoan Gargov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Oktay Aydin|none|11|Yoan Gargov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:10|21|Mehmet Capar|none|8|Georgi Acinov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:10|21|Mehmet Capar|none|1|Georgi Acinov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815||Walkover Win|Martin Petkov|none|Walkover Loss|Bugrahan Perk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Metin Pehlivan|none|18|Tihomir Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Metin Pehlivan|none|11|Tihomir Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:24|21|Antonios Topoligkas|none|16|Martin Gluhchev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:24|21|Antonios Topoligkas|none|15|Martin Gluhchev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:43|22|Emre Comert|none|24|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:43|21|Emre Comert|none|14|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:43|21|Emre Comert|none|17|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Ivan Panev|none|13|Itamar Degani|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Ivan Panev|none|12|Itamar Degani|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Nikita Lemeshko|none|7|Cvetomir Stoyanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Nikita Lemeshko|none|10|Cvetomir Stoyanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|12|Venediktov Ilya|none|21|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|21|Venediktov Ilya|none|19|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|21|Venediktov Ilya|none|18|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:21|21|May Bar Netzer|none|10|Clément Werkmeister|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:21|23|May Bar Netzer|none|21|Clément Werkmeister|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:23|21|Martin Tzvetkov|none|16|Ibrahim Eksi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:23|21|Martin Tzvetkov|none|18|Ibrahim Eksi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Alex Popov|none|9|Tom Bar David|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Alex Popov|none|10|Tom Bar David|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Nikita Fedotovskikh|none|10|Yanko Hadzhiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Nikita Fedotovskikh|none|14|Yanko Hadzhiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Daniel Nikolov|none|8|Baran Yuksel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Daniel Nikolov|none|12|Baran Yuksel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Ali Bugra Akdogan|none|17|Arseniy Tarasov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Ali Bugra Akdogan|none|8|Arseniy Tarasov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Mehmet Ozturk|none|9|Samuil Ivanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Mehmet Ozturk|none|14|Samuil Ivanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|21|Torjus Flaatten|none|9|Nathan Laemmel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|21|Torjus Flaatten|none|12|Nathan Laemmel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:12|21|Yazgan Calisir|none|7|Igor Minaev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:12|21|Yazgan Calisir|none|8|Igor Minaev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:37|21|Yavor Yankov|none|17|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:37|14|Yavor Yankov|none|21|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:37|21|Yavor Yankov|none|12|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|21|Marc Laporte|none|15|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|19|Marc Laporte|none|21|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|21|Marc Laporte|none|14|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:46|22|Buse Ceylan|none|20|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:46|17|Buse Ceylan|none|21|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:46|21|Buse Ceylan|none|16|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Anastasiia Sharapova|none|11|Kalina Spasova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Anastasiia Sharapova|none|13|Kalina Spasova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Petra Polanc|none|15|Hristomira Popovska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Petra Polanc|none|15|Hristomira Popovska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Ventsislava Sakadjiiska|none|18|Merve Demir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Ventsislava Sakadjiiska|none|16|Merve Demir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|17|Maria Delcheva|none|21|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|21|Maria Delcheva|none|15|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|21|Maria Delcheva|none|16|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Katia Normand|none|5|Despoina Kantzoglou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:18|21|Katia Normand|none|3|Despoina Kantzoglou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:14|21|Stine Susan Küspert|none|13|Gergana Pavlova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:14|21|Stine Susan Küspert|none|15|Gergana Pavlova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Luka Milic|none|5|Dimitrios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Luka Milic|none|11|Dimitrios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:19|21|Torjus Flaatten|Peter Roenn Stensaeth|16|Victor Kokhanov|Nikita Lemeshko|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:19|21|Torjus Flaatten|Peter Roenn Stensaeth|18|Victor Kokhanov|Nikita Lemeshko|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:30|21|Nathan Laemmel|Marc Laporte|16|Alex Popov|Iliyan Stoynov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:30|21|Nathan Laemmel|Marc Laporte|14|Alex Popov|Iliyan Stoynov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815||Walkover Win|Yoan Gargov|Yanko Hadzhiev|Walkover Loss|Ibrahim Eksi|Bugrahan Perk|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:46|20|Lela Minadze|Anastasiia Sharapova|22|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:46|21|Lela Minadze|Anastasiia Sharapova|15|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:46|21|Lela Minadze|Anastasiia Sharapova|17|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:30|21|Merve Demir|Basak Kilic|16|Hristomira Popovska|Kalina Spasova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:30|21|Merve Demir|Basak Kilic|17|Hristomira Popovska|Kalina Spasova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:33|17|Ali Bugra Akdogan|Okan Gultekin|21|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:33|23|Ali Bugra Akdogan|Okan Gultekin|21|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:33|21|Ali Bugra Akdogan|Okan Gultekin|19|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:20|21|Emre Comert|Baran Yuksel|9|Tom Bar David|Samuil Ivanov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:20|21|Emre Comert|Baran Yuksel|8|Tom Bar David|Samuil Ivanov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:22|23|Martin Petkov|Tihomir Petkov|21|Anastasios Mandanas|Dimitrios Mandanas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:22|21|Martin Petkov|Tihomir Petkov|4|Anastasios Mandanas|Dimitrios Mandanas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:20|21|Thomas Baures|Gregor Dunikowski|4|Georgi Acinov|Martin Gluhchev|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:20|21|Thomas Baures|Gregor Dunikowski|5|Georgi Acinov|Martin Gluhchev|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:15|21|Daniel Nikolov|Ivan Panev|12|Yazgan Calisir|Metin Pehlivan|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:15|21|Daniel Nikolov|Ivan Panev|13|Yazgan Calisir|Metin Pehlivan|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:24|21|Mehmet Capar|Emre Sonmez|14|May Bar Netzer|Itamar Degani|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:24|21|Mehmet Capar|Emre Sonmez|17|May Bar Netzer|Itamar Degani|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:25|21|Verlaine Faulmann|Katia Normand|16|Ema Cizelj|Petra Polanc|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:25|21|Verlaine Faulmann|Katia Normand|14|Ema Cizelj|Petra Polanc|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:23|21|Nastja Stovanje|none|13|Aristea Apostolidou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:23|21|Nastja Stovanje|none|15|Aristea Apostolidou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Melih Turgut |Fatma Nur Yavuz|16|Victor Kokhanov|Anastasiia Sharapova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:20|21|Melih Turgut |Fatma Nur Yavuz|12|Victor Kokhanov|Anastasiia Sharapova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:30|22|Ali Bugra Akdogan|Basak Kilic|20|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:30|17|Ali Bugra Akdogan|Basak Kilic|21|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:30|21|Ali Bugra Akdogan|Basak Kilic|15|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:45|24|Marc Laporte |Joanna Chaube|26|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:45|21|Marc Laporte |Joanna Chaube|13|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:45|21|Marc Laporte |Joanna Chaube|12|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:25|21|Iliyan Stoynov|Hristomira Popovska|12|Antonios Topoligkas|Ioanna Karapetridou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:25|21|Iliyan Stoynov|Hristomira Popovska|18|Antonios Topoligkas|Ioanna Karapetridou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:28|18|Nikita Fedotovskikh|Lela Minadze|21|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:28|21|Nikita Fedotovskikh|Lela Minadze|14|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:28|21|Nikita Fedotovskikh|Lela Minadze|13|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:40|21|Philip Seerup|Ditte Soby Hansen|16|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:40|14|Philip Seerup|Ditte Soby Hansen|21|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:40|21|Philip Seerup|Ditte Soby Hansen|12|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:22|21|Ivan Panev|Maria Delcheva|14|Jan Colin Völker|Stine Susan Küspert|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:22|21|Ivan Panev|Maria Delcheva|19|Jan Colin Völker|Stine Susan Küspert|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:15|21|Gregor Dunikowski |Delphine Delrue|12|Kubilay Sadi|Yaren Dolcu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:15|21|Gregor Dunikowski |Delphine Delrue|12|Kubilay Sadi|Yaren Dolcu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150815|0:40|21|Thomas Baures|none|6|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|19|Thomas Baures|none|21|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|21|Thomas Baures|none|17|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:12|21|Toma Junior Popov |none|12|Okan Gultekin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:12|21|Toma Junior Popov |none|13|Okan Gultekin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:17|21|Oktay Aydin|none|12|Mehmet Capar|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:17|21|Oktay Aydin|none|12|Mehmet Capar|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Martin Cerkovnik |none|19|Martin Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Martin Cerkovnik |none|15|Martin Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:33|20|Metin Pehlivan|none|22|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:33|21|Metin Pehlivan|none|17|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:33|21|Metin Pehlivan|none|17|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Emre Sonmez|none|6|Antonios Topoligkas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Emre Sonmez|none|11|Antonios Topoligkas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|21|Fethican Degirmenci |none|12|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|11|Fethican Degirmenci |none|21|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|21|Fethican Degirmenci |none|13|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|21|Venediktov Ilya|none|11|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|22|Venediktov Ilya|none|24|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:35|21|Venediktov Ilya|none|14|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Ivan Panev|none|16|Nikita Lemeshko|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Ivan Panev|none|13|Nikita Lemeshko|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Melih Turgut |none|13|Alex Popov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Melih Turgut |none|10|Alex Popov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Daniel Nikolov|none|14|Nikita Fedotovskikh|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|24|Daniel Nikolov|none|22|Nikita Fedotovskikh|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Vincent Medina |none|7|Ali Bugra Akdogan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Vincent Medina |none|9|Ali Bugra Akdogan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:19|21|Miha Ivanic |none|14|Yazgan Calisir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:19|21|Miha Ivanic |none|15|Yazgan Calisir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|21|Torjus Flaatten|none|12|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|23|Torjus Flaatten|none|25|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:28|21|Torjus Flaatten|none|8|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:19|21|Marc Laporte|none|11|Luka Milic|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:19|21|Marc Laporte|none|11|Luka Milic|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Wolfgang Gnedt |none|5|Yavor Yankov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Wolfgang Gnedt |none|9|Yavor Yankov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:27|21|Kader İnal |none|16|Nazlıcan Inci|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:27|21|Kader İnal |none|18|Nazlıcan Inci|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Busra Unlu|none|7|Lia Salehar [7]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Busra Unlu|none|19|Lia Salehar [7]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Anastasia Semyonova|none|14|Petra Polanc|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Anastasia Semyonova|none|15|Petra Polanc|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Yaelle Hoyaux |none|7|Klil Hochberg|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Yaelle Hoyaux |none|8|Klil Hochberg|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Emine Demirtas|none|6|Ventsislava Sakadjiiska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Emine Demirtas|none|14|Ventsislava Sakadjiiska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:17|21|Yaren Dolcu |none|11|Ema Cizelj|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:17|21|Yaren Dolcu |none|17|Ema Cizelj|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Maria Delcheva|none|8|Eirini Goygleri|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Maria Delcheva|none|6|Eirini Goygleri|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Basak Kilic|none|11|Nastja Stovanje|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:25|21|Basak Kilic|none|18|Nastja Stovanje|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:50|21|Iza Salehar|none|18|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:50|17|Iza Salehar|none|21|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:50|21|Iza Salehar|none|13|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Verlaine Faulmann |none|6|Ioanna Karapetridou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Verlaine Faulmann |none|10|Ioanna Karapetridou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Mihaela Neycheva|none|9|Anastasiia Sharapova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:20|21|Mihaela Neycheva|none|8|Anastasiia Sharapova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Julie Dawall Jakobsen |none|3|Ekaterini Parisi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:15|21|Julie Dawall Jakobsen |none|8|Ekaterini Parisi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Katia Normand|none|8|Imri Ashkenazy|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:16|21|Katia Normand|none|6|Imri Ashkenazy|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|19|Joanna Chaube |none|21|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Joanna Chaube |none|12|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:30|21|Joanna Chaube |none|11|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|18|Nika Arih|none|21|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|21|Nika Arih|none|9|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815|0:40|21|Nika Arih|none|13|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150815||Walkover Win|Aysin Yesil|none|Walkover Loss|Aliye Demirbag [2]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Victor Kokhanov|Anastasiia Sharapova|14|Alex Popov|Tsvetelina Nesheva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:25|21|Victor Kokhanov|Anastasiia Sharapova|10|Alex Popov|Tsvetelina Nesheva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:18|21|Ali Bugra Akdogan|Basak Kilic|11|Tom Bar David|Imri Ashkenazy|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:18|21|Ali Bugra Akdogan|Basak Kilic|7|Tom Bar David|Imri Ashkenazy|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:28|21|Martin Cerkovnik|Iza Salehar|18|Ibrahim Eksi|Busra Unlu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:28|24|Martin Cerkovnik|Iza Salehar|22|Ibrahim Eksi|Busra Unlu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816||Walkover Win|Antonios Topoligkas|Ioanna Karapetridou|Walkover Loss|Oktay Aydin|Aliye Demirbag|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:19|21|Nikita Fedotovskikh|Lela Minadze|10|Anastasios Mandanas|Despoina Kantzoglou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:19|21|Nikita Fedotovskikh|Lela Minadze|12|Anastasios Mandanas|Despoina Kantzoglou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:10|21|Nikita Lemeshko|Anastasia Semyonova|7|Martin Gluhchev|Gergana Pavlova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:10|21|Nikita Lemeshko|Anastasia Semyonova|6|Martin Gluhchev|Gergana Pavlova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:39|17|Philip Seerup|Ditte Soby Hansen|21|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:39|21|Philip Seerup|Ditte Soby Hansen|15|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:39|21|Philip Seerup|Ditte Soby Hansen|11|Emre Comert|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:20|21|Ivan Panev|Maria Delcheva|10|Mehmet Ozturk|Aysin Yesil|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:20|21|Ivan Panev|Maria Delcheva|15|Mehmet Ozturk|Aysin Yesil|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:16|21|Kubilay Sadi|Yaren Dolcu|11|May Bar Netzer|Klil Hochberg|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:16|21|Kubilay Sadi|Yaren Dolcu|7|May Bar Netzer|Klil Hochberg|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816||Walkover Win|Emre Sonmez|none|Walkover Loss|Dimitar Yanakiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:45|21|Thomas Baures|none|19|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:45|14|Thomas Baures|none|21|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:45|22|Thomas Baures|none|20|Martin Kolev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:22|21|Okan Gultekin|none|8|Iliyan Stoynov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:22|21|Okan Gultekin|none|12|Iliyan Stoynov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Oktay Aydin|none|7|Yoan Gargov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Oktay Aydin|none|11|Yoan Gargov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:10|21|Mehmet Capar|none|8|Georgi Acinov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:10|21|Mehmet Capar|none|1|Georgi Acinov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816||Walkover Win|Martin Petkov|none|Walkover Loss|Bugrahan Perk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Metin Pehlivan|none|18|Tihomir Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Metin Pehlivan|none|11|Tihomir Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:24|21|Antonios Topoligkas|none|16|Martin Gluhchev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:24|21|Antonios Topoligkas|none|15|Martin Gluhchev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:43|22|Emre Comert|none|24|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:43|21|Emre Comert|none|14|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:43|21|Emre Comert|none|17|Peter Roenn Stensaeth|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Ivan Panev|none|13|Itamar Degani|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Ivan Panev|none|12|Itamar Degani|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Nikita Lemeshko|none|7|Cvetomir Stoyanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Nikita Lemeshko|none|10|Cvetomir Stoyanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|12|Venediktov Ilya|none|21|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|21|Venediktov Ilya|none|19|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|21|Venediktov Ilya|none|18|Kubilay Sadi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:21|21|May Bar Netzer|none|10|Clément Werkmeister|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:21|23|May Bar Netzer|none|21|Clément Werkmeister|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:23|21|Martin Tzvetkov|none|16|Ibrahim Eksi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:23|21|Martin Tzvetkov|none|18|Ibrahim Eksi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Alex Popov|none|9|Tom Bar David|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Alex Popov|none|10|Tom Bar David|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Nikita Fedotovskikh|none|10|Yanko Hadzhiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Nikita Fedotovskikh|none|14|Yanko Hadzhiev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Daniel Nikolov|none|8|Baran Yuksel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Daniel Nikolov|none|12|Baran Yuksel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Ali Bugra Akdogan|none|17|Arseniy Tarasov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Ali Bugra Akdogan|none|8|Arseniy Tarasov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Mehmet Ozturk|none|9|Samuil Ivanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Mehmet Ozturk|none|14|Samuil Ivanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|21|Torjus Flaatten|none|9|Nathan Laemmel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|21|Torjus Flaatten|none|12|Nathan Laemmel|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:12|21|Yazgan Calisir|none|7|Igor Minaev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:12|21|Yazgan Calisir|none|8|Igor Minaev|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:37|21|Yavor Yankov|none|17|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:37|14|Yavor Yankov|none|21|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:37|21|Yavor Yankov|none|12|Anastasios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|21|Marc Laporte|none|15|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|19|Marc Laporte|none|21|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|21|Marc Laporte|none|14|Victor Kokhanov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:46|22|Buse Ceylan|none|20|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:46|17|Buse Ceylan|none|21|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:46|21|Buse Ceylan|none|16|Lela Minadze|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Anastasiia Sharapova|none|11|Kalina Spasova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Anastasiia Sharapova|none|13|Kalina Spasova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Petra Polanc|none|15|Hristomira Popovska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Petra Polanc|none|15|Hristomira Popovska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Ventsislava Sakadjiiska|none|18|Merve Demir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Ventsislava Sakadjiiska|none|16|Merve Demir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|17|Maria Delcheva|none|21|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|21|Maria Delcheva|none|15|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|21|Maria Delcheva|none|16|Bengisu Ercetin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Katia Normand|none|5|Despoina Kantzoglou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:18|21|Katia Normand|none|3|Despoina Kantzoglou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:14|21|Stine Susan Küspert|none|13|Gergana Pavlova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:14|21|Stine Susan Küspert|none|15|Gergana Pavlova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Luka Milic|none|5|Dimitrios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Luka Milic|none|11|Dimitrios Mandanas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:19|21|Torjus Flaatten|Peter Roenn Stensaeth|16|Victor Kokhanov|Nikita Lemeshko|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:19|21|Torjus Flaatten|Peter Roenn Stensaeth|18|Victor Kokhanov|Nikita Lemeshko|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:30|21|Nathan Laemmel|Marc Laporte|16|Alex Popov|Iliyan Stoynov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:30|21|Nathan Laemmel|Marc Laporte|14|Alex Popov|Iliyan Stoynov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816||Walkover Win|Yoan Gargov|Yanko Hadzhiev|Walkover Loss|Ibrahim Eksi|Bugrahan Perk|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:46|20|Lela Minadze|Anastasiia Sharapova|22|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:46|21|Lela Minadze|Anastasiia Sharapova|15|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:46|21|Lela Minadze|Anastasiia Sharapova|17|Buse Ceylan|Emine Demirtas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:30|21|Merve Demir|Basak Kilic|16|Hristomira Popovska|Kalina Spasova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:30|21|Merve Demir|Basak Kilic|17|Hristomira Popovska|Kalina Spasova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:33|17|Ali Bugra Akdogan|Okan Gultekin|21|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:33|23|Ali Bugra Akdogan|Okan Gultekin|21|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:33|21|Ali Bugra Akdogan|Okan Gultekin|19|Nikita Fedotovskikh|Venediktov Ilya|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:20|21|Emre Comert|Baran Yuksel|9|Tom Bar David|Samuil Ivanov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:20|21|Emre Comert|Baran Yuksel|8|Tom Bar David|Samuil Ivanov|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:22|23|Martin Petkov|Tihomir Petkov|21|Anastasios Mandanas|Dimitrios Mandanas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:22|21|Martin Petkov|Tihomir Petkov|4|Anastasios Mandanas|Dimitrios Mandanas|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:20|21|Thomas Baures|Gregor Dunikowski|4|Georgi Acinov|Martin Gluhchev|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:20|21|Thomas Baures|Gregor Dunikowski|5|Georgi Acinov|Martin Gluhchev|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:15|21|Daniel Nikolov|Ivan Panev|12|Yazgan Calisir|Metin Pehlivan|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:15|21|Daniel Nikolov|Ivan Panev|13|Yazgan Calisir|Metin Pehlivan|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:24|21|Mehmet Capar|Emre Sonmez|14|May Bar Netzer|Itamar Degani|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:24|21|Mehmet Capar|Emre Sonmez|17|May Bar Netzer|Itamar Degani|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:25|21|Verlaine Faulmann|Katia Normand|16|Ema Cizelj|Petra Polanc|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:25|21|Verlaine Faulmann|Katia Normand|14|Ema Cizelj|Petra Polanc|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:23|21|Nastja Stovanje|none|13|Aristea Apostolidou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:23|21|Nastja Stovanje|none|15|Aristea Apostolidou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Melih Turgut |Fatma Nur Yavuz|16|Victor Kokhanov|Anastasiia Sharapova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:20|21|Melih Turgut |Fatma Nur Yavuz|12|Victor Kokhanov|Anastasiia Sharapova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:30|22|Ali Bugra Akdogan|Basak Kilic|20|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:30|17|Ali Bugra Akdogan|Basak Kilic|21|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:30|21|Ali Bugra Akdogan|Basak Kilic|15|Venediktov Ilya|Yulia Vasilyeva|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:45|24|Marc Laporte |Joanna Chaube|26|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:45|21|Marc Laporte |Joanna Chaube|13|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:45|21|Marc Laporte |Joanna Chaube|12|Martin Cerkovnik|Iza Salehar|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:25|21|Iliyan Stoynov|Hristomira Popovska|12|Antonios Topoligkas|Ioanna Karapetridou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:25|21|Iliyan Stoynov|Hristomira Popovska|18|Antonios Topoligkas|Ioanna Karapetridou|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:28|18|Nikita Fedotovskikh|Lela Minadze|21|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:28|21|Nikita Fedotovskikh|Lela Minadze|14|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:28|21|Nikita Fedotovskikh|Lela Minadze|13|Nikita Lemeshko|Anastasia Semyonova|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:40|21|Philip Seerup|Ditte Soby Hansen|16|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:40|14|Philip Seerup|Ditte Soby Hansen|21|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:40|21|Philip Seerup|Ditte Soby Hansen|12|Miha Ivanic [4]|Nika Arih|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:22|21|Ivan Panev|Maria Delcheva|14|Jan Colin Völker|Stine Susan Küspert|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:22|21|Ivan Panev|Maria Delcheva|19|Jan Colin Völker|Stine Susan Küspert|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:15|21|Gregor Dunikowski |Delphine Delrue|12|Kubilay Sadi|Yaren Dolcu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:15|21|Gregor Dunikowski |Delphine Delrue|12|Kubilay Sadi|Yaren Dolcu|7676223E-05E5-44D7-A891-450D229A4951|doubles
+20150816|0:40|21|Thomas Baures|none|6|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|19|Thomas Baures|none|21|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|21|Thomas Baures|none|17|Ömer Altinkopru [4]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:12|21|Toma Junior Popov |none|12|Okan Gultekin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:12|21|Toma Junior Popov |none|13|Okan Gultekin|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:17|21|Oktay Aydin|none|12|Mehmet Capar|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:17|21|Oktay Aydin|none|12|Mehmet Capar|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Martin Cerkovnik |none|19|Martin Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Martin Cerkovnik |none|15|Martin Petkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:33|20|Metin Pehlivan|none|22|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:33|21|Metin Pehlivan|none|17|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:33|21|Metin Pehlivan|none|17|Martin Tzvetkov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Emre Sonmez|none|6|Antonios Topoligkas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Emre Sonmez|none|11|Antonios Topoligkas|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|21|Fethican Degirmenci |none|12|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|11|Fethican Degirmenci |none|21|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|21|Fethican Degirmenci |none|13|Emre Comert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|21|Venediktov Ilya|none|11|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|22|Venediktov Ilya|none|24|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:35|21|Venediktov Ilya|none|14|May Bar Netzer|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Ivan Panev|none|16|Nikita Lemeshko|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Ivan Panev|none|13|Nikita Lemeshko|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Melih Turgut |none|13|Alex Popov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Melih Turgut |none|10|Alex Popov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Daniel Nikolov|none|14|Nikita Fedotovskikh|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|24|Daniel Nikolov|none|22|Nikita Fedotovskikh|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Vincent Medina |none|7|Ali Bugra Akdogan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Vincent Medina |none|9|Ali Bugra Akdogan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:19|21|Miha Ivanic |none|14|Yazgan Calisir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:19|21|Miha Ivanic |none|15|Yazgan Calisir|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|21|Torjus Flaatten|none|12|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|23|Torjus Flaatten|none|25|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:28|21|Torjus Flaatten|none|8|Mehmet Ozturk|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:19|21|Marc Laporte|none|11|Luka Milic|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:19|21|Marc Laporte|none|11|Luka Milic|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Wolfgang Gnedt |none|5|Yavor Yankov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Wolfgang Gnedt |none|9|Yavor Yankov|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:27|21|Kader İnal |none|16|Nazlıcan Inci|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:27|21|Kader İnal |none|18|Nazlıcan Inci|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Busra Unlu|none|7|Lia Salehar [7]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Busra Unlu|none|19|Lia Salehar [7]|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Anastasia Semyonova|none|14|Petra Polanc|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Anastasia Semyonova|none|15|Petra Polanc|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Yaelle Hoyaux |none|7|Klil Hochberg|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Yaelle Hoyaux |none|8|Klil Hochberg|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Emine Demirtas|none|6|Ventsislava Sakadjiiska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Emine Demirtas|none|14|Ventsislava Sakadjiiska|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:17|21|Yaren Dolcu |none|11|Ema Cizelj|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:17|21|Yaren Dolcu |none|17|Ema Cizelj|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Maria Delcheva|none|8|Eirini Goygleri|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Maria Delcheva|none|6|Eirini Goygleri|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Basak Kilic|none|11|Nastja Stovanje|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:25|21|Basak Kilic|none|18|Nastja Stovanje|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:50|21|Iza Salehar|none|18|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:50|17|Iza Salehar|none|21|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:50|21|Iza Salehar|none|13|Stine Susan Küspert|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Verlaine Faulmann |none|6|Ioanna Karapetridou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Verlaine Faulmann |none|10|Ioanna Karapetridou|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Mihaela Neycheva|none|9|Anastasiia Sharapova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:20|21|Mihaela Neycheva|none|8|Anastasiia Sharapova|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Julie Dawall Jakobsen |none|3|Ekaterini Parisi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:15|21|Julie Dawall Jakobsen |none|8|Ekaterini Parisi|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Katia Normand|none|8|Imri Ashkenazy|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:16|21|Katia Normand|none|6|Imri Ashkenazy|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|19|Joanna Chaube |none|21|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Joanna Chaube |none|12|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:30|21|Joanna Chaube |none|11|Yulia Vasilyeva|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|18|Nika Arih|none|21|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|21|Nika Arih|none|9|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816|0:40|21|Nika Arih|none|13|Buse Ceylan|none|7676223E-05E5-44D7-A891-450D229A4951|singles
+20150816||Walkover Win|Aysin Yesil|none|Walkover Loss|Aliye Demirbag [2]|none|7676223E-05E5-44D7-A891-450D229A4951|singles

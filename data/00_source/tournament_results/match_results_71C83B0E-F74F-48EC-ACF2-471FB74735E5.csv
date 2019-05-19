@@ -1,0 +1,861 @@
+date|duration|p1_scores|p1a|p1b|p2_scores|p2a|p2b|tournament_id|type
+20161124|0:34|11|Alexander Æbeløe Christensen|none|6|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|9|Alexander Æbeløe Christensen|none|11|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|11|Alexander Æbeløe Christensen|none|7|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|11|Alexander Æbeløe Christensen|none|1|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Oliver Lee Nowak|none|5|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Oliver Lee Nowak|none|6|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Oliver Lee Nowak|none|8|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Frederik Æbleøe Christesen|none|8|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Frederik Æbleøe Christesen|none|6|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Frederik Æbleøe Christesen|none|3|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Qin Zheng |none|8|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Qin Zheng |none|6|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Qin Zheng |none|9|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|8|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|9|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|12|Jere Övermark|none|10|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|11|Jere Övermark|none|9|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|11|Jere Övermark|none|4|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|15|Milan Dratva|none|13|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Milan Dratva|none|5|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Milan Dratva|none|4|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124||Walkover Win|Philip Illum Klindt|none|Walkover Loss|Benedikt Schaller|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Mads Thøgersen|none|9|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:15|11|Mattias Wigardt|none|8|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:15|11|Mattias Wigardt|none|5|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:15|11|Mattias Wigardt|none|4|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Iiro Suomalainen|none|5|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Iiro Suomalainen|none|9|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Iiro Suomalainen|none|6|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124||Walkover Win|Maciej Poulakowski |none|Walkover Loss|Peter Roenn Stensaeth|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:45|7|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:45|8|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:45|11|Arto Lahtinen|none|9|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:45|12|Arto Lahtinen|none|10|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:45|11|Arto Lahtinen|none|4|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Petri Hautala|none|3|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Petri Hautala|none|5|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Petri Hautala|none|7|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Jeppe Schack|none|7|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|11|Rasmus Kæseler|none|13|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|11|Rasmus Kæseler|none|5|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Emil Langemark|none|9|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|7|Julius Von Pfaler|none|11|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|14|Julius Von Pfaler|none|12|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Hermansyah . |none|4|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Jeppe Bruun Christensen|none|13|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Jeppe Bruun Christensen|none|7|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Jeppe Bruun Christensen|none|5|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Jeppe Bruun Christensen|none|1|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Martin Bundgaard|none|2|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Martin Bundgaard|none|5|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|9|Martin Bundgaard|none|11|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Martin Bundgaard|none|4|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|6|Mathias Thyrri|none|11|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:31|11|Mathias Thyrri|none|5|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|11|Jesper Paul|none|7|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|12|Jesper Paul|none|10|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|11|Jesper Paul|none|5|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Marcin Nowak|none|5|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Marcin Nowak|none|4|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Marcin Nowak|none|9|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|12|Andreas Fleischer|none|10|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:27|11|Mihkel Laanes|none|4|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:27|8|Mihkel Laanes|none|11|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:27|15|Mihkel Laanes|none|14|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:27|11|Mihkel Laanes|none|8|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Emil Lauritzen|none|8|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|7|Emil Lauritzen|none|11|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Emil Lauritzen|none|6|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Emil Lauritzen|none|7|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Rasmus Rylander|none|5|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Rasmus Rylander|none|2|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Rasmus Rylander|none|6|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Sofie Nielsen|none|5|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Sofie Nielsen|none|3|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Sofie Nielsen|none|9|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|9|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|11|Hanna Karkaus|none|13|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|11|Hanna Karkaus|none|8|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|13|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:34|12|Hanna Karkaus|none|10|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Weronika Grudzina|none|9|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|12|Line Fleischer|none|10|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|13|Line Fleischer|none|11|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|11|Line Fleischer|none|6|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|7|Sia Emilie Berg|none|11|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:23|11|Sia Emilie Berg|none|5|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Qin Zheng |none|8|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|5|Milan Dratva|none|11|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Frederik Æbleøe Christesen|none|8|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Mika Kongas |none|6|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Mika Kongas |none|8|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|13|Mika Kongas |none|11|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Douglas Lidman |none|4|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|12|Mattias Wigardt|none|10|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Mattias Wigardt|none|6|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Mattias Wigardt|none|8|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Petri Hautala|none|8|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|4|Petri Hautala|none|11|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Petri Hautala|none|9|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Petri Hautala|none|7|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Rasmus Kæseler|none|9|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Rasmus Kæseler|none|7|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Rasmus Kæseler|none|4|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Hermansyah . |none|5|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Hermansyah . |none|7|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Hermansyah . |none|4|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Jeppe Bruun Christensen|none|8|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Jeppe Bruun Christensen|none|9|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Jeppe Bruun Christensen|none|3|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124||Walkover Win|Mathias Thyrri|none|Walkover Loss|Ernesto Velazquez [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|11|Jesper Paul|none|8|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|11|Jesper Paul|none|7|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|2|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:32|13|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|12|Andreas Fleischer|none|10|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Andreas Fleischer|none|9|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:19|11|Andreas Fleischer|none|5|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:40|8|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:40|11|Krzysztof Jakowczuk |none|9|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:40|13|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:40|5|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:40|11|Krzysztof Jakowczuk |none|7|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124||Walkover Loss|Heming Lin|Jan Pasanen|Walkover Win|Alexander Æbeløe Christensen|Frederik Æbleøe Christesen|71C83B0E-F74F-48EC-ACF2-471FB74735E5|doubles
+20161124|0:28|11|Monika Radovska|none|9|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:28|14|Monika Radovska|none|12|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:28|12|Monika Radovska|none|10|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124||Walkover Win|Elina Niiranen |none|Walkover Loss|Elin Svensson|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|13|Vytaute Fomkinaite |none|11|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Vytaute Fomkinaite |none|9|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:17|11|Vytaute Fomkinaite |none|6|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:15|11|Sofie Nielsen|none|5|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Hanna Karkaus|none|13|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|13|Hanna Karkaus|none|11|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Hanna Karkaus|none|5|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Hanna Karkaus|none|4|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Weronika Grudzina|none|7|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|7|Weronika Grudzina|none|11|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Weronika Grudzina|none|2|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|12|Weronika Grudzina|none|10|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Line Fleischer|none|6|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Sia Emilie Berg|none|4|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Sia Emilie Berg|none|5|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|12|Sia Emilie Berg|none|10|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:26|11|Mattias Wigardt|none|5|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:26|11|Mattias Wigardt|none|7|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:26|10|Mattias Wigardt|none|12|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:26|11|Mattias Wigardt|none|6|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Maciej Poulakowski |none|3|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Maciej Poulakowski |none|7|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|8|Maciej Poulakowski |none|11|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:30|11|Maciej Poulakowski |none|9|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:20|11|Hermansyah . |none|5|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:38|3|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:38|7|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:38|11|Jeppe Bruun Christensen|none|8|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|11|Qin Zheng |none|8|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|11|Qin Zheng |none|6|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:21|11|Qin Zheng |none|4|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|13|Mika Kongas |none|11|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Mika Kongas |none|9|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:24|11|Mika Kongas |none|3|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Jesper Paul|none|7|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Jesper Paul|none|6|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:18|11|Jesper Paul|none|5|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|13|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|7|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161124|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|11|Alexander Æbeløe Christensen|none|6|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|9|Alexander Æbeløe Christensen|none|11|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|11|Alexander Æbeløe Christensen|none|7|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|11|Alexander Æbeløe Christensen|none|1|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Oliver Lee Nowak|none|5|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Oliver Lee Nowak|none|6|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Oliver Lee Nowak|none|8|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Frederik Æbleøe Christesen|none|8|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Frederik Æbleøe Christesen|none|6|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Frederik Æbleøe Christesen|none|3|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Qin Zheng |none|8|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Qin Zheng |none|6|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Qin Zheng |none|9|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|8|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|9|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|12|Jere Övermark|none|10|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|11|Jere Övermark|none|9|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|11|Jere Övermark|none|4|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|15|Milan Dratva|none|13|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Milan Dratva|none|5|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Milan Dratva|none|4|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125||Walkover Win|Philip Illum Klindt|none|Walkover Loss|Benedikt Schaller|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Mads Thøgersen|none|9|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:15|11|Mattias Wigardt|none|8|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:15|11|Mattias Wigardt|none|5|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:15|11|Mattias Wigardt|none|4|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Iiro Suomalainen|none|5|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Iiro Suomalainen|none|9|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Iiro Suomalainen|none|6|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125||Walkover Win|Maciej Poulakowski |none|Walkover Loss|Peter Roenn Stensaeth|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:45|7|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:45|8|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:45|11|Arto Lahtinen|none|9|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:45|12|Arto Lahtinen|none|10|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:45|11|Arto Lahtinen|none|4|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Petri Hautala|none|3|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Petri Hautala|none|5|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Petri Hautala|none|7|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Jeppe Schack|none|7|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|11|Rasmus Kæseler|none|13|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|11|Rasmus Kæseler|none|5|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Emil Langemark|none|9|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|7|Julius Von Pfaler|none|11|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|14|Julius Von Pfaler|none|12|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Hermansyah . |none|4|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Jeppe Bruun Christensen|none|13|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Jeppe Bruun Christensen|none|7|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Jeppe Bruun Christensen|none|5|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Jeppe Bruun Christensen|none|1|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Martin Bundgaard|none|2|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Martin Bundgaard|none|5|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|9|Martin Bundgaard|none|11|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Martin Bundgaard|none|4|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|6|Mathias Thyrri|none|11|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:31|11|Mathias Thyrri|none|5|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|11|Jesper Paul|none|7|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|12|Jesper Paul|none|10|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|11|Jesper Paul|none|5|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Marcin Nowak|none|5|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Marcin Nowak|none|4|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Marcin Nowak|none|9|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|12|Andreas Fleischer|none|10|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:27|11|Mihkel Laanes|none|4|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:27|8|Mihkel Laanes|none|11|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:27|15|Mihkel Laanes|none|14|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:27|11|Mihkel Laanes|none|8|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Emil Lauritzen|none|8|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|7|Emil Lauritzen|none|11|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Emil Lauritzen|none|6|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Emil Lauritzen|none|7|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Rasmus Rylander|none|5|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Rasmus Rylander|none|2|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Rasmus Rylander|none|6|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Sofie Nielsen|none|5|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Sofie Nielsen|none|3|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Sofie Nielsen|none|9|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|9|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|11|Hanna Karkaus|none|13|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|11|Hanna Karkaus|none|8|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|13|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:34|12|Hanna Karkaus|none|10|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Weronika Grudzina|none|9|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|12|Line Fleischer|none|10|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|13|Line Fleischer|none|11|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|11|Line Fleischer|none|6|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|7|Sia Emilie Berg|none|11|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:23|11|Sia Emilie Berg|none|5|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Qin Zheng |none|8|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|5|Milan Dratva|none|11|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Frederik Æbleøe Christesen|none|8|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Mika Kongas |none|6|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Mika Kongas |none|8|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|13|Mika Kongas |none|11|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Douglas Lidman |none|4|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|12|Mattias Wigardt|none|10|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Mattias Wigardt|none|6|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Mattias Wigardt|none|8|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Petri Hautala|none|8|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|4|Petri Hautala|none|11|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Petri Hautala|none|9|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Petri Hautala|none|7|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Rasmus Kæseler|none|9|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Rasmus Kæseler|none|7|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Rasmus Kæseler|none|4|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Hermansyah . |none|5|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Hermansyah . |none|7|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Hermansyah . |none|4|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Jeppe Bruun Christensen|none|8|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Jeppe Bruun Christensen|none|9|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Jeppe Bruun Christensen|none|3|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125||Walkover Win|Mathias Thyrri|none|Walkover Loss|Ernesto Velazquez [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|11|Jesper Paul|none|8|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|11|Jesper Paul|none|7|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|2|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:32|13|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|12|Andreas Fleischer|none|10|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Andreas Fleischer|none|9|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:19|11|Andreas Fleischer|none|5|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:40|8|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:40|11|Krzysztof Jakowczuk |none|9|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:40|13|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:40|5|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:40|11|Krzysztof Jakowczuk |none|7|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125||Walkover Loss|Heming Lin|Jan Pasanen|Walkover Win|Alexander Æbeløe Christensen|Frederik Æbleøe Christesen|71C83B0E-F74F-48EC-ACF2-471FB74735E5|doubles
+20161125|0:28|11|Monika Radovska|none|9|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:28|14|Monika Radovska|none|12|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:28|12|Monika Radovska|none|10|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125||Walkover Win|Elina Niiranen |none|Walkover Loss|Elin Svensson|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|13|Vytaute Fomkinaite |none|11|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Vytaute Fomkinaite |none|9|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:17|11|Vytaute Fomkinaite |none|6|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:15|11|Sofie Nielsen|none|5|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Hanna Karkaus|none|13|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|13|Hanna Karkaus|none|11|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Hanna Karkaus|none|5|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Hanna Karkaus|none|4|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Weronika Grudzina|none|7|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|7|Weronika Grudzina|none|11|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Weronika Grudzina|none|2|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|12|Weronika Grudzina|none|10|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Line Fleischer|none|6|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Sia Emilie Berg|none|4|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Sia Emilie Berg|none|5|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|12|Sia Emilie Berg|none|10|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:26|11|Mattias Wigardt|none|5|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:26|11|Mattias Wigardt|none|7|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:26|10|Mattias Wigardt|none|12|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:26|11|Mattias Wigardt|none|6|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Maciej Poulakowski |none|3|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Maciej Poulakowski |none|7|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|8|Maciej Poulakowski |none|11|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:30|11|Maciej Poulakowski |none|9|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:20|11|Hermansyah . |none|5|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:38|3|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:38|7|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:38|11|Jeppe Bruun Christensen|none|8|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|11|Qin Zheng |none|8|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|11|Qin Zheng |none|6|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:21|11|Qin Zheng |none|4|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|13|Mika Kongas |none|11|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Mika Kongas |none|9|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:24|11|Mika Kongas |none|3|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Jesper Paul|none|7|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Jesper Paul|none|6|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:18|11|Jesper Paul|none|5|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|13|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|7|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161125|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|11|Alexander Æbeløe Christensen|none|6|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|9|Alexander Æbeløe Christensen|none|11|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|11|Alexander Æbeløe Christensen|none|7|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|11|Alexander Æbeløe Christensen|none|1|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Oliver Lee Nowak|none|5|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Oliver Lee Nowak|none|6|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Oliver Lee Nowak|none|8|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Frederik Æbleøe Christesen|none|8|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Frederik Æbleøe Christesen|none|6|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Frederik Æbleøe Christesen|none|3|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Qin Zheng |none|8|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Qin Zheng |none|6|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Qin Zheng |none|9|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|8|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|9|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|12|Jere Övermark|none|10|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|11|Jere Övermark|none|9|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|11|Jere Övermark|none|4|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|15|Milan Dratva|none|13|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Milan Dratva|none|5|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Milan Dratva|none|4|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126||Walkover Win|Philip Illum Klindt|none|Walkover Loss|Benedikt Schaller|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Mads Thøgersen|none|9|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:15|11|Mattias Wigardt|none|8|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:15|11|Mattias Wigardt|none|5|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:15|11|Mattias Wigardt|none|4|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Iiro Suomalainen|none|5|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Iiro Suomalainen|none|9|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Iiro Suomalainen|none|6|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126||Walkover Win|Maciej Poulakowski |none|Walkover Loss|Peter Roenn Stensaeth|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:45|7|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:45|8|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:45|11|Arto Lahtinen|none|9|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:45|12|Arto Lahtinen|none|10|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:45|11|Arto Lahtinen|none|4|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Petri Hautala|none|3|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Petri Hautala|none|5|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Petri Hautala|none|7|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Jeppe Schack|none|7|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|11|Rasmus Kæseler|none|13|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|11|Rasmus Kæseler|none|5|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Emil Langemark|none|9|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|7|Julius Von Pfaler|none|11|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|14|Julius Von Pfaler|none|12|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Hermansyah . |none|4|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Jeppe Bruun Christensen|none|13|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Jeppe Bruun Christensen|none|7|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Jeppe Bruun Christensen|none|5|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Jeppe Bruun Christensen|none|1|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Martin Bundgaard|none|2|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Martin Bundgaard|none|5|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|9|Martin Bundgaard|none|11|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Martin Bundgaard|none|4|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|6|Mathias Thyrri|none|11|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:31|11|Mathias Thyrri|none|5|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|11|Jesper Paul|none|7|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|12|Jesper Paul|none|10|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|11|Jesper Paul|none|5|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Marcin Nowak|none|5|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Marcin Nowak|none|4|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Marcin Nowak|none|9|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|12|Andreas Fleischer|none|10|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:27|11|Mihkel Laanes|none|4|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:27|8|Mihkel Laanes|none|11|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:27|15|Mihkel Laanes|none|14|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:27|11|Mihkel Laanes|none|8|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Emil Lauritzen|none|8|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|7|Emil Lauritzen|none|11|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Emil Lauritzen|none|6|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Emil Lauritzen|none|7|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Rasmus Rylander|none|5|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Rasmus Rylander|none|2|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Rasmus Rylander|none|6|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Sofie Nielsen|none|5|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Sofie Nielsen|none|3|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Sofie Nielsen|none|9|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|9|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|11|Hanna Karkaus|none|13|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|11|Hanna Karkaus|none|8|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|13|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:34|12|Hanna Karkaus|none|10|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Weronika Grudzina|none|9|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|12|Line Fleischer|none|10|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|13|Line Fleischer|none|11|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|11|Line Fleischer|none|6|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|7|Sia Emilie Berg|none|11|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:23|11|Sia Emilie Berg|none|5|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Qin Zheng |none|8|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|5|Milan Dratva|none|11|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Frederik Æbleøe Christesen|none|8|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Mika Kongas |none|6|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Mika Kongas |none|8|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|13|Mika Kongas |none|11|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Douglas Lidman |none|4|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|12|Mattias Wigardt|none|10|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Mattias Wigardt|none|6|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Mattias Wigardt|none|8|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Petri Hautala|none|8|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|4|Petri Hautala|none|11|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Petri Hautala|none|9|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Petri Hautala|none|7|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Rasmus Kæseler|none|9|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Rasmus Kæseler|none|7|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Rasmus Kæseler|none|4|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Hermansyah . |none|5|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Hermansyah . |none|7|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Hermansyah . |none|4|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Jeppe Bruun Christensen|none|8|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Jeppe Bruun Christensen|none|9|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Jeppe Bruun Christensen|none|3|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126||Walkover Win|Mathias Thyrri|none|Walkover Loss|Ernesto Velazquez [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|11|Jesper Paul|none|8|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|11|Jesper Paul|none|7|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|2|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:32|13|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|12|Andreas Fleischer|none|10|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Andreas Fleischer|none|9|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:19|11|Andreas Fleischer|none|5|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:40|8|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:40|11|Krzysztof Jakowczuk |none|9|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:40|13|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:40|5|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:40|11|Krzysztof Jakowczuk |none|7|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126||Walkover Loss|Heming Lin|Jan Pasanen|Walkover Win|Alexander Æbeløe Christensen|Frederik Æbleøe Christesen|71C83B0E-F74F-48EC-ACF2-471FB74735E5|doubles
+20161126|0:28|11|Monika Radovska|none|9|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:28|14|Monika Radovska|none|12|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:28|12|Monika Radovska|none|10|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126||Walkover Win|Elina Niiranen |none|Walkover Loss|Elin Svensson|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|13|Vytaute Fomkinaite |none|11|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Vytaute Fomkinaite |none|9|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:17|11|Vytaute Fomkinaite |none|6|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:15|11|Sofie Nielsen|none|5|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Hanna Karkaus|none|13|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|13|Hanna Karkaus|none|11|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Hanna Karkaus|none|5|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Hanna Karkaus|none|4|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Weronika Grudzina|none|7|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|7|Weronika Grudzina|none|11|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Weronika Grudzina|none|2|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|12|Weronika Grudzina|none|10|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Line Fleischer|none|6|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Sia Emilie Berg|none|4|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Sia Emilie Berg|none|5|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|12|Sia Emilie Berg|none|10|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:26|11|Mattias Wigardt|none|5|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:26|11|Mattias Wigardt|none|7|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:26|10|Mattias Wigardt|none|12|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:26|11|Mattias Wigardt|none|6|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Maciej Poulakowski |none|3|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Maciej Poulakowski |none|7|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|8|Maciej Poulakowski |none|11|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:30|11|Maciej Poulakowski |none|9|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:20|11|Hermansyah . |none|5|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:38|3|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:38|7|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:38|11|Jeppe Bruun Christensen|none|8|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|11|Qin Zheng |none|8|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|11|Qin Zheng |none|6|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:21|11|Qin Zheng |none|4|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|13|Mika Kongas |none|11|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Mika Kongas |none|9|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:24|11|Mika Kongas |none|3|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Jesper Paul|none|7|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Jesper Paul|none|6|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:18|11|Jesper Paul|none|5|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|13|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|7|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161126|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|11|Alexander Æbeløe Christensen|none|6|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|9|Alexander Æbeløe Christensen|none|11|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|11|Alexander Æbeløe Christensen|none|7|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|11|Alexander Æbeløe Christensen|none|1|Heming Lin|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Oliver Lee Nowak|none|5|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Oliver Lee Nowak|none|6|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Oliver Lee Nowak|none|8|Jan Pasanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Frederik Æbleøe Christesen|none|8|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Frederik Æbleøe Christesen|none|6|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Frederik Æbleøe Christesen|none|3|Pauli Saarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Qin Zheng |none|8|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Qin Zheng |none|6|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Qin Zheng |none|9|Mark Mohr Laursen Damgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|8|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|9|Jere Övermark|none|11|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|12|Jere Övermark|none|10|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|11|Jere Övermark|none|9|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|11|Jere Övermark|none|4|Marco Paredes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|15|Milan Dratva|none|13|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Milan Dratva|none|5|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Milan Dratva|none|4|Jorgen Rosenlund|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127||Walkover Win|Philip Illum Klindt|none|Walkover Loss|Benedikt Schaller|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Mads Thøgersen|none|8|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Mads Thøgersen|none|9|Anton Monnberg|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:15|11|Mattias Wigardt|none|8|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:15|11|Mattias Wigardt|none|5|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:15|11|Mattias Wigardt|none|4|Justus Kilpi|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Iiro Suomalainen|none|5|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Iiro Suomalainen|none|9|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Iiro Suomalainen|none|6|Frederik Dahl Rasmussen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127||Walkover Win|Maciej Poulakowski |none|Walkover Loss|Peter Roenn Stensaeth|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:45|7|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:45|8|Arto Lahtinen|none|11|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:45|11|Arto Lahtinen|none|9|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:45|12|Arto Lahtinen|none|10|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:45|11|Arto Lahtinen|none|4|Jesper De Waal|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Petri Hautala|none|3|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Petri Hautala|none|5|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Petri Hautala|none|7|Heiko Zoober|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Jeppe Schack|none|7|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|12|Jeppe Schack|none|10|Gustav Stromvall|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|11|Rasmus Kæseler|none|13|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|11|Rasmus Kæseler|none|7|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|11|Rasmus Kæseler|none|5|Richard Kuhl|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Emil Langemark|none|9|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Emil Langemark|none|6|Iiro Kokko|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Julius Von Pfaler|none|9|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|7|Julius Von Pfaler|none|11|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|14|Julius Von Pfaler|none|12|Oliver Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Hermansyah . |none|4|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Hermansyah . |none|7|Frederik Thomsen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Jeppe Bruun Christensen|none|13|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Jeppe Bruun Christensen|none|7|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Jeppe Bruun Christensen|none|5|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Jeppe Bruun Christensen|none|1|Viktor Aglinder|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Martin Bundgaard|none|2|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Martin Bundgaard|none|5|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|9|Martin Bundgaard|none|11|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Martin Bundgaard|none|4|Mikk Ounmaa|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|6|Mathias Thyrri|none|11|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|11|Mathias Thyrri|none|9|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:31|11|Mathias Thyrri|none|5|Eemi Seppala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|11|Jesper Paul|none|7|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|12|Jesper Paul|none|10|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|11|Jesper Paul|none|5|Galvez Rafael|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Marcin Nowak|none|5|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Marcin Nowak|none|4|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Marcin Nowak|none|9|Anton Häggblom|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Andreas Fleischer|none|7|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|12|Andreas Fleischer|none|10|Filip Budzel|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Morgan Lidman |none|6|Dzmitry Kuzmitski|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:27|11|Mihkel Laanes|none|4|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:27|8|Mihkel Laanes|none|11|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:27|15|Mihkel Laanes|none|14|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:27|11|Mihkel Laanes|none|8|Torjus Flaatten|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Emil Lauritzen|none|8|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|7|Emil Lauritzen|none|11|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Emil Lauritzen|none|6|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Emil Lauritzen|none|7|Sami Pajunen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Rasmus Rylander|none|5|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Rasmus Rylander|none|2|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Rasmus Rylander|none|6|Pekka Ryhanen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Sofie Nielsen|none|5|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Sofie Nielsen|none|3|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Sofie Nielsen|none|9|Heini Ihalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|9|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|11|Hanna Karkaus|none|13|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|11|Hanna Karkaus|none|8|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|13|Hanna Karkaus|none|11|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:34|12|Hanna Karkaus|none|10|Julia Bitsoukova|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Weronika Grudzina|none|9|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:16|11|Weronika Grudzina|none|5|Johanna Luostarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|12|Line Fleischer|none|10|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|13|Line Fleischer|none|11|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|11|Line Fleischer|none|6|Maija Krzywacki|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|7|Sia Emilie Berg|none|11|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Sia Emilie Berg|none|7|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:23|11|Sia Emilie Berg|none|5|Tuuli Harkonen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Qin Zheng |none|8|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Qin Zheng |none|9|Alexander Æbeløe Christensen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|5|Milan Dratva|none|11|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Milan Dratva|none|4|Jere Övermark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Frederik Æbleøe Christesen|none|9|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Frederik Æbleøe Christesen|none|8|Oliver Lee Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Mika Kongas |none|6|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Mika Kongas |none|8|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|13|Mika Kongas |none|11|Philip Illum Klindt|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Douglas Lidman |none|4|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Douglas Lidman |none|6|Iiro Suomalainen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|12|Mattias Wigardt|none|10|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Mattias Wigardt|none|6|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Mattias Wigardt|none|8|Mads Thøgersen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Maciej Poulakowski |none|6|Arto Lahtinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Petri Hautala|none|8|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|4|Petri Hautala|none|11|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Petri Hautala|none|9|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Petri Hautala|none|7|Jeppe Schack|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Rasmus Kæseler|none|9|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Rasmus Kæseler|none|7|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Rasmus Kæseler|none|4|Emil Langemark|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Hermansyah . |none|5|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Hermansyah . |none|7|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Hermansyah . |none|4|Julius Von Pfaler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Jeppe Bruun Christensen|none|8|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Jeppe Bruun Christensen|none|9|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Jeppe Bruun Christensen|none|3|Martin Bundgaard|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127||Walkover Win|Mathias Thyrri|none|Walkover Loss|Ernesto Velazquez [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|11|Jesper Paul|none|8|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|11|Jesper Paul|none|7|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|2|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:32|13|Jesper Paul|none|11|Marcin Nowak|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|12|Andreas Fleischer|none|10|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Andreas Fleischer|none|9|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:19|11|Andreas Fleischer|none|5|Morgan Lidman [5]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:14|11|Mihkel Laanes|none|5|Emil Lauritzen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:40|8|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:40|11|Krzysztof Jakowczuk |none|9|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:40|13|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:40|5|Krzysztof Jakowczuk |none|11|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:40|11|Krzysztof Jakowczuk |none|7|Rasmus Rylander|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127||Walkover Loss|Heming Lin|Jan Pasanen|Walkover Win|Alexander Æbeløe Christensen|Frederik Æbleøe Christesen|71C83B0E-F74F-48EC-ACF2-471FB74735E5|doubles
+20161127|0:28|11|Monika Radovska|none|9|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:28|14|Monika Radovska|none|12|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:28|12|Monika Radovska|none|10|Tereza Švábíková [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127||Walkover Win|Elina Niiranen |none|Walkover Loss|Elin Svensson|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|13|Vytaute Fomkinaite |none|11|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Vytaute Fomkinaite |none|9|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:17|11|Vytaute Fomkinaite |none|6|Anne Fuglsang|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:15|11|Sofie Nielsen|none|5|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:15|11|Sofie Nielsen|none|7|Jessica Jäntti|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Hanna Karkaus|none|13|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|13|Hanna Karkaus|none|11|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Hanna Karkaus|none|5|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Hanna Karkaus|none|4|Noora Ahola|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Weronika Grudzina|none|7|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|7|Weronika Grudzina|none|11|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Weronika Grudzina|none|2|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|12|Weronika Grudzina|none|10|Ashwathi Pillai|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Line Fleischer|none|6|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Line Fleischer|none|7|Pihla Lindberg [4]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Sia Emilie Berg|none|4|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Sia Emilie Berg|none|5|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|12|Sia Emilie Berg|none|10|Inalotta Suutarinen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:26|11|Mattias Wigardt|none|5|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:26|11|Mattias Wigardt|none|7|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:26|10|Mattias Wigardt|none|12|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:26|11|Mattias Wigardt|none|6|Douglas Lidman [1]|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Maciej Poulakowski |none|3|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Maciej Poulakowski |none|7|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|8|Maciej Poulakowski |none|11|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:30|11|Maciej Poulakowski |none|9|Petri Hautala|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Hermansyah . |none|6|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:20|11|Hermansyah . |none|5|Rasmus Kæseler|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:38|3|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:38|7|Jeppe Bruun Christensen|none|11|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:38|11|Jeppe Bruun Christensen|none|8|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:38|11|Jeppe Bruun Christensen|none|7|Mathias Thyrri|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|11|Qin Zheng |none|8|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|11|Qin Zheng |none|6|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:21|11|Qin Zheng |none|4|Milan Dratva|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|13|Mika Kongas |none|11|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Mika Kongas |none|9|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:24|11|Mika Kongas |none|3|Frederik Æbleøe Christesen|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Jesper Paul|none|7|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Jesper Paul|none|6|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:18|11|Jesper Paul|none|5|Andreas Fleischer|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|13|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|7|Krzysztof Jakowczuk |none|11|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
+20161127|0:25|11|Krzysztof Jakowczuk |none|6|Mihkel Laanes|none|71C83B0E-F74F-48EC-ACF2-471FB74735E5|singles
