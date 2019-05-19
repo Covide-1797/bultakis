@@ -194,6 +194,33 @@ def get_player_rank_details(player_slice, step, rank_date):
                  'pid': step_id}
     return step_list
 
+
+def get_doubles_rank_details(player_slice, step, rank_date):
+    player_split = player_slice.find_all('td')
+    team_rank = player_split[0].text
+    team_country = []
+    for i in player_split[3].find_all('p'):
+        team_country.append(i.text)
+    team_names = player_split[4].find_all('a')
+    p1_name = team_names[0].text
+    p1_id = re.findall('player=(.*)">', str(team_names[0]))
+    p1_country = team_country[0]
+    p2_name = team_names[1].text
+    p2_id = re.findall('player=(.*)">', str(team_names[0]))
+    p2_country = team_country[1]
+    
+    step_list = {'week': step,
+                 'date': rank_date,
+                 'rank': team_rank,
+                 'p1_country': p1_country,
+                 'p1_name': p1_name,
+                 'p1_id': p1_id,
+                 'p2_country': p2_country,
+                 'p2_name': p2_name,
+                 'p2_id': p2_id}
+    return step_list
+
+
 def get_tournament_list(year_step, tournament_list):
     url_hit = 'https://bwf.tournamentsoftware.com/find/tournament?StartDate={}-01-01&EndDate={}-12-31&page=100'.format(year_step,year_step)
     driver = webdriver.Chrome(ChromeDriverManager().install())
